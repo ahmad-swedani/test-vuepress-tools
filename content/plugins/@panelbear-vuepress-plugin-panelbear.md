@@ -1,42 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/70450445?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: anthony@panelbear.com
-    name: Anthony N. Simon
-    username: anthonynsimon
-bugs: 'https://github.com/panelbearhq/vuepress-plugin-panelbear/issues'
+  avatar: https://avatars.githubusercontent.com/u/70450445?v=4
+  email: anthony@panelbear.com
+  name: Anthony N. Simon
+  url: null
+  username: anthonynsimon
+bugs: https://github.com/panelbearhq/vuepress-plugin-panelbear/issues
 category: plugin
 date: '2021-01-16T13:05:07.304Z'
 deprecated: false
 description: Official Panelbear Vuepress Plugin
-downloads: ~
-homepage: 'https://github.com/panelbearhq/vuepress-plugin-panelbear#readme'
+downloads: null
+homepage: https://github.com/panelbearhq/vuepress-plugin-panelbear#readme
 keywords:
-  - panelbear
-  - analytics
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
+- panelbear
+- analytics
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
 license: Apache License 2.0
-maintainers:
-  - email: anthony@panelbear.com
-    username: anthonynsimon
+maintainers: null
 name: '@panelbear/vuepress-plugin-panelbear'
-npm: 'https://www.npmjs.com/package/%40panelbear%2Fvuepress-plugin-panelbear'
+npm: https://www.npmjs.com/package/%40panelbear%2Fvuepress-plugin-panelbear
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: anthony@panelbear.com
-    username: anthonynsimon
-repository: 'https://github.com/panelbearhq/vuepress-plugin-panelbear'
+  avatar: null
+  email: anthony@panelbear.com
+  name: null
+  url: null
+  username: anthonynsimon
+repository: https://github.com/panelbearhq/vuepress-plugin-panelbear
 score: 0.41678392652791607
 stars: 1
 unstable: false

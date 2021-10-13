@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/17906558?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    name: vxhly
-    username: vxhly
-bugs: 'https://github.com/vxhly/vuepress-plugin-code-preview/issues'
+  avatar: https://avatars.githubusercontent.com/u/17906558?v=4
+  email: pengchengou@gmail.com
+  name: vxhly
+  url: null
+  username: vxhly
+bugs: https://github.com/vxhly/vuepress-plugin-code-preview/issues
 category: plugin
 date: '2020-08-21T06:31:43.508Z'
 deprecated: false
 description: A vuepress plugin for codesandbox embed code preview
-downloads: ~
-homepage: 'https://github.com/vxhly/vuepress-plugin-code-preview#readme'
+downloads: null
+homepage: https://github.com/vxhly/vuepress-plugin-code-preview#readme
 keywords:
-  - vuepress
-  - plugin
-  - codesandbox
-  - code-preview
+- vuepress
+- plugin
+- codesandbox
+- code-preview
 license: Other
-maintainers:
-  - email: pengchengou@gmail.com
-    username: vxhly
+maintainers: null
 name: vuepress-plugin-code-preview
-npm: 'https://www.npmjs.com/package/vuepress-plugin-code-preview'
+npm: https://www.npmjs.com/package/vuepress-plugin-code-preview
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    username: vxhly
-repository: 'https://github.com/vxhly/vuepress-plugin-code-preview'
+  avatar: null
+  email: pengchengou@gmail.com
+  name: null
+  url: null
+  username: vxhly
+repository: https://github.com/vxhly/vuepress-plugin-code-preview
 score: 0.435013063485734
 stars: 1
 unstable: false

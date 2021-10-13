@@ -1,39 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/55663384?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: caleb@getnacelle.com
-    name: Caleb Bodtorf
-bugs: 'https://github.com/getnacelle/vuepress-plugin-github-markdown/issues'
+  avatar: https://avatars.githubusercontent.com/u/55663384?v=4
+  email: caleb@getnacelle.com
+  name: Caleb Bodtorf
+  url: null
+  username: getnacelle
+bugs: https://github.com/getnacelle/vuepress-plugin-github-markdown/issues
 category: plugin
 date: '2020-06-24T22:43:57.446Z'
 deprecated: false
 description: VuePress plugin for importing markdown files from Github
-downloads: ~
-homepage: 'https://github.com/getnacelle/vuepress-plugin-github-markdown#readme'
+downloads: null
+homepage: https://github.com/getnacelle/vuepress-plugin-github-markdown#readme
 keywords:
-  - github
-  - markdown
-  - plugin
-  - vuepress
+- github
+- markdown
+- plugin
+- vuepress
 license: MIT License
-maintainers:
-  - email: cbodtorf@gmail.com
-    username: cbodtorf
+maintainers: null
 name: vuepress-plugin-github-markdown
-npm: 'https://www.npmjs.com/package/vuepress-plugin-github-markdown'
+npm: https://www.npmjs.com/package/vuepress-plugin-github-markdown
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: cbodtorf@gmail.com
-    username: cbodtorf
-repository: 'https://github.com/getnacelle/vuepress-plugin-github-markdown'
+  avatar: null
+  email: cbodtorf@gmail.com
+  name: null
+  url: null
+  username: cbodtorf
+repository: https://github.com/getnacelle/vuepress-plugin-github-markdown
 score: 0.363772250836542
 stars: 0
 unstable: false

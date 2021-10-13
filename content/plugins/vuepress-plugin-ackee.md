@@ -1,41 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8433587?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Peter Thaleikis
-    url: 'https://www.peterthaleikis.com'
-bugs: 'https://github.com/spekulatius/vuepress-plugin-ackee/issues'
+  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
+  email: null
+  name: Peter Thaleikis
+  url: https://www.peterthaleikis.com
+  username: spekulatius
+bugs: https://github.com/spekulatius/vuepress-plugin-ackee/issues
 category: plugin
 date: '2020-09-14T09:21:58.164Z'
 deprecated: false
 description: Ackee Analytics plugin for VuePress
-downloads: ~
-homepage: 'https://github.com/spekulatius/vuepress-plugin-ackee'
+downloads: null
+homepage: https://github.com/spekulatius/vuepress-plugin-ackee
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - analytics
-  - ackee
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
+- analytics
+- ackee
 license: MIT License
-maintainers:
-  - email: peter.thaleikis@gmail.com
-    username: spekulatius
+maintainers: null
 name: vuepress-plugin-ackee
-npm: 'https://www.npmjs.com/package/vuepress-plugin-ackee'
+npm: https://www.npmjs.com/package/vuepress-plugin-ackee
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: peter.thaleikis@gmail.com
-    username: spekulatius
-repository: 'https://github.com/spekulatius/vuepress-plugin-ackee'
+  avatar: null
+  email: peter.thaleikis@gmail.com
+  name: null
+  url: null
+  username: spekulatius
+repository: https://github.com/spekulatius/vuepress-plugin-ackee
 score: 0.38211137873931833
 stars: 6
 unstable: true

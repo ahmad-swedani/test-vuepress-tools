@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/4708070?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thomas@venturini.codes
-    name: Thomas Venturini
-    username: tjventurini
-bugs: 'https://github.com/tjventurini/vuepress-plugin-zengarden-posts/issues'
+  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
+  email: thomas@venturini.codes
+  name: Thomas Venturini
+  url: null
+  username: tjventurini
+bugs: https://github.com/tjventurini/vuepress-plugin-zengarden-posts/issues
 category: plugin
 date: '2020-05-06T16:10:40.575Z'
 deprecated: false
 description: Provides this.$posts for vuepress.
-downloads: ~
-homepage: 'https://github.com/tjventurini/vuepress-plugin-zengarden-posts#readme'
+downloads: null
+homepage: https://github.com/tjventurini/vuepress-plugin-zengarden-posts#readme
 keywords:
-  - vuepress
-  - vuepress
-  - plugin
-  - zengarden
-license: ~
-maintainers:
-  - email: thomas@venturini.codes
-    username: tjventurini
+- vuepress
+- vuepress
+- plugin
+- zengarden
+license: false
+maintainers: null
 name: vuepress-plugin-zengarden-posts
-npm: 'https://www.npmjs.com/package/vuepress-plugin-zengarden-posts'
+npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-posts
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thomas@venturini.codes
-    username: tjventurini
-repository: 'https://github.com/tjventurini/vuepress-plugin-zengarden-posts'
+  avatar: null
+  email: thomas@venturini.codes
+  name: null
+  url: null
+  username: tjventurini
+repository: https://github.com/tjventurini/vuepress-plugin-zengarden-posts
 score: 0.3479392008114699
 stars: 0
 unstable: false

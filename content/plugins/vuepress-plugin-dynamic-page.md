@@ -1,34 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8385448?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: HighCWu
-bugs: 'https://github.com/HighCWu/vuepress-plugin-dynamic-page/issues'
+  avatar: https://avatars.githubusercontent.com/u/8385448?v=4
+  email: null
+  name: HighCWu
+  url: null
+  username: HighCWu
+bugs: https://github.com/HighCWu/vuepress-plugin-dynamic-page/issues
 category: plugin
 date: '2020-04-06T09:47:29.041Z'
 deprecated: false
 description: make your static vuepress site dynamic
-downloads: ~
-homepage: 'https://github.com/HighCWu/vuepress-plugin-dynamic-page#readme'
-keywords: ~
+downloads: null
+homepage: https://github.com/HighCWu/vuepress-plugin-dynamic-page#readme
+keywords: null
 license: MIT License
-maintainers:
-  - email: HighCWu@163.com
-    username: highcwu
+maintainers: null
 name: vuepress-plugin-dynamic-page
-npm: 'https://www.npmjs.com/package/vuepress-plugin-dynamic-page'
+npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-page
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: HighCWu@163.com
-    username: highcwu
-repository: 'https://github.com/HighCWu/vuepress-plugin-dynamic-page'
+  avatar: null
+  email: HighCWu@163.com
+  name: null
+  url: null
+  username: highcwu
+repository: https://github.com/HighCWu/vuepress-plugin-dynamic-page
 score: 0.3381592706671049
 stars: 0
 unstable: true

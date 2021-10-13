@@ -1,41 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8433587?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Peter Thaleikis
-    url: 'https://www.releasecandidate.dev'
-bugs: 'https://github.com/spekulatius/vuepress-plugin-adsense/issues'
+  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
+  email: null
+  name: Peter Thaleikis
+  url: https://www.releasecandidate.dev
+  username: spekulatius
+bugs: https://github.com/spekulatius/vuepress-plugin-adsense/issues
 category: plugin
 date: '2021-01-10T10:35:51.099Z'
 deprecated: false
 description: Google AdSense Plugin for VuePress
-downloads: ~
-homepage: 'https://github.com/spekulatius/vuepress-plugin-adsense'
+downloads: null
+homepage: https://github.com/spekulatius/vuepress-plugin-adsense
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - adsense
-  - monetization
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
+- adsense
+- monetization
 license: MIT License
-maintainers:
-  - email: peter.thaleikis@gmail.com
-    username: spekulatius
+maintainers: null
 name: vuepress-plugin-adsense
-npm: 'https://www.npmjs.com/package/vuepress-plugin-adsense'
+npm: https://www.npmjs.com/package/vuepress-plugin-adsense
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: peter.thaleikis@gmail.com
-    username: spekulatius
-repository: 'https://github.com/spekulatius/vuepress-plugin-adsense'
+  avatar: null
+  email: peter.thaleikis@gmail.com
+  name: null
+  url: null
+  username: spekulatius
+repository: https://github.com/spekulatius/vuepress-plugin-adsense
 score: 0.3867113542631547
 stars: 0
 unstable: true

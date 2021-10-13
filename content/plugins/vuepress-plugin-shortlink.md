@@ -1,39 +1,34 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8779333?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: a little
-bugs: ~
+  avatar: https://avatars.githubusercontent.com/u/8779333?v=4
+  email: null
+  name: a little
+  url: null
+  username: AutreC
+bugs: null
 category: plugin
 date: '2020-11-15T16:21:39.380Z'
 deprecated: false
 description: short link for vuepress
-downloads: ~
-homepage: 'https://github.com/ioutio/vuepress-plugin-shortlink#readme'
+downloads: null
+homepage: https://github.com/ioutio/vuepress-plugin-shortlink#readme
 keywords:
-  - vuepress
-  - short
-  - link
-  - shortlink
-  - permalink
-license: ~
-maintainers:
-  - email: mo@autre.cn
-    username: ioutio
+- vuepress
+- short
+- link
+- shortlink
+- permalink
+license: false
+maintainers: null
 name: vuepress-plugin-shortlink
-npm: 'https://www.npmjs.com/package/vuepress-plugin-shortlink'
+npm: https://www.npmjs.com/package/vuepress-plugin-shortlink
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mo@autre.cn
-    username: ioutio
-repository: 'https://github.com/ioutio/vuepress-plugin-shortlink'
+  avatar: null
+  email: mo@autre.cn
+  name: null
+  url: null
+  username: ioutio
+repository: https://github.com/ioutio/vuepress-plugin-shortlink
 score: 0.42655342836939214
 stars: 0
 unstable: false

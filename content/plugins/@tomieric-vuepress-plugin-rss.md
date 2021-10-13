@@ -1,34 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/2812163?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SangND
-bugs: 'https://github.com/tomieric/vuepress-plugin-rss/issues'
+  avatar: https://avatars.githubusercontent.com/u/2812163?v=4
+  email: null
+  name: SangND
+  url: null
+  username: tomieric
+bugs: https://github.com/tomieric/vuepress-plugin-rss/issues
 category: plugin
 date: '2018-12-19T13:52:52.101Z'
 deprecated: false
 description: '> RSS Plugin for Vuepress'
-downloads: ~
-homepage: 'https://github.com/tomieric/vuepress-plugin-rss#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: tomieric@gmail.com
-    username: tomieric
+downloads: null
+homepage: https://github.com/tomieric/vuepress-plugin-rss#readme
+keywords: null
+license: false
+maintainers: null
 name: '@tomieric/vuepress-plugin-rss'
-npm: 'https://www.npmjs.com/package/%40tomieric%2Fvuepress-plugin-rss'
+npm: https://www.npmjs.com/package/%40tomieric%2Fvuepress-plugin-rss
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tomieric@gmail.com
-    username: tomieric
-repository: 'https://github.com/tomieric/vuepress-plugin-rss'
+  avatar: null
+  email: tomieric@gmail.com
+  name: null
+  url: null
+  username: tomieric
+repository: https://github.com/tomieric/vuepress-plugin-rss
 score: 0.322289616460148
 stars: 0
 unstable: false

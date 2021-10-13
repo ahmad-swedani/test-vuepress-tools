@@ -1,40 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/49757965?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Feng L.H.
-bugs: 'https://github.com/zpfz/vuepress-plugin-homebadge/issues'
+  avatar: https://avatars.githubusercontent.com/u/49757965?v=4
+  email: null
+  name: Feng L.H.
+  url: null
+  username: zpfz
+bugs: https://github.com/zpfz/vuepress-plugin-homebadge/issues
 category: plugin
 date: '2020-03-28T09:40:15.416Z'
 deprecated: false
 description: A homepage badge plugin for AntDocs theme.
-downloads: ~
-homepage: 'https://github.com/zpfz/vuepress-plugin-homebadge'
+downloads: null
+homepage: https://github.com/zpfz/vuepress-plugin-homebadge
 keywords:
-  - homepage
-  - generator
-  - vue
-  - vuepress
-  - badge
-  - homebadge
+- homepage
+- generator
+- vue
+- vuepress
+- badge
+- homebadge
 license: MIT License
-maintainers:
-  - email: zpfz@seeyoz.cn
-    username: seeyoz
+maintainers: null
 name: vuepress-plugin-homebadge
-npm: 'https://www.npmjs.com/package/vuepress-plugin-homebadge'
+npm: https://www.npmjs.com/package/vuepress-plugin-homebadge
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zpfz@seeyoz.cn
-    username: seeyoz
-repository: 'https://github.com/zpfz/vuepress-plugin-homebadge'
+  avatar: null
+  email: zpfz@seeyoz.cn
+  name: null
+  url: null
+  username: seeyoz
+repository: https://github.com/zpfz/vuepress-plugin-homebadge
 score: 0.3239245969741852
 stars: 0
 unstable: true

@@ -1,41 +1,34 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/15811268?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: scope.wu@gmail.com
-    name: scope.wu
-bugs: 'https://github.com/scopewu/vuepress/issues'
+  avatar: https://avatars.githubusercontent.com/u/15811268?v=4
+  email: scope.wu@gmail.com
+  name: scope.wu
+  url: null
+  username: scopewu
+bugs: https://github.com/scopewu/vuepress/issues
 category: plugin
 date: '2019-06-16T13:45:32.024Z'
 deprecated: false
 description: google global site tag(gtag.js) plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/scopewu/vuepress/tree/master/packages/vuepress-plugin-google-gtag
+downloads: null
+homepage: https://github.com/scopewu/vuepress/tree/master/packages/vuepress-plugin-google-gtag
 keywords:
-  - vue
-  - vuepress
-  - generator
-  - google gtag
-  - gtag
+- vue
+- vuepress
+- generator
+- google gtag
+- gtag
 license: MIT License
-maintainers:
-  - email: scopewu@gmail.com
-    username: iiiwwj
+maintainers: null
 name: vuepress-plugin-google-gtag
-npm: 'https://www.npmjs.com/package/vuepress-plugin-google-gtag'
+npm: https://www.npmjs.com/package/vuepress-plugin-google-gtag
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: scopewu@gmail.com
-    username: scopewu
-repository: 'https://github.com/scopewu/vuepress'
+  avatar: null
+  email: scopewu@gmail.com
+  name: null
+  url: null
+  username: scopewu
+repository: https://github.com/scopewu/vuepress
 score: 0.3399529751469925
 stars: 1
 unstable: false

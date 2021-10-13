@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/17308208?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: saltbo@foxmail.com
-    name: saltbo
-    username: saltbo
-bugs: 'https://github.com/saltbo/vuepress-plugin-disqusjs/issues'
+  avatar: https://avatars.githubusercontent.com/u/17308208?v=4
+  email: saltbo@foxmail.com
+  name: saltbo
+  url: null
+  username: saltbo
+bugs: https://github.com/saltbo/vuepress-plugin-disqusjs/issues
 category: plugin
 date: '2020-05-20T13:33:48.223Z'
 deprecated: false
-description: "# Vuepress Plugin Disqusjs \U0001F50C Register a global `<Disqusjs />` component to add to your layouts."
-downloads: ~
-homepage: 'https://github.com/saltbo/vuepress-plugin-disqusjs#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: saltbo@foxmail.com
-    username: saltbo
+description: "# Vuepress Plugin Disqusjs \U0001F50C Register a global `<Disqusjs />`\
+  \ component to add to your layouts."
+downloads: null
+homepage: https://github.com/saltbo/vuepress-plugin-disqusjs#readme
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-disqusjs
-npm: 'https://www.npmjs.com/package/vuepress-plugin-disqusjs'
+npm: https://www.npmjs.com/package/vuepress-plugin-disqusjs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: saltbo@foxmail.com
-    username: saltbo
-repository: 'https://github.com/saltbo/vuepress-plugin-disqusjs'
+  avatar: null
+  email: saltbo@foxmail.com
+  name: null
+  url: null
+  username: saltbo
+repository: https://github.com/saltbo/vuepress-plugin-disqusjs
 score: 0.40689523139804795
 stars: 0
 unstable: false

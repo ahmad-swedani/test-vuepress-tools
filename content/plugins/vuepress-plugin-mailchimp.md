@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/38957202?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    name: Billyyyyy3320
-    username: newsbielt703
-bugs: 'https://github.com/newsbielt703/vuepress-plugin-mailchimp/issues'
+  avatar: https://avatars.githubusercontent.com/u/38957202?v=4
+  email: newsbielt703@gmail.com
+  name: Billyyyyy3320
+  url: null
+  username: newsbielt703
+bugs: https://github.com/newsbielt703/vuepress-plugin-mailchimp/issues
 category: plugin
 date: '2020-03-27T07:03:24.140Z'
 deprecated: false
 description: A VuePress plugin for Mailchimp subscriptions
-downloads: ~
-homepage: 'https://github.com/newsbielt703/vuepress-plugin-mailchimp#readme'
+downloads: null
+homepage: https://github.com/newsbielt703/vuepress-plugin-mailchimp#readme
 keywords:
-  - mailchimp
-  - newsletter
-  - plugin
-  - vuepress
+- mailchimp
+- newsletter
+- plugin
+- vuepress
 license: MIT License
-maintainers:
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
+maintainers: null
 name: vuepress-plugin-mailchimp
-npm: 'https://www.npmjs.com/package/vuepress-plugin-mailchimp'
+npm: https://www.npmjs.com/package/vuepress-plugin-mailchimp
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    username: newsbielt703
-repository: 'https://github.com/newsbielt703/vuepress-plugin-mailchimp'
+  avatar: null
+  email: newsbielt703@gmail.com
+  name: null
+  url: null
+  username: newsbielt703
+repository: https://github.com/newsbielt703/vuepress-plugin-mailchimp
 score: 0.41131465061590455
 stars: 6
 unstable: false

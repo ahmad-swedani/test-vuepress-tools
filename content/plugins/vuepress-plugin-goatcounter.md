@@ -1,39 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/49332985?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: srcrszhu@gmail.com
-    name: srcrs
-bugs: 'https://github.com/srcrs/vuepress-plugin-goatcounter/issues'
+  avatar: https://avatars.githubusercontent.com/u/49332985?v=4
+  email: srcrszhu@gmail.com
+  name: srcrs
+  url: null
+  username: srcrs
+bugs: https://github.com/srcrs/vuepress-plugin-goatcounter/issues
 category: plugin
 date: '2020-06-30T09:32:18.032Z'
 deprecated: false
 description: goatcounter plugin for vuepress
-downloads: ~
-homepage: 'https://github.com/srcrs/vuepress-plugin-goatcounter'
+downloads: null
+homepage: https://github.com/srcrs/vuepress-plugin-goatcounter
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: srcrszhu@Gmail.com
-    username: srcrs
+maintainers: null
 name: vuepress-plugin-goatcounter
-npm: 'https://www.npmjs.com/package/vuepress-plugin-goatcounter'
+npm: https://www.npmjs.com/package/vuepress-plugin-goatcounter
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: srcrszhu@Gmail.com
-    username: srcrs
-repository: 'https://github.com/srcrs/vuepress-plugin-goatcounter'
+  avatar: null
+  email: srcrszhu@Gmail.com
+  name: null
+  url: null
+  username: srcrs
+repository: https://github.com/srcrs/vuepress-plugin-goatcounter
 score: 0.39662856320754036
 stars: 1
 unstable: false

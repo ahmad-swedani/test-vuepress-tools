@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/78192711?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: 'https://mrhope.site'
-    username: mister-hope
-bugs: 'https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues'
+  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
+bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-08-26T08:16:19.295Z'
 deprecated: false
 description: Add This plugin for vuepress
-downloads: ~
-homepage: 'https://vuepress-theme-hope.github.io/add-this/'
+downloads: null
+homepage: https://vuepress-theme-hope.github.io/add-this/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - add-this
-  - share
+- vuepress-plugin
+- vuepress
+- add-this
+- share
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-add-this
-npm: 'https://www.npmjs.com/package/vuepress-plugin-add-this'
+npm: https://www.npmjs.com/package/vuepress-plugin-add-this
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
-repository: 'https://github.com/vuepress-theme-hope/vuepress-theme-hope'
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
+repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6806476151267558
 stars: 269
 unstable: false

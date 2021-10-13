@@ -1,43 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/246901?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: webmasterish@gmail.com
-    name: webmasterish
-    url: 'https://webmasterish.com'
-    username: webmasterish
-bugs: 'https://github.com/webmasterish/vuepress-plugin-minimal-analytics/issues'
+  avatar: https://avatars.githubusercontent.com/u/246901?v=4
+  email: webmasterish@gmail.com
+  name: webmasterish
+  url: https://webmasterish.com
+  username: webmasterish
+bugs: https://github.com/webmasterish/vuepress-plugin-minimal-analytics/issues
 category: plugin
 date: '2019-01-22T06:17:47.566Z'
 deprecated: false
 description: Minimal Google Analytics plugin for VuePress
-downloads: ~
-homepage: 'https://github.com/webmasterish/vuepress-plugin-minimal-analytics'
+downloads: null
+homepage: https://github.com/webmasterish/vuepress-plugin-minimal-analytics
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - analytics
-  - google-analytics
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
+- analytics
+- google-analytics
 license: MIT License
-maintainers:
-  - email: webmasterish@gmail.com
-    username: webmasterish
+maintainers: null
 name: vuepress-plugin-minimal-analytics
-npm: 'https://www.npmjs.com/package/vuepress-plugin-minimal-analytics'
+npm: https://www.npmjs.com/package/vuepress-plugin-minimal-analytics
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: webmasterish@gmail.com
-    username: webmasterish
-repository: 'https://github.com/webmasterish/vuepress-plugin-minimal-analytics'
+  avatar: null
+  email: webmasterish@gmail.com
+  name: null
+  url: null
+  username: webmasterish
+repository: https://github.com/webmasterish/vuepress-plugin-minimal-analytics
 score: 0.4199338672307133
 stars: 12
 unstable: true

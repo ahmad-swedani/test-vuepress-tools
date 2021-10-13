@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/106938?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chris@wwaves.co
-    name: Chris Waring
-    url: 'https://wwaves.co/'
-    username: cwaring
-bugs: 'https://github.com/cwaring/vuepress-plugin-chunkload-redirect/issues'
+  avatar: https://avatars.githubusercontent.com/u/106938?v=4
+  email: chris@wwaves.co
+  name: Chris Waring
+  url: https://wwaves.co/
+  username: cwaring
+bugs: https://github.com/cwaring/vuepress-plugin-chunkload-redirect/issues
 category: plugin
 date: '2021-04-16T10:56:14.860Z'
 deprecated: false
 description: Catch chunkload errors from a stale deploy and route to destination
-downloads: ~
-homepage: 'https://github.com/cwaring/vuepress-plugin-chunkload-redirect#readme'
+downloads: null
+homepage: https://github.com/cwaring/vuepress-plugin-chunkload-redirect#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
+- vuepress
+- vuepress-plugin
 license: MIT License
-maintainers:
-  - email: chris@wwaves.co
-    username: cwaring
+maintainers: null
 name: vuepress-plugin-chunkload-redirect
-npm: 'https://www.npmjs.com/package/vuepress-plugin-chunkload-redirect'
+npm: https://www.npmjs.com/package/vuepress-plugin-chunkload-redirect
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chris@wwaves.co
-    username: cwaring
-repository: 'https://github.com/cwaring/vuepress-plugin-chunkload-redirect'
+  avatar: null
+  email: chris@wwaves.co
+  name: null
+  url: null
+  username: cwaring
+repository: https://github.com/cwaring/vuepress-plugin-chunkload-redirect
 score: 0.5147498721134862
 stars: 1
 unstable: false

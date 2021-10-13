@@ -1,35 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/45715831?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: n@koehr.in
-    name: koehr
-bugs: 'https://github.com/nkoehring/vuepress-theme-vuejs-berlin/issues'
+  avatar: null
+  email: n@koehr.in
+  name: koehr
+  url: null
+  username: null
+bugs: https://github.com/nkoehring/vuepress-theme-vuejs-berlin/issues
 category: theme
 date: '2018-07-19T19:15:25.042Z'
 deprecated: false
 description: Theme for vuejs.berlin
-downloads: ~
-homepage: 'https://github.com/nkoehring/vuepress-theme-vuejs-berlin#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: norman.koehring@fromatob.com
-    username: koehr
+downloads: null
+homepage: https://github.com/nkoehring/vuepress-theme-vuejs-berlin#readme
+keywords: null
+license: null
+maintainers: null
 name: vuepress-theme-vuejs-berlin
-npm: 'https://www.npmjs.com/package/vuepress-theme-vuejs-berlin'
+npm: https://www.npmjs.com/package/vuepress-theme-vuejs-berlin
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: norman.koehring@fromatob.com
-    username: koehr
-repository: 'https://github.com/nkoehring/vuepress-theme-vuejs-berlin'
+  avatar: null
+  email: norman.koehring@fromatob.com
+  name: null
+  url: null
+  username: koehr
+repository: https://github.com/nkoehring/vuepress-theme-vuejs-berlin
 score: 0.2828595114588348
 stars: 0
 unstable: true
@@ -38,6 +32,3 @@ watchers: 0
 
 ---
 
-VuePress theme for https://vuejs.berlin
-
-See [vuepress guide](https://vuepress.vuejs.org/guide/custom-themes.html) for details.

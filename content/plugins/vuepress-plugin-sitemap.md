@@ -1,42 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/36023898?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ekoeryanto@gmail.com
-    name: Eko Eryanto
-    username: ekoeryanto
-bugs: 'https://github.com/ekoeryanto/vuepress-plugin-sitemap/issues'
+  avatar: https://avatars.githubusercontent.com/u/36023898?v=4
+  email: ekoeryanto@gmail.com
+  name: Eko Eryanto
+  url: null
+  username: ekoeryanto
+bugs: https://github.com/ekoeryanto/vuepress-plugin-sitemap/issues
 category: plugin
 date: '2019-11-08T16:24:36.308Z'
 deprecated: false
 description: Sitemap generator plugin for vuepress
-downloads: ~
-homepage: 'https://github.com/ekoeryanto/vuepress-plugin-sitemap#readme'
+downloads: null
+homepage: https://github.com/ekoeryanto/vuepress-plugin-sitemap#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - sitemap
-  - generator
+- documentation
+- vue
+- vuepress
+- vuepress-plugin
+- sitemap
+- generator
 license: MIT License
-maintainers:
-  - email: ekoeryanto@gmail.com
-    username: ekoeryanto
+maintainers: null
 name: vuepress-plugin-sitemap
-npm: 'https://www.npmjs.com/package/vuepress-plugin-sitemap'
+npm: https://www.npmjs.com/package/vuepress-plugin-sitemap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ekoeryanto@gmail.com
-    username: ekoeryanto
-repository: 'https://github.com/ekoeryanto/vuepress-plugin-sitemap'
+  avatar: null
+  email: ekoeryanto@gmail.com
+  name: null
+  url: null
+  username: ekoeryanto
+repository: https://github.com/ekoeryanto/vuepress-plugin-sitemap
 score: 0.28683493486306016
 stars: 84
 unstable: false

@@ -1,52 +1,38 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/11334289?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dgpgdev@gmail.com
-    name: Gauthier de Girodon Pralong
-    username: kronwald
-bugs: 'https://github.com/dgpgdev/vue-cli-plugin-vuepress/issues'
+  avatar: null
+  email: dgpgdev@gmail.com
+  name: Gauthier de Girodon Pralong
+  url: null
+  username: kronwald
+bugs: https://github.com/dgpgdev/vue-cli-plugin-vuepress/issues
 category: plugin
 date: '2018-10-05T10:32:16.254Z'
 deprecated: false
-description: !<tag:yaml.org,2002:js/undefined> ''
-downloads: ~
-homepage: 'https://github.com/dgpgdev/vue-cli-plugin-vuepress#readme'
+description: null
+downloads: null
+homepage: https://github.com/dgpgdev/vue-cli-plugin-vuepress#readme
 keywords:
-  - vuepress
-  - vue
-  - generator
-  - plugin
-license: MIT License
-maintainers:
-  - email: dgpgdev@gmail.com
-    username: kronwald
+- vuepress
+- vue
+- generator
+- plugin
+license: null
+maintainers: null
 name: vue-cli-plugin-vuepress
-npm: 'https://www.npmjs.com/package/vue-cli-plugin-vuepress'
+npm: https://www.npmjs.com/package/vue-cli-plugin-vuepress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dgpgdev@gmail.com
-    username: kronwald
-repository: 'https://github.com/dgpgdev/vue-cli-plugin-vuepress'
+  avatar: null
+  email: dgpgdev@gmail.com
+  name: null
+  url: null
+  username: kronwald
+repository: https://github.com/dgpgdev/vue-cli-plugin-vuepress
 score: 0.19209133037998338
-stars: 25
+stars: 0
 unstable: true
 version: 0.1.1
-watchers: 25
+watchers: 0
 
 ---
 
-# vue-cli-plugin-vuepress
-
-
-[documentation](https://dgpgdev.github.io/vue-cli-plugin-vuepress/)
-
-
-[vuepress website](https://vuepress.vuejs.org)

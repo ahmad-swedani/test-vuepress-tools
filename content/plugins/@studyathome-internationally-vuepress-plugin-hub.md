@@ -1,40 +1,30 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/54356406?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic@technikum-wien.at
-    name: Alija Sabic
-bugs: 'https://github.com/studyathome-internationally/hub.js/issues'
+  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
+  email: sabic@technikum-wien.at
+  name: Alija Sabic
+  url: null
+  username: studyathome-internationally
+bugs: https://github.com/studyathome-internationally/hub.js/issues
 category: plugin
 date: '2020-05-16T20:46:09.491Z'
 deprecated: false
-description: >-
-  Vuepress plugin for StudyATHome Internationally eLearning Sharing & Virtual
+description: Vuepress plugin for StudyATHome Internationally eLearning Sharing & Virtual
   Project Teams Hub
-downloads: ~
-homepage: 'https://github.com/studyathome-internationally/hub.js#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: sabic.alija@gmail.com
-    username: alija
-  - email: deinhofe@technikum-wien.at
-    username: madinaustria
+downloads: null
+homepage: https://github.com/studyathome-internationally/hub.js#readme
+keywords: null
+license: false
+maintainers: null
 name: '@studyathome-internationally/vuepress-plugin-hub'
-npm: >-
-  https://www.npmjs.com/package/%40studyathome-internationally%2Fvuepress-plugin-hub
+npm: https://www.npmjs.com/package/%40studyathome-internationally%2Fvuepress-plugin-hub
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic.alija@gmail.com
-    username: alija
-repository: 'https://github.com/studyathome-internationally/hub.js'
+  avatar: null
+  email: sabic.alija@gmail.com
+  name: null
+  url: null
+  username: alija
+repository: https://github.com/studyathome-internationally/hub.js
 score: 0.3345485227954147
 stars: 0
 unstable: true
@@ -43,4 +33,3 @@ watchers: 0
 
 ---
 
-undefined

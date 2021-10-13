@@ -1,42 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/48539483?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1700011071@pku.edu.cn
-    name: Shigma
-    username: shigma
-bugs: 'https://github.com/vuepress/vuepress-plugin-git-log/issues'
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: 1700011071@pku.edu.cn
+  name: Shigma
+  url: null
+  username: shigma
+bugs: https://github.com/vuepress/vuepress-plugin-git-log/issues
 category: plugin
 date: '2019-03-19T08:07:01.320Z'
 deprecated: false
 description: A VuePress plugin that integrates git logs into your page.
-downloads: ~
-homepage: 'https://github.com/vuepress/vuepress-plugin-git-log#readme'
+downloads: null
+homepage: https://github.com/vuepress/vuepress-plugin-git-log#readme
 keywords:
-  - vuepress
-  - plugin
-  - git
-  - git-log
+- vuepress
+- plugin
+- git
+- git-log
 license: MIT License
-maintainers:
-  - email: 1700011071@pku.edu.cn
-    username: shigma
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: vuepress-plugin-git-log
-npm: 'https://www.npmjs.com/package/vuepress-plugin-git-log'
+npm: https://www.npmjs.com/package/vuepress-plugin-git-log
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1700011071@pku.edu.cn
-    username: shigma
-repository: 'https://github.com/vuepress/vuepress-plugin-git-log'
+  avatar: null
+  email: 1700011071@pku.edu.cn
+  name: null
+  url: null
+  username: shigma
+repository: https://github.com/vuepress/vuepress-plugin-git-log
 score: 0.2546878164128257
 stars: 2
 unstable: false

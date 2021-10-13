@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/67640197?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Il Harper
-bugs: 'https://github.com/vbox-moe/vuepress-plugin-vbox/issues'
+  avatar: https://avatars.githubusercontent.com/u/67640197?v=4
+  email: null
+  name: Il Harper
+  url: null
+  username: vbox-moe
+bugs: https://github.com/vbox-moe/vuepress-plugin-vbox/issues
 category: plugin
 date: '2020-07-08T07:03:57.655Z'
 deprecated: false
 description: Plugin for VBox.
-downloads: ~
-homepage: 'https://github.com/vbox-moe/vuepress-plugin-vbox#readme'
+downloads: null
+homepage: https://github.com/vbox-moe/vuepress-plugin-vbox#readme
 keywords:
-  - vuepress
-  - vbox
-  - plugin
-license: ~
-maintainers:
-  - email: afanyiyu@hotmail.com
-    username: afanyiyu
+- vuepress
+- vbox
+- plugin
+license: false
+maintainers: null
 name: vuepress-plugin-vbox
-npm: 'https://www.npmjs.com/package/vuepress-plugin-vbox'
+npm: https://www.npmjs.com/package/vuepress-plugin-vbox
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: afanyiyu@hotmail.com
-    username: afanyiyu
-repository: 'https://github.com/vbox-moe/vuepress-plugin-vbox'
+  avatar: null
+  email: afanyiyu@hotmail.com
+  name: null
+  url: null
+  username: afanyiyu
+repository: https://github.com/vbox-moe/vuepress-plugin-vbox
 score: 0.33357382974506083
 stars: 1
 unstable: true
@@ -40,4 +35,3 @@ watchers: 1
 
 ---
 
-undefined

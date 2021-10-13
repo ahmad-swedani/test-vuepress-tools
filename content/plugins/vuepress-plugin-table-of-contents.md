@@ -1,42 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/48539483?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    name: meteorlxy
-    username: meteorlxy
-bugs: 'https://github.com/vuepress/vuepress-community/issues'
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: meteor.lxy@foxmail.com
+  name: meteorlxy
+  url: null
+  username: meteorlxy
+bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:51.013Z'
 deprecated: false
 description: VuePress plugin for table of contents
-downloads: ~
-homepage: 'https://github.com/vuepress'
+downloads: null
+homepage: https://github.com/vuepress
 keywords:
-  - plugin
-  - table-of-contents
-  - tof
-  - vuepress
+- plugin
+- table-of-contents
+- tof
+- vuepress
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: 1700011071@pku.edu.cn
-    username: shigma
+maintainers: null
 name: vuepress-plugin-table-of-contents
-npm: 'https://www.npmjs.com/package/vuepress-plugin-table-of-contents'
+npm: https://www.npmjs.com/package/vuepress-plugin-table-of-contents
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
-repository: 'https://github.com/vuepress/vuepress-community'
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
+repository: https://github.com/vuepress/vuepress-community
 score: 0.553912917452138
 stars: 68
 unstable: false

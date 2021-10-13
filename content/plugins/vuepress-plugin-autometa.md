@@ -1,48 +1,40 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/246901?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: webmasterish@gmail.com
-    name: webmasterish
-    url: 'https://webmasterish.com'
-    username: webmasterish
-bugs: 'https://github.com/webmasterish/vuepress-plugin-autometa/issues'
+  avatar: https://avatars.githubusercontent.com/u/246901?v=4
+  email: webmasterish@gmail.com
+  name: webmasterish
+  url: https://webmasterish.com
+  username: webmasterish
+bugs: https://github.com/webmasterish/vuepress-plugin-autometa/issues
 category: plugin
 date: '2019-11-16T22:06:39.168Z'
 deprecated: false
 description: Auto meta tags plugin for VuePress
-downloads: ~
-homepage: 'https://github.com/webmasterish/vuepress-plugin-autometa'
+downloads: null
+homepage: https://github.com/webmasterish/vuepress-plugin-autometa
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - meta
-  - meta-tags
-  - social
-  - social-metas
-  - page
-  - post
-  - head
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
+- meta
+- meta-tags
+- social
+- social-metas
+- page
+- post
+- head
 license: MIT License
-maintainers:
-  - email: webmasterish@gmail.com
-    username: webmasterish
+maintainers: null
 name: vuepress-plugin-autometa
-npm: 'https://www.npmjs.com/package/vuepress-plugin-autometa'
+npm: https://www.npmjs.com/package/vuepress-plugin-autometa
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: webmasterish@gmail.com
-    username: webmasterish
-repository: 'https://github.com/webmasterish/vuepress-plugin-autometa'
+  avatar: null
+  email: webmasterish@gmail.com
+  name: null
+  url: null
+  username: webmasterish
+repository: https://github.com/webmasterish/vuepress-plugin-autometa
 score: 0.2625413468692628
 stars: 41
 unstable: true

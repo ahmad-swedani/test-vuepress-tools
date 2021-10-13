@@ -1,39 +1,34 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/49757965?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Feng L.H.
-bugs: 'https://github.com/zpfz/vuepress-plugin-graysite/issues'
+  avatar: https://avatars.githubusercontent.com/u/49757965?v=4
+  email: null
+  name: Feng L.H.
+  url: null
+  username: zpfz
+bugs: https://github.com/zpfz/vuepress-plugin-graysite/issues
 category: plugin
 date: '2020-04-03T16:33:29.198Z'
 deprecated: false
 description: Plug-ins that gray your site for VuePress.
-downloads: ~
-homepage: 'https://github.com/zpfz/vuepress-plugin-graysite'
+downloads: null
+homepage: https://github.com/zpfz/vuepress-plugin-graysite
 keywords:
-  - pray
-  - gray
-  - vue
-  - vuepress
-  - mourn
+- pray
+- gray
+- vue
+- vuepress
+- mourn
 license: MIT License
-maintainers:
-  - email: zpfz@seeyoz.cn
-    username: seeyoz
+maintainers: null
 name: vuepress-plugin-graysite
-npm: 'https://www.npmjs.com/package/vuepress-plugin-graysite'
+npm: https://www.npmjs.com/package/vuepress-plugin-graysite
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zpfz@seeyoz.cn
-    username: seeyoz
-repository: 'https://github.com/zpfz/vuepress-plugin-graysite'
+  avatar: null
+  email: zpfz@seeyoz.cn
+  name: null
+  url: null
+  username: seeyoz
+repository: https://github.com/zpfz/vuepress-plugin-graysite
 score: 0.3245963305682249
 stars: 9
 unstable: true
