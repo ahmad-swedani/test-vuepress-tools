@@ -1,35 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19725091?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: realkimmy
 bugs: https://github.com/upcwangying/vuepress-plugin-aplayer/issues
 category: plugin
 date: '2020-02-25T07:24:50.610Z'
 deprecated: false
 description: aplayer for vuepress.
-downloads: ~
+downloads: null
 homepage: https://upcwangying.com
 keywords:
-  - vuepress
-  - plugin
-  - aplayer
+- vuepress
+- plugin
+- aplayer
 license: MIT License
-maintainers:
-  - email: wang_ying13@163.com
-    username: wangying
+maintainers: null
 name: vuepress-plugin-aplayer
 npm: https://www.npmjs.com/package/vuepress-plugin-aplayer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: upcwangying@126.com
-    username: upcwangying
+  avatar: null
+  email: upcwangying@126.com
+  name: null
+  url: null
+  username: upcwangying
 repository: https://github.com/upcwangying/vuepress-plugin-aplayer
 score: 0.5505930622051922
 stars: 1

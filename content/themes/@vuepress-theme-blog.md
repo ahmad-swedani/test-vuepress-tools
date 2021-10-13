@@ -1,46 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ulivz
+  email: chl814@foxmail.com
+  name: ulivz
+  url: null
+  username: vuepress
 bugs: https://github.com/ulivz/vuepress-theme-blog/issues
 category: theme
 date: '2020-10-31T17:52:58.177Z'
 deprecated: false
 description: Default blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/ulivz/vuepress-theme-blog#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: '@vuepress/theme-blog'
 npm: https://www.npmjs.com/package/%40vuepress%2Ftheme-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    username: newsbielt703
+  avatar: null
+  email: newsbielt703@gmail.com
+  name: null
+  url: null
+  username: newsbielt703
 repository: https://github.com/ulivz/vuepress-theme-blog
 score: 0.5878833829619958
 stars: 172
