@@ -100,7 +100,7 @@ const getRepo = async (package) => {
       headers: { Accept: 'application/vnd.github.v3+json' },
       auth: {
         username: GITHUB_USER,
-        password: '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',
+        password: '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',
       },
     })
     const githubData = data.data
@@ -114,7 +114,9 @@ const getRepo = async (package) => {
       ? (package.license = githubData.license.name)
       : (package.license = null)
     return package
-  } catch (err) {}
+  } catch (err) {
+    console.error(err)
+  }
 }
 
 // Done
@@ -141,13 +143,15 @@ const getReadme = async (package) => {
       headers: { Accept: 'application/vnd.github.v3+json' },
       auth: {
         username: GITHUB_USER,
-        password: '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',
+        password: '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',
       },
     })
     const encodedData = data.data.content
     const decodedData = Buffer.from(encodedData, 'base64').toString()
     return decodedData
-  } catch (err) {}
+  } catch (err) {
+    console.error(err)
+  }
 }
 
 // Done
@@ -221,7 +225,9 @@ const getTotalPackages = async (query, baseUrl) => {
     const r = await axios.get(apiUrl)
     const totalNumberOfPackages = r.data.total
     return totalNumberOfPackages
-  } catch (err) {}
+  } catch (err) {
+    console.error(err)
+  }
 }
 
 // DONE
@@ -236,7 +242,9 @@ const fetchPackages = async (query) => {
       allPackages = [...allPackages, ...fetchedData.data.results]
     }
     return allPackages
-  } catch (err) {}
+  } catch (err) {
+    console.error(err)
+  }
 }
 
 const writePackages = async (pkgType) => {
