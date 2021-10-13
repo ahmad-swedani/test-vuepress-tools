@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/12029165?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: tangxiaomi
-bugs: 'https://github.com/im/vuepress-plugin-image/issues'
+  avatar: https://avatars.githubusercontent.com/u/12029165?v=4
+  email: null
+  name: tangxiaomi
+  url: null
+  username: im
+bugs: https://github.com/im/vuepress-plugin-image/issues
 category: plugin
 date: '2019-09-17T11:47:00.425Z'
 deprecated: false
-description: vuepress markdown 图片支持设置宽高
-downloads: ~
-homepage: 'https://github.com/im/vuepress-plugin-image#readme'
+description: "vuepress markdown \u56FE\u7247\u652F\u6301\u8BBE\u7F6E\u5BBD\u9AD8"
+downloads: null
+homepage: https://github.com/im/vuepress-plugin-image#readme
 keywords:
-  - vuepress
-  - markdown
-license: ~
-maintainers:
-  - email: tangxiaomiemail@gmail.com
-    username: tangxiaomi
+- vuepress
+- markdown
+license: false
+maintainers: null
 name: vuepress-plugin-image
-npm: 'https://www.npmjs.com/package/vuepress-plugin-image'
+npm: https://www.npmjs.com/package/vuepress-plugin-image
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tangxiaomiemail@gmail.com
-    username: tangxiaomi
-repository: 'https://github.com/im/vuepress-plugin-image'
+  avatar: null
+  email: tangxiaomiemail@gmail.com
+  name: null
+  url: null
+  username: tangxiaomi
+repository: https://github.com/im/vuepress-plugin-image
 score: 0.29955834876782217
 stars: 4
 unstable: false

@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/33161749?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: vczyh
-bugs: 'https://github.com/vczyh/vuepress-theme-something/issues'
+  avatar: https://avatars.githubusercontent.com/u/33161749?v=4
+  email: null
+  name: vczyh
+  url: null
+  username: vczyh
+bugs: https://github.com/vczyh/vuepress-theme-something/issues
 category: plugin
 date: '2020-07-30T14:55:13.377Z'
 deprecated: false
 description: components for vuepress
-downloads: ~
-homepage: 'https://github.com/vczyh/vuepress-theme-something#readme'
+downloads: null
+homepage: https://github.com/vczyh/vuepress-theme-something#readme
 keywords:
-  - vuepress
-  - components
+- vuepress
+- components
 license: MIT License
-maintainers:
-  - email: 2939531323@qq.com
-    username: vczyh
+maintainers: null
 name: '@vuepress-something/vuepress-plugin-components'
-npm: >-
-  https://www.npmjs.com/package/%40vuepress-something%2Fvuepress-plugin-components
+npm: https://www.npmjs.com/package/%40vuepress-something%2Fvuepress-plugin-components
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2939531323@qq.com
-    username: vczyh
-repository: 'https://github.com/vczyh/vuepress-theme-something'
+  avatar: null
+  email: 2939531323@qq.com
+  name: null
+  url: null
+  username: vczyh
+repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.2290075326310169
 stars: 3
 unstable: false

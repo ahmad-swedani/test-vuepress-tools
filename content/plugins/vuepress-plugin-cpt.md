@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/1670216?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: tmiame
-bugs: 'https://github.com/tmiame/vuepress-plugin-cpt/issues'
+  avatar: https://avatars.githubusercontent.com/u/1670216?v=4
+  email: null
+  name: tmiame
+  url: null
+  username: tmiame
+bugs: https://github.com/tmiame/vuepress-plugin-cpt/issues
 category: plugin
 date: '2019-04-24T14:09:14.906Z'
 deprecated: false
 description: Custom Post Type & Taxonomy & Pagination Plugin for Vuepress
-downloads: ~
-homepage: 'https://github.com/tmiame/vuepress-plugin-cpt#readme'
+downloads: null
+homepage: https://github.com/tmiame/vuepress-plugin-cpt#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
+- vuepress
+- vuepress-plugin
 license: MIT License
-maintainers:
-  - email: tmiame@gmail.com
-    username: tmiame
+maintainers: null
 name: vuepress-plugin-cpt
-npm: 'https://www.npmjs.com/package/vuepress-plugin-cpt'
+npm: https://www.npmjs.com/package/vuepress-plugin-cpt
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tmiame@gmail.com
-    username: tmiame
-repository: 'https://github.com/tmiame/vuepress-plugin-cpt'
+  avatar: null
+  email: tmiame@gmail.com
+  name: null
+  url: null
+  username: tmiame
+repository: https://github.com/tmiame/vuepress-plugin-cpt
 score: 0.3701229776682039
 stars: 4
 unstable: false

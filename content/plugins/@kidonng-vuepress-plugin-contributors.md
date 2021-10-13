@@ -1,36 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/44045911?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hi@xuann.wang
-    name: Kid
-    url: 'https://xuann.wang'
-bugs: 'https://github.com/kidonng/vuepress-plugin-contributors/issues'
+  avatar: https://avatars.githubusercontent.com/u/44045911?v=4
+  email: hi@xuann.wang
+  name: Kid
+  url: https://xuann.wang
+  username: kidonng
+bugs: https://github.com/kidonng/vuepress-plugin-contributors/issues
 category: plugin
 date: '2021-02-27T14:21:08.522Z'
 deprecated: false
 description: VuePress plugin for showing GitHub contributors
-downloads: ~
-homepage: 'https://github.com/kidonng/vuepress-plugin-contributors#readme'
-keywords: ~
+downloads: null
+homepage: https://github.com/kidonng/vuepress-plugin-contributors#readme
+keywords: null
 license: MIT License
-maintainers:
-  - email: kidonng@gmail.com
-    username: kidonng
+maintainers: null
 name: '@kidonng/vuepress-plugin-contributors'
-npm: 'https://www.npmjs.com/package/%40kidonng%2Fvuepress-plugin-contributors'
+npm: https://www.npmjs.com/package/%40kidonng%2Fvuepress-plugin-contributors
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kidonng@gmail.com
-    username: kidonng
-repository: 'https://github.com/kidonng/vuepress-plugin-contributors'
+  avatar: null
+  email: kidonng@gmail.com
+  name: null
+  url: null
+  username: kidonng
+repository: https://github.com/kidonng/vuepress-plugin-contributors
 score: 0.36803697790172163
 stars: 5
 unstable: true

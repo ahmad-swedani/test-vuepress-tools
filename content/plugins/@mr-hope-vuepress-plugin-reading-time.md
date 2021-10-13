@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/78192711?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: 'https://mrhope.site'
-    username: mister-hope
-bugs: 'https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues'
+  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
+bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-08-27T02:22:01.008Z'
 deprecated: false
 description: Reading time plugin for vuepress
-downloads: ~
-homepage: 'https://vuepress-theme-hope.github.io/reading-time/'
+downloads: null
+homepage: https://vuepress-theme-hope.github.io/reading-time/
 keywords:
-  - vuepress-plugin
-  - reading time
-  - word count
+- vuepress-plugin
+- reading time
+- word count
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-reading-time'
-npm: 'https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-reading-time'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-reading-time
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
-repository: 'https://github.com/vuepress-theme-hope/vuepress-theme-hope'
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
+repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6942101311865225
 stars: 269
 unstable: false

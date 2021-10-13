@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/16386583?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: superbiger
-bugs: 'https://github.com/superbiger/vuepress-plugin-tabs/issues'
+  avatar: https://avatars.githubusercontent.com/u/16386583?v=4
+  email: null
+  name: superbiger
+  url: null
+  username: superbiger
+bugs: https://github.com/superbiger/vuepress-plugin-tabs/issues
 category: plugin
 date: '2020-01-01T21:19:16.930Z'
 deprecated: false
 description: Vuepress plugin - Tabs Container for Vuepress
-downloads: ~
-homepage: 'https://github.com/superbiger/vuepress-plugin-tabs#readme'
+downloads: null
+homepage: https://github.com/superbiger/vuepress-plugin-tabs#readme
 keywords:
-  - vuepress-plugin
-  - tabs
-  - component
+- vuepress-plugin
+- tabs
+- component
 license: Other
-maintainers:
-  - email: superbiger@qq.com
-    username: sbiger
+maintainers: null
 name: vuepress-plugin-element-tabs
-npm: 'https://www.npmjs.com/package/vuepress-plugin-element-tabs'
+npm: https://www.npmjs.com/package/vuepress-plugin-element-tabs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: superbiger@qq.com
-    username: sbiger
-repository: 'https://github.com/superbiger/vuepress-plugin-tabs'
+  avatar: null
+  email: superbiger@qq.com
+  name: null
+  url: null
+  username: sbiger
+repository: https://github.com/superbiger/vuepress-plugin-tabs
 score: 0.22686796688877456
 stars: 31
 unstable: true

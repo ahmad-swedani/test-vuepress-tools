@@ -1,43 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/54167020?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    name: reco_luan
-    username: reco_luan
-bugs: 'https://github.com/vuepress-reco/vuepress-plugin-extract-code/issues'
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
+  email: recoluan@outlook.com
+  name: reco_luan
+  url: null
+  username: reco_luan
+bugs: https://github.com/vuepress-reco/vuepress-plugin-extract-code/issues
 category: plugin
 date: '2020-04-18T06:03:42.136Z'
 deprecated: false
-description: >-
-  Features and code presentation plugin for vuepress-theme-reco or other
+description: Features and code presentation plugin for vuepress-theme-reco or other
   vuepress theme
-downloads: ~
-homepage: 'https://github.com/vuepress-reco/vuepress-plugin-extract-code#readme'
+downloads: null
+homepage: https://github.com/vuepress-reco/vuepress-plugin-extract-code#readme
 keywords:
-  - vuepress-theme-reco
-  - extract-code
-  - vuepress
+- vuepress-theme-reco
+- extract-code
+- vuepress
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-extract-code'
-npm: 'https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-extract-code'
+npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-extract-code
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
-repository: 'https://github.com/vuepress-reco/vuepress-plugin-extract-code'
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
+repository: https://github.com/vuepress-reco/vuepress-plugin-extract-code
 score: 0.26536053700701967
 stars: 11
 unstable: false

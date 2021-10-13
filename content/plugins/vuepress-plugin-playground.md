@@ -1,36 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8180186?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: angusfu1126@qq.com
-    name: wemlion
-    username: wemlion
-bugs: 'https://github.com/AngusFu/vuepress-plugin-playground/issues'
+  avatar: https://avatars.githubusercontent.com/u/8180186?v=4
+  email: angusfu1126@qq.com
+  name: wemlion
+  url: null
+  username: wemlion
+bugs: https://github.com/AngusFu/vuepress-plugin-playground/issues
 category: plugin
 date: '2019-08-25T15:23:46.096Z'
 deprecated: false
 description: '--- sidebar: auto ---'
-downloads: ~
-homepage: 'https://github.com/AngusFu/vuepress-plugin-playground#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: angusfu1126@qq.com
-    username: wemlion
+downloads: null
+homepage: https://github.com/AngusFu/vuepress-plugin-playground#readme
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-playground
-npm: 'https://www.npmjs.com/package/vuepress-plugin-playground'
+npm: https://www.npmjs.com/package/vuepress-plugin-playground
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: angusfu1126@qq.com
-    username: wemlion
-repository: 'https://github.com/AngusFu/vuepress-plugin-playground'
+  avatar: null
+  email: angusfu1126@qq.com
+  name: null
+  url: null
+  username: wemlion
+repository: https://github.com/AngusFu/vuepress-plugin-playground
 score: 0.32841301724075506
 stars: 3
 unstable: false

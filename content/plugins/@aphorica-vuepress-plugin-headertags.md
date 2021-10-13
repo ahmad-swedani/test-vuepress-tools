@@ -1,36 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/33430560?v=4'
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/33430560?v=4
+  email: null
+  name: null
+  url: null
   username: Aphorica
-bugs: 'https://github.com/Aphorica/vuepress-plugin-headertags/issues'
+bugs: https://github.com/Aphorica/vuepress-plugin-headertags/issues
 category: plugin
 date: '2020-04-10T19:56:58.912Z'
 deprecated: false
 description: add user defined header tags to vuepress page
-downloads: ~
-homepage: 'https://github.com/Aphorica/vuepress-plugin-headertags#readme'
+downloads: null
+homepage: https://github.com/Aphorica/vuepress-plugin-headertags#readme
 keywords:
-  - vue
-  - vuepress
-  - generator
-license: ~
-maintainers:
-  - email: gbergeraph@gmail.com
-    username: rickbsgu
+- vue
+- vuepress
+- generator
+license: false
+maintainers: null
 name: '@aphorica/vuepress-plugin-headertags'
-npm: 'https://www.npmjs.com/package/%40aphorica%2Fvuepress-plugin-headertags'
+npm: https://www.npmjs.com/package/%40aphorica%2Fvuepress-plugin-headertags
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gbergeraph@gmail.com
-    username: rickbsgu
-repository: 'https://github.com/Aphorica/vuepress-plugin-headertags'
+  avatar: null
+  email: gbergeraph@gmail.com
+  name: null
+  url: null
+  username: rickbsgu
+repository: https://github.com/Aphorica/vuepress-plugin-headertags
 score: 0.3587329702924199
 stars: 1
 unstable: false

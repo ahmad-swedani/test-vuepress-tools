@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/33161749?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: vczyh
-bugs: 'https://github.com/vczyh/vuepress-theme-something/issues'
+  avatar: https://avatars.githubusercontent.com/u/33161749?v=4
+  email: null
+  name: vczyh
+  url: null
+  username: vczyh
+bugs: https://github.com/vczyh/vuepress-theme-something/issues
 category: plugin
 date: '2020-08-02T16:18:24.795Z'
 deprecated: false
 description: dplayer for vuepress
-downloads: ~
-homepage: 'https://github.com/vczyh/vuepress-theme-something#readme'
+downloads: null
+homepage: https://github.com/vczyh/vuepress-theme-something#readme
 keywords:
-  - vuepress
-  - dplayer
+- vuepress
+- dplayer
 license: MIT License
-maintainers:
-  - email: 2939531323@qq.com
-    username: vczyh
+maintainers: null
 name: '@vuepress-something/vuepress-plugin-dplayer'
-npm: 'https://www.npmjs.com/package/%40vuepress-something%2Fvuepress-plugin-dplayer'
+npm: https://www.npmjs.com/package/%40vuepress-something%2Fvuepress-plugin-dplayer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2939531323@qq.com
-    username: vczyh
-repository: 'https://github.com/vczyh/vuepress-theme-something'
+  avatar: null
+  email: 2939531323@qq.com
+  name: null
+  url: null
+  username: vczyh
+repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.2982214945942939
 stars: 3
 unstable: false

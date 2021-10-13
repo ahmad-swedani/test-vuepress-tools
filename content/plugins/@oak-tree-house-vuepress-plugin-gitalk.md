@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8998546?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Sun Ziping
-bugs: 'https://github.com/sunziping2016/oak-tree-house/issues'
+  avatar: https://avatars.githubusercontent.com/u/8998546?v=4
+  email: null
+  name: Sun Ziping
+  url: null
+  username: sunziping2016
+bugs: https://github.com/sunziping2016/oak-tree-house/issues
 category: plugin
 date: '2020-03-14T16:00:39.121Z'
 deprecated: false
 description: VuePress Plugin to Add Gitalk Commenting System
-downloads: ~
-homepage: >-
-  https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%40oak-tree-house/vuepress-plugin-gitalk#readme
+downloads: null
+homepage: https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%40oak-tree-house/vuepress-plugin-gitalk#readme
 keywords:
-  - vue
-  - vuepress
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: sunziping2016@gmail.com
-    username: sunziping2016
+maintainers: null
 name: '@oak-tree-house/vuepress-plugin-gitalk'
-npm: 'https://www.npmjs.com/package/%40oak-tree-house%2Fvuepress-plugin-gitalk'
+npm: https://www.npmjs.com/package/%40oak-tree-house%2Fvuepress-plugin-gitalk
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sunziping2016@gmail.com
-    username: sunziping2016
-repository: 'https://github.com/sunziping2016/oak-tree-house'
+  avatar: null
+  email: sunziping2016@gmail.com
+  name: null
+  url: null
+  username: sunziping2016
+repository: https://github.com/sunziping2016/oak-tree-house
 score: 0.33513568963533685
 stars: 11
 unstable: false

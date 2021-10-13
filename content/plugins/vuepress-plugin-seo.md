@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/3642397?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Loris Leiva
-bugs: 'https://github.com/lorisleiva/vuepress-plugin-seo/issues'
+  avatar: https://avatars.githubusercontent.com/u/3642397?v=4
+  email: null
+  name: Loris Leiva
+  url: null
+  username: lorisleiva
+bugs: https://github.com/lorisleiva/vuepress-plugin-seo/issues
 category: plugin
 date: '2020-07-16T16:49:01.806Z'
 deprecated: false
 description: Generate SEO friendly meta header for every page
-downloads: ~
-homepage: 'https://github.com/lorisleiva/vuepress-plugin-seo#readme'
+downloads: null
+homepage: https://github.com/lorisleiva/vuepress-plugin-seo#readme
 keywords:
-  - vuepress
-  - plugin
-  - seo
+- vuepress
+- plugin
+- seo
 license: MIT License
-maintainers:
-  - email: loris.leiva@gmail.com
-    username: lorisleiva
+maintainers: null
 name: vuepress-plugin-seo
-npm: 'https://www.npmjs.com/package/vuepress-plugin-seo'
+npm: https://www.npmjs.com/package/vuepress-plugin-seo
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: loris.leiva@gmail.com
-    username: lorisleiva
-repository: 'https://github.com/lorisleiva/vuepress-plugin-seo'
+  avatar: null
+  email: loris.leiva@gmail.com
+  name: null
+  url: null
+  username: lorisleiva
+repository: https://github.com/lorisleiva/vuepress-plugin-seo
 score: 0.2374739580546819
 stars: 99
 unstable: true

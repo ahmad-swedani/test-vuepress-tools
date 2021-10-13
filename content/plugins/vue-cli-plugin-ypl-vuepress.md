@@ -1,33 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/47939026?v=4'
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/47939026?v=4
+  email: null
+  name: null
+  url: null
   username: youpenglai
-bugs: 'https://github.com/youpenglai/vue-cli-plugin-vuepress/issues'
+bugs: https://github.com/youpenglai/vue-cli-plugin-vuepress/issues
 category: plugin
 date: '2020-02-29T04:29:04.014Z'
 deprecated: false
 description: vue-cli 3 plugin to add vue-cli-plugin-vuepress
-downloads: ~
-homepage: 'https://github.com/youpenglai/vue-cli-plugin-vuepress#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: 957737702@qq.com
-    username: ualazy
+downloads: null
+homepage: https://github.com/youpenglai/vue-cli-plugin-vuepress#readme
+keywords: null
+license: false
+maintainers: null
 name: vue-cli-plugin-ypl-vuepress
-npm: 'https://www.npmjs.com/package/vue-cli-plugin-ypl-vuepress'
+npm: https://www.npmjs.com/package/vue-cli-plugin-ypl-vuepress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 957737702@qq.com
-    username: ualazy
-repository: 'https://github.com/youpenglai/vue-cli-plugin-vuepress'
+  avatar: null
+  email: 957737702@qq.com
+  name: null
+  url: null
+  username: ualazy
+repository: https://github.com/youpenglai/vue-cli-plugin-vuepress
 score: 0.3970416111460843
 stars: 0
 unstable: false

@@ -1,40 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/20592185?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: winyh
-bugs: 'https://github.com/winyh/vuepress-plugin-demo-container/issues'
+  avatar: https://avatars.githubusercontent.com/u/20592185?v=4
+  email: null
+  name: winyh
+  url: null
+  username: winyh
+bugs: https://github.com/winyh/vuepress-plugin-demo-container/issues
 category: plugin
 date: '2020-09-28T03:19:29.313Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: ~
-homepage: 'https://github.com/winyh/vuepress-plugin-demo-container#readme'
+downloads: null
+homepage: https://github.com/winyh/vuepress-plugin-demo-container#readme
 keywords:
-  - documentation
-  - plugin
-  - vue
-  - vuepress
-  - demo
-  - block
+- documentation
+- plugin
+- vue
+- vuepress
+- demo
+- block
 license: MIT License
-maintainers:
-  - email: 2712192471@qq.com
-    username: winyh
+maintainers: null
 name: vuepress-plugin-block-winyh
-npm: 'https://www.npmjs.com/package/vuepress-plugin-block-winyh'
+npm: https://www.npmjs.com/package/vuepress-plugin-block-winyh
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2712192471@qq.com
-    username: winyh
-repository: 'https://github.com/winyh/vuepress-plugin-demo-container'
+  avatar: null
+  email: 2712192471@qq.com
+  name: null
+  url: null
+  username: winyh
+repository: https://github.com/winyh/vuepress-plugin-demo-container
 score: 0.42542268093999824
 stars: 0
 unstable: true

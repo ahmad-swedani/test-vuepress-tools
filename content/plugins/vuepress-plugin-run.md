@@ -1,44 +1,37 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/19297757?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1098626505@qq.com
-    name: zhangchaojie
-    username: zhangchaojie
-bugs: 'https://github.com/dream2023/vuepress-plugin-run/issues'
+  avatar: https://avatars.githubusercontent.com/u/19297757?v=4
+  email: 1098626505@qq.com
+  name: zhangchaojie
+  url: null
+  username: zhangchaojie
+bugs: https://github.com/dream2023/vuepress-plugin-run/issues
 category: plugin
 date: '2020-09-16T14:38:00.639Z'
 deprecated: false
-description: vuepress 在线运行 Vue 单文件
-downloads: ~
-homepage: 'https://github.com/dream2023/vuepress-plugin-run/'
+description: "vuepress \u5728\u7EBF\u8FD0\u884C Vue \u5355\u6587\u4EF6"
+downloads: null
+homepage: https://github.com/dream2023/vuepress-plugin-run/
 keywords:
-  - vuepress
-  - vuepress-sfc
-  - vuepress-demo
-  - vuepress-run
-  - vue run
-  - vue editor
-  - vuepress-plugin
-  - vuepress-run-sfc
-license: ~
-maintainers:
-  - email: 1098626505@qq.com
-    username: zhangchaojie
+- vuepress
+- vuepress-sfc
+- vuepress-demo
+- vuepress-run
+- vue run
+- vue editor
+- vuepress-plugin
+- vuepress-run-sfc
+license: false
+maintainers: null
 name: vuepress-plugin-run
-npm: 'https://www.npmjs.com/package/vuepress-plugin-run'
+npm: https://www.npmjs.com/package/vuepress-plugin-run
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1098626505@qq.com
-    username: zhangchaojie
-repository: 'https://github.com/dream2023/vuepress-plugin-run'
+  avatar: null
+  email: 1098626505@qq.com
+  name: null
+  url: null
+  username: zhangchaojie
+repository: https://github.com/dream2023/vuepress-plugin-run
 score: 0.29164717257178313
 stars: 26
 unstable: false

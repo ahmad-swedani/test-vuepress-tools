@@ -1,33 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/26818843?v=4'
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/26818843?v=4
+  email: null
+  name: null
+  url: null
   username: yemuguliunian
-bugs: 'https://github.com/yemuguliunian/vuepress-plugin-interactive-js/issues'
+bugs: https://github.com/yemuguliunian/vuepress-plugin-interactive-js/issues
 category: plugin
 date: '2020-07-24T06:09:07.752Z'
 deprecated: false
 description: interactive js plugin for vuepress
-downloads: ~
-homepage: 'https://github.com/yemuguliunian/vuepress-plugin-interactive-js#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: 215822834@qq.com
-    username: yemuguliunian
+downloads: null
+homepage: https://github.com/yemuguliunian/vuepress-plugin-interactive-js#readme
+keywords: null
+license: false
+maintainers: null
 name: '@yemu419/vuepress-plugin-interactive-js'
-npm: 'https://www.npmjs.com/package/%40yemu419%2Fvuepress-plugin-interactive-js'
+npm: https://www.npmjs.com/package/%40yemu419%2Fvuepress-plugin-interactive-js
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 215822834@qq.com
-    username: yemuguliunian
-repository: 'https://github.com/yemuguliunian/vuepress-plugin-interactive-js'
+  avatar: null
+  email: 215822834@qq.com
+  name: null
+  url: null
+  username: yemuguliunian
+repository: https://github.com/yemuguliunian/vuepress-plugin-interactive-js
 score: 0.43136950152181996
 stars: 0
 unstable: false

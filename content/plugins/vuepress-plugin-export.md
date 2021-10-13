@@ -1,35 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/23133919?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ulivz
-bugs: 'https://github.com/ulivz/vuepress-plugin-export/issues'
+  avatar: https://avatars.githubusercontent.com/u/23133919?v=4
+  email: chl814@foxmail.com
+  name: ulivz
+  url: null
+  username: ulivz
+bugs: https://github.com/ulivz/vuepress-plugin-export/issues
 category: plugin
 date: '2019-03-10T19:02:35.095Z'
 deprecated: false
 description: Export your VuePress site to a PDF file
-downloads: ~
-homepage: 'https://github.com/ulivz/vuepress-plugin-export#readme'
-keywords: ~
+downloads: null
+homepage: https://github.com/ulivz/vuepress-plugin-export#readme
+keywords: null
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: vuepress-plugin-export
-npm: 'https://www.npmjs.com/package/vuepress-plugin-export'
+npm: https://www.npmjs.com/package/vuepress-plugin-export
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
-repository: 'https://github.com/ulivz/vuepress-plugin-export'
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
+repository: https://github.com/ulivz/vuepress-plugin-export
 score: 0.24474320415616713
 stars: 73
 unstable: true

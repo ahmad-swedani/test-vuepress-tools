@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/29809148?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: lvqq
-bugs: 'https://github.com/lvqq/vuepress-plugin-rocket/issues'
+  avatar: https://avatars.githubusercontent.com/u/29809148?v=4
+  email: null
+  name: lvqq
+  url: null
+  username: lvqq
+bugs: https://github.com/lvqq/vuepress-plugin-rocket/issues
 category: plugin
 date: '2019-09-26T17:57:12.232Z'
 deprecated: false
 description: back to top rocket in vuepress
-downloads: ~
-homepage: 'https://github.com/lvqq/vuepress-plugin-rocket#readme'
+downloads: null
+homepage: https://github.com/lvqq/vuepress-plugin-rocket#readme
 keywords:
-  - plugin
-  - rocket
-  - back-to-top
+- plugin
+- rocket
+- back-to-top
 license: MIT License
-maintainers:
-  - email: nicksonlvqq@gmail.com
-    username: lvqq
+maintainers: null
 name: vuepress-plugin-rocket
-npm: 'https://www.npmjs.com/package/vuepress-plugin-rocket'
+npm: https://www.npmjs.com/package/vuepress-plugin-rocket
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nicksonlvqq@gmail.com
-    username: lvqq
-repository: 'https://github.com/lvqq/vuepress-plugin-rocket'
+  avatar: null
+  email: nicksonlvqq@gmail.com
+  name: null
+  url: null
+  username: lvqq
+repository: https://github.com/lvqq/vuepress-plugin-rocket
 score: 0.35865298682642605
 stars: 2
 unstable: false

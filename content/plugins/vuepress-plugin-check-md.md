@@ -1,35 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/23133919?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ulivz
-bugs: 'https://github.com/ulivz/vuepress-plugin-check-md/issues'
+  avatar: https://avatars.githubusercontent.com/u/23133919?v=4
+  email: chl814@foxmail.com
+  name: ulivz
+  url: null
+  username: ulivz
+bugs: https://github.com/ulivz/vuepress-plugin-check-md/issues
 category: plugin
 date: '2019-07-30T09:00:49.396Z'
 deprecated: false
 description: checks dead links of markdown
-downloads: ~
-homepage: 'https://github.com/ulivz/vuepress-plugin-check-md#readme'
-keywords: ~
+downloads: null
+homepage: https://github.com/ulivz/vuepress-plugin-check-md#readme
+keywords: null
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: vuepress-plugin-check-md
-npm: 'https://www.npmjs.com/package/vuepress-plugin-check-md'
+npm: https://www.npmjs.com/package/vuepress-plugin-check-md
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
-repository: 'https://github.com/ulivz/vuepress-plugin-check-md'
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
+repository: https://github.com/ulivz/vuepress-plugin-check-md
 score: 0.26335884383529223
 stars: 25
 unstable: true

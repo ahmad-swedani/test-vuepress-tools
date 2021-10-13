@@ -1,42 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/45495377?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: bart.renders@infosupport.com
-    name: BartR96
-    username: bart-renders
-bugs: 'https://github.com/BartR96/vuepress-plugin-flexsearch/issues'
+  avatar: https://avatars.githubusercontent.com/u/45495377?v=4
+  email: bart.renders@infosupport.com
+  name: BartR96
+  url: null
+  username: bart-renders
+bugs: https://github.com/BartR96/vuepress-plugin-flexsearch/issues
 category: plugin
 date: '2020-04-17T09:58:39.886Z'
 deprecated: false
 description: Next-Generation full text search library for Vuepress
-downloads: ~
-homepage: 'https://github.com/BartR96/vuepress-plugin-flexsearch'
+downloads: null
+homepage: https://github.com/BartR96/vuepress-plugin-flexsearch
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - search
-  - vuepress-plugin
+- documentation
+- vue
+- vuepress
+- generator
+- search
+- vuepress-plugin
 license: MIT License
-maintainers:
-  - email: bart.renders@infosupport.com
-    username: bart-renders
+maintainers: null
 name: vuepress-plugin-flexsearch-guidance-tooling
-npm: 'https://www.npmjs.com/package/vuepress-plugin-flexsearch-guidance-tooling'
+npm: https://www.npmjs.com/package/vuepress-plugin-flexsearch-guidance-tooling
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: bart.renders@infosupport.com
-    username: bart-renders
-repository: 'https://github.com/BartR96/vuepress-plugin-flexsearch'
+  avatar: null
+  email: bart.renders@infosupport.com
+  name: null
+  url: null
+  username: bart-renders
+repository: https://github.com/BartR96/vuepress-plugin-flexsearch
 score: 0.335449829191503
 stars: 0
 unstable: false

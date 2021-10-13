@@ -1,38 +1,34 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8137136?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Junjie.xyz
-bugs: 'https://github.com/IOriens/vuepress-plugin-qihu-autopush/issues'
+  avatar: https://avatars.githubusercontent.com/u/8137136?v=4
+  email: null
+  name: Junjie.xyz
+  url: null
+  username: IOriens
+bugs: https://github.com/IOriens/vuepress-plugin-qihu-autopush/issues
 category: plugin
 date: '2019-04-17T06:12:10.486Z'
 deprecated: false
-description: 360 autopush SEO plugin for vuepress. 360站点自动推送 Vuepress 插件。
-downloads: ~
-homepage: 'https://github.com/IOriens/vuepress-plugin-qihu-autopush#readme'
+description: "360 autopush SEO plugin for vuepress. 360\u7AD9\u70B9\u81EA\u52A8\u63A8\
+  \u9001 Vuepress \u63D2\u4EF6\u3002"
+downloads: null
+homepage: https://github.com/IOriens/vuepress-plugin-qihu-autopush#readme
 keywords:
-  - '360'
-  - push
-  - vuepress
-  - 自动推送
+- '360'
+- push
+- vuepress
+- "\u81EA\u52A8\u63A8\u9001"
 license: MIT License
-maintainers:
-  - email: djjoriens@gmail.com
-    username: oriens
+maintainers: null
 name: vuepress-plugin-qihu-autopush
-npm: 'https://www.npmjs.com/package/vuepress-plugin-qihu-autopush'
+npm: https://www.npmjs.com/package/vuepress-plugin-qihu-autopush
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: djjoriens@gmail.com
-    username: oriens
-repository: 'https://github.com/IOriens/vuepress-plugin-qihu-autopush'
+  avatar: null
+  email: djjoriens@gmail.com
+  name: null
+  url: null
+  username: oriens
+repository: https://github.com/IOriens/vuepress-plugin-qihu-autopush
 score: 0.33316315389031576
 stars: 0
 unstable: false

@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/43257350?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: willin@willin.org
-    name: willin
-    username: willin
-bugs: 'https://github.com/assholev0/vuepress-theme-asshole/issues'
+  avatar: null
+  email: willin@willin.org
+  name: willin
+  url: null
+  username: willin
+bugs: https://github.com/assholev0/vuepress-theme-asshole/issues
 category: theme
 date: '2018-09-18T08:37:37.690Z'
 deprecated: false
 description: A Vuepress Theme for assholev0
-downloads: ~
-homepage: 'https://github.com/assholev0/vuepress-theme-asshole#readme'
+downloads: null
+homepage: https://github.com/assholev0/vuepress-theme-asshole#readme
 keywords:
-  - vuepress
-  - theme
-license: MIT License
-maintainers:
-  - email: willin@willin.org
-    username: willin
+- vuepress
+- theme
+license: null
+maintainers: null
 name: vuepress-theme-asshole
-npm: 'https://www.npmjs.com/package/vuepress-theme-asshole'
+npm: https://www.npmjs.com/package/vuepress-theme-asshole
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: willin@willin.org
-    username: willin
-repository: 'https://github.com/assholev0/vuepress-theme-asshole'
+  avatar: null
+  email: willin@willin.org
+  name: null
+  url: null
+  username: willin
+repository: https://github.com/assholev0/vuepress-theme-asshole
 score: 0.2934645897873378
 stars: 0
 unstable: true
@@ -40,8 +33,4 @@ version: 0.0.0-alpha0-20180918
 watchers: 0
 
 ---
-
-# Vuepress Theme - AssholeV0
-
-See demo on <https://v0.chat/>
 

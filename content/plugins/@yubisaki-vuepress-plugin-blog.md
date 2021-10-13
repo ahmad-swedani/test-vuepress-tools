@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/43475371?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stickmyc@163.com
-    name: 子肃
-    username: wuwaki
-bugs: 'https://github.com/Yubisaki/vuepress-plugin-blog/issues'
+  avatar: https://avatars.githubusercontent.com/u/43475371?v=4
+  email: stickmyc@163.com
+  name: "\u5B50\u8083"
+  url: null
+  username: wuwaki
+bugs: https://github.com/Yubisaki/vuepress-plugin-blog/issues
 category: plugin
 date: '2019-04-04T03:54:34.523Z'
 deprecated: false
 description: blog support plugin for vuepress theme yubisaki
-downloads: ~
-homepage: 'https://github.com/Yubisaki/vuepress-plugin-blog#readme'
+downloads: null
+homepage: https://github.com/Yubisaki/vuepress-plugin-blog#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-license: ~
-maintainers:
-  - email: stickmyc@163.com
-    username: wuwaki
+- vuepress
+- vuepress-plugin
+license: false
+maintainers: null
 name: '@yubisaki/vuepress-plugin-blog'
-npm: 'https://www.npmjs.com/package/%40yubisaki%2Fvuepress-plugin-blog'
+npm: https://www.npmjs.com/package/%40yubisaki%2Fvuepress-plugin-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stickmyc@163.com
-    username: wuwaki
-repository: 'https://github.com/Yubisaki/vuepress-plugin-blog'
+  avatar: null
+  email: stickmyc@163.com
+  name: null
+  url: null
+  username: wuwaki
+repository: https://github.com/Yubisaki/vuepress-plugin-blog
 score: 0.32478203799638306
 stars: 0
 unstable: true

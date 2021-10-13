@@ -1,42 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/23313167?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    name: tolking
-    username: tolking
-bugs: 'https://github.com/tolking/vuepress-plugin-blog-multidir/issues'
+  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
+  email: qw13131wang@gmail.com
+  name: tolking
+  url: null
+  username: tolking
+bugs: https://github.com/tolking/vuepress-plugin-blog-multidir/issues
 category: plugin
 date: '2019-06-14T07:15:07.944Z'
 deprecated: false
 description: A VuePress blog plugin which Support multiple folders
-downloads: ~
-homepage: 'https://github.com/tolking/vuepress-plugin-blog-multidir'
+downloads: null
+homepage: https://github.com/tolking/vuepress-plugin-blog-multidir
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - blog
-  - blog-multidir
-  - pagination
+- vue
+- vuepress
+- plugin
+- blog
+- blog-multidir
+- pagination
 license: MIT License
-maintainers:
-  - email: qw13131wang@gmail.com
-    username: tolking
+maintainers: null
 name: vuepress-plugin-blog-multidir
-npm: 'https://www.npmjs.com/package/vuepress-plugin-blog-multidir'
+npm: https://www.npmjs.com/package/vuepress-plugin-blog-multidir
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    username: tolking
-repository: 'https://github.com/tolking/vuepress-plugin-blog-multidir'
+  avatar: null
+  email: qw13131wang@gmail.com
+  name: null
+  url: null
+  username: tolking
+repository: https://github.com/tolking/vuepress-plugin-blog-multidir
 score: 0.3497752176874434
 stars: 8
 unstable: false

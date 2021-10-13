@@ -1,39 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/33735047?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Justin Kimbrell
-bugs: 'https://github.com/actengage/vuepress-plugin-template-constants/issues'
+  avatar: https://avatars.githubusercontent.com/u/33735047?v=4
+  email: null
+  name: Justin Kimbrell
+  url: null
+  username: actengage
+bugs: https://github.com/actengage/vuepress-plugin-template-constants/issues
 category: plugin
 date: '2020-05-13T18:38:39.686Z'
 deprecated: false
-description: >-
-  A Vuepress plugin that adds the contents of package.json to global template
+description: A Vuepress plugin that adds the contents of package.json to global template
   context.
-downloads: ~
-homepage: 'https://github.com/actengage/vuepress-plugin-template-constants#readme'
+downloads: null
+homepage: https://github.com/actengage/vuepress-plugin-template-constants#readme
 keywords:
-  - Vuepress
-  - package.json
-  - version
-license: ~
-maintainers:
-  - email: jkimbrell@actengage.com
-    username: actengage
+- Vuepress
+- package.json
+- version
+license: false
+maintainers: null
 name: vuepress-plugin-template-constants
-npm: 'https://www.npmjs.com/package/vuepress-plugin-template-constants'
+npm: https://www.npmjs.com/package/vuepress-plugin-template-constants
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jkimbrell@actengage.com
-    username: actengage
-repository: 'https://github.com/actengage/vuepress-plugin-template-constants'
+  avatar: null
+  email: jkimbrell@actengage.com
+  name: null
+  url: null
+  username: actengage
+repository: https://github.com/actengage/vuepress-plugin-template-constants
 score: 0.2649625521279482
 stars: 0
 unstable: true

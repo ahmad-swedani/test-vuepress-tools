@@ -1,40 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/6118824?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: xiaoluoboding
-bugs: 'https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern/issues'
+  avatar: https://avatars.githubusercontent.com/u/6118824?v=4
+  email: null
+  name: xiaoluoboding
+  url: null
+  username: xiaoluoboding
+bugs: https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern/issues
 category: plugin
 date: '2020-03-27T14:28:23.583Z'
 deprecated: false
 description: Generate seemless repeatable SVG background patterns.
-downloads: ~
-homepage: 'https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern#readme'
+downloads: null
+homepage: https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern#readme
 keywords:
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - svg
-  - pattern
-  - svg-pattern
+- vuepress
+- plugin
+- vuepress-plugin
+- svg
+- pattern
+- svg-pattern
 license: MIT License
-maintainers:
-  - email: xiaoluoboding@gmail.com
-    username: xiaoluoboding
+maintainers: null
 name: vuepress-plugin-hero-pattern
-npm: 'https://www.npmjs.com/package/vuepress-plugin-hero-pattern'
+npm: https://www.npmjs.com/package/vuepress-plugin-hero-pattern
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xiaoluoboding@gmail.com
-    username: xiaoluoboding
-repository: 'https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern'
+  avatar: null
+  email: xiaoluoboding@gmail.com
+  name: null
+  url: null
+  username: xiaoluoboding
+repository: https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern
 score: 0.3183628424837913
 stars: 0
 unstable: true

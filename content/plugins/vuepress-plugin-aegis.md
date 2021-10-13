@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/6554061?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: superaquariuslt@gmail.com
-    name: aquariuslt
-    username: aquariuslt
-bugs: 'https://github.com/aquariuslt/vuepress-plugin-aegis/issues'
+  avatar: https://avatars.githubusercontent.com/u/6554061?v=4
+  email: superaquariuslt@gmail.com
+  name: aquariuslt
+  url: null
+  username: aquariuslt
+bugs: https://github.com/aquariuslt/vuepress-plugin-aegis/issues
 category: plugin
 date: '2020-07-09T13:13:08.866Z'
 deprecated: false
 description: aegis vuepress plugin support router life cycle monitring
-downloads: ~
-homepage: 'https://github.com/aquariuslt/vuepress-plugin-aegis#readme'
+downloads: null
+homepage: https://github.com/aquariuslt/vuepress-plugin-aegis#readme
 keywords:
-  - vuepress
-  - vuepress-plguin
-  - aegis
-  - monitor
+- vuepress
+- vuepress-plguin
+- aegis
+- monitor
 license: MIT License
-maintainers:
-  - email: superaquariuslt@gmail.com
-    username: aquariuslt
+maintainers: null
 name: vuepress-plugin-aegis
-npm: 'https://www.npmjs.com/package/vuepress-plugin-aegis'
+npm: https://www.npmjs.com/package/vuepress-plugin-aegis
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: superaquariuslt@gmail.com
-    username: aquariuslt
-repository: 'https://github.com/aquariuslt/vuepress-plugin-aegis'
+  avatar: null
+  email: superaquariuslt@gmail.com
+  name: null
+  url: null
+  username: aquariuslt
+repository: https://github.com/aquariuslt/vuepress-plugin-aegis
 score: 0.6052220709120705
 stars: 1
 unstable: false

@@ -1,52 +1,43 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/42290260?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: scrisqiu@hotmail.com
-    name: Roderick Qiu
-    url: 'http://github.com/RoderickQiu'
-    username: r-q
-bugs: 'https://github.com/RoderickQiu/vuepress-plugin-internal-link/issues'
+  avatar: https://avatars.githubusercontent.com/u/42290260?v=4
+  email: scrisqiu@hotmail.com
+  name: Roderick Qiu
+  url: http://github.com/RoderickQiu
+  username: r-q
+bugs: https://github.com/RoderickQiu/vuepress-plugin-internal-link/issues
 category: plugin
 date: '2020-07-29T06:37:16.822Z'
 deprecated: false
-description: >-
-  Parse [[internal link]] into normal markdown links to let them be supported in
-  vuepress, which is useful for Wiki writers and researchers.
-downloads: ~
-homepage: 'https://github.com/RoderickQiu/vuepress-plugin-internal-link#readme'
+description: Parse [[internal link]] into normal markdown links to let them be supported
+  in vuepress, which is useful for Wiki writers and researchers.
+downloads: null
+homepage: https://github.com/RoderickQiu/vuepress-plugin-internal-link#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - internal
-  - link
-  - note
-  - wiki
-  - roam
-  - glossary
-  - generator
-  - scris
-  - RoderickQiu
+- documentation
+- vue
+- vuepress
+- vuepress-plugin
+- internal
+- link
+- note
+- wiki
+- roam
+- glossary
+- generator
+- scris
+- RoderickQiu
 license: MIT License
-maintainers:
-  - email: scrisqiu@hotmail.com
-    username: r-q
+maintainers: null
 name: vuepress-plugin-internal-link
-npm: 'https://www.npmjs.com/package/vuepress-plugin-internal-link'
+npm: https://www.npmjs.com/package/vuepress-plugin-internal-link
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: scrisqiu@hotmail.com
-    username: r-q
-repository: 'https://github.com/RoderickQiu/vuepress-plugin-internal-link'
+  avatar: null
+  email: scrisqiu@hotmail.com
+  name: null
+  url: null
+  username: r-q
+repository: https://github.com/RoderickQiu/vuepress-plugin-internal-link
 score: 0.32560035078231575
 stars: 3
 unstable: true

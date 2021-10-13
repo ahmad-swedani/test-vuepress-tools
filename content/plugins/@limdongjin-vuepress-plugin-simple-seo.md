@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/30315743?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: geniuslim27@gmail.com
-    name: limdongjin
-    username: limdongjin
-bugs: 'https://github.com/limdongjin/vuepress-plugin-simple-seo/issues'
+  avatar: https://avatars.githubusercontent.com/u/30315743?v=4
+  email: geniuslim27@gmail.com
+  name: limdongjin
+  url: null
+  username: limdongjin
+bugs: https://github.com/limdongjin/vuepress-plugin-simple-seo/issues
 category: plugin
 date: '2019-01-21T09:57:58.938Z'
 deprecated: false
 description: simple-seo plugin for vuepress
-downloads: ~
-homepage: 'https://github.com/limdongjin/vuepress-plugin-simple-seo#readme'
+downloads: null
+homepage: https://github.com/limdongjin/vuepress-plugin-simple-seo#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - seo
+- documentation
+- vue
+- vuepress
+- seo
 license: MIT License
-maintainers:
-  - email: geniuslim27@gmail.com
-    username: limdongjin
+maintainers: null
 name: '@limdongjin/vuepress-plugin-simple-seo'
-npm: 'https://www.npmjs.com/package/%40limdongjin%2Fvuepress-plugin-simple-seo'
+npm: https://www.npmjs.com/package/%40limdongjin%2Fvuepress-plugin-simple-seo
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: geniuslim27@gmail.com
-    username: limdongjin
-repository: 'https://github.com/limdongjin/vuepress-plugin-simple-seo'
+  avatar: null
+  email: geniuslim27@gmail.com
+  name: null
+  url: null
+  username: limdongjin
+repository: https://github.com/limdongjin/vuepress-plugin-simple-seo
 score: 0.36929071663480945
 stars: 8
 unstable: false

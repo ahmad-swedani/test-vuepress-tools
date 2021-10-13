@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/16188742?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ynublow@gmail.com
-    name: LinFeng1997
-    username: blow
-bugs: 'https://github.com/vuejs/vuepress/issues'
+  avatar: https://avatars.githubusercontent.com/u/16188742?v=4
+  email: ynublow@gmail.com
+  name: LinFeng1997
+  url: null
+  username: blow
+bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2019-01-22T15:02:47.463Z'
 deprecated: false
 description: export-site plugin for vuepress
-downloads: ~
-homepage: 'https://github.com/LinFeng1997/vuepress-plugin-export-site#readme'
+downloads: null
+homepage: https://github.com/LinFeng1997/vuepress-plugin-export-site#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: ynublow@gmail.com
-    username: blow
+maintainers: null
 name: vuepress-plugin-export-site
-npm: 'https://www.npmjs.com/package/vuepress-plugin-export-site'
+npm: https://www.npmjs.com/package/vuepress-plugin-export-site
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ynublow@gmail.com
-    username: blow
-repository: 'https://github.com/LinFeng1997/vuepress-plugin-export-site'
+  avatar: null
+  email: ynublow@gmail.com
+  name: null
+  url: null
+  username: blow
+repository: https://github.com/LinFeng1997/vuepress-plugin-export-site
 score: 0.2952549924441355
 stars: 3
 unstable: true

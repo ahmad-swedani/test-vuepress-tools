@@ -1,37 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/35308615?v=4'
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/35308615?v=4
+  email: null
+  name: null
+  url: null
   username: endpass
-bugs: 'https://github.com/endpass/vuepress-plugin-search/issues'
+bugs: https://github.com/endpass/vuepress-plugin-search/issues
 category: plugin
 date: '2020-04-20T10:52:52.146Z'
 deprecated: false
 description: search plugin for vuepress
-downloads: ~
-homepage: 'https://github.com/endpass/vuepress-plugin-search'
+downloads: null
+homepage: https://github.com/endpass/vuepress-plugin-search
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
-license: ~
-maintainers:
-  - email: contact@endpass.com
-    username: endpassid
+- documentation
+- generator
+- vue
+- vuepress
+license: false
+maintainers: null
 name: '@endpass/vuepress-plugin-search'
-npm: 'https://www.npmjs.com/package/%40endpass%2Fvuepress-plugin-search'
+npm: https://www.npmjs.com/package/%40endpass%2Fvuepress-plugin-search
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lamartire@gmail.com
-    username: lamartire
-repository: 'https://github.com/endpass/vuepress-plugin-search'
+  avatar: null
+  email: lamartire@gmail.com
+  name: null
+  url: null
+  username: lamartire
+repository: https://github.com/endpass/vuepress-plugin-search
 score: 0.4448614285694238
 stars: 0
 unstable: false

@@ -1,41 +1,35 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/20939839?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Rain120
-    url: 'https://github.com/Rain120'
-bugs: 'https://github.com/Rain120/vuepress-plugin-awesome-gitalk/issues'
+  avatar: https://avatars.githubusercontent.com/u/20939839?v=4
+  email: null
+  name: Rain120
+  url: https://github.com/Rain120
+  username: Rain120
+bugs: https://github.com/Rain120/vuepress-plugin-awesome-gitalk/issues
 category: plugin
 date: '2020-02-25T13:25:24.130Z'
 deprecated: false
 description: Vuepress plugin with Gitalk
-downloads: ~
-homepage: 'https://github.com/Rain120/vuepress-plugin-awesome-gitalk'
+downloads: null
+homepage: https://github.com/Rain120/vuepress-plugin-awesome-gitalk
 keywords:
-  - gitalk
-  - plugin
-  - vuepress
-  - awesome-gitalk
-  - vuepress-plugin
-  - vuepress-plugin-awesome-gitalk
+- gitalk
+- plugin
+- vuepress
+- awesome-gitalk
+- vuepress-plugin
+- vuepress-plugin-awesome-gitalk
 license: MIT License
-maintainers:
-  - email: 1085131904@qq.com
-    username: rain120
+maintainers: null
 name: vuepress-plugin-awesome-gitalk
-npm: 'https://www.npmjs.com/package/vuepress-plugin-awesome-gitalk'
+npm: https://www.npmjs.com/package/vuepress-plugin-awesome-gitalk
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1085131904@qq.com
-    username: rain120
-repository: 'https://github.com/Rain120/vuepress-plugin-awesome-gitalk'
+  avatar: null
+  email: 1085131904@qq.com
+  name: null
+  url: null
+  username: rain120
+repository: https://github.com/Rain120/vuepress-plugin-awesome-gitalk
 score: 0.23494230368442726
 stars: 0
 unstable: true

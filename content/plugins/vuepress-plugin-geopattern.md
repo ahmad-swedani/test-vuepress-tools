@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/6118824?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: xiaoluoboding
-bugs: 'https://github.com/xiaoluoboding/vuepress-plugin-geopattern/issues'
+  avatar: https://avatars.githubusercontent.com/u/6118824?v=4
+  email: null
+  name: xiaoluoboding
+  url: null
+  username: xiaoluoboding
+bugs: https://github.com/xiaoluoboding/vuepress-plugin-geopattern/issues
 category: plugin
 date: '2020-03-28T08:12:35.205Z'
 deprecated: false
 description: Generate beautiful random geometric pattern background images.
-downloads: ~
-homepage: 'https://github.com/xiaoluoboding/vuepress-plugin-geopattern#readme'
+downloads: null
+homepage: https://github.com/xiaoluoboding/vuepress-plugin-geopattern#readme
 keywords:
-  - vuepress
-  - plugin
-  - pattern
+- vuepress
+- plugin
+- pattern
 license: MIT License
-maintainers:
-  - email: xiaoluoboding@gmail.com
-    username: xiaoluoboding
+maintainers: null
 name: vuepress-plugin-geopattern
-npm: 'https://www.npmjs.com/package/vuepress-plugin-geopattern'
+npm: https://www.npmjs.com/package/vuepress-plugin-geopattern
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xiaoluoboding@gmail.com
-    username: xiaoluoboding
-repository: 'https://github.com/xiaoluoboding/vuepress-plugin-geopattern'
+  avatar: null
+  email: xiaoluoboding@gmail.com
+  name: null
+  url: null
+  username: xiaoluoboding
+repository: https://github.com/xiaoluoboding/vuepress-plugin-geopattern
 score: 0.3570912211285867
 stars: 0
 unstable: true

@@ -1,43 +1,34 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/48539483?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1700011071@pku.edu.cn
-    name: Shigma
-    username: shigma
-bugs: 'https://github.com/vuepress/vuepress-plugin-copyright/issues'
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: 1700011071@pku.edu.cn
+  name: Shigma
+  url: null
+  username: shigma
+bugs: https://github.com/vuepress/vuepress-plugin-copyright/issues
 category: plugin
 date: '2019-03-29T03:31:12.794Z'
 deprecated: false
 description: A VuePress plugin which handles copy behaviors.
-downloads: ~
-homepage: 'https://github.com/vuepress/vuepress-plugin-copyright#readme'
+downloads: null
+homepage: https://github.com/vuepress/vuepress-plugin-copyright#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - copyright
-  - copy
-  - markdown
+- vuepress
+- vuepress-plugin
+- copyright
+- copy
+- markdown
 license: MIT License
-maintainers:
-  - email: 1700011071@pku.edu.cn
-    username: shigma
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: vuepress-plugin-copyright
-npm: 'https://www.npmjs.com/package/vuepress-plugin-copyright'
+npm: https://www.npmjs.com/package/vuepress-plugin-copyright
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1700011071@pku.edu.cn
-    username: shigma
-repository: 'https://github.com/vuepress/vuepress-plugin-copyright'
+  avatar: null
+  email: 1700011071@pku.edu.cn
+  name: null
+  url: null
+  username: shigma
+repository: https://github.com/vuepress/vuepress-plugin-copyright
 score: 0.2501169134690661
 stars: 2
 unstable: false
