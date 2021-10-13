@@ -31,7 +31,7 @@ jobs:
         run: |
           node ${GITHUB_WORKSPACE}/bin/fetchPackages.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
           GITHUB_USER: ahmad-swedani
       - name: Commit files
         run: |
@@ -44,4 +44,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           branch: ${{ github.ref }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: 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
