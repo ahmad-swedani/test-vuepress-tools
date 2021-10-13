@@ -100,7 +100,7 @@ const getRepo = async (package) => {
       headers: { Accept: 'application/vnd.github.v3+json' },
       auth: {
         username: GITHUB_USER,
-        password: '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',
+        password: GITHUB_TOKEN,
       },
     })
     const githubData = data.data
@@ -143,7 +143,7 @@ const getReadme = async (package) => {
       headers: { Accept: 'application/vnd.github.v3+json' },
       auth: {
         username: GITHUB_USER,
-        password: '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',
+        password: GITHUB_TOKEN,
       },
     })
     const encodedData = data.data.content
