@@ -1,41 +1,36 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/33414148?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: dongyuanxin
-bugs: 'https://github.com/SivanLaai/vuepress-plugin-comment-plus/issues'
+  avatar: https://avatars.githubusercontent.com/u/33414148?v=4
+  email: null
+  name: dongyuanxin
+  url: null
+  username: SivanLaai
+bugs: https://github.com/SivanLaai/vuepress-plugin-comment-plus/issues
 category: plugin
 date: '2021-08-03T11:37:11.514Z'
 deprecated: false
-description: 'Comment plugin in vuepress, such as Gitalk, Valine...'
-downloads: ~
-homepage: 'https://github.com/SivanLaai/vuepress-plugin-comment-plus#readme'
+description: Comment plugin in vuepress, such as Gitalk, Valine...
+downloads: null
+homepage: https://github.com/SivanLaai/vuepress-plugin-comment-plus#readme
 keywords:
-  - vuepress
-  - comment
-  - plugin
-  - vue
-  - gitalk
-  - valine
-  - waline
-license: ~
-maintainers:
-  - email: lyhhap@163.com
-    username: sivanlaai
+- vuepress
+- comment
+- plugin
+- vue
+- gitalk
+- valine
+- waline
+license: false
+maintainers: null
 name: vuepress-plugin-comment-plus
-npm: 'https://www.npmjs.com/package/vuepress-plugin-comment-plus'
+npm: https://www.npmjs.com/package/vuepress-plugin-comment-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lyhhap@163.com
-    username: sivanlaai
-repository: 'https://github.com/SivanLaai/vuepress-plugin-comment-plus'
+  avatar: null
+  email: lyhhap@163.com
+  name: null
+  url: null
+  username: sivanlaai
+repository: https://github.com/SivanLaai/vuepress-plugin-comment-plus
 score: 0.5335024716519472
 stars: 1
 unstable: false

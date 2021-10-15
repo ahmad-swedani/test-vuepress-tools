@@ -1,34 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/13756745?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: dmate
-bugs: 'https://github.com/cfharyadi/vuepress-theme-multi/issues'
+  avatar: null
+  email: null
+  name: dmate
+  url: null
+  username: null
+bugs: https://github.com/cfharyadi/vuepress-theme-multi/issues
 category: theme
 date: '2018-05-26T12:54:54.239Z'
 deprecated: false
-description: !<tag:yaml.org,2002:js/undefined> ''
-downloads: ~
-homepage: 'https://github.com/cfharyadi/vuepress-theme-multi#readme'
-keywords: ~
-license: ~
-maintainers:
-  - email: cfharyadi@gmail.com
-    username: dmate
+description: null
+downloads: null
+homepage: https://github.com/cfharyadi/vuepress-theme-multi#readme
+keywords: null
+license: null
+maintainers: null
 name: vuepress-theme-multi
-npm: 'https://www.npmjs.com/package/vuepress-theme-multi'
+npm: https://www.npmjs.com/package/vuepress-theme-multi
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: cfharyadi@gmail.com
-    username: dmate
-repository: 'https://github.com/cfharyadi/vuepress-theme-multi'
+  avatar: null
+  email: cfharyadi@gmail.com
+  name: null
+  url: null
+  username: dmate
+repository: https://github.com/cfharyadi/vuepress-theme-multi
 score: 0.28252992388542775
 stars: 0
 unstable: false
@@ -37,4 +32,3 @@ watchers: 0
 
 ---
 
-undefined

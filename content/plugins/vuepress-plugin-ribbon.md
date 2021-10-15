@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/65664118?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SigureMo
-bugs: 'https://github.com/moefyit/vuepress-plugin-ribbon/issues'
+  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
+  email: null
+  name: SigureMo
+  url: null
+  username: moefyit
+bugs: https://github.com/moefyit/vuepress-plugin-ribbon/issues
 category: plugin
 date: '2021-02-14T13:11:08.650Z'
 deprecated: false
 description: Add a beautiful ribbon to your vuepress!
-downloads: ~
-homepage: 'https://github.com/moefyit/vuepress-plugin-ribbon#readme'
+downloads: null
+homepage: https://github.com/moefyit/vuepress-plugin-ribbon#readme
 keywords:
-  - vuepress
-  - plugin
-  - ribbon
+- vuepress
+- plugin
+- ribbon
 license: MIT License
-maintainers:
-  - email: sigure.qaq@gmail.com
-    username: sigure_mo
+maintainers: null
 name: vuepress-plugin-ribbon
-npm: 'https://www.npmjs.com/package/vuepress-plugin-ribbon'
+npm: https://www.npmjs.com/package/vuepress-plugin-ribbon
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure.qaq@gmail.com
-    username: sigure_mo
-repository: 'https://github.com/moefyit/vuepress-plugin-ribbon'
+  avatar: null
+  email: sigure.qaq@gmail.com
+  name: null
+  url: null
+  username: sigure_mo
+repository: https://github.com/moefyit/vuepress-plugin-ribbon
 score: 0.5533560020032136
 stars: 14
 unstable: false

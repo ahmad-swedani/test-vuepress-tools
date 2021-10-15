@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/65664118?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SigureMo
-bugs: 'https://github.com/moefyit/vuepress-plugin-dynamic-title/issues'
+  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
+  email: null
+  name: SigureMo
+  url: null
+  username: moefyit
+bugs: https://github.com/moefyit/vuepress-plugin-dynamic-title/issues
 category: plugin
 date: '2020-05-21T20:44:15.486Z'
 deprecated: false
 description: Add a dynamic title in your vuepress!
-downloads: ~
-homepage: 'https://github.com/moefyit/vuepress-plugin-dynamic-title#readme'
+downloads: null
+homepage: https://github.com/moefyit/vuepress-plugin-dynamic-title#readme
 keywords:
-  - vuepress
-  - plugin
-  - title
+- vuepress
+- plugin
+- title
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
+maintainers: null
 name: vuepress-plugin-dynamic-title
-npm: 'https://www.npmjs.com/package/vuepress-plugin-dynamic-title'
+npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-title
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure_mo@163.com
-    username: sigure_mo
-repository: 'https://github.com/moefyit/vuepress-plugin-dynamic-title'
+  avatar: null
+  email: sigure_mo@163.com
+  name: null
+  url: null
+  username: sigure_mo
+repository: https://github.com/moefyit/vuepress-plugin-dynamic-title
 score: 0.46409229472930547
 stars: 6
 unstable: false

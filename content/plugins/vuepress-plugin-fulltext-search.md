@@ -1,37 +1,30 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/5142323?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: leonid.buneev@tirecheck.com
-    name: Leonid Buneev
-bugs: 'https://github.com/leo-buneev/vuepress-plugin-fulltext-search/issues'
+  avatar: https://avatars.githubusercontent.com/u/5142323?v=4
+  email: leonid.buneev@tirecheck.com
+  name: Leonid Buneev
+  url: null
+  username: leo-buneev
+bugs: https://github.com/leo-buneev/vuepress-plugin-fulltext-search/issues
 category: plugin
 date: '2021-05-31T07:39:23.286Z'
 deprecated: false
-description: >-
-  Adds full-text search capabilities to your vuepress site with a help of
-  flexsearch library.
-downloads: ~
-homepage: 'https://github.com/leo-buneev/vuepress-plugin-fulltext-search#readme'
-keywords: ~
+description: Adds full-text search capabilities to your vuepress site with a help
+  of flexsearch library.
+downloads: null
+homepage: https://github.com/leo-buneev/vuepress-plugin-fulltext-search#readme
+keywords: null
 license: MIT License
-maintainers:
-  - email: buneev.leonid@gmail.com
-    username: leo-buneev
+maintainers: null
 name: vuepress-plugin-fulltext-search
-npm: 'https://www.npmjs.com/package/vuepress-plugin-fulltext-search'
+npm: https://www.npmjs.com/package/vuepress-plugin-fulltext-search
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: buneev.leonid@gmail.com
-    username: leo-buneev
-repository: 'https://github.com/leo-buneev/vuepress-plugin-fulltext-search'
+  avatar: null
+  email: buneev.leonid@gmail.com
+  name: null
+  url: null
+  username: leo-buneev
+repository: https://github.com/leo-buneev/vuepress-plugin-fulltext-search
 score: 0.5180387781587363
 stars: 50
 unstable: false

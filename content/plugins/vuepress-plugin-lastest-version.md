@@ -1,41 +1,36 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/5666807?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: D.Yang
-bugs: 'https://github.com/yangyang0507/vuepress-plugin-lastest-version/issues'
+  avatar: https://avatars.githubusercontent.com/u/5666807?v=4
+  email: null
+  name: D.Yang
+  url: null
+  username: yangyang0507
+bugs: https://github.com/yangyang0507/vuepress-plugin-lastest-version/issues
 category: plugin
 date: '2021-08-04T02:50:10.544Z'
 deprecated: false
 description: Get lastest version of artifact for your document
-downloads: ~
-homepage: 'https://github.com/yangyang0507/vuepress-plugin-lastest-version#readme'
+downloads: null
+homepage: https://github.com/yangyang0507/vuepress-plugin-lastest-version#readme
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - artifact
-  - version
-  - artifact-version
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
+- artifact
+- version
+- artifact-version
 license: MIT License
-maintainers:
-  - email: koyangslash@gmail.com
-    username: dyang
+maintainers: null
 name: vuepress-plugin-lastest-version
-npm: 'https://www.npmjs.com/package/vuepress-plugin-lastest-version'
+npm: https://www.npmjs.com/package/vuepress-plugin-lastest-version
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: koyangslash@gmail.com
-    username: dyang
-repository: 'https://github.com/yangyang0507/vuepress-plugin-lastest-version'
+  avatar: null
+  email: koyangslash@gmail.com
+  name: null
+  url: null
+  username: dyang
+repository: https://github.com/yangyang0507/vuepress-plugin-lastest-version
 score: 0.48818879220240796
 stars: 0
 unstable: true

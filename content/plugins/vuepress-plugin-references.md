@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/54356406?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic.alija@gmail.com
-    name: Alija Sabic
-    username: alija
-bugs: 'https://github.com/studyathome-internationally/vuepress-plugins/issues'
+  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
+  email: sabic.alija@gmail.com
+  name: Alija Sabic
+  url: null
+  username: alija
+bugs: https://github.com/studyathome-internationally/vuepress-plugins/issues
 category: plugin
 date: '2021-07-22T19:15:22.504Z'
 deprecated: false
-description: 'Vuepress plugin for (ordered) referencing (of images, tables, etc.).'
-downloads: ~
-homepage: >-
-  https://github.com/studyathome-internationally/vuepress-plugins/tree/master/packages/vuepress-plugin-references
+description: Vuepress plugin for (ordered) referencing (of images, tables, etc.).
+downloads: null
+homepage: https://github.com/studyathome-internationally/vuepress-plugins/tree/master/packages/vuepress-plugin-references
 keywords:
-  - vuepress
-  - plugin
-  - markdown
-  - reference
+- vuepress
+- plugin
+- markdown
+- reference
 license: GNU General Public License v3.0
-maintainers:
-  - email: sabic.alija@gmail.com
-    username: alija
+maintainers: null
 name: vuepress-plugin-references
-npm: 'https://www.npmjs.com/package/vuepress-plugin-references'
+npm: https://www.npmjs.com/package/vuepress-plugin-references
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic.alija@gmail.com
-    username: alija
-repository: 'https://github.com/studyathome-internationally/vuepress-plugins'
+  avatar: null
+  email: sabic.alija@gmail.com
+  name: null
+  url: null
+  username: alija
+repository: https://github.com/studyathome-internationally/vuepress-plugins
 score: 0.6103679826146134
 stars: 0
 unstable: false

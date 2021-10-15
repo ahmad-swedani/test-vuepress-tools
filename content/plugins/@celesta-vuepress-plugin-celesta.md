@@ -1,35 +1,29 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/41458459?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan.zx@outlook.com
-    name: Celeste
-bugs: 'https://github.com/nsznsznjsz/blog/issues'
+  avatar: https://avatars.githubusercontent.com/u/41458459?v=4
+  email: yuan.zx@outlook.com
+  name: Celeste
+  url: null
+  username: yzx9
+bugs: https://github.com/nsznsznjsz/blog/issues
 category: plugin
 date: '2021-07-05T00:37:49.204Z'
 deprecated: false
 description: '> TODO: description'
-downloads: ~
-homepage: 'https://github.com/nsznsznjsz/blog#readme'
-keywords: ~
+downloads: null
+homepage: https://github.com/nsznsznjsz/blog#readme
+keywords: null
 license: MIT License
-maintainers:
-  - email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+maintainers: null
 name: '@celesta/vuepress-plugin-celesta'
-npm: 'https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-celesta'
+npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-celesta
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
-repository: 'https://github.com/nsznsznjsz/blog'
+  avatar: null
+  email: nsznsznjsz@outlook.com
+  name: null
+  url: null
+  username: nsznsznjsz
+repository: https://github.com/nsznsznjsz/blog
 score: 0.5526548091165516
 stars: 3
 unstable: true

@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/8409100?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Shawn Xu
-bugs: 'https://github.com/xxyan0205/vuepress-theme-quicksand/issues'
+  avatar: https://avatars.githubusercontent.com/u/8409100?v=4
+  email: null
+  name: Shawn Xu
+  url: null
+  username: xxyan0205
+bugs: https://github.com/xxyan0205/vuepress-theme-quicksand/issues
 category: theme
 date: '2021-07-20T13:20:27.557Z'
 deprecated: false
 description: vuepress-theme
-downloads: ~
-homepage: 'https://github.com/xxyan0205/vuepress-theme-quicksand#readme'
+downloads: null
+homepage: https://github.com/xxyan0205/vuepress-theme-quicksand#readme
 keywords:
-  - vuepress-theme
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: 630653829@qq.com
-    username: xxyan0205
+maintainers: null
 name: vuepress-theme-quicksand
-npm: 'https://www.npmjs.com/package/vuepress-theme-quicksand'
+npm: https://www.npmjs.com/package/vuepress-theme-quicksand
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 630653829@qq.com
-    username: xxyan0205
-repository: 'https://github.com/xxyan0205/vuepress-theme-quicksand'
+  avatar: null
+  email: 630653829@qq.com
+  name: null
+  url: null
+  username: xxyan0205
+repository: https://github.com/xxyan0205/vuepress-theme-quicksand
 score: 0.6063235460533551
 stars: 5
 unstable: false

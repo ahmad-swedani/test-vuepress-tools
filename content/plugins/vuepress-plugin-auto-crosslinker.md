@@ -1,39 +1,34 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/31839?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Gergo Torcsvari
-bugs: 'https://github.com/tg44/vuepress-plugin-auto-crosslinker/issues'
+  avatar: https://avatars.githubusercontent.com/u/31839?v=4
+  email: null
+  name: Gergo Torcsvari
+  url: null
+  username: tg44
+bugs: https://github.com/tg44/vuepress-plugin-auto-crosslinker/issues
 category: plugin
 date: '2021-06-05T17:16:17.922Z'
 deprecated: false
 description: Automatically cross-links pages at first appearance
-downloads: ~
-homepage: 'https://github.com/tg44/vuepress-plugin-auto-crosslinker'
+downloads: null
+homepage: https://github.com/tg44/vuepress-plugin-auto-crosslinker
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - wiki
-  - crosslink
-  - crosslinker
-license: ~
-maintainers:
-  - email: torcsvari.gergo@gmail.com
-    username: tg44
+- vuepress
+- vuepress-plugin
+- wiki
+- crosslink
+- crosslinker
+license: false
+maintainers: null
 name: vuepress-plugin-auto-crosslinker
-npm: 'https://www.npmjs.com/package/vuepress-plugin-auto-crosslinker'
+npm: https://www.npmjs.com/package/vuepress-plugin-auto-crosslinker
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: torcsvari.gergo@gmail.com
-    username: tg44
-repository: 'https://github.com/tg44/vuepress-plugin-auto-crosslinker'
+  avatar: null
+  email: torcsvari.gergo@gmail.com
+  name: null
+  url: null
+  username: tg44
+repository: https://github.com/tg44/vuepress-plugin-auto-crosslinker
 score: 0.48889437351706655
 stars: 0
 unstable: false

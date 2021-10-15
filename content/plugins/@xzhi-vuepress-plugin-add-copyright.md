@@ -1,43 +1,39 @@
 ---
 author:
-  avatar: 'https://avatars.githubusercontent.com/u/25785330?v=4'
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Xzhi
-bugs: 'https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright/issues'
+  avatar: https://avatars.githubusercontent.com/u/25785330?v=4
+  email: null
+  name: Xzhi
+  url: null
+  username: GitHub-Xzhi
+bugs: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright/issues
 category: plugin
 date: '2021-05-06T17:28:24.661Z'
 deprecated: false
-description: 添加自定义版权的VuePress插件。A VuePress plugin which add custom copyright.
-downloads: ~
-homepage: 'https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright#readme'
+description: "\u6DFB\u52A0\u81EA\u5B9A\u4E49\u7248\u6743\u7684VuePress\u63D2\u4EF6\
+  \u3002A VuePress plugin which add custom copyright."
+downloads: null
+homepage: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - copyright
-  - copy
-  - markdown
-  - 版权
-  - 添加版权
-  - 自定义版权
-  - 自定义复制行为
+- vuepress
+- vuepress-plugin
+- copyright
+- copy
+- markdown
+- "\u7248\u6743"
+- "\u6DFB\u52A0\u7248\u6743"
+- "\u81EA\u5B9A\u4E49\u7248\u6743"
+- "\u81EA\u5B9A\u4E49\u590D\u5236\u884C\u4E3A"
 license: MIT License
-maintainers:
-  - email: cx_zhi@qq.com
-    username: xzhi
+maintainers: null
 name: '@xzhi/vuepress-plugin-add-copyright'
-npm: 'https://www.npmjs.com/package/%40xzhi%2Fvuepress-plugin-add-copyright'
+npm: https://www.npmjs.com/package/%40xzhi%2Fvuepress-plugin-add-copyright
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: cx_zhi@qq.com
-    username: xzhi
-repository: 'https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright'
+  avatar: null
+  email: cx_zhi@qq.com
+  name: null
+  url: null
+  username: xzhi
+repository: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright
 score: 0.5400160939851255
 stars: 0
 unstable: false
