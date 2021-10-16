@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/82188?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Axway Appcelerator
+  email: null
+  name: Axway Appcelerator
+  url: null
+  username: appcelerator
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: plugin
 date: '2021-03-09T18:25:26.484Z'
 deprecated: false
 description: Versioning plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/appcelerator/docs-devkit#readme
 keywords:
-  - vuepress
-  - titanium
-  - versioning
-  - version
-license: ~
-maintainers:
-  - email: npmjs@appcelerator.com
-    username: appcelerator
+- vuepress
+- titanium
+- versioning
+- version
+license: false
+maintainers: null
 name: vuepress-plugin-versioning
 npm: https://www.npmjs.com/package/vuepress-plugin-versioning
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: npmjs@appcelerator.com
-    username: appcelerator
+  avatar: null
+  email: npmjs@appcelerator.com
+  name: null
+  url: null
+  username: appcelerator
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.6191264035347799
 stars: 20
