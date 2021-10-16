@@ -214,7 +214,9 @@ const removeCurrentPackages = async () => {
         recursive: true,
       })
     }
-  } catch (err) {}
+  } catch (err) {
+    console.info('All Packages Are Removed ')
+  }
 }
 
 // DONE
@@ -225,9 +227,7 @@ const getTotalPackages = async (query, baseUrl) => {
     const r = await axios.get(apiUrl)
     const totalNumberOfPackages = r.data.total
     return totalNumberOfPackages
-  } catch (err) {
-    console.error(err)
-  }
+  } catch (err) {}
 }
 
 // DONE
