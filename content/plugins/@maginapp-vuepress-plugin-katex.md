@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22275933?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1075433743@qq.com
-    name: maginapp
-    username: maginapp
+  email: 1075433743@qq.com
+  name: maginapp
+  url: null
+  username: maginapp
 bugs: https://github.com/maginapp/vuepress-plugin-katex/issues
 category: plugin
 date: '2021-03-23T11:36:03.654Z'
 deprecated: false
 description: KateX plugin for Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/maginapp/vuepress-plugin-katex#readme
 keywords:
-  - maginapp
-  - vuepress
-  - katex
-  - markdown
-license: ~
-maintainers:
-  - email: 1075433743@qq.com
-    username: maginapp
+- maginapp
+- vuepress
+- katex
+- markdown
+license: false
+maintainers: null
 name: '@maginapp/vuepress-plugin-katex'
 npm: https://www.npmjs.com/package/%40maginapp%2Fvuepress-plugin-katex
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1075433743@qq.com
-    username: maginapp
+  avatar: null
+  email: 1075433743@qq.com
+  name: null
+  url: null
+  username: maginapp
 repository: https://github.com/maginapp/vuepress-plugin-katex
 score: 0.5001224237989124
 stars: 15

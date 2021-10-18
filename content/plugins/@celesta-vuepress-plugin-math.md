@@ -1,34 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/41458459?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan.zx@outlook.com
-    name: Celeste
+  email: yuan.zx@outlook.com
+  name: Celeste
+  url: null
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/blog/issues
 category: plugin
 date: '2021-07-05T00:37:48.770Z'
 deprecated: false
 description: KaTex support for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/nsznsznjsz/blog#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+maintainers: null
 name: '@celesta/vuepress-plugin-math'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-math
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+  avatar: null
+  email: nsznsznjsz@outlook.com
+  name: null
+  url: null
+  username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
 score: 0.5196740171516055
 stars: 3
