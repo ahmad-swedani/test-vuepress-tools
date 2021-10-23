@@ -1,36 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/41458459?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-post-filter/issues/new
 category: plugin
 date: '2021-02-10T02:29:12.426Z'
 deprecated: false
 description: Post filter plugin for vuepress-next
-downloads: ~
+downloads: null
 homepage: https://github.com/nsznsznjsz/vuepress-plugin-post-filter#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - filter
+- vuepress-plugin
+- vuepress
+- plugin
+- filter
 license: MIT License
-maintainers:
-  - email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+maintainers: null
 name: vuepress-plugin-post-filter
 npm: https://www.npmjs.com/package/vuepress-plugin-post-filter
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+  avatar: null
+  email: nsznsznjsz@outlook.com
+  name: null
+  url: null
+  username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-plugin-post-filter
 score: 0.4641671585501759
 stars: 0

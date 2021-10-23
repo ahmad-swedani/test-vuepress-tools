@@ -1,34 +1,29 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1497060?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Özüm Eldoğan @ozum
+  email: null
+  name: "\xD6z\xFCm Eldo\u011Fan @ozum"
+  url: null
+  username: ozum
 bugs: https://github.com/ozum/devkeeper-plugin-vuepress/issues
 category: plugin
 date: '2020-06-10T09:22:05.641Z'
 deprecated: false
 description: VuePress plugin for devkeeper
-downloads: ~
+downloads: null
 homepage: https://github.com/ozum/devkeeper-plugin-vuepress
 keywords:
-  - oclif-plugin
-license: ~
-maintainers:
-  - email: ozum@ozum.net
-    username: ozum
+- oclif-plugin
+license: false
+maintainers: null
 name: devkeeper-plugin-vuepress
 npm: https://www.npmjs.com/package/devkeeper-plugin-vuepress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ozum@ozum.net
-    username: ozum
+  avatar: null
+  email: ozum@ozum.net
+  name: null
+  url: null
+  username: ozum
 repository: https://github.com/ozum/devkeeper-plugin-vuepress
 score: 0.5457411273086696
 stars: 0

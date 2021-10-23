@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/12245095?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: linjhon@foxmail.com
-    name: linjhon
-    username: linjhon
+  email: linjhon@foxmail.com
+  name: linjhon
+  url: null
+  username: linjhon
 bugs: https://github.com/linjhon/vuepress-plugin-pinyin-urls/issues
 category: plugin
 date: '2021-05-10T06:22:39.487Z'
 deprecated: false
 description: vuepress plugin for pinyin urls
-downloads: ~
+downloads: null
 homepage: https://github.com/linjhon/vuepress-plugin-pinyin-urls#readme
 keywords:
-  - pinyin-url
-  - plugin
-  - url
-  - vuepress
+- pinyin-url
+- plugin
+- url
+- vuepress
 license: MIT License
-maintainers:
-  - email: linjhon@foxmail.com
-    username: linjhon
+maintainers: null
 name: vuepress-plugin-pinyin-urls
 npm: https://www.npmjs.com/package/vuepress-plugin-pinyin-urls
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: linjhon@foxmail.com
-    username: linjhon
+  avatar: null
+  email: linjhon@foxmail.com
+  name: null
+  url: null
+  username: linjhon
 repository: https://github.com/linjhon/vuepress-plugin-pinyin-urls
 score: 0.6080567217689188
 stars: 1
