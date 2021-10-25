@@ -1,32 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/24851764?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: jiangliuhong
 bugs: https://github.com/jiangliuhong/vuepress-plugin-export-pdf/issues
 category: plugin
 date: '2021-10-01T15:56:25.091Z'
 deprecated: false
 description: export pdf
-downloads: ~
+downloads: null
 homepage: https://github.com/jiangliuhong/vuepress-plugin-export-pdf#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: ja_rome@163.com
-    username: jarome
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-export-pdf-pro
 npm: https://www.npmjs.com/package/vuepress-plugin-export-pdf-pro
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ja_rome@163.com
-    username: jarome
+  avatar: null
+  email: ja_rome@163.com
+  name: null
+  url: null
+  username: jarome
 repository: https://github.com/jiangliuhong/vuepress-plugin-export-pdf
 score: 0.5140699450495604
 stars: 2

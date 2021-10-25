@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/56920162?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: '@Ranxin'
+  email: null
+  name: '@Ranxin'
+  url: null
+  username: RanxinStart
 bugs: https://github.com/RanxinStart/vuepress-plugin-typing/issues
 category: plugin
 date: '2021-10-20T03:29:27.130Z'
 deprecated: false
 description: VuePress plugin for typing
-downloads: ~
+downloads: null
 homepage: https://github.com/RanxinStart/vuepress-plugin-typing#readme
 keywords:
-  - vuepress
-  - plugin
-  - typing
-  - type
-  - animition
-  - typist
+- vuepress
+- plugin
+- typing
+- type
+- animition
+- typist
 license: MIT License
-maintainers:
-  - email: ranxinstart@gmail.com
-    username: ranxin
+maintainers: null
 name: vuepress-plugin-typing
 npm: https://www.npmjs.com/package/vuepress-plugin-typing
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ranxinstart@gmail.com
-    username: ranxin
+  avatar: null
+  email: ranxinstart@gmail.com
+  name: null
+  url: null
+  username: ranxin
 repository: https://github.com/RanxinStart/vuepress-plugin-typing
 score: 0.5388201396560829
 stars: 4

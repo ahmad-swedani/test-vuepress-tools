@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-08-26T08:16:23.081Z'
 deprecated: false
 description: SEO plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/seo/
 keywords:
-  - vuepress-plugin
-  - seo
-  - search
-  - share
+- vuepress-plugin
+- seo
+- search
+- share
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-seo'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-seo
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6923994625465448
-stars: 282
+stars: 283
 unstable: false
 version: 1.20.0
-watchers: 282
+watchers: 283
 
 ---
 

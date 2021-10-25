@@ -1,32 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/35414841?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Zorin
+  email: null
+  name: Zorin
+  url: null
+  username: Zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-waline/issues
 category: plugin
 date: '2021-05-22T12:00:19.287Z'
 deprecated: false
-downloads: ~
+description: null
+downloads: null
 homepage: https://github.com/Zolyn/vuepress-plugin-waline#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: pikasama@qq.com
-    username: zolyn
+maintainers: null
 name: '@zolyn/vuepress-plugin-waline'
 npm: https://www.npmjs.com/package/%40zolyn%2Fvuepress-plugin-waline
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pikasama@qq.com
-    username: zolyn
+  avatar: null
+  email: pikasama@qq.com
+  name: null
+  url: null
+  username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-waline
 score: 0.48132745383200837
 stars: 1
