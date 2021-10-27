@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/21354589?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: wangyonghao
+  email: null
+  name: wangyonghao
+  url: null
+  username: YongHao0
 bugs: https://github.com/YongHao0/vuepress/issues
 category: plugin
 date: '2020-09-15T06:32:10.584Z'
 deprecated: false
 description: back-to-top plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/YongHao0/vuepress#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 2914905399@qq.com
-    username: wangyonghao
+maintainers: null
 name: vuepress-rc-plugin-back-to-top
 npm: https://www.npmjs.com/package/vuepress-rc-plugin-back-to-top
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2914905399@qq.com
-    username: wangyonghao
+  avatar: null
+  email: 2914905399@qq.com
+  name: null
+  url: null
+  username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
-score: 0.595314612733726
+score: 0.592195576290694
 stars: 0
 unstable: false
 version: 1.5.4-13

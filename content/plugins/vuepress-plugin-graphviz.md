@@ -1,43 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8642?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: awwaiid@thelackthereof.org
-    name: Brock Wilcox
-    username: awwaiid
+  email: awwaiid@thelackthereof.org
+  name: Brock Wilcox
+  url: null
+  username: awwaiid
 bugs: https://github.com/awwaiid/vuepress-plugin-graphviz/issues
 category: plugin
 date: '2020-08-10T12:47:53.490Z'
 deprecated: false
 description: A Vuepress plugin providing easy Graphviz diagramming
-downloads: ~
+downloads: null
 homepage: https://github.com/awwaiid/vuepress-plugin-graphviz#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - graphviz
-  - diagrams
-  - plugin
-license: ~
-maintainers:
-  - email: awwaiid@thelackthereof.org
-    username: awwaiid
+- documentation
+- vue
+- vuepress
+- graphviz
+- diagrams
+- plugin
+license: false
+maintainers: null
 name: vuepress-plugin-graphviz
 npm: https://www.npmjs.com/package/vuepress-plugin-graphviz
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: awwaiid@thelackthereof.org
-    username: awwaiid
+  avatar: null
+  email: awwaiid@thelackthereof.org
+  name: null
+  url: null
+  username: awwaiid
 repository: https://github.com/awwaiid/vuepress-plugin-graphviz
-score: 0.5333558091198035
+score: 0.5301169433574378
 stars: 0
 unstable: false
 version: 1.0.1

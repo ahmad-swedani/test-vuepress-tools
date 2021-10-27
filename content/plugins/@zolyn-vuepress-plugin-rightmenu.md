@@ -1,37 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/35414841?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Zorin
+  email: null
+  name: Zorin
+  url: null
+  username: Zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-rightmenu/issues
 category: plugin
 date: '2021-06-12T07:28:06.330Z'
 deprecated: false
-description: >-
-  [![npm](https://img.shields.io/npm/v/@zolyn/vuepress-plugin-rightmenu?style=flat-square)](https://npmjs.com/package/@zolyn/vuepress-plugin-rightmenu)
-  [![npmscope](https://img.shields.io/npm/dw/@zolyn/vuepress-plugin-rightmenu?style=flat-square)](https://n
-downloads: ~
+description: '[![npm](https://img.shields.io/npm/v/@zolyn/vuepress-plugin-rightmenu?style=flat-square)](https://npmjs.com/package/@zolyn/vuepress-plugin-rightmenu)
+  [![npmscope](https://img.shields.io/npm/dw/@zolyn/vuepress-plugin-rightmenu?style=flat-square)](https://n'
+downloads: null
 homepage: https://github.com/Zolyn/vuepress-plugin-rightmenu#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: pikasama@qq.com
-    username: zolyn
+maintainers: null
 name: '@zolyn/vuepress-plugin-rightmenu'
 npm: https://www.npmjs.com/package/%40zolyn%2Fvuepress-plugin-rightmenu
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pikasama@qq.com
-    username: zolyn
+  avatar: null
+  email: pikasama@qq.com
+  name: null
+  url: null
+  username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-rightmenu
-score: 0.5932459586986076
+score: 0.5936054692352292
 stars: 1
 unstable: false
 version: 1.1.0

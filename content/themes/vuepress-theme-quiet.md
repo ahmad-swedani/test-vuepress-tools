@@ -1,39 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1589433?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: FrankFan
+  avatar: null
+  email: null
+  name: FrankFan
+  url: null
+  username: null
 bugs: https://github.com/FrankFan/vuepress-theme-quiet/issues
 category: theme
 date: '2021-08-02T11:19:34.190Z'
 deprecated: false
 description: a vuepress blog theme, makes you feel quiet
-downloads: ~
+downloads: null
 homepage: https://github.com/FrankFan/vuepress-theme-quiet
 keywords:
-  - vuepress
-  - blog
-  - theme
-  - quiet
-license: ~
-maintainers:
-  - email: fanyong@gmail.com
-    username: fanyong
+- vuepress
+- blog
+- theme
+- quiet
+license: null
+maintainers: null
 name: vuepress-theme-quiet
 npm: https://www.npmjs.com/package/vuepress-theme-quiet
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: fanyong@gmail.com
-    username: fanyong
+  avatar: null
+  email: fanyong@gmail.com
+  name: null
+  url: null
+  username: fanyong
 repository: https://github.com/FrankFan/vuepress-theme-quiet
-score: 0.5088986545320093
+score: 0.5091238283197461
 stars: 0
 unstable: true
 version: 0.1.4
@@ -41,52 +36,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-quiet
-
-[![NPM](https://nodei.co/npm/vuepress-theme-quiet.png)](https://npmjs.org/package/vuepress-theme-quiet)
-
-a vuepress blog theme, makes you feel quiet.
-
-## preview
-
-[https://vuepress-theme-quiet.surge.sh/]
-
-## Install
-
-```bash
-$ npm install -D vuepress-theme-quiet
-OR yarn add vuepress-theme-quiet
-```
-
-## Usage
-
-```js
-{
-  // use theme
-  theme: 'vuepress-theme-quiet',
-
-  // config theme
-  themeConfig: {
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Tag', link: '/tag' },
-      { text: 'Archive', link: '/archives' },
-      { text: 'About', link: '/about' },
-      {
-        text: '🔥 Github',
-        link: 'https://github.com/FrankFan/vuepress-theme-quiet',
-      },
-    ],
-    copyright: `© vuepress-theme-quiet ${new Date().getFullYear()} ❤️🧡💚💛💜💙`,
-    additionalPages: [
-      {
-        path: '/about/',
-        filePath: path.resolve(__dirname, '../about/README.md'),
-        frontmatter: {
-          layout: 'Post',
-        },
-      },
-    ],
-  },
-}
-```

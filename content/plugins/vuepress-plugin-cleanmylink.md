@@ -1,38 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13283837?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Bestony
+  email: null
+  name: Bestony
+  url: null
+  username: bestony
 bugs: https://github.com/bestony/vuepress-plugin-cleanmylink/issues
 category: plugin
 date: '2019-12-08T05:48:51.709Z'
 deprecated: false
 description: A plugin to export all 404 link
-downloads: ~
+downloads: null
 homepage: https://github.com/bestony/vuepress-plugin-cleanmylink#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - cleanmylink
+- vuepress
+- vuepress-plugin
+- cleanmylink
 license: GNU General Public License v3.0
-maintainers:
-  - email: xiqingongzi@gmail.com
-    username: bestony
+maintainers: null
 name: vuepress-plugin-cleanmylink
 npm: https://www.npmjs.com/package/vuepress-plugin-cleanmylink
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xiqingongzi@gmail.com
-    username: bestony
+  avatar: null
+  email: xiqingongzi@gmail.com
+  name: null
+  url: null
+  username: bestony
 repository: https://github.com/bestony/vuepress-plugin-cleanmylink
-score: 0.5626154499813143
+score: 0.562927295218239
 stars: 1
 unstable: false
 version: 1.0.1

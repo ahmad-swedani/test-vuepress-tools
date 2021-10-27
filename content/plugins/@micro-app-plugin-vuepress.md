@@ -1,45 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54683357?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zyao89@gmail.com
-    name: Zyao89
+  email: zyao89@gmail.com
+  name: Zyao89
+  url: null
+  username: MicroAppJS
 bugs: https://github.com/MicroAppJS/plugin-vuepress/issues
 category: plugin
-date: '2021-10-25T17:47:52.338Z'
+date: '2021-10-26T08:42:46.451Z'
 deprecated: false
 description: '[Plugin] adapter vuepress plugin.'
-downloads: ~
+downloads: null
 homepage: https://github.com/MicroAppJS/plugin-vuepress
 keywords:
-  - micro
-  - micro-app
-  - plugin
-  - vuepress
-  - plugin-vuepress
-  - cli
+- micro
+- micro-app
+- plugin
+- vuepress
+- plugin-vuepress
+- cli
 license: MIT License
-maintainers:
-  - email: 305161066@qq.com
-    username: zyao89
+maintainers: null
 name: '@micro-app/plugin-vuepress'
 npm: https://www.npmjs.com/package/%40micro-app%2Fplugin-vuepress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 305161066@qq.com
-    username: zyao89
+  avatar: null
+  email: 305161066@qq.com
+  name: null
+  url: null
+  username: zyao89
 repository: https://github.com/MicroAppJS/plugin-vuepress
-score: 0.620802525775905
+score: 0.6211895555609962
 stars: 0
 unstable: true
-version: 0.3.6
+version: 0.3.7
 watchers: 0
 
 ---

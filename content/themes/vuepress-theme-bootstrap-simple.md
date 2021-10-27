@@ -1,42 +1,36 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/46619411?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Bambusaceae
+  avatar: null
+  email: null
+  name: Bambusaceae
+  url: null
+  username: null
 bugs: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple/issues
 category: theme
 date: '2020-10-24T11:28:05.532Z'
 deprecated: false
 description: A blog theme based on Vuepress.
-downloads: ~
+downloads: null
 homepage: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple#readme
 keywords:
-  - vuepress
-  - bootstrap
-license: MIT License
-maintainers:
-  - email: zhhahhsh@outlook.com
-    username: bambusaceae
+- vuepress
+- bootstrap
+license: null
+maintainers: null
 name: vuepress-theme-bootstrap-simple
 npm: https://www.npmjs.com/package/vuepress-theme-bootstrap-simple
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhhahhsh@outlook.com
-    username: bambusaceae
+  avatar: null
+  email: zhhahhsh@outlook.com
+  name: null
+  url: null
+  username: bambusaceae
 repository: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple
-score: 0.5231914989310847
-stars: 1
+score: 0.5229744164082191
+stars: 0
 unstable: false
 version: 1.1.4
-watchers: 1
+watchers: 0
 
 ---
 
-undefined

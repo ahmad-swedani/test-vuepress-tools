@@ -1,42 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/11006857?v=4
-  email: ~
-  name: ~
-  url: ~
-  username: factorial-io
+  avatar: null
+  email: null
+  name: null
+  url: null
+  username: null
 bugs: https://github.com/factorial-io/vuepress-theme/issues
 category: theme
 date: '2019-09-27T12:43:51.506Z'
 deprecated: false
 description: '> Vuepress theme with the factorial colors'
-downloads: ~
+downloads: null
 homepage: https://github.com/factorial-io/vuepress-theme#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: andrewbeng89@gmail.com
-    username: andrewbeng89
-  - email: kris@factorial.io
-    username: krisimmig
-  - email: mail@mgrossklaus.de
-    username: mgrsskls
-  - email: milan@factorial.io
-    username: mlnmln
-  - email: hello@factorial.io
-    username: mmatull
+keywords: null
+license: null
+maintainers: null
 name: '@factorial/vuepress-theme'
 npm: https://www.npmjs.com/package/%40factorial%2Fvuepress-theme
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: milan@factorial.io
-    username: mlnmln
+  avatar: null
+  email: milan@factorial.io
+  name: null
+  url: null
+  username: mlnmln
 repository: https://github.com/factorial-io/vuepress-theme
-score: 0.2002618153237582
+score: 0.19917681594602177
 stars: 0
 unstable: true
 version: 1.0.0-alpha.1
@@ -44,22 +32,3 @@ watchers: 0
 
 ---
 
-# Factorial vuepress theme
-
-> Vuepress theme with the factorial colors
-
-## Installation
-
-```
-$ yarn add @factorial/vuepress-theme@1.0.0-alpha.1 --dev
-```
-
-## Usage
-
-Add the following to `docs/.vuepress/config.js`.
-
-```
-module.exports = {
-  theme: require.resolve("@factorial/vuepress-theme")
-};
-```
