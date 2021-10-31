@@ -1,40 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/23313167?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    name: tolking
-    username: tolking
+  email: qw13131wang@gmail.com
+  name: tolking
+  url: null
+  username: tolking
 bugs: https://github.com/tolking/vuepress-plugin-last-reading/issues
 category: plugin
 date: '2020-10-13T06:56:00.471Z'
 deprecated: false
 description: A vuepress plugin to record the last reading
-downloads: ~
+downloads: null
 homepage: https://github.com/tolking/vuepress-plugin-last-reading
 keywords:
-  - vuepress
-  - plugin
-  - last-reading
-  - reading
-  - history
+- vuepress
+- plugin
+- last-reading
+- reading
+- history
 license: MIT License
-maintainers:
-  - email: qw13131wang@gmail.com
-    username: tolking
+maintainers: null
 name: vuepress-plugin-last-reading
 npm: https://www.npmjs.com/package/vuepress-plugin-last-reading
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    username: tolking
+  avatar: null
+  email: qw13131wang@gmail.com
+  name: null
+  url: null
+  username: tolking
 repository: https://github.com/tolking/vuepress-plugin-last-reading
 score: 0.43883461069943663
 stars: 1

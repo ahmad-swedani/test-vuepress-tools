@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-09-19T03:51:41.484Z'
+date: '2021-10-30T14:34:54.572Z'
 deprecated: false
 description: Copy Code plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/copy-code/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - copy-code
-  - code-copy
+- vuepress-plugin
+- vuepress
+- copy-code
+- code-copy
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-copy-code'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-copy-code
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6812395386636443
-stars: 290
+score: 0.6690050230562856
+stars: 291
 unstable: false
-version: 1.20.3
-watchers: 290
+version: 1.20.4
+watchers: 291
 
 ---
 

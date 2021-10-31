@@ -1,45 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-09-19T03:51:39.256Z'
+date: '2021-10-30T14:34:54.916Z'
 deprecated: false
-description: Reading time plugin for vuepress
-downloads: ~
-homepage: https://vuepress-theme-hope.github.io/reading-time/
+description: Photo Swipe plugin for vuepress
+downloads: null
+homepage: https://vuepress-theme-hope.github.io/photo-swipe/
 keywords:
-  - vuepress-plugin
-  - reading time
-  - word count
+- vuepress-plugin
+- vuepress
+- photo-swipe
+- preview
+- zoom
+- picture
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
-name: '@mr-hope/vuepress-plugin-reading-time'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-reading-time
+maintainers: null
+name: vuepress-plugin-photo-swipe
+npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6945279714297194
-stars: 290
+score: 0.6708215516364233
+stars: 291
 unstable: false
-version: 1.20.3
-watchers: 290
+version: 1.20.4
+watchers: 291
 
 ---
 
