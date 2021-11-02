@@ -1,42 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13505593?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jinhang87@163.com
-    name: jinhang
-    url: https://github.com/jinhang87
-    username: jinhang
+  email: jinhang87@163.com
+  name: jinhang
+  url: https://github.com/jinhang87
+  username: jinhang
 bugs: https://github.com/jinhang87/vuepress-plugin-tailwind/issues
 category: plugin
 date: '2021-10-31T03:15:33.241Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily
-downloads: ~
+downloads: null
 homepage: https://vuepress-plugin-tailwind.vercel.app/
 keywords:
-  - vuepress
-  - plugin
-  - tailwind
-  - purgecss
-  - style
-  - css
+- vuepress
+- plugin
+- tailwind
+- purgecss
+- style
+- css
 license: MIT License
-maintainers:
-  - email: jinhang87@163.com
-    username: jinhang
+maintainers: null
 name: '@jinhang/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40jinhang%2Fvuepress-plugin-tailwind
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jinhang87@163.com
-    username: jinhang
+  avatar: null
+  email: jinhang87@163.com
+  name: null
+  url: null
+  username: jinhang
 repository: https://github.com/jinhang87/vuepress-plugin-tailwind
 score: 0.6448493592856182
 stars: 0
@@ -53,7 +45,7 @@ watchers: 0
 ![appveyor](https://img.shields.io/appveyor/build/jinhang87/vuepress-plugin-tailwind?label=appveyor&style=for-the-badge)
 [![CI-CD](https://img.shields.io/github/workflow/status/jinhang87/vuepress-plugin-tailwind/CI-CD?label=ci-cd&logo=github&style=for-the-badge)](https://github.com/jinhang87/vuepress-plugin-tailwind/actions/workflows/ci-cd.yml)
 [![Compatibility Score](https://img.shields.io/github/workflow/status/jinhang87/vuepress-plugin-tailwind/compatibility-score?label=compatibility-score&logo=github&style=for-the-badge)](https://github.com/jinhang87/vuepress-plugin-tailwind/actions/workflows/compatibility-score.yml)
-[![Dependencies](https://img.shields.io/david/jinhang87/vuepress-plugin-tailwind?color=blue&logo=dependabot&style=for-the-badge)](https://github.com/jinhang87/vuepress-plugin-tailwind/pulls?q=dependabot)
+[![Dependencies](https://img.shields.io/requires/github/jinhang87/vuepress-plugin-tailwind?color=blue&logo=dependabot&style=for-the-badge)](https://github.com/jinhang87/vuepress-plugin-tailwind/pulls?q=dependabot)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jinhang87/vuepress-plugin-tailwind?logo=javascript&style=for-the-badge)](https://github.com/jinhang87/vuepress-plugin-tailwind/blob/master/index.js)
 [![Netlify](https://img.shields.io/netlify/c3151153-507a-4a8d-921e-890e9906fcdd?logo=netlify&style=for-the-badge)](https://vuepress-plugin-tailwind.vercel.app/)
 [![Codacy grade](https://img.shields.io/codacy/grade/bcad32bd9cb441f49a47cdac66d7a232?logo=codacy&style=for-the-badge)](https://www.codacy.com/gh/jinhang87/vuepress-plugin-tailwind/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jinhang87/vuepress-plugin-tailwind&utm_campaign=Badge_Grade)
