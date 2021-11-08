@@ -1,40 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5960988?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wxsms@foxmail.com
-    name: wxsms
-    username: wxsm
+  email: wxsms@foxmail.com
+  name: wxsms
+  url: null
+  username: wxsm
 bugs: https://github.com/wxsms/vuepress-plugin-flowchart-js
 category: plugin
 date: '2020-11-12T04:04:05.140Z'
 deprecated: false
 description: Rapid flowchart development plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-plugin-flowchart-js.wxsm.space
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - flowchart
+- documentation
+- vue
+- vuepress
+- generator
+- flowchart
 license: MIT License
-maintainers:
-  - email: wxsms@foxmail.com
-    username: wxsm
+maintainers: null
 name: vuepress-plugin-flowchart-js
 npm: https://www.npmjs.com/package/vuepress-plugin-flowchart-js
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wxsms@foxmail.com
-    username: wxsm
+  avatar: null
+  email: wxsms@foxmail.com
+  name: null
+  url: null
+  username: wxsm
 repository: https://github.com/wxsms/vuepress-plugin-flowchart-js
 score: 0.5216434989814065
 stars: 2
