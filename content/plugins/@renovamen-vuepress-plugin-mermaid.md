@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-08-18T02:14:59.797Z'
 deprecated: false
 description: A plugin for adding Mermaid to VuePress.
-downloads: ~
-homepage: >-
-  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/mermaid
+downloads: null
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/mermaid
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - mermaid
+- vue
+- vuepress
+- vuepress-plugin
+- mermaid
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: '@renovamen/vuepress-plugin-mermaid'
 npm: https://www.npmjs.com/package/%40renovamen%2Fvuepress-plugin-mermaid
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5406166157688708
-stars: 132
+stars: 133
 unstable: true
 version: 0.2.0
-watchers: 132
+watchers: 133
 
 ---
 

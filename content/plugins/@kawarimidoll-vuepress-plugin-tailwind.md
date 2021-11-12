@@ -1,42 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8146876?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kawarimidoll+git@gmail.com
-    name: kawarimidoll
-    url: https://github.com/kawarimidoll
-    username: kawarimidoll
+  email: kawarimidoll+git@gmail.com
+  name: kawarimidoll
+  url: https://github.com/kawarimidoll
+  username: kawarimidoll
 bugs: https://github.com/kawarimidoll/vuepress-plugin-tailwind/issues
 category: plugin
 date: '2020-12-13T06:43:39.211Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily
-downloads: ~
+downloads: null
 homepage: https://github.com/kawarimidoll/vuepress-plugin-tailwind#readme
 keywords:
-  - vuepress
-  - plugin
-  - tailwind
-  - purgecss
-  - style
-  - css
+- vuepress
+- plugin
+- tailwind
+- purgecss
+- style
+- css
 license: MIT License
-maintainers:
-  - email: kawarimidoll+git@gmail.com
-    username: kawarimidoll
+maintainers: null
 name: '@kawarimidoll/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40kawarimidoll%2Fvuepress-plugin-tailwind
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kawarimidoll+git@gmail.com
-    username: kawarimidoll
+  avatar: null
+  email: kawarimidoll+git@gmail.com
+  name: null
+  url: null
+  username: kawarimidoll
 repository: https://github.com/kawarimidoll/vuepress-plugin-tailwind
 score: 0.6185270181142509
 stars: 13
