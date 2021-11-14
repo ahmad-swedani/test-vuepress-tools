@@ -1,47 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-10-30T14:34:55.037Z'
 deprecated: false
 description: Powerful PWA plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/pwa/
 keywords:
-  - vuepress-plugin
-  - pwa
-  - web app
-  - workbox
-  - service worker
+- vuepress-plugin
+- pwa
+- web app
+- workbox
+- service worker
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-pwa'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-pwa
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.682994952987678
-stars: 304
+stars: 305
 unstable: false
 version: 1.20.4
-watchers: 304
+watchers: 305
 
 ---
 

@@ -1,47 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-10-30T14:34:54.411Z'
 deprecated: false
 description: active-hash plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - active-hash
-  - vuepress-theme-hope
-  - mr-hope
+- vuepress-plugin
+- vuepress
+- active-hash
+- vuepress-theme-hope
+- mr-hope
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-active-hash
 npm: https://www.npmjs.com/package/vuepress-plugin-active-hash
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.665244206672309
-stars: 304
+stars: 305
 unstable: false
 version: 1.20.4
-watchers: 304
+watchers: 305
 
 ---
 
