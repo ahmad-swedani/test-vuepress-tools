@@ -1,43 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Starzkg
+  email: null
+  name: Starzkg
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-11-10T15:08:25.735Z'
 deprecated: false
 description: VuePress plugin - Star Components
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - github
+- vuepress-plugin
+- vuepress
+- plugin
+- github
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-components-star'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-components-star
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/vuepress/vuepress-next
-score: 0.6403522757566744
-stars: 738
+score: 0.5860171198403837
+stars: 740
 unstable: true
 version: 1.0.0-beta.13
-watchers: 738
+watchers: 740
 
 ---
 

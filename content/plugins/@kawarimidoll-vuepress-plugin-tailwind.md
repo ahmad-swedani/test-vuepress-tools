@@ -1,42 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8146876?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kawarimidoll+git@gmail.com
-    name: kawarimidoll
-    url: https://github.com/kawarimidoll
-    username: kawarimidoll
+  email: kawarimidoll+git@gmail.com
+  name: kawarimidoll
+  url: https://github.com/kawarimidoll
+  username: kawarimidoll
 bugs: https://github.com/kawarimidoll/vuepress-plugin-tailwind/issues
 category: plugin
 date: '2020-12-13T06:43:39.211Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily
-downloads: ~
+downloads: null
 homepage: https://github.com/kawarimidoll/vuepress-plugin-tailwind#readme
 keywords:
-  - vuepress
-  - plugin
-  - tailwind
-  - purgecss
-  - style
-  - css
+- vuepress
+- plugin
+- tailwind
+- purgecss
+- style
+- css
 license: MIT License
-maintainers:
-  - email: kawarimidoll+git@gmail.com
-    username: kawarimidoll
+maintainers: null
 name: '@kawarimidoll/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40kawarimidoll%2Fvuepress-plugin-tailwind
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kawarimidoll+git@gmail.com
-    username: kawarimidoll
+  avatar: null
+  email: kawarimidoll+git@gmail.com
+  name: null
+  url: null
+  username: kawarimidoll
 repository: https://github.com/kawarimidoll/vuepress-plugin-tailwind
 score: 0.6185270181142509
 stars: 14
@@ -47,6 +39,10 @@ watchers: 14
 ---
 
 # @kawarimidoll/vuepress-plugin-tailwind
+
+**Announcement**: I decided to archive this repo because lost motivation to maintain this anymore...
+
+---
 
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/kawarimidoll/vuepress-plugin-tailwind?logo=github&style=for-the-badge)](https://github.com/kawarimidoll/vuepress-plugin-tailwind/blob/master/package.json)
 [![npm downloads](https://img.shields.io/npm/dt/@kawarimidoll/vuepress-plugin-tailwind?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@kawarimidoll/vuepress-plugin-tailwind)
