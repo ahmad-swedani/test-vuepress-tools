@@ -1,44 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    name: Pine Wu
-    username: octref
+  email: octref@gmail.com
+  name: Pine Wu
+  url: null
+  username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
 date: '2020-11-13T09:52:24.768Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: ~
+downloads: null
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-  - shiki
-  - vuepress
-  - vuepress-plugin
-  - syntax-highlighter
-  - highlighter
+- shiki
+- vuepress
+- vuepress-plugin
+- syntax-highlighter
+- highlighter
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: octref@gmail.com
-    username: octref
-  - email: anthonyfu117@hotmail.com
-    username: antfu
+maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    username: octref
+  avatar: null
+  email: octref@gmail.com
+  name: null
+  url: null
+  username: octref
 repository: https://github.com/octref/shiki
 score: 0.5970476008680486
 stars: 2794
@@ -79,16 +68,16 @@ shiki
 ```
 
 ```html
-<script src='https://unpkg.com/shiki'></script>
+<script src="https://unpkg.com/shiki"></script>
 <script>
-shiki
-  .getHighlighter({
-    theme: 'nord'
-  })
-  .then(highlighter => {
-    const code = highlighter.codeToHtml(`console.log('shiki');`, 'js')
-    document.getElementById('output').innerHTML = code
-  })
+  shiki
+    .getHighlighter({
+      theme: 'nord'
+    })
+    .then(highlighter => {
+      const code = highlighter.codeToHtml(`console.log('shiki');`, 'js')
+      document.getElementById('output').innerHTML = code
+    })
 </script>
 ```
 
@@ -120,7 +109,7 @@ See the [Contributing Guide](.github/CONTRIBUTING.md).
 
 ## Credits
 
-- Shiki uses [Onigasm](https://github.com/NeekSandhu/onigasm) by [@NeekSandhu](https://github.com/NeekSandhu)
+- Shiki uses [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma)
 - A lot of code is based on [vscode-textmate](https://github.com/Microsoft/vscode-textmate)
 
 ## Sponsorship
