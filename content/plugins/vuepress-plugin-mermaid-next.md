@@ -1,40 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/30686223?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: howe.personal@gmail.com
-    name: LiHowe
-    username: ziho
+  email: howe.personal@gmail.com
+  name: LiHowe
+  url: null
+  username: ziho
 bugs: https://github.com/LiHowe/vuepress-plugin-mermaid/issues
 category: plugin
 date: '2021-11-26T09:40:13.310Z'
 deprecated: false
 description: A Vuepress-next Plugin for Mermaid
-downloads: ~
+downloads: null
 homepage: https://github.com/LiHowe/vuepress-plugin-mermaid
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - vuepress-next
-  - mermaid
+- vue
+- vuepress
+- vuepress-plugin
+- vuepress-next
+- mermaid
 license: MIT License
-maintainers:
-  - email: howe.personal@gmail.com
-    username: ziho
+maintainers: null
 name: vuepress-plugin-mermaid-next
 npm: https://www.npmjs.com/package/vuepress-plugin-mermaid-next
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: howe.personal@gmail.com
-    username: ziho
+  avatar: null
+  email: howe.personal@gmail.com
+  name: null
+  url: null
+  username: ziho
 repository: https://github.com/LiHowe/vuepress-plugin-mermaid
 score: 0.4915738679873578
 stars: 0
