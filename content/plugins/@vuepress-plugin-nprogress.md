@@ -1,57 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ULIVZ
+  email: chl814@foxmail.com
+  name: ULIVZ
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2021-02-18T16:12:54.729Z'
 deprecated: false
 description: nprogress plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-nprogress#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-nprogress#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-nprogress'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-nprogress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    username: newsbielt703
+  avatar: null
+  email: newsbielt703@gmail.com
+  name: null
+  url: null
+  username: newsbielt703
 repository: https://github.com/vuejs/vuepress
 score: 0.5948079176143508
-stars: 19649
+stars: 19654
 unstable: false
 version: 1.8.2
-watchers: 19649
+watchers: 19654
 
 ---
 
@@ -101,7 +82,7 @@ If you have a VuePress-related project/component/tool, add it with a pull reques
 
 <table>
   <td align="center"><a href="http://evanyou.me"><img src="https://avatars1.githubusercontent.com/u/499550?v=4" width="100px;" alt="Evan You"/><br /><sub><b>Evan You</b></sub></a><br /><a href="https://github.com/vuejs/vuepress/commits?author=yyx990803" title="Code">💻</a></td>
-  <td align="center"><a href="http://ulivz.com"><img src="https://avatars1.githubusercontent.com/u/23133919?v=4" width="100px;" alt="ULIVZ"/><br /><sub><b>ULIVZ</b></sub></a><br /><a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Code">💻</a> <a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Documentation">📖</a></td>
+  <td align="center"><a href="https://github.com/ulivz"><img src="https://avatars1.githubusercontent.com/u/23133919?v=4" width="100px;" alt="ULIVZ"/><br /><sub><b>ULIVZ</b></sub></a><br /><a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Code">💻</a> <a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Documentation">📖</a></td>
 </table>
 
 ### Active Core Team
