@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/90176892?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Snippetors
+  email: null
+  name: Snippetors
+  url: null
+  username: Snippetors
 bugs: https://github.com/Snippetors/snippets/labels/plugin%3Atabs
 category: plugin
 date: '2021-09-20T14:59:51.173Z'
 deprecated: false
 description: Vuepress plugin - markdown custom container to display content in tabs
-downloads: ~
+downloads: null
 homepage: https://snippetors.github.io/plugins/vuepress-plugin-tabs
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - tabs
+- vuepress-plugin
+- vuepress
+- plugin
+- tabs
 license: MIT License
-maintainers:
-  - email: lucienzhangzl@outlook.com
-    username: lucienzhangzl
+maintainers: null
 name: '@snippetors/vuepress-plugin-tabs'
 npm: https://www.npmjs.com/package/%40snippetors%2Fvuepress-plugin-tabs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lucienzhangzl@outlook.com
-    username: lucienzhangzl
+  avatar: null
+  email: lucienzhangzl@outlook.com
+  name: null
+  url: null
+  username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
 score: 0.6243362458491594
 stars: 5
