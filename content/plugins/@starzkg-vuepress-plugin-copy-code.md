@@ -1,41 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/46020123?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-11-28T11:57:44.847Z'
 deprecated: false
 description: Copy Code plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - copy-code
-  - code-copy
+- vuepress-plugin
+- vuepress
+- copy-code
+- code-copy
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-copy-code'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-copy-code
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.46906465916410134
+score: 0.5880021666098115
 stars: 0
 unstable: true
 version: 1.0.0-beta.17

@@ -1,50 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    name: Pine Wu
-    username: octref
+  email: octref@gmail.com
+  name: Pine Wu
+  url: null
+  username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
 date: '2020-11-13T09:52:24.768Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: ~
+downloads: null
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-  - shiki
-  - vuepress
-  - vuepress-plugin
-  - syntax-highlighter
-  - highlighter
+- shiki
+- vuepress
+- vuepress-plugin
+- syntax-highlighter
+- highlighter
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: octref@gmail.com
-    username: octref
-  - email: anthonyfu117@hotmail.com
-    username: antfu
+maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    username: octref
+  avatar: null
+  email: octref@gmail.com
+  name: null
+  url: null
+  username: octref
 repository: https://github.com/octref/shiki
 score: 0.5970476008680486
-stars: 2813
+stars: 2815
 unstable: true
 version: 0.2.7
-watchers: 2813
+watchers: 2815
 
 ---
 
@@ -70,7 +59,7 @@ shiki
     theme: 'nord'
   })
   .then(highlighter => {
-    console.log(highlighter.codeToHtml(`console.log('shiki');`, 'js'))
+    console.log(highlighter.codeToHtml(`console.log('shiki');`, { lang: 'js' }))
   })
 
 // <pre class="shiki" style="background-color: #2e3440"><code>
@@ -86,7 +75,7 @@ shiki
       theme: 'nord'
     })
     .then(highlighter => {
-      const code = highlighter.codeToHtml(`console.log('shiki');`, 'js')
+      const code = highlighter.codeToHtml(`console.log('shiki');`, { lang: 'js' })
       document.getElementById('output').innerHTML = code
     })
 </script>
