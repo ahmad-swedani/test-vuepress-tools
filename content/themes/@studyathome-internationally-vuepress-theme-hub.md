@@ -1,39 +1,29 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic@technikum-wien.at
-    name: Alija Sabic
+  avatar: null
+  email: sabic@technikum-wien.at
+  name: Alija Sabic
+  url: null
+  username: null
 bugs: https://github.com/studyathome-internationally/hub.js/issues
 category: theme
 date: '2021-12-06T22:11:51.365Z'
 deprecated: false
-description: >-
-  Vuepress theme for StudyATHome Internationally eLearning Sharing & Virtual
+description: Vuepress theme for StudyATHome Internationally eLearning Sharing & Virtual
   Project Teams Hub
-downloads: ~
+downloads: null
 homepage: https://github.com/studyathome-internationally/hub.js#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: sabic.alija@gmail.com
-    username: alija
-  - email: deinhofe@technikum-wien.at
-    username: madinaustria
+keywords: null
+license: null
+maintainers: null
 name: '@studyathome-internationally/vuepress-theme-hub'
-npm: >-
-  https://www.npmjs.com/package/%40studyathome-internationally%2Fvuepress-theme-hub
+npm: https://www.npmjs.com/package/%40studyathome-internationally%2Fvuepress-theme-hub
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic.alija@gmail.com
-    username: alija
+  avatar: null
+  email: sabic.alija@gmail.com
+  name: null
+  url: null
+  username: alija
 repository: https://github.com/studyathome-internationally/hub.js
 score: 0.3558186821537046
 stars: 0
@@ -43,4 +33,3 @@ watchers: 0
 
 ---
 
-undefined
