@@ -1,43 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22881872?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: 君惜
+  email: null
+  name: "\u541B\u60DC"
+  url: null
+  username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
-date: '2021-11-30T09:07:24.222Z'
+date: '2021-12-15T07:04:32.038Z'
 deprecated: false
 description: vuepress plugin for demoblock
-downloads: ~
+downloads: null
 homepage: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus#readme
 keywords:
-  - vuepress2
-  - vuepress
-  - vue
-  - plugin
+- vuepress2
+- vuepress
+- vue
+- plugin
 license: MIT License
-maintainers:
-  - email: xinlei3166@126.com
-    username: xinlei3166
+maintainers: null
 name: vuepress-plugin-demoblock-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xinlei3166@126.com
-    username: xinlei3166
+  avatar: null
+  email: xinlei3166@126.com
+  name: null
+  url: null
+  username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5279891375032896
-stars: 5
+score: 0.5281415590490742
+stars: 6
 unstable: false
-version: 1.5.0
-watchers: 5
+version: 1.5.1
+watchers: 6
 
 ---
 
@@ -162,9 +157,9 @@ plugins: [
   --shiki-token-keyword: #cf222e;
   --shiki-token-parameter: #24292f;
   --shiki-token-function: #8250df;
-  --shiki-token-string-expression: #116329;
-  // --shiki-token-punctuation: #000011;
-  // --shiki-token-link: #000012;
+  --shiki-token-string-expression: #0a3069; // #116329
+  --shiki-token-punctuation: #24292f;
+  //--shiki-token-link: #000012;
 }
 
 html.dark {
@@ -176,9 +171,9 @@ html.dark {
   --shiki-token-keyword: #ff7b72;
   --shiki-token-parameter: #c9d1d9;
   --shiki-token-function: #d2a8ff;
-  --shiki-token-string-expression: #7ee787;
-  // --shiki-token-punctuation: #000011;
-  // --shiki-token-link: #000012;
+  --shiki-token-string-expression: #a5d6ff; // #7ee787;
+  --shiki-token-punctuation: #c9d1d9;
+  //--shiki-token-link: #000012;
 }
 ```
 

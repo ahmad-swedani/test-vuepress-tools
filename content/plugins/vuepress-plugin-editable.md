@@ -1,33 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8652596?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: veaba
+  email: null
+  name: veaba
+  url: null
+  username: veaba
 bugs: https://github.com/veaba/vuepress-plugin-editable/issues
 category: plugin
 date: '2021-08-22T07:51:40.952Z'
 deprecated: false
 description: <p align="center">
-downloads: ~
+downloads: null
 homepage: https://github.com/veaba/vuepress-plugin-editable
-keywords: ~
-license: ~
-maintainers:
-  - email: 908662421@qq.com
-    username: veaba
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-editable
 npm: https://www.npmjs.com/package/vuepress-plugin-editable
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 908662421@qq.com
-    username: veaba
+  avatar: null
+  email: 908662421@qq.com
+  name: null
+  url: null
+  username: veaba
 repository: https://github.com/veaba/vuepress-plugin-editable
 score: 0.4815977980018178
 stars: 1
