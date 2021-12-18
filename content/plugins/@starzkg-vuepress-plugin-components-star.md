@@ -1,56 +1,38 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
-bugs: https://github.com/vuepress/vuepress-next/issues
+  avatar: https://avatars.githubusercontent.com/u/46020123?v=4
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: shentuzhigang
+bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
-date: '2021-04-11T12:39:28.552Z'
+date: '2021-11-28T12:06:56.390Z'
 deprecated: false
-description: VuePress plugin - markdown container
-downloads: ~
-homepage: https://github.com/vuepress
+description: VuePress plugin - Star Components
+downloads: null
+homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - markdown
-  - container
+- vuepress-plugin
+- vuepress
+- plugin
+- github
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-name: '@vuepress/plugin-container'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-container
+maintainers: null
+name: '@starzkg/vuepress-plugin-components-star'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-components-star
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
-repository: https://github.com/vuepress/vuepress-next
-score: 0.6585322494653801
-stars: 808
-unstable: false
-version: 2.0.0-beta.8
-watchers: 808
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
+repository: https://github.com/shentuzhigang/vuepress-theme-star
+score: 0.18657022753201102
+stars: 0
+unstable: true
+version: 1.0.0-beta.17
+watchers: 0
 
 ---
 
