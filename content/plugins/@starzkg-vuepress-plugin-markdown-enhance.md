@@ -1,49 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/46020123?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-11-28T12:05:53.435Z'
 deprecated: false
 description: Markdown enhancement plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
-  - vuepress-plugin
-  - markdown
-  - align
-  - superscript
-  - subscript
-  - footnote
-  - flowchart
-  - tex
-  - katex
-  - mark
-  - presentation
-  - reveal.js
+- vuepress-plugin
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-markdown-enhance'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-markdown-enhance
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5715608518618728
+score: 0.5716902876516394
 stars: 1
 unstable: true
 version: 1.0.0-beta.17
