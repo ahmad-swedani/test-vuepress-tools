@@ -1,40 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/46020123?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-11-28T12:32:26.967Z'
 deprecated: false
 description: A VuePress plugin which handles copy behaviors.
-downloads: ~
+downloads: null
 homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - copyright
-  - copy
-  - markdown
+- vuepress
+- vuepress-plugin
+- copyright
+- copy
+- markdown
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-copyright'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-copyright
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5883171847741917
 stars: 1
