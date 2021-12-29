@@ -1,42 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/23710354?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: daodaolee
+  email: null
+  name: daodaolee
+  url: null
+  username: daodaolee
 bugs: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer/issues
 category: plugin
 date: '2021-12-26T08:22:01.160Z'
 deprecated: false
 description: a music player by vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer#readme
 keywords:
-  - vuepress
-  - music
-  - player
+- vuepress
+- music
+- player
 license: MIT License
-maintainers:
-  - email: im@daodaolee.cn
-    username: daodaolee
+maintainers: null
 name: vuepress-plugin-awesome-musicplayer
 npm: https://www.npmjs.com/package/vuepress-plugin-awesome-musicplayer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: im@daodaolee.cn
-    username: daodaolee
+  avatar: null
+  email: im@daodaolee.cn
+  name: null
+  url: null
+  username: daodaolee
 repository: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer
 score: 0.49938235597314257
-stars: 9
+stars: 10
 unstable: false
 version: 1.1.2
-watchers: 9
+watchers: 10
 
 ---
 
