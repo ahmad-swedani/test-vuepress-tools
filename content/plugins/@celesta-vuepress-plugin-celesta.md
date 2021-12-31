@@ -1,34 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/41458459?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan.zx@outlook.com
-    name: Celeste
+  email: yuan.zx@outlook.com
+  name: Celeste
+  url: null
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/blog/issues
 category: plugin
 date: '2021-07-05T00:37:49.204Z'
 deprecated: false
 description: '> TODO: description'
-downloads: ~
+downloads: null
 homepage: https://github.com/nsznsznjsz/blog#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+maintainers: null
 name: '@celesta/vuepress-plugin-celesta'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-celesta
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+  avatar: null
+  email: nsznsznjsz@outlook.com
+  name: null
+  url: null
+  username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
 score: 0.5530591162135192
 stars: 3
@@ -40,8 +34,9 @@ watchers: 3
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning on SHU
-- 🤔 I’m currently learning English...
+- 🌱 I’m studying for my master's degree on SHU
+- 🤔 I’m currently learning English
+- ⚡ Fun fact: Rendering in Computer Graphic
 
 ![Celeste's github stats](https://github-readme-stats.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)
 ![Celeste's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)

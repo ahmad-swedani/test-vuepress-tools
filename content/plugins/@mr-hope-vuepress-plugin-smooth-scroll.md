@@ -1,47 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-14T16:33:03.880Z'
 deprecated: false
 description: smooth-scroll plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - smooth-scroll
-  - vuepress-theme-hope
-  - mr-hope
+- vuepress-plugin
+- vuepress
+- smooth-scroll
+- vuepress-theme-hope
+- mr-hope
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-smooth-scroll'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-smooth-scroll
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6659798384293217
-stars: 346
+stars: 345
 unstable: false
 version: 1.21.0
-watchers: 346
+watchers: 345
 
 ---
 
