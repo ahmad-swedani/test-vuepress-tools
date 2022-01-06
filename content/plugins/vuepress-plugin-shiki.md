@@ -1,50 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    name: Pine Wu
-    username: octref
+  email: octref@gmail.com
+  name: Pine Wu
+  url: null
+  username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
-date: '2020-11-13T09:52:24.768Z'
+date: '2022-01-05T14:51:15.799Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: ~
+downloads: null
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-  - shiki
-  - vuepress
-  - vuepress-plugin
-  - syntax-highlighter
-  - highlighter
+- shiki
+- vuepress
+- vuepress-plugin
+- syntax-highlighter
+- highlighter
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: octref@gmail.com
-    username: octref
-  - email: anthonyfu117@hotmail.com
-    username: antfu
+maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    username: octref
+  avatar: null
+  email: octref@gmail.com
+  name: null
+  url: null
+  username: octref
 repository: https://github.com/octref/shiki
-score: 0.5970476008680486
-stars: 2911
+score: 0.6160114463275784
+stars: 2916
 unstable: true
-version: 0.2.7
-watchers: 2911
+version: 0.10.0
+watchers: 2916
 
 ---
 
@@ -114,6 +103,7 @@ Clone [shikijs/shiki-starter](https://github.com/shikijs/shiki-starter) to play 
 - [Torchlight](https://torchlight.dev/), a syntax highlighting API powered by the Shiki tokenizer.
 - [CodeChalk](https://github.com/a20185/codechalk), A neat terminal code highlighting tool powered by Shiki tokenizer and Chalk.
 - [shiki-renderer-pdf](https://github.com/sachinraja/shiki-renderer-pdf), a Shiki renderer for PDFs. Used in [pdfc](https://github.com/sachinraja/pdfc) to compile your source code to PDFs.
+- [Code Hike](https://codehike.org/), a collection of components and mods for MDX codeblocks.
 
 ## Contributing
 
