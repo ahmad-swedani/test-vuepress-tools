@@ -1,42 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13505593?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jinhang87@163.com
-    name: jinhang
-    url: https://github.com/jinhang87
-    username: jinhang
+  email: jinhang87@163.com
+  name: jinhang
+  url: https://github.com/jinhang87
+  username: jinhang
 bugs: https://github.com/jinhang87/vuepress-plugin-tailwind/issues
 category: plugin
 date: '2021-10-31T03:15:33.241Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily
-downloads: ~
+downloads: null
 homepage: https://vuepress-plugin-tailwind.vercel.app/
 keywords:
-  - vuepress
-  - plugin
-  - tailwind
-  - purgecss
-  - style
-  - css
+- vuepress
+- plugin
+- tailwind
+- purgecss
+- style
+- css
 license: MIT License
-maintainers:
-  - email: jinhang87@163.com
-    username: jinhang
+maintainers: null
 name: '@jinhang/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40jinhang%2Fvuepress-plugin-tailwind
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jinhang87@163.com
-    username: jinhang
+  avatar: null
+  email: jinhang87@163.com
+  name: null
+  url: null
+  username: jinhang
 repository: https://github.com/jinhang87/vuepress-plugin-tailwind
 score: 0.6447295223434129
 stars: 0
