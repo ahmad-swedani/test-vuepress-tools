@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6586811?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Dylan Wu
+  avatar: null
+  email: null
+  name: Dylan Wu
+  url: null
+  username: null
 bugs: https://github.com/dylan-wu/vuepress-theme-learner/issues
 category: theme
 date: '2019-02-27T17:46:42.173Z'
 deprecated: false
 description: Vuepress theme - Learner
-downloads: ~
+downloads: null
 homepage: https://github.com/dylan-wu/vuepress-theme-learner
 keywords:
-  - vuepress
-  - theme
-license: MIT License
-maintainers:
-  - email: dylanwu@live.com
-    username: dylan_wu
+- vuepress
+- theme
+license: null
+maintainers: null
 name: vuepress-theme-learner
 npm: https://www.npmjs.com/package/vuepress-theme-learner
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dylanwu@live.com
-    username: dylan_wu
+  avatar: null
+  email: dylanwu@live.com
+  name: null
+  url: null
+  username: dylan_wu
 repository: https://github.com/dylan-wu/vuepress-theme-learner
 score: 0.0324466916809243
 stars: 0
@@ -39,20 +34,3 @@ watchers: 0
 
 ---
 
-> for Vuepress `1.x`
-
-# Vuepress Theme - Learner
-
-[![](https://img.shields.io/circleci/project/github/dylan-wu/vuepress-theme-learner/master.svg?style=flat)](https://circleci.com/gh/meteorlxy/vuepress-theme-learner)
-[![](https://img.shields.io/npm/v/vuepress-theme-learner/latest.svg?style=flat)](https://www.npmjs.com/package/vuepress-theme-learner)
-[![](https://img.shields.io/npm/v/vuepress-theme-learner/next.svg?style=flat)](https://www.npmjs.com/package/vuepress-theme-learner)
-[![](https://img.shields.io/github/license/dylan-wu/vuepress-theme-learner.svg?style=flat)](./LICENSE)
-
-:heart: Learner theme for [Vuepress](https://vuepress.vuejs.org)
-
-## Installation
-
-```sh
-# for vuepress 1.x
-npm install vuepress-theme-learner@next
-```
