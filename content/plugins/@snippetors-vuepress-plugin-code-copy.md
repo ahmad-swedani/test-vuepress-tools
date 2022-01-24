@@ -1,45 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/90176892?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Snippetors
+  email: null
+  name: Snippetors
+  url: null
+  username: Snippetors
 bugs: https://github.com/Snippetors/snippets/labels/plugin%3Acode-copy
 category: plugin
 date: '2021-09-20T13:55:53.783Z'
 deprecated: false
 description: Vuepress plugin - a button to copy code block
-downloads: ~
+downloads: null
 homepage: https://snippetors.github.io/plugins/vuepress-plugin-code-copy
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - code-copy
-  - copy
-  - clipboard
+- vuepress-plugin
+- vuepress
+- plugin
+- code-copy
+- copy
+- clipboard
 license: MIT License
-maintainers:
-  - email: lucienzhangzl@outlook.com
-    username: lucienzhangzl
+maintainers: null
 name: '@snippetors/vuepress-plugin-code-copy'
 npm: https://www.npmjs.com/package/%40snippetors%2Fvuepress-plugin-code-copy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lucienzhangzl@outlook.com
-    username: lucienzhangzl
+  avatar: null
+  email: lucienzhangzl@outlook.com
+  name: null
+  url: null
+  username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
 score: 0.6234560943289105
-stars: 6
+stars: 5
 unstable: false
 version: 1.1.0
-watchers: 6
+watchers: 5
 
 ---
 
@@ -51,8 +46,8 @@ code snippets, copy &amp; run
 
 [snippets.ink](http://snippets.ink)
 
-[![VuePress Check](https://github.com/Snippetors/snippets/actions/workflows/vuepress_check.yml/badge.svg?branch=v0.1.0)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/vuepress_check.yml)
-[![Build](https://github.com/Snippetors/snippets/actions/workflows/build.yml/badge.svg?branch=v0.1.0)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/build.yml)
+[![VuePress Check](https://github.com/Snippetors/snippets/actions/workflows/vuepress_check.yml/badge.svg?branch=v0.1.3)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/vuepress_check.yml)
+[![Build](https://github.com/Snippetors/snippets/actions/workflows/build.yml/badge.svg?branch=v0.1.3)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/build.yml)
 [![Website](https://img.shields.io/website?up_message=online&url=http%3A%2F%2Fsnippets.ink)](http://snippets.ink)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/Snippetors/snippets?color=blue)](https://github.com/Snippetors/snippets)
 [![GitHub](https://img.shields.io/github/license/Snippetors/snippets)](https://github.com/Snippetors/snippets/blob/main/LICENSE)
@@ -63,10 +58,10 @@ code snippets, copy &amp; run
 
 | 编程语言 |                                                                                                  状态                                                                                                   |
 | :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   C++    |     [![C++ Check](https://github.com/Snippetors/snippets/actions/workflows/cpp_test.yml/badge.svg?branch=v0.1.0)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/cpp_test.yml)      |
-|   Java   |    [![Java Check](https://github.com/Snippetors/snippets/actions/workflows/java_test.yml/badge.svg?branch=v0.1.0)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/java_test.yml)    |
-|  Python  | [![Python Check](https://github.com/Snippetors/snippets/actions/workflows/python_test.yml/badge.svg?branch=v0.1.0)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/python_test.yml) |
-|    Go    |       [![Go Check](https://github.com/Snippetors/snippets/actions/workflows/go_test.yml/badge.svg?branch=v0.1.0)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/go_test.yml)       |
+|   C++    |     [![C++ Check](https://github.com/Snippetors/snippets/actions/workflows/cpp_test.yml/badge.svg?branch=v0.1.3)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/cpp_test.yml)      |
+|   Java   |    [![Java Check](https://github.com/Snippetors/snippets/actions/workflows/java_test.yml/badge.svg?branch=v0.1.3)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/java_test.yml)    |
+|  Python  | [![Python Check](https://github.com/Snippetors/snippets/actions/workflows/python_test.yml/badge.svg?branch=v0.1.3)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/python_test.yml) |
+|    Go    |       [![Go Check](https://github.com/Snippetors/snippets/actions/workflows/go_test.yml/badge.svg?branch=v0.1.3)](https://github.com/Snippetors/snippets/blob/main/.github/workflows/go_test.yml)       |
 
 ## 插件
 
