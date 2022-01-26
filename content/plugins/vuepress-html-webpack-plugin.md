@@ -1,45 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4113649?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: charles.blaxland@gmail.com
-    name: Charles Blaxland
-    url: https://github.com/ampedandwired
+  email: charles.blaxland@gmail.com
+  name: Charles Blaxland
+  url: https://github.com/ampedandwired
+  username: jantimon
 bugs: https://github.com/jantimon/html-webpack-plugin/issues
 category: plugin
 date: '2018-04-16T17:42:11.111Z'
 deprecated: false
 description: Simplifies creation of HTML files to serve your webpack bundles
-downloads: ~
+downloads: null
 homepage: https://github.com/jantimon/html-webpack-plugin
 keywords:
-  - webpack
-  - plugin
-  - html
-  - html-webpack-plugin
+- webpack
+- plugin
+- html
+- html-webpack-plugin
 license: MIT License
-maintainers:
-  - email: yyx990803@gmail.com
-    username: yyx990803
+maintainers: null
 name: vuepress-html-webpack-plugin
 npm: https://www.npmjs.com/package/vuepress-html-webpack-plugin
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yyx990803@gmail.com
-    username: yyx990803
+  avatar: null
+  email: yyx990803@gmail.com
+  name: null
+  url: null
+  username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
 score: 0.6112503633462657
-stars: 9986
+stars: 9989
 unstable: false
 version: 3.2.0
-watchers: 9986
+watchers: 9989
 
 ---
 
@@ -130,6 +123,7 @@ The `html-webpack-plugin` provides [hooks](https://github.com/jantimon/html-webp
  * [webpack-concat-plugin](https://github.com/hxlniada/webpack-concat-plugin) for concat and uglify files that needn't to be webpack bundles(for legacy files) and inject to html-webpack-plugin.
  * [html-webpack-link-type-plugin](https://github.com/steadyapp/html-webpack-link-type-plugin) adds a configurable mimetype to resources injected as links (such as adding type="text/css" to external stylesheets) for compatibility with "strict mode". 
  * [csp-html-webpack-plugin](https://github.com/slackhq/csp-html-webpack-plugin) to add [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) meta tags to the HTML output
+ * [strict-csp-html-webpack-plugin](https://github.com/google/strict-csp/tree/main/strict-csp-html-webpack-plugin) to add a [**strict** Content-Security-Policy (CSP)](https://web.dev) as a `meta` tag to the HTML output. A strict CSP is specifically efficient against XSS attacks.
  * [webpack-nomodule-plugin](https://github.com/swimmadude66/webpack-nomodule-plugin) allows you to add a `nomodule` attribute to specific injected scripts, which prevents the scripts from being loaded by newer browsers. Good for limiting loads of polyfills.
   * [html-webpack-skip-assets-plugin](https://github.com/swimmadude66/html-webpack-skip-assets-plugin) Skip adding certain output files to the html file. Built as a drop-in replacement for [html-webpack-exclude-assets-plugin](https://www.npmjs.com/package/html-webpack-exclude-assets-plugin) and works with newer [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) versions
  * [html-webpack-inject-preload](https://github.com/principalstudio/html-webpack-inject-preload) allows to add preload links &lt;link rel='preload'> anywhere you want.
