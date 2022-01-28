@@ -1,47 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-01-04T13:08:49.686Z'
 deprecated: false
 description: Powerful PWA plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/pwa/
 keywords:
-  - vuepress-plugin
-  - pwa
-  - web app
-  - workbox
-  - service worker
+- vuepress-plugin
+- pwa
+- web app
+- workbox
+- service worker
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-pwa'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-pwa
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6934934620604476
-stars: 361
+stars: 364
 unstable: false
 version: 1.23.0
-watchers: 361
+watchers: 364
 
 ---
 
@@ -63,7 +55,7 @@ watchers: 361
 [![DeepScan grade](https://deepscan.io/api/teams/9792/projects/17544/branches/405512/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9792&pid=17544&bid=405512)
 ![CodeQL](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/codeql-analysis.yml/badge.svg)
 [![codecov](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope/branch/main/graph/badge.svg?token=TNYMbGlxQ9)](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope)
-![Test theme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/test-v2.yml/badge.svg)
+![Test theme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/v2-test.yml/badge.svg)
 
 [![opencollective](https://opencollective.com/vuepress-theme-hope/tiers/badge.svg)](https://opencollective.com/vuepress-theme-hope)
 
@@ -156,4 +148,4 @@ Here is a list of changes:
 
   Most visitors do not use this feature.
 
-- [ ] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
+- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
