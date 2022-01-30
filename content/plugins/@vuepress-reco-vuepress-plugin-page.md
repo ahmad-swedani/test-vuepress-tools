@@ -1,40 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    name: reco_luan
-    username: reco_luan
+  email: recoluan@outlook.com
+  name: reco_luan
+  url: null
+  username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
 category: plugin
 date: '2021-09-16T15:44:29.312Z'
 deprecated: false
 description: A simple blog plugin for vuepress-theme-reco.
-downloads: ~
+downloads: null
 homepage: https://github.com/recoluan/vuepress-theme-reco-next#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - blog
+- vuepress-plugin
+- vuepress
+- blog
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-page'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-page
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.5722597218714339
 stars: 43
@@ -113,23 +104,23 @@ theme-cli init
 
 - [ ] 加密功能
 - [ ] ~~loading 功能~~
-- [ ] 自定义首页功能
+- [x] 自定义首页功能
 - [ ] 增加 icon 功能
 - [x] nprogress 插件
 - [x] back-to-top 插件
 - [x] comment 插件（目前仅支持 valine，vssue 还没有支持 Vue3）
 - [x] container 插件
 - [ ] 公告 插件
-- [ ] 代码预览 插件
+- [x] 代码预览 插件
 - [ ] ~~提供自定义任意页面的 API~~
 - [ ] ~~允许本地自定义 style（风格）代码~~
 - [ ] 提供 tailwind 自定义 config 入口（后续官方所有风格和插件均采用 css + taiwindcss 方案）
-- [ ] 按照文件夹自动进行分类，只允许自定义 tag，根据 tag 生成神经网络图（参考 obsidian）
+- [ ] 按照文件夹自动进行分类，只允许自定义 tag，~~根据 tag 生成神经网络图（参考 obsidian）~~
 
 ### 优化
 
-- [ ] 完善文档
+- [x] 完善文档
 - [ ] PWA 样式优化
-- [ ] 侧边栏样式优化
+- [x] 侧边栏样式优化
 - [x] 去除 scss，采用 css + postcss 方案
 - [ ] 将通用功能全部下沉至 vuepress-theme-reco，精简 style（风格）代码
