@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SigureMo
+  email: null
+  name: SigureMo
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-cursor-effects/issues
 category: plugin
 date: '2021-02-14T18:42:50.948Z'
 deprecated: false
 description: Add a cute click effect to your mouse in your vuepress!
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-cursor-effects#readme
 keywords:
-  - vuepress
-  - plugin
-  - cursor
-  - effects
-license: MIT License
-maintainers:
-  - email: sigure.qaq@gmail.com
-    username: sigure_mo
+- vuepress
+- plugin
+- cursor
+- effects
+license: Other
+maintainers: null
 name: vuepress-plugin-cursor-effects
 npm: https://www.npmjs.com/package/vuepress-plugin-cursor-effects
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure.qaq@gmail.com
-    username: sigure_mo
+  avatar: null
+  email: sigure.qaq@gmail.com
+  name: null
+  url: null
+  username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-cursor-effects
 score: 0.555076467601269
 stars: 15
@@ -50,11 +45,13 @@ watchers: 15
    <a href="https://github.com/moefyit/vuepress-plugin-cursor-effects/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/moefyit/vuepress-plugin-cursor-effects"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-cursor-effects" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dt/vuepress-plugin-cursor-effects.svg"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-cursor-effects" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dm/vuepress-plugin-cursor-effects.svg"></a>
-   <a href="https://github.com/moefyit/vuepress-plugin-cursor-effects/blob/master/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-cursor-effects"></a>
+   <a href="https://github.com/moefyit/vuepress-plugin-cursor-effects/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-cursor-effects"></a>
 </p>
 
 -  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  LiveDemo: [notev](https://www.sigure.xyz/)
+-  Live demo: [notev](https://nyakku.moe/)
+
+> Want to use it outside of VuePress? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
 
 ## Install
 

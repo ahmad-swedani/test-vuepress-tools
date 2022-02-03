@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SigureMo
+  email: null
+  name: SigureMo
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-meting/issues
 category: plugin
 date: '2021-08-18T10:24:51.026Z'
 deprecated: false
 description: A simple plugin connect APlayer, Meting and VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-meting#readme
 keywords:
-  - vuepress
-  - plugin
-  - meting
-  - aplayer
-license: MIT License
-maintainers:
-  - email: sigure.qaq@gmail.com
-    username: sigure_mo
+- vuepress
+- plugin
+- meting
+- aplayer
+license: Other
+maintainers: null
 name: vuepress-plugin-meting
 npm: https://www.npmjs.com/package/vuepress-plugin-meting
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure.qaq@gmail.com
-    username: sigure_mo
+  avatar: null
+  email: sigure.qaq@gmail.com
+  name: null
+  url: null
+  username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.5335749420891035
 stars: 25
@@ -50,11 +45,11 @@ watchers: 25
    <a href="https://github.com/moefyit/vuepress-plugin-meting/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/moefyit/vuepress-plugin-meting"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dt/vuepress-plugin-meting.svg"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dm/vuepress-plugin-meting.svg"></a>
-   <a href="https://github.com/moefyit/vuepress-plugin-meting/blob/master/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-meting"></a>
+   <a href="https://github.com/moefyit/vuepress-plugin-meting/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-meting"></a>
 </p>
 
 -  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  LiveDemo: [notev](https://nyakku.moe/)
+-  Live demo: [notev](https://nyakku.moe/)
 
 <Meting server="netease"
         type="playlist"
