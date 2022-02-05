@@ -1,40 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-14T16:33:01.758Z'
 deprecated: false
 description: Add This plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/add-this/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - add-this
-  - share
+- vuepress-plugin
+- vuepress
+- add-this
+- share
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-add-this
 npm: https://www.npmjs.com/package/vuepress-plugin-add-this
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6695162562929433
 stars: 366
@@ -123,6 +115,10 @@ Here is a list of changes:
 
 ## New plugins
 
+- [x] Blog2 ![new](https://img.shields.io/badge/-new-brightgreen)
+
+  Build a own blog plugin to support blog with better performance
+
 - [x] LightGallery ![new](https://img.shields.io/badge/-new-brightgreen)
 
   A image viewer plugin for VuePress using [lightGallary](https://www.lightgalleryjs.com/)
@@ -138,10 +134,6 @@ Here is a list of changes:
 - [ ] Share2 ![new](https://img.shields.io/badge/-new-brightgreen)
 
   A new share plugin providing page share.
-
-- [ ] SimpleBlog ![new](https://img.shields.io/badge/-new-brightgreen)
-
-  Build a own blog plugin to support blog with better performance
 
 ## Theme changes
 

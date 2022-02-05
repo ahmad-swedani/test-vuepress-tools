@@ -1,37 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10718226?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Tickly
+  email: null
+  name: Tickly
+  url: null
+  username: Tickly
 bugs: https://github.com/Tickly/vuepress-plugin-code-example/issues
 category: plugin
 date: '2021-12-18T05:56:21.718Z'
 deprecated: false
-description: 你总不想你的示例文档要这么写吧？
-downloads: ~
+description: "\u4F60\u603B\u4E0D\u60F3\u4F60\u7684\u793A\u4F8B\u6587\u6863\u8981\u8FD9\
+  \u4E48\u5199\u5427\uFF1F"
+downloads: null
 homepage: https://github.com/Tickly/vuepress-plugin-code-example#readme
 keywords:
-  - vuepress
-  - plugin
-  - code
-  - example
-license: ~
-maintainers:
-  - email: 807081817@qq.com
-    username: taoguo
+- vuepress
+- plugin
+- code
+- example
+license: false
+maintainers: null
 name: vuepress-plugin-code-example
 npm: https://www.npmjs.com/package/vuepress-plugin-code-example
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 807081817@qq.com
-    username: taoguo
+  avatar: null
+  email: 807081817@qq.com
+  name: null
+  url: null
+  username: taoguo
 repository: https://github.com/Tickly/vuepress-plugin-code-example
 score: 0.5086086286714492
 stars: 1
