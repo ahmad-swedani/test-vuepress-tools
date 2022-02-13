@@ -1,40 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    name: reco_luan
-    username: reco_luan
+  email: recoluan@outlook.com
+  name: reco_luan
+  url: null
+  username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
 category: plugin
 date: '2021-09-16T15:44:29.312Z'
 deprecated: false
 description: A simple blog plugin for vuepress-theme-reco.
-downloads: ~
+downloads: null
 homepage: https://github.com/recoluan/vuepress-theme-reco-next#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - blog
+- vuepress-plugin
+- vuepress
+- blog
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-page'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-page
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.5722597218714339
 stars: 45
@@ -43,6 +34,8 @@ version: 2.0.1-alpha.0
 watchers: 45
 
 ---
+
+> reco 主题 1.0 的代码仓库已经迁移至 [vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x)
 
 # vuepress-theme-reco-next
 
@@ -119,7 +112,7 @@ theme-cli init
 - [x] 公告 插件
 - [x] 代码预览 插件
 - [x] 按照文件夹自动进设置 categories
-- [ ] 提供 tailwind 自定义 config 入口（后续官方所有风格和插件均采用 css + taiwindcss 方案）
+- [ ] ~~提供 tailwind 自定义 config 入口（后续官方所有风格和插件均采用 css + taiwindcss 方案）~~
 - [ ] ~~根据 tag 生成神经网络图（参考 obsidian）~~
 - [ ] ~~加密功能~~
 - [ ] ~~loading 功能~~
@@ -133,4 +126,14 @@ theme-cli init
 - [x] 侧边栏样式优化
 - [x] 去除 scss，采用 css + postcss 方案
 - [x] 将通用功能全部下沉至 vuepress-theme-reco，精简 style（风格）代码
+- [ ] ~~PWA 样式优化~~
+
+## beta 版本待办事项
+
+- [x] 增加 icon 功能
+- [ ] 提供 tailwind 自定义 config 入口（后续官方所有风格和插件均采用 css + taiwindcss 方案）
 - [ ] PWA 样式优化
+- [ ] algolia 搜索样式优化
+- [ ] comment 插件增强
+- [ ] 增加图片适配暗色模式的配置
+- [ ] 对指定文件夹进行功能支持，比如 series、docs、blogs
