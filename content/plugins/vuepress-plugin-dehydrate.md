@@ -1,43 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1700011071@pku.edu.cn
-    name: Shigma
-    username: shigma
+  email: 1700011071@pku.edu.cn
+  name: Shigma
+  url: null
+  username: shigma
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:46.062Z'
 deprecated: false
 description: VuePress plugin to dehydrate generated HTML files
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - build
-  - dehydrate
-  - plugin
-  - server
-  - ssr
-  - vuepress
+- build
+- dehydrate
+- plugin
+- server
+- ssr
+- vuepress
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: 1700011071@pku.edu.cn
-    username: shigma
+maintainers: null
 name: vuepress-plugin-dehydrate
 npm: https://www.npmjs.com/package/vuepress-plugin-dehydrate
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5372212496933184
 stars: 74
