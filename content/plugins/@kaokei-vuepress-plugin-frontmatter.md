@@ -1,40 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/82272759?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kaokei.rst@gmail.com
-    name: kaokei
-    username: kaokei
+  email: kaokei.rst@gmail.com
+  name: kaokei
+  url: null
+  username: kaokei
 bugs: https://github.com/kaokei/vuepress-plugin-frontmatter/issues
 category: plugin
 date: '2022-01-04T02:44:45.681Z'
 deprecated: false
-description: vuepress@1.x插件，基于vdoing的主题，增加可以自动化生成frontmatter的命令
-downloads: ~
+description: "vuepress@1.x\u63D2\u4EF6\uFF0C\u57FA\u4E8Evdoing\u7684\u4E3B\u9898\uFF0C\
+  \u589E\u52A0\u53EF\u4EE5\u81EA\u52A8\u5316\u751F\u6210frontmatter\u7684\u547D\u4EE4"
+downloads: null
 homepage: https://github.com/kaokei/vuepress-plugin-frontmatter#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - frontmatter
+- documentation
+- vue
+- vuepress
+- generator
+- frontmatter
 license: MIT License
-maintainers:
-  - email: kaokei.rst@gmail.com
-    username: kaokei
+maintainers: null
 name: '@kaokei/vuepress-plugin-frontmatter'
 npm: https://www.npmjs.com/package/%40kaokei%2Fvuepress-plugin-frontmatter
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kaokei.rst@gmail.com
-    username: kaokei
+  avatar: null
+  email: kaokei.rst@gmail.com
+  name: null
+  url: null
+  username: kaokei
 repository: https://github.com/kaokei/vuepress-plugin-frontmatter
 score: 0.5091398866663384
 stars: 0
@@ -65,6 +59,7 @@ module.exports = {
 > 需要在项目的 package.json 文件的 scripts 部分新增`"fmt": "vuepress fmt docs",`
 > 当新建一个新的 markdown 文件时，默认是一个空文件，当然也没有`frontmatter`，此时可以执行命令`npm run fmt`
 > 之所以增加这个命令，是因为`vdoing`主题默认只支持`npm run dev`和`npm run build`这两个命令可以自动生成`frontmatter`
+> 除了增加了上面的命令以外，还做了永久链接的重复检查，如果存在重复的永久链接，会在终端进行提示。
 
 ## 其他
 
