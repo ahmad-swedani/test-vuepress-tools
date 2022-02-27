@@ -1,40 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-12-12T15:41:59.021Z'
 deprecated: false
-description: >-
-  A plugin for adding full-screen and copy button to your code blocks in
+description: A plugin for adding full-screen and copy button to your code blocks in
   VuePress 2.
-downloads: ~
+downloads: null
 homepage: https://github.com/Renovamen/vuepress-theme-gungnir#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
+- vue
+- vuepress
+- vuepress-plugin
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: vuepress-plugin-code-enhance
 npm: https://www.npmjs.com/package/vuepress-plugin-code-enhance
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5689206938206971
 stars: 164
@@ -52,7 +44,7 @@ A blog theme for [VuePress 2](https://v2.vuepress.vuejs.org/), **WIP**.
 
 **Gungnir** is the spear of the god Odin in Norse mythology.
 
-![preview](docs/.vuepress/public/img/docs/gungnir.jpg)
+![preview](https://raw.githubusercontent.com/Renovamen/vuepress-theme-gungnir/main/docs/.vuepress/public/img/docs/gungnir.jpg)
 
 
 &nbsp;
