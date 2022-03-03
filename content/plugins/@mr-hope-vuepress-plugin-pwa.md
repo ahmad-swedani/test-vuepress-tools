@@ -1,41 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-01-04T13:08:49.686Z'
 deprecated: false
 description: Powerful PWA plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/pwa/
 keywords:
-  - vuepress-plugin
-  - pwa
-  - web app
-  - workbox
-  - service worker
+- vuepress-plugin
+- pwa
+- web app
+- workbox
+- service worker
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-pwa'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-pwa
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6934934620604476
 stars: 386
@@ -70,6 +62,17 @@ watchers: 386
 A vuepress theme with tons of features✨ / 一个具有强大功能的 vuepress 主题 ✨
 
 ## [English Docs](https://vuepress-theme-hope.github.io/v2/) / [中文文档](https://vuepress-theme-hope.github.io/v2/zh/)
+
+## Contact
+
+We recommand you to contact using [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) and [dicussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions), but you are welcomed joing our [telegram group](https://t.me/vuepressthemehope).
+
+## 联系
+
+我们建议您使用 [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) 和 [dicussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions) 联系，但也欢迎你加入我们的 [QQ 群](https://jq.qq.com/?_wv=1027&k=rATJyxGK) (群号: 1003437555)
+。
+
+---
 
 ## Note
 
