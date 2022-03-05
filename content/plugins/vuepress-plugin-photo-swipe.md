@@ -1,48 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-01-04T13:08:48.080Z'
 deprecated: false
 description: Photo Swipe plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/photo-swipe/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - photo-swipe
-  - preview
-  - zoom
-  - picture
+- vuepress-plugin
+- vuepress
+- photo-swipe
+- preview
+- zoom
+- picture
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-photo-swipe
 npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.684309389955315
-stars: 387
+stars: 388
 unstable: false
 version: 1.23.0
-watchers: 387
+watchers: 388
 
 ---
 
@@ -85,19 +77,19 @@ We recommand you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Note
 
-Current branch is based on VuePress@v2, and it's still in alpha.
+Current branch is based on VuePress@v2, and it's still in beta.
 
 This means that features and api are not solid, and there might be BREAKING CHANGES in future releases.
 
-For stable releasae in v1, please see [v1 branch](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/).
+Though the project has stable release of v1, and are held in [v1 branch](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/), but we do not recommand you to keep using V1 in new projects. See [V1 end of support Annoucement](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/1535) for more details.
 
 ## 注意
 
 当前分支基于 VuePress@v2，仍处于 Alpha。
 
-这意味着功能和 API 尚未固定，在未来的更新中仍可能出现破坏性更改。
+这意味着功能和 API 尚未固定，在未来的更新中仍有概率出现破坏性更改。
 
-稳定 v1 发行版请参见[v1 分支](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/)。
+虽然该项目有 v1 的稳定版本，并且存放在 [v1 分支](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/) 上，但我们不推荐您在新项目中继续使用 V1。 有关详细信息，请参阅 [V1 结束支持通告](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/1535)。
 
 ---
 
