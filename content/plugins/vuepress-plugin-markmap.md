@@ -1,50 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-08-18T02:14:50.227Z'
 deprecated: false
-description: >-
-  A plugin for adding markmap to VuePress to visualize your Markdown as
+description: A plugin for adding markmap to VuePress to visualize your Markdown as
   mindmaps.
-downloads: ~
-homepage: >-
-  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap
+downloads: null
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - markmap
-  - mindmap
-  - markdown
+- vue
+- vuepress
+- vuepress-plugin
+- markmap
+- mindmap
+- markdown
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: vuepress-plugin-markmap
 npm: https://www.npmjs.com/package/vuepress-plugin-markmap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5393037333245754
-stars: 167
+stars: 168
 unstable: true
 version: 0.2.0
-watchers: 167
+watchers: 168
 
 ---
 
