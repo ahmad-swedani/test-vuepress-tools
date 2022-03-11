@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-14T16:33:02.255Z'
 deprecated: false
 description: SEO plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/seo/
 keywords:
-  - vuepress-plugin
-  - seo
-  - search
-  - share
+- vuepress-plugin
+- seo
+- search
+- share
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-seo'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-seo
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6920327197754211
-stars: 397
+stars: 398
 unstable: false
 version: 1.21.0
-watchers: 397
+watchers: 398
 
 ---
 
@@ -76,7 +68,7 @@ We recommand you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## 联系
 
-我们建议您使用 [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) 和 [dicussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions) 联系，但也欢迎你加入我们的 [QQ 群](https://jq.qq.com/?_wv=1027&k=rATJyxGK) (群号: 1003437555)
+我们建议你使用 [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) 和 [dicussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions) 联系，但也欢迎你加入我们的 [QQ 群](https://jq.qq.com/?_wv=1027&k=rATJyxGK) (群号: 1003437555)
 。
 
 ---
@@ -95,7 +87,7 @@ Though the project has stable release of v1, and are held in [v1 branch](https:/
 
 这意味着功能和 API 尚未固定，在未来的更新中仍有概率出现破坏性更改。
 
-虽然该项目有 v1 的稳定版本，并且存放在 [v1 分支](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/) 上，但我们不推荐您在新项目中继续使用 V1。 有关详细信息，请参阅 [V1 结束支持通告](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/1535)。
+虽然该项目有 v1 的稳定版本，并且存放在 [v1 分支](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/) 上，但我们不推荐你在新项目中继续使用 V1。 有关详细信息，请参阅 [V1 结束支持通告](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/1535)。
 
 ---
 
