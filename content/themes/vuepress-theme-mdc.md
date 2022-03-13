@@ -1,39 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/24715727?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: ocavue
+  avatar: null
+  email: null
+  name: ocavue
+  url: null
+  username: null
 bugs: https://github.com/ocavue/vuepress-theme-mdc/issues
 category: theme
 date: '2018-06-19T12:01:43.800Z'
 deprecated: false
-downloads: ~
+description: null
+downloads: null
 homepage: https://github.com/ocavue/vuepress-theme-mdc#readme
-keywords: ~
-license: MIT License
-maintainers:
-  - email: ocavue@gmail.com
-    username: ocavue
+keywords: null
+license: null
+maintainers: null
 name: vuepress-theme-mdc
 npm: https://www.npmjs.com/package/vuepress-theme-mdc
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ocavue@gmail.com
-    username: ocavue
+  avatar: null
+  email: ocavue@gmail.com
+  name: null
+  url: null
+  username: ocavue
 repository: https://github.com/ocavue/vuepress-theme-mdc
 score: 0.033001012251697985
-stars: 1
+stars: 0
 unstable: true
 version: 0.0.1-d
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-theme-mdc
