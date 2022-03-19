@@ -1,39 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-14T16:33:00.202Z'
 deprecated: false
 description: Feed plugin for vuepress-theme-hope
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/feed/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - feed
+- vuepress-plugin
+- vuepress
+- feed
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-feed'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-feed
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6951646469366981
 stars: 403
@@ -90,7 +82,7 @@ Though the project has stable release of v1, and are held in [v1 branch](https:/
 
 ## 注意
 
-当前分支基于 VuePress@v2，仍处于 Alpha。
+当前分支基于 VuePress@v2，仍处于 Beta。
 
 这意味着功能和 API 尚未固定，在未来的更新中仍有概率出现破坏性更改。
 

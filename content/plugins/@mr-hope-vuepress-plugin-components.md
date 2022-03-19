@@ -1,39 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-01-04T13:08:47.783Z'
 deprecated: false
 description: components plugin for vuepress-theme-hope
-downloads: ~
-homepage: >-
-  https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/packages/components#readme
+downloads: null
+homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/packages/components#readme
 keywords:
-  - vuepress-plugin
-  - components
+- vuepress-plugin
+- components
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-components'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-components
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6782592317592838
 stars: 403
@@ -90,7 +81,7 @@ Though the project has stable release of v1, and are held in [v1 branch](https:/
 
 ## 注意
 
-当前分支基于 VuePress@v2，仍处于 Alpha。
+当前分支基于 VuePress@v2，仍处于 Beta。
 
 这意味着功能和 API 尚未固定，在未来的更新中仍有概率出现破坏性更改。
 
