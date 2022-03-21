@@ -1,44 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-19T08:49:13.091Z'
 deprecated: false
 description: components plugin for vuepress-theme-hope
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/components/
 keywords:
-  - vuepress-plugin
-  - components
+- vuepress-plugin
+- components
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-components'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-components
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6665706049416693
-stars: 406
+score: 0.666702749610604
+stars: 407
 unstable: false
 version: 1.28.4
-watchers: 406
+watchers: 407
 
 ---
 

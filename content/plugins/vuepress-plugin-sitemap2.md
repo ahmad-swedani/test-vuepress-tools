@@ -1,43 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-02-22T11:50:49.218Z'
 deprecated: false
 description: Sitemap plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
 keywords:
-  - vuepress-plugin
-  - sitemap
+- vuepress-plugin
+- sitemap
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-sitemap2
 npm: https://www.npmjs.com/package/vuepress-plugin-sitemap2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6507541699349154
-stars: 406
+score: 0.6509771636851154
+stars: 407
 unstable: false
 version: 2.0.0-alpha.33
-watchers: 406
+watchers: 407
 
 ---
 
