@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/76768485?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: sumcai
+  email: null
+  name: sumcai
+  url: null
+  username: sumcai
 bugs: https://github.com/sumcai/vuepress-plugin-comment/issues
 category: plugin
 date: '2021-12-26T01:41:31.558Z'
 deprecated: false
 description: Comment plugin in vuepress, such as Gitalk, Valine...
-downloads: ~
+downloads: null
 homepage: https://github.com/sumcai/vuepress-plugin-comment#readme
 keywords:
-  - vuepress
-  - comment
-  - valine
-  - gitalk
-license: ~
-maintainers:
-  - email: sumcai@163.com
-    username: sumcai
+- vuepress
+- comment
+- valine
+- gitalk
+license: false
+maintainers: null
 name: '@sumcai/vuepress-plugin-comment'
 npm: https://www.npmjs.com/package/%40sumcai%2Fvuepress-plugin-comment
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sumcai@163.com
-    username: sumcai
+  avatar: null
+  email: sumcai@163.com
+  name: null
+  url: null
+  username: sumcai
 repository: https://github.com/sumcai/vuepress-plugin-comment
 score: 0.5152681521784175
 stars: 0
