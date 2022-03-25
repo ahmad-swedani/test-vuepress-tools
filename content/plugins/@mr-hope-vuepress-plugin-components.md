@@ -1,44 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
-    username: mister-hope
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-19T08:49:13.091Z'
 deprecated: false
 description: components plugin for vuepress-theme-hope
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/components/
 keywords:
-  - vuepress-plugin
-  - components
+- vuepress-plugin
+- components
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-components'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-components
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.666702749610604
-stars: 412
+stars: 414
 unstable: false
 version: 1.28.4
-watchers: 412
+watchers: 414
 
 ---
 
@@ -81,7 +73,7 @@ We recommand you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Note
 
-Current branch is based on VuePress@v2, and it's still in beta.
+Current branch is based on VuePress@v2, and it’s still in beta.
 
 This means that features and api are not solid, and there might be BREAKING CHANGES in future releases.
 
@@ -99,7 +91,7 @@ Though the project has stable release of v1, and are held in [v1 branch](https:/
 
 ## Details
 
-V2 is comming come together with _VuePress2_, with the power of _Vite2_ / _Webpack5_ and _Vue3_.
+V2 is coming come together with _VuePress2_, with the power of _Vite2_ / _Webpack5_ and _Vue3_.
 
 V2 is a full rewrite including:
 
