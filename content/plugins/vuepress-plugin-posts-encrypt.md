@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/20399793?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: alphawq@foxmail.com
-    name: Aphasia
-    url: https://github.com/alphawq
-    username: alphawq
+  email: alphawq@foxmail.com
+  name: Aphasia
+  url: https://github.com/alphawq
+  username: alphawq
 bugs: https://github.com/alphawq/vuepress-plugin-posts-encrypt/issues
 category: plugin
 date: '2021-10-28T09:20:58.444Z'
 deprecated: false
-description: English | [简体中文](./README.zh-cn.md)
-downloads: ~
+description: "English | [\u7B80\u4F53\u4E2D\u6587](./README.zh-cn.md)"
+downloads: null
 homepage: https://github.com/alphawq/vuepress-plugin-posts-encrypt#readme
 keywords:
-  - vuepress-plugin
-  - posts-encrypt
-  - vuepress-plugin
-  - vuepress-plugin-posts-encrypt
+- vuepress-plugin
+- posts-encrypt
+- vuepress-plugin
+- vuepress-plugin-posts-encrypt
 license: MIT License
-maintainers:
-  - email: alphawq@foxmail.com
-    username: alphawq
+maintainers: null
 name: vuepress-plugin-posts-encrypt
 npm: https://www.npmjs.com/package/vuepress-plugin-posts-encrypt
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: alphawq@foxmail.com
-    username: alphawq
+  avatar: null
+  email: alphawq@foxmail.com
+  name: null
+  url: null
+  username: alphawq
 repository: https://github.com/alphawq/vuepress-plugin-posts-encrypt
 score: 0.5740828426596418
-stars: 14
+stars: 15
 unstable: true
 version: 0.0.4
-watchers: 14
+watchers: 15
 
 ---
 
