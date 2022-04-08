@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/96685951?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: vuepress-star
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-12-25T17:58:24.440Z'
 deprecated: false
 description: Sitemap plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-  - vuepress-plugin
-  - sitemap
+- vuepress-plugin
+- sitemap
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-sitemap'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-sitemap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.536842356936026
+score: 0.5412667371611615
 stars: 1
 unstable: true
 version: 1.0.0-beta.24
