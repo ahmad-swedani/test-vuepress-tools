@@ -1,35 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19725091?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: see
 bugs: https://github.com/upcwangying/vuepress-plugin-dplayer/issues
 category: plugin
 date: '2020-02-25T07:55:46.827Z'
 deprecated: false
 description: dplayer for vuepress.
-downloads: ~
+downloads: null
 homepage: https://upcwangying.com
 keywords:
-  - vuepress
-  - plugin
-  - dplayer
+- vuepress
+- plugin
+- dplayer
 license: MIT License
-maintainers:
-  - email: wang_ying13@163.com
-    username: wangying
+maintainers: null
 name: vuepress-plugin-dplayer
 npm: https://www.npmjs.com/package/vuepress-plugin-dplayer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: upcwangying@126.com
-    username: upcwangying
+  avatar: null
+  email: upcwangying@126.com
+  name: null
+  url: null
+  username: upcwangying
 repository: https://github.com/upcwangying/vuepress-plugin-dplayer
 score: 0.5497273353051528
 stars: 0

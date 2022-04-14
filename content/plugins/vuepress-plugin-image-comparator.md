@@ -1,41 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54356406?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic.alija@gmail.com
-    name: Alija Sabic
-    username: alija
+  email: sabic.alija@gmail.com
+  name: Alija Sabic
+  url: null
+  username: alija
 bugs: https://github.com/studyathome-internationally/vuepress-plugins/issues
 category: plugin
 date: '2022-04-11T00:13:43.002Z'
 deprecated: false
 description: VuePress Plugin for image comparison
-downloads: ~
+downloads: null
 homepage: https://github.com/studyathome-internationally/vuepress-plugins#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - markdown
-  - image
-  - comparison
+- vuepress-plugin
+- vuepress
+- plugin
+- markdown
+- image
+- comparison
 license: GNU General Public License v3.0
-maintainers:
-  - email: sabic.alija@gmail.com
-    username: alija
+maintainers: null
 name: vuepress-plugin-image-comparator
 npm: https://www.npmjs.com/package/vuepress-plugin-image-comparator
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sabic.alija@gmail.com
-    username: alija
+  avatar: null
+  email: sabic.alija@gmail.com
+  name: null
+  url: null
+  username: alija
 repository: https://github.com/studyathome-internationally/vuepress-plugins
 score: 0.47462226940508123
 stars: 0
@@ -45,4 +38,4 @@ watchers: 0
 
 ---
 
-undefined
+# vuepress-plugins
