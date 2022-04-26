@@ -1,44 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
-date: '2022-04-23T14:48:51.556Z'
+date: '2022-04-25T18:56:15.506Z'
 deprecated: false
 description: A Blog Theme for VuePress 2.0
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
-keywords: ~
-license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+keywords: null
+license: null
+maintainers: null
 name: '@vuepress-plume/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-theme-plume
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
-score: 0.4899829076469856
+score: 0.4902662206133459
 stars: 0
 unstable: true
-version: 1.0.0-beta.23
+version: 1.0.0-beta.26
 watchers: 0
 
 ---
 
-## vuepress-theme-plume
-
-开发中
