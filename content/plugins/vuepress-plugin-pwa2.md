@@ -1,46 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-20T18:47:03.717Z'
 deprecated: false
 description: Powerful PWA plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/pwa/
 keywords:
-  - vuepress-plugin
-  - pwa
-  - web app
-  - workbox
-  - service worker
+- vuepress-plugin
+- pwa
+- web app
+- workbox
+- service worker
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-pwa2
 npm: https://www.npmjs.com/package/vuepress-plugin-pwa2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6840417382263202
-stars: 512
+stars: 513
 unstable: false
 version: 2.0.0-beta.24
-watchers: 512
+watchers: 513
 
 ---
 
@@ -72,11 +65,11 @@ A vuepress theme with tons of features✨ / 一个具有强大功能的 vuepress
 
 ## Contact
 
-We recommand you to contact using [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) and [dicussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions), but you are welcomed joining our [telegram group](https://t.me/vuepressthemehope).
+We recommand you to contact using [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) and [discussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions), but you are welcomed joining our [telegram group](https://t.me/vuepressthemehope).
 
 ## 联系
 
-我们建议你使用 [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) 和 [dicussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions) 联系，但也欢迎你加入我们的 [QQ 群](https://jq.qq.com/?_wv=1027&k=rATJyxGK) (群号: 1003437555)
+我们建议你使用 [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) 和 [discussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions) 联系，但也欢迎你加入我们的 [QQ 群](https://jq.qq.com/?_wv=1027&k=rATJyxGK) (群号: 1003437555)
 。
 
 ---
