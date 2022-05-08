@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/28993145?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Nyakku Shigure
+  email: null
+  name: Nyakku Shigure
+  url: null
+  username: licc12
 bugs: https://github.com/licc12/vuepress-plugin-dynamic-title-v2/issues
 category: plugin
 date: '2022-05-05T07:18:08.968Z'
 deprecated: false
 description: Add a dynamic title in your vuepress!
-downloads: ~
+downloads: null
 homepage: https://github.com/licc12/vuepress-plugin-dynamic-title-v2#readme
 keywords:
-  - vuepress
-  - plugin
-  - title
+- vuepress
+- plugin
+- title
 license: MIT License
-maintainers:
-  - email: 2808057133@qq.com
-    username: tianyake
+maintainers: null
 name: vuepress-plugin-dynamic-title-v2
 npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-title-v2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2808057133@qq.com
-    username: tianyake
+  avatar: null
+  email: 2808057133@qq.com
+  name: null
+  url: null
+  username: tianyake
 repository: https://github.com/licc12/vuepress-plugin-dynamic-title-v2
 score: 0.5513278521678859
 stars: 1

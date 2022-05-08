@@ -1,41 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29831211?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gavinliu0606@gmail.com
-    name: Gavin Liu
-    url: https://gavinliu.me
-    username: gavinliu0606
+  email: gavinliu0606@gmail.com
+  name: Gavin Liu
+  url: https://gavinliu.me
+  username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: plugin
 date: '2022-04-11T13:20:42.576Z'
 deprecated: false
 description: VuePress theme mix plugin - back top
-downloads: ~
+downloads: null
 homepage: https://github.com/gavinliu6/vuepress-theme-mix
 keywords:
-  - vuepress-theme-mix
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - back-top
+- vuepress-theme-mix
+- vuepress-plugin
+- vuepress
+- plugin
+- back-top
 license: MIT License
-maintainers:
-  - email: gavinliu0606@gmail.com
-    username: gavinliu0606
+maintainers: null
 name: '@vuepress-theme-mix/vuepress-plugin-back-top'
 npm: https://www.npmjs.com/package/%40vuepress-theme-mix%2Fvuepress-plugin-back-top
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gavinliu0606@gmail.com
-    username: gavinliu0606
+  avatar: null
+  email: gavinliu0606@gmail.com
+  name: null
+  url: null
+  username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
 score: 0.5902270585612674
 stars: 29
@@ -50,6 +42,7 @@ watchers: 29
 [![](https://img.shields.io/badge/vuepress-next-blue)](https://v2.vuepress.vuejs.org)
 [![GitHub license](https://img.shields.io/github/license/gavinliu6/vuepress-theme-mix)](https://github.com/gavinliu6/vuepress-theme-mix)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c7f6ca5-685b-463c-ab12-66b4d89c2eb7/deploy-status)](https://app.netlify.com/sites/vuepress-theme-mix/deploys)
+[![npm](https://badgen.net/npm/v/vuepress-theme-mix/latest)](https://www.npmjs.com/package/vuepress-theme-mix)
 [![npm](https://img.shields.io/npm/dt/vuepress-theme-mix)](https://www.npmjs.com/package/vuepress-theme-mix)
 
 ## About The Project
