@@ -1,45 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/11501493?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: StEve YoUng
+  email: null
+  name: StEve YoUng
+  url: null
+  username: BuptStEve
 bugs: https://github.com/BuptStEve/vuepress-plugin-demo-code/issues
 category: plugin
 date: '2022-04-23T13:57:04.027Z'
 deprecated: false
-description: 📝 Demo and code plugin for vuepress
-downloads: ~
+description: "\U0001F4DD Demo and code plugin for vuepress"
+downloads: null
 homepage: https://buptsteve.github.io/vuepress-plugin-demo-code/
 keywords:
-  - vue
-  - code
-  - demo
-  - vuepress
-  - demo-code
-  - documentation
+- vue
+- code
+- demo
+- vuepress
+- demo-code
+- documentation
 license: MIT License
-maintainers:
-  - email: 2747745470@qq.com
-    username: buptsteve
+maintainers: null
 name: vuepress-plugin-demo-code
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-code
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2747745470@qq.com
-    username: buptsteve
+  avatar: null
+  email: 2747745470@qq.com
+  name: null
+  url: null
+  username: buptsteve
 repository: https://github.com/BuptStEve/vuepress-plugin-demo-code
 score: 0.6584572388040032
-stars: 116
+stars: 117
 unstable: false
 version: 1.0.0
-watchers: 116
+watchers: 117
 
 ---
 
