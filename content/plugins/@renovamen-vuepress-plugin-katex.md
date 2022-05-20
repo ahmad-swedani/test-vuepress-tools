@@ -1,48 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-08-18T02:14:44.935Z'
 deprecated: false
 description: A plugin for adding Katex to VuePress.
-downloads: ~
-homepage: >-
-  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/katex
+downloads: null
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/katex
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - LaTex
-  - KaTeX
-  - markdown
+- vue
+- vuepress
+- vuepress-plugin
+- LaTex
+- KaTeX
+- markdown
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: '@renovamen/vuepress-plugin-katex'
 npm: https://www.npmjs.com/package/%40renovamen%2Fvuepress-plugin-katex
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5071212861272685
-stars: 211
+stars: 212
 unstable: true
 version: 0.2.0
-watchers: 211
+watchers: 212
 
 ---
 
@@ -90,12 +82,10 @@ TODO:
 
 ## Installation
 
-Currently, the theme is not compatible with VuePress >= 2.0.0-beta.40, please stick to VuePress 2.0.0-beta.39.
+Please make sure you are using the latest version of VuePress (2.0.0-beta.45) and theme Gungnir.
 
 ```bash
-yarn add -D vuepress@2.0.0-beta.39 vuepress-theme-gungnir@next
-# or
-npm i -D vuepress@2.0.0-beta.39 vuepress-theme-gungnir@next
+pnpm install -D vuepress vuepress-theme-gungnir@next
 ```
 
 
