@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/2627625?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Sloaix
+  email: null
+  name: Sloaix
+  url: null
+  username: Sloaix
 bugs: https://github.com/Sloaix/vuepress-plugin-locale-redirect/issues
 category: plugin
 date: '2021-07-10T19:46:06.972Z'
 deprecated: false
 description: VuePress plugin - locale redirect
-downloads: ~
+downloads: null
 homepage: https://github.com/Sloaix/vuepress-plugin-locale-redirect
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - locale
-  - language
-  - redirect
-license: ~
-maintainers:
-  - email: faith.epiphone@gmail.com
-    username: sloaix
+- vuepress-plugin
+- vuepress
+- plugin
+- locale
+- language
+- redirect
+license: false
+maintainers: null
 name: vuepress-plugin-locale-redirect
 npm: https://www.npmjs.com/package/vuepress-plugin-locale-redirect
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: faith.epiphone@gmail.com
-    username: sloaix
+  avatar: null
+  email: faith.epiphone@gmail.com
+  name: null
+  url: null
+  username: sloaix
 repository: https://github.com/Sloaix/vuepress-plugin-locale-redirect
 score: 0.5093726486986465
 stars: 2
