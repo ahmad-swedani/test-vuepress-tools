@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Nyakku Shigure
+  email: null
+  name: Nyakku Shigure
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-ribbon/issues
 category: plugin
 date: '2022-05-21T09:54:28.903Z'
 deprecated: false
 description: Add a beautiful ribbon to your vuepress!
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-ribbon#readme
 keywords:
-  - vuepress
-  - plugin
-  - ribbon
+- vuepress
+- plugin
+- ribbon
 license: MIT License
-maintainers:
-  - email: sigure.qaq@gmail.com
-    username: sigure_mo
+maintainers: null
 name: vuepress-plugin-ribbon
 npm: https://www.npmjs.com/package/vuepress-plugin-ribbon
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure.qaq@gmail.com
-    username: sigure_mo
+  avatar: null
+  email: sigure.qaq@gmail.com
+  name: null
+  url: null
+  username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-ribbon
 score: 0.563017188575462
 stars: 14
@@ -55,7 +50,7 @@ watchers: 14
 -  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
 -  Live demo: [notev](https://nyakku.moe/)
 
-> Want to use it outside of VuePress? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
+> Want to use it outside of VuePress1.x? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
 
 ## Install
 
