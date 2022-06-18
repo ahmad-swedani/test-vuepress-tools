@@ -1,35 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/85702?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: monsat
+  email: null
+  name: monsat
+  url: null
+  username: monsat
 bugs: https://github.com/monsat/vuepress-plugin-use-pages/issues
 category: plugin
 date: '2021-12-24T10:49:37.187Z'
 deprecated: false
 description: Vue Press 2 plugin - use pages
-downloads: ~
+downloads: null
 homepage: https://github.com/monsat/vuepress-plugin-use-pages#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-license: ~
-maintainers:
-  - email: tanaka.kohji@gmail.com
-    username: mon_sat
+- vuepress-plugin
+- vuepress
+license: false
+maintainers: null
 name: vuepress-plugin-use-pages
 npm: https://www.npmjs.com/package/vuepress-plugin-use-pages
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tanaka.kohji@gmail.com
-    username: mon_sat
+  avatar: null
+  email: tanaka.kohji@gmail.com
+  name: null
+  url: null
+  username: mon_sat
 repository: https://github.com/monsat/vuepress-plugin-use-pages
 score: 0.5149736619993192
 stars: 1
