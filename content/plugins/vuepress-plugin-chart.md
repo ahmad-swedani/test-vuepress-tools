@@ -1,47 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-08-26T06:19:25.642Z'
 deprecated: false
 description: A plugin for adding Chart.js to VuePress.
-downloads: ~
-homepage: >-
-  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart
+downloads: null
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - chart
-  - chartjs
+- vue
+- vuepress
+- vuepress-plugin
+- chart
+- chartjs
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: vuepress-plugin-chart
 npm: https://www.npmjs.com/package/vuepress-plugin-chart
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5125998632512767
-stars: 229
+stars: 230
 unstable: true
 version: 0.3.0
-watchers: 229
+watchers: 230
 
 ---
 
@@ -89,7 +81,7 @@ TODO:
 
 ## Installation
 
-Please make sure you are using the latest version of VuePress (2.0.0-beta.46) and theme Gungnir.
+Please make sure you are using the latest version of VuePress (2.0.0-beta.48) and theme Gungnir.
 
 ```bash
 pnpm install -D vuepress vuepress-theme-gungnir@next

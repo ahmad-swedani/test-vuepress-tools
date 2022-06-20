@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-11-22T16:26:08.353Z'
 deprecated: false
 description: A plugin for adding Mermaid to VuePress.
-downloads: ~
-homepage: >-
-  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/mermaid
+downloads: null
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/mermaid
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - mermaid
+- vue
+- vuepress
+- vuepress-plugin
+- mermaid
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: '@renovamen/vuepress-plugin-mermaid'
 npm: https://www.npmjs.com/package/%40renovamen%2Fvuepress-plugin-mermaid
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.510528159674097
-stars: 229
+stars: 230
 unstable: true
 version: 0.3.0
-watchers: 229
+watchers: 230
 
 ---
 
@@ -88,7 +80,7 @@ TODO:
 
 ## Installation
 
-Please make sure you are using the latest version of VuePress (2.0.0-beta.46) and theme Gungnir.
+Please make sure you are using the latest version of VuePress (2.0.0-beta.48) and theme Gungnir.
 
 ```bash
 pnpm install -D vuepress vuepress-theme-gungnir@next
