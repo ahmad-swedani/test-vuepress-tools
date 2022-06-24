@@ -1,40 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/20652985?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: ouyangdan
+  email: null
+  name: ouyangdan
+  url: null
+  username: iamouyangdan
 bugs: https://github.com/iamouyangdan/vuepress-plugin/issues
 category: plugin
 date: '2022-05-17T04:15:42.120Z'
 deprecated: false
-description: VuePress2 插件 - 扩展markdown任务列表/复选框功能（extends markdown checkbox or tasklist）
-downloads: ~
-homepage: >-
-  https://github.com/iamouyangdan/vuepress-plugin/tree/main/plugins/vuepress-plugin-markdown-checkbox#readme
+description: "VuePress2 \u63D2\u4EF6 - \u6269\u5C55markdown\u4EFB\u52A1\u5217\u8868\
+  /\u590D\u9009\u6846\u529F\u80FD\uFF08extends markdown checkbox or tasklist\uFF09"
+downloads: null
+homepage: https://github.com/iamouyangdan/vuepress-plugin/tree/main/plugins/vuepress-plugin-markdown-checkbox#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - markdown
-  - checkbox
-  - tasklist
+- vuepress-plugin
+- vuepress
+- plugin
+- markdown
+- checkbox
+- tasklist
 license: MIT License
-maintainers:
-  - email: 1183719396@qq.com
-    username: ouyangdan
+maintainers: null
 name: vuepress-plugin-markdown-checkbox
 npm: https://www.npmjs.com/package/vuepress-plugin-markdown-checkbox
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1183719396@qq.com
-    username: ouyangdan
+  avatar: null
+  email: 1183719396@qq.com
+  name: null
+  url: null
+  username: ouyangdan
 repository: https://github.com/iamouyangdan/vuepress-plugin
 score: 0.5176495897673955
 stars: 0
