@@ -1,38 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/96685951?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: vuepress-star
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2022-01-03T15:39:56.019Z'
 deprecated: false
 description: Add This plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-star.shentuzhigang.cn
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - archive
+- vuepress-plugin
+- vuepress
+- archive
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-archive'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-archive
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5663714229125335
 stars: 1
@@ -47,12 +40,16 @@ watchers: 1
 
 # vuepress-theme-star
 
+vuepress:
+
 [![github check](https://github.com/vuepress/vuepress-next/workflows/check/badge.svg)](https://github.com/vuepress/vuepress-next/actions?query=workflow%3Acheck)
 [![github docs](https://github.com/vuepress/vuepress-next/workflows/docs/badge.svg)](https://github.com/vuepress/vuepress-next/actions?query=workflow%3Adocs)
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/vuepress-next/badge.svg?branch=main)](https://coveralls.io/github/vuepress/vuepress-next?branch=main)
 [![license](https://badgen.net/github/license/vuepress/vuepress-next)](https://github.com/vuepress/vuepress-next/blob/main/LICENSE)
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
+
+vuepress-theme-star:
 
 [![github check](https://github.com/vuepress-star/vuepress-theme-star/workflows/check/badge.svg)](https://github.com/vuepress-star/vuepress-theme-star/actions?query=workflow%3Acheck)
 [![github docs](https://github.com/vuepress-star/vuepress-theme-star/workflows/docs/badge.svg)](https://github.com/vuepress-star/vuepress-theme-star/actions?query=workflow%3Adocs)
@@ -61,14 +58,13 @@ watchers: 1
 [![license](https://badgen.net/github/license/vuepress-star/vuepress-theme-star)](https://github.com/vuepress-star/vuepress-theme-star/blob/main/LICENSE)
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
 
-A Vuepress Theme With Tons of Features ✨
+为了构建功能完备的个人网站 ✨
 
 ## 状态: Beta
 
-For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
+对于 VuePress v1 的用户，请查看 [迁移指南](https://v2.vuepress.vuejs.org/guide/migration.html) 。
 
-For users who want to follow our progress or contribute to this project, please check out
-the [roadmap](https://github.com/vuepress-star/vuepress-theme-star/discussions/68).
+对于想要关注我们的进展或为此项目做出贡献的用户，请查看 [roadmap](https://github.com/vuepress/vuepress-next/discussions/68) 。
 
 ![Alt](https://repobeats.axiom.co/api/embed/2827b1222a806940ade242aea985f0008bf8a7de.svg "Repobeats analytics image")
 
@@ -78,13 +74,13 @@ https://vuepress-star.github.io/
 
 ## 文档
 
-https://v2.vuepress.vuejs.org
+Vuepress: https://v2.vuepress.vuejs.org
 
-https://vuepress-star.github.io/docs/
+Vuepress Theme Star: https://vuepress-star.github.io/docs/
 
 ## 联系
 
-We recommend you to contact using issues and discussions.
+我们建议您联系使用问题和讨论。
 
 ## 贡献
 
