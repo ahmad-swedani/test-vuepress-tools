@@ -1,42 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/85858775?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    name: vxhly
-    username: vxhly
+  email: pengchengou@gmail.com
+  name: vxhly
+  url: null
+  username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-01T09:58:04.572Z'
 deprecated: false
-description: A vuepress plugin for reward component.在你的站点添加一个打赏插件.
-downloads: ~
-homepage: >-
-  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-reward#readme
+description: "A vuepress plugin for reward component.\u5728\u4F60\u7684\u7AD9\u70B9\
+  \u6DFB\u52A0\u4E00\u4E2A\u6253\u8D4F\u63D2\u4EF6."
+downloads: null
+homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-reward#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - theme
-  - denaro
-  - reward
-  - 打赏
+- vuepress
+- vuepress-plugin
+- theme
+- denaro
+- reward
+- "\u6253\u8D4F"
 license: Other
-maintainers:
-  - email: pengchengou@gmail.com
-    username: vxhly
+maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-reward'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-reward
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    username: vxhly
+  avatar: null
+  email: pengchengou@gmail.com
+  name: null
+  url: null
+  username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117103446390923
 stars: 3
@@ -73,6 +66,12 @@ watchers: 3
 > :tada: Add a dynamic title to your site.给你的站点添加动态标题的支持插件.
 
 链接：[@vuepress-denaro/vuepress-plugin-dynamic-title](https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/%40vuepress-denaro/plugin-dynamic-title)
+
+## plugin-flowchart
+
+> :tada: Rapid flowchart development plugin for vuepress.vuepress 的快速流程图开发插件.
+
+链接：[@vuepress-denaro/vuepress-plugin-flowchart](https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/%40vuepress-denaro/plugin-flowchart)
 
 ## plugin-moefy-canvas
 
