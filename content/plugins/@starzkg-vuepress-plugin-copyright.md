@@ -1,40 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/96685951?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: vuepress-star
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-11-28T12:32:26.967Z'
 deprecated: false
 description: A VuePress plugin which handles copy behaviors.
-downloads: ~
+downloads: null
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - copyright
-  - copy
-  - markdown
+- vuepress
+- vuepress-plugin
+- copyright
+- copy
+- markdown
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-copyright'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-copyright
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5578305790502583
 stars: 1
@@ -68,6 +61,10 @@ vuepress-theme-star:
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
 
 为了构建功能完备的个人网站 ✨
+
+## star 用户数量 / 时间变化图
+
+[![Stargazers over time](https://starchart.cc/vuepress-star/vuepress-theme-star.svg)](https://starchart.cc/vuepress-star/vuepress-theme-star)
 
 ## 状态: Beta
 
