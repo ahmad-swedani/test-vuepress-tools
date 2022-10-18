@@ -1,47 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:55.817Z'
 deprecated: false
 description: Photo Swipe plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/photo-swipe/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - photo-swipe
-  - preview
-  - zoom
-  - picture
+- vuepress-plugin
+- vuepress
+- photo-swipe
+- preview
+- zoom
+- picture
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-photo-swipe
 npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6760539384015969
-stars: 773
+stars: 776
 unstable: false
 version: 1.30.0
-watchers: 773
+watchers: 776
 
 ---
 
@@ -75,8 +68,6 @@ watchers: 773
 
 A vuepress theme with tons of features✨
 
-![Status](https://repobeats.axiom.co/api/embed/1164cd0962fe9e8ce7fd3785cb28c79adecf8a26.svg)
-
 ## [English Docs](https://vuepress-theme-hope.github.io/v2/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
@@ -109,3 +100,15 @@ Also V2 has a better performance:🚀
 - Build time reduced by **30%**
 - Output Size reduced by **25%**
 - Webpage performance up to **70%**
+
+## Project Status
+
+![Status](https://repobeats.axiom.co/api/embed/1164cd0962fe9e8ce7fd3785cb28c79adecf8a26.svg)
+
+## Contributors
+
+Thanks to all the contributors!
+
+<a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vuepress-theme-hope/vuepress-theme-hope" />
+</a>
