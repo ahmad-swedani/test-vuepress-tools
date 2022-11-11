@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22881872?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: 君惜
+  email: null
+  name: "\u541B\u60DC"
+  url: null
+  username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
 date: '2021-12-15T07:04:32.038Z'
 deprecated: false
 description: vuepress plugin for demoblock
-downloads: ~
+downloads: null
 homepage: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus#readme
 keywords:
-  - vuepress2
-  - vuepress
-  - vue
-  - plugin
+- vuepress2
+- vuepress
+- vue
+- plugin
 license: MIT License
-maintainers:
-  - email: xinlei3166@126.com
-    username: xinlei3166
+maintainers: null
 name: vuepress-plugin-demoblock-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xinlei3166@126.com
-    username: xinlei3166
+  avatar: null
+  email: xinlei3166@126.com
+  name: null
+  url: null
+  username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
 score: 0.5171677888446938
 stars: 18
@@ -43,7 +38,7 @@ watchers: 18
 
 # vuepress-plugin-demoblock-plus
 
-> 这是2.x版本的文档，已经采用TypeScript重写，如果使用1.x版本请看[v1文档](v1.md)。
+> 这是2.x版本的文档，已经采用TypeScript和ESM规范重写，如果使用1.x版本请看[v1文档](v1.md)。
 
 ## 简介
 
@@ -214,7 +209,7 @@ html.dark {
 ```js
 plugins: [
   demoblockPlugin({
-    customClass: 'demoblcok-custom',
+    customClass: 'demoblock-custom',
   })
 ]
 ```
