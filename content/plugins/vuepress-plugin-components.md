@@ -1,45 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-05-22T06:30:49.229Z'
 deprecated: false
 description: Components collection plugin for VuePress2
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/components/
 keywords:
-  - vuepress
-  - vuepress2
-  - vuepress-plugin
-  - components
+- vuepress
+- vuepress2
+- vuepress-plugin
+- components
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-components
 npm: https://www.npmjs.com/package/vuepress-plugin-components
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6736482248012161
-stars: 860
+stars: 863
 unstable: false
 version: 2.0.0-beta.69
-watchers: 860
+watchers: 863
 
 ---
 
@@ -68,7 +61,7 @@ watchers: 860
 
 [![DeepScan grade](https://deepscan.io/api/teams/9792/projects/17544/branches/405512/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9792&pid=17544&bid=405512)
 ![CodeQL](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/codeql-analysis.yml/badge.svg)
-[![codecov](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope/branch/main/graph/badge.svg?token=TNYMbGlxQ9)](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope)
+[![code cov](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope/branch/main/graph/badge.svg?token=TNYMbGlxQ9)](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope)
 ![Test theme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/test.yml/badge.svg)
 
 A VuePress theme with tons of features✨
