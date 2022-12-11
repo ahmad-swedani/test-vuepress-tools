@@ -1,35 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/227713?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: atian25@qq.com
-    name: TZ
-    username: atian25
+  email: atian25@qq.com
+  name: TZ
+  url: null
+  username: atian25
 bugs: https://github.com/atian25/vuepress-plugin-yuque-deploy/issues
 category: plugin
 date: '2019-03-18T07:14:03.738Z'
 deprecated: false
 description: deploy your vuepress markdown to https://www.yuque.com
-downloads: ~
+downloads: null
 homepage: https://github.com/atian25/vuepress-plugin-yuque-deploy#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: atian25@qq.com
-    username: atian25
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-yuque-deploy
 npm: https://www.npmjs.com/package/vuepress-plugin-yuque-deploy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: atian25@qq.com
-    username: atian25
+  avatar: null
+  email: atian25@qq.com
+  name: null
+  url: null
+  username: atian25
 repository: https://github.com/atian25/vuepress-plugin-yuque-deploy
 score: 0.6339792327448565
 stars: 4
