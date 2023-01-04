@@ -1,51 +1,44 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-02-22T11:50:50.343Z'
 deprecated: false
 description: Light Gallery plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/lightgallery/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - lightgallery
-  - mr-hope
+- vuepress-plugin
+- vuepress
+- lightgallery
+- mr-hope
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-lightgallery
 npm: https://www.npmjs.com/package/vuepress-plugin-lightgallery
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6830913756104904
-stars: 912
+stars: 917
 unstable: false
 version: 2.0.0-alpha.33
-watchers: 912
+watchers: 917
 
 ---
 
 <!-- markdownlint-disable -->
 <p align="center">
-  <img width="240" src="https://vuepress-theme-hope.github.io/v2/logo.svg" style="text-align: center;">
+  <img width="240" src="https://theme-hope.vuejs.press/logo.svg" style="text-align: center;">
 </p>
 <h1 align="center">vuepress-theme-hope</h1>
 <h4 align="center">A VuePress theme with tons of features✨</h4>
@@ -73,7 +66,7 @@ watchers: 912
 
 A VuePress theme with tons of features✨
 
-## [English Docs](https://vuepress-theme-hope.github.io/v2/)
+## [English Docs](https://theme-hope.vuejs.press/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
 

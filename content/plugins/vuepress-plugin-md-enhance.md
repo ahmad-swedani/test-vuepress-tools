@@ -1,60 +1,53 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:50.817Z'
 deprecated: false
 description: Markdown enhancement for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/md-enhance/
 keywords:
-  - vuepress-plugin
-  - markdown
-  - align
-  - superscript
-  - subscript
-  - footnote
-  - flowchart
-  - tex
-  - latex
-  - katex
-  - mark
-  - presentation
-  - reveal.js
+- vuepress-plugin
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- latex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-md-enhance
 npm: https://www.npmjs.com/package/vuepress-plugin-md-enhance
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6521263648841097
-stars: 912
+stars: 917
 unstable: false
 version: 1.30.0
-watchers: 912
+watchers: 917
 
 ---
 
 <!-- markdownlint-disable -->
 <p align="center">
-  <img width="240" src="https://vuepress-theme-hope.github.io/v2/logo.svg" style="text-align: center;">
+  <img width="240" src="https://theme-hope.vuejs.press/logo.svg" style="text-align: center;">
 </p>
 <h1 align="center">vuepress-theme-hope</h1>
 <h4 align="center">A VuePress theme with tons of features✨</h4>
@@ -82,7 +75,7 @@ watchers: 912
 
 A VuePress theme with tons of features✨
 
-## [English Docs](https://vuepress-theme-hope.github.io/v2/)
+## [English Docs](https://theme-hope.vuejs.press/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
 
