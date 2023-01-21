@@ -1,47 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6147452?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Axway Appcelerator
+  email: null
+  name: Axway Appcelerator
+  url: null
+  username: tidev
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: plugin
 date: '2021-03-09T21:11:14.605Z'
 deprecated: false
 description: Plugin for VuePress to render API reference documentation
-downloads: ~
+downloads: null
 homepage: https://github.com/appcelerator/docs-devkit#readme
 keywords:
-  - vuepress
-  - titanium
-  - api
-  - docs
-license: ~
-maintainers:
-  - email: chris@cb1inc.com
-    username: cb1kenobi
-  - email: ewanharris93@gmail.com
-    username: awam
-  - email: tidev@cb1inc.com
-    username: tisdk
+- vuepress
+- titanium
+- api
+- docs
+license: false
+maintainers: null
 name: vuepress-plugin-apidocs
 npm: https://www.npmjs.com/package/vuepress-plugin-apidocs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: npmjs@appcelerator.com
-    username: appcelerator
+  avatar: null
+  email: npmjs@appcelerator.com
+  name: null
+  url: null
+  username: appcelerator
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.6146074457852665
-stars: 22
+stars: 23
 unstable: false
 version: 4.10.3
-watchers: 22
+watchers: 23
 
 ---
 
