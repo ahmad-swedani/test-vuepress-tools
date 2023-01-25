@@ -1,47 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-20T18:47:03.640Z'
 deprecated: false
 description: A comment plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/comment/
 keywords:
-  - vuepress-plugin
-  - vuepress-blog
-  - comment
-  - valine
-  - vssue
-  - page-info
+- vuepress-plugin
+- vuepress-blog
+- comment
+- valine
+- vssue
+- page-info
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-comment2
 npm: https://www.npmjs.com/package/vuepress-plugin-comment2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6756577333346729
-stars: 947
+stars: 949
 unstable: false
 version: 2.0.0-beta.24
-watchers: 947
+watchers: 949
 
 ---
 
@@ -64,7 +57,7 @@ watchers: 947
 
 <!-- markdownlint-restore -->
 
-[![Version](https://img.shields.io/npm/v/vuepress-theme-hope/next.svg?style=flat-square&logo=npm) ![Downloads](https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Total downloads](https://img.shields.io/npm/dt/vuepress-theme-hope?style=flat-square&logo=npm) ![Size](https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-hope)
+[![Version](https://img.shields.io/npm/v/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Downloads](https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Total downloads](https://img.shields.io/npm/dt/vuepress-theme-hope?style=flat-square&logo=npm) ![Size](https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-hope)
 
 [![open collective](https://opencollective.com/vuepress-theme-hope/tiers/badge.svg)](https://opencollective.com/vuepress-theme-hope)
 
@@ -82,14 +75,6 @@ A VuePress theme with tons of features✨
 ## Contact
 
 We recommend you to contact using [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) and [discussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions), but you are welcome to join our [telegram group!](https://t.me/vuepressthemehope).
-
-## Note
-
-Current branch is based on VuePress@v2, and it’s still in beta.
-
-This means that features and API are not solid, and there might be BREAKING CHANGES in future releases.
-
-Though the project has stable release of V1, and are held in [V1 Repo](https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/), but we do not recommend you to keep using V1 in new projects. See [V1 end of support Announcement](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/1535) for more details.
 
 ## Details
 
