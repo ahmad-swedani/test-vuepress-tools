@@ -1,39 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    name: reco_luan
-    username: reco_luan
+  email: recoluan@outlook.com
+  name: reco_luan
+  url: null
+  username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
 category: plugin
 date: '2022-01-25T17:08:01.047Z'
 deprecated: false
 description: A vue component preview plugin for vuepress-theme-reco.
-downloads: ~
+downloads: null
 homepage: https://github.com/recoluan/vuepress-theme-reco-next#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
+- vuepress-plugin
+- vuepress
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-vue-preview'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-vue-preview
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.6244214049533316
 stars: 274
@@ -113,11 +104,19 @@ theme-cli init
 
 <br/>
 
+<img width="800" alt="blog_dark" src="https://user-images.githubusercontent.com/18067907/216823247-8aee08e1-2c24-45e5-8c2e-b9a919ed1c27.png">
+
+<br/>
+
 <img width="800" alt="home_light" src="https://user-images.githubusercontent.com/18067907/214793349-ae174f83-e7ab-42e9-aac1-eb8adab695a9.png">
 
 <br/>
 
 <img width="800" alt="doc_light" src="https://user-images.githubusercontent.com/18067907/214793361-139cea23-3634-4e42-a90a-be172a5e26fb.png">
+
+<br/>
+
+<img width="800" alt="blog_light" src="https://user-images.githubusercontent.com/18067907/216823287-e4699d52-e081-4c59-9e11-09fd5154c8b3.png">
 
 <br/>
 
