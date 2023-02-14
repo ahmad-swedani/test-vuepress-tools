@@ -1,54 +1,47 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:50.817Z'
 deprecated: false
 description: Markdown enhancement for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/md-enhance/
 keywords:
-  - vuepress-plugin
-  - markdown
-  - align
-  - superscript
-  - subscript
-  - footnote
-  - flowchart
-  - tex
-  - latex
-  - katex
-  - mark
-  - presentation
-  - reveal.js
+- vuepress-plugin
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- latex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-md-enhance
 npm: https://www.npmjs.com/package/vuepress-plugin-md-enhance
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6521263648841097
-stars: 990
+stars: 994
 unstable: false
 version: 1.30.0
-watchers: 990
+watchers: 994
 
 ---
 
@@ -92,7 +85,7 @@ We recommend you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Details
 
-V2 is coming come together with _VuePress2_, with the power of _Vite2_ / _Webpack5_ and _Vue3_.
+V2 is coming come together with [_VuePress2_](https://v2.vuepress.vuejs.org), with the power of [_Vite4_](https://vitejs.dev) / [_Webpack5_](https://webpack.js.org) and [_Vue3_](https://vuejs.org).
 
 V2 is a full rewrite including:
 
