@@ -1,50 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    name: Pine Wu
-    username: octref
+  email: octref@gmail.com
+  name: Pine Wu
+  url: null
+  username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
 date: '2022-02-15T14:22:31.547Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: ~
+downloads: null
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-  - shiki
-  - vuepress
-  - vuepress-plugin
-  - syntax-highlighter
-  - highlighter
+- shiki
+- vuepress
+- vuepress-plugin
+- syntax-highlighter
+- highlighter
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: octref@gmail.com
-    username: octref
-  - email: anthonyfu117@hotmail.com
-    username: antfu
+maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    username: octref
+  avatar: null
+  email: octref@gmail.com
+  name: null
+  url: null
+  username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 4773
+stars: 4853
 unstable: true
 version: 0.10.1
-watchers: 4773
+watchers: 4853
 
 ---
 
@@ -68,7 +57,7 @@ We are working towards 1.0, which means:
 
 ## About
 
-Shiki uses TextMate grammar's to tokenize strings, and colors the tokens via VS Code themes. In short, Shiki generates HTML that looks exactly like your code in VS Code, and it works great in your static website generator (or your dynamic website).
+Shiki uses TextMate grammars to tokenize strings, and colors the tokens via VS Code themes. In short, Shiki generates HTML that looks exactly like your code in VS Code, and it works great in your static website generator (or your dynamic website).
 
 No custom RegEx to maintain, no custom CSS to maintain, no custom HTML to maintain. And as your favorite languages and themes in VS Code evolve - your syntax highlighting will evolve too.
 
@@ -134,7 +123,7 @@ And after that you can (and should) check out the reference docs for deeper dive
 
 Shiki has a lot of points for customization notably: themes, languages, and custom renderers.
 
-Shiki leverages the [TextMate](https://macromates.com/manual/en/language_grammars) grammar system to tokenize code. It uses the [VS Code Oniguruma](https://github.com/vscode-oniguruma/vscode-oniguruma) library to do the heavy lifting of matching the grammar rules to code.
+Shiki leverages the [TextMate](https://macromates.com/manual/en/language_grammars) grammar system to tokenize code. It uses the [VS Code Oniguruma](https://github.com/microsoft/vscode-oniguruma) library to do the heavy lifting of matching the grammar rules to code.
 
 At the core is Shiki's [highlighter](./packages/shiki/src/highlighter.ts). The highlighter is a class which takes a theme and languages, and exposes functions like `codeToHtml` which converts string of arbitrary code and returns a string of HTML for rendering on the web.
 
