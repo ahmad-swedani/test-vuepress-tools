@@ -1,37 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-20T18:47:00.906Z'
 deprecated: false
 description: Sitemap plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/sitemap/
 keywords:
-  - vuepress-plugin
-  - sitemap
+- vuepress-plugin
+- sitemap
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-sitemap2
 npm: https://www.npmjs.com/package/vuepress-plugin-sitemap2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6897888641805732
 stars: 1057
@@ -109,3 +102,7 @@ Also V2 has a better performance:🚀
 Thanks to all the contributors!
 
 [![contributors](https://contrib.rocks/image?repo=vuepress-theme-hope/vuepress-theme-hope)](https://github.com/vuepress-theme-hope/vuepress-theme-hope/graphs/contributors)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/vuepress-theme-hope/vuepress-theme-hope.svg)](https://starchart.cc/vuepress-theme-hope/vuepress-theme-hope)
