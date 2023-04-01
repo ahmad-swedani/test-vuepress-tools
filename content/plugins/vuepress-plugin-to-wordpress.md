@@ -1,40 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/24477920?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: lzw.
+  email: null
+  name: lzw.
+  url: null
+  username: lzwdot
 bugs: https://github.com/lzwdot/vuepress-plugin-to-wordpress/issues
 category: plugin
 date: '2022-02-05T06:58:21.371Z'
 deprecated: false
 description: A vuepress plugin uses XmlRpc to synchronize Vuepress content to WordPress
-downloads: ~
+downloads: null
 homepage: https://github.com/lzwdot/vuepress-plugin-to-wordpress
 keywords:
-  - vuepress-plugin-to-wordpress
-license: ~
-maintainers:
-  - email: lzwdot@qq.com
-    username: lzwdot
+- vuepress-plugin-to-wordpress
+license: false
+maintainers: null
 name: vuepress-plugin-to-wordpress
 npm: https://www.npmjs.com/package/vuepress-plugin-to-wordpress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lzwdot@qq.com
-    username: lzwdot
+  avatar: null
+  email: lzwdot@qq.com
+  name: null
+  url: null
+  username: lzwdot
 repository: https://github.com/lzwdot/vuepress-plugin-to-wordpress
 score: 0.555335387287681
-stars: 0
+stars: 1
 unstable: true
 version: 1.0.0-beta.14
-watchers: 0
+watchers: 1
 
 ---
 
