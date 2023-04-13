@@ -1,53 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
+  email: null
+  name: meteorlxy
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-02-20T19:23:33.045Z'
 deprecated: false
 description: VuePress plugin - theme data
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - theme
+- vuepress-plugin
+- vuepress
+- plugin
+- theme
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-theme-data'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-theme-data
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6735687841296321
-stars: 1663
+stars: 1667
 unstable: false
 version: 2.0.0-alpha.25
-watchers: 1663
+watchers: 1667
 
 ---
 
