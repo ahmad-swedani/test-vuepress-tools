@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4113649?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: charles.blaxland@gmail.com
-    name: Charles Blaxland
-    url: https://github.com/ampedandwired
+  email: charles.blaxland@gmail.com
+  name: Charles Blaxland
+  url: https://github.com/ampedandwired
+  username: jantimon
 bugs: https://github.com/jantimon/html-webpack-plugin/issues
 category: plugin
 date: '2018-04-16T17:42:11.111Z'
 deprecated: false
 description: Simplifies creation of HTML files to serve your webpack bundles
-downloads: ~
+downloads: null
 homepage: https://github.com/jantimon/html-webpack-plugin
 keywords:
-  - webpack
-  - plugin
-  - html
-  - html-webpack-plugin
+- webpack
+- plugin
+- html
+- html-webpack-plugin
 license: MIT License
-maintainers:
-  - email: yyx990803@gmail.com
-    username: yyx990803
+maintainers: null
 name: vuepress-html-webpack-plugin
 npm: https://www.npmjs.com/package/vuepress-html-webpack-plugin
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yyx990803@gmail.com
-    username: yyx990803
+  avatar: null
+  email: yyx990803@gmail.com
+  name: null
+  url: null
+  username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
 score: 0.7725195229172304
 stars: 10464
@@ -46,13 +39,12 @@ watchers: 10464
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 ![npm](https://img.shields.io/npm/dw/html-webpack-plugin.svg)
-[![deps][deps]][deps-url]
 [![tests][tests]][tests-url]
 [![Backers on Open Collective](https://opencollective.com/html-webpack-plugin/backers/badge.svg)](#backers)
  [![Sponsors on Open Collective](https://opencollective.com/html-webpack-plugin/sponsors/badge.svg)](#sponsors) 
 
 <div align="center">
-  <img width="200" height="200" src="https://worldvectorlogo.com/logos/html5.svg">
+  <img width="200" height="200" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200"
       src="https://webpack.js.org/assets/icon-square-big.svg">
@@ -705,9 +697,6 @@ This project uses the [semistandard code style](https://github.com/Flet/semistan
 
 [node]: https://img.shields.io/node/v/html-webpack-plugin.svg
 [node-url]: https://nodejs.org
-
-[deps]: https://david-dm.org/jantimon/html-webpack-plugin.svg
-[deps-url]: https://david-dm.org/jantimon/html-webpack-plugin
 
 [tests]: https://github.com/jantimon/html-webpack-plugin/workflows/CI/badge.svg
 [tests-url]: https://github.com/jantimon/html-webpack-plugin/actions?query=workflow%3ACI
