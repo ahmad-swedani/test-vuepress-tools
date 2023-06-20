@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4113649?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: charles.blaxland@gmail.com
-    name: Charles Blaxland
-    url: https://github.com/ampedandwired
+  email: charles.blaxland@gmail.com
+  name: Charles Blaxland
+  url: https://github.com/ampedandwired
+  username: jantimon
 bugs: https://github.com/jantimon/html-webpack-plugin/issues
 category: plugin
 date: '2018-04-16T17:42:11.111Z'
 deprecated: false
 description: Simplifies creation of HTML files to serve your webpack bundles
-downloads: ~
+downloads: null
 homepage: https://github.com/jantimon/html-webpack-plugin
 keywords:
-  - webpack
-  - plugin
-  - html
-  - html-webpack-plugin
+- webpack
+- plugin
+- html
+- html-webpack-plugin
 license: MIT License
-maintainers:
-  - email: yyx990803@gmail.com
-    username: yyx990803
+maintainers: null
 name: vuepress-html-webpack-plugin
 npm: https://www.npmjs.com/package/vuepress-html-webpack-plugin
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yyx990803@gmail.com
-    username: yyx990803
+  avatar: null
+  email: yyx990803@gmail.com
+  name: null
+  url: null
+  username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
 score: 0.7725195229172304
 stars: 10472
@@ -200,7 +193,7 @@ Allowed values are as follows:
 |**`meta`**|`{Object}`|`{}`|Allows to inject `meta`-tags. E.g. `meta: {viewport: 'width=device-width, initial-scale=1, shrink-to-fit=no'}`|
 |**`base`**|`{Object\|String\|false}`|`false`|Inject a [`base`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base) tag. E.g. `base: "https://example.com/path/page.html`|
 |**`minify`**|`{Boolean\|Object}`|`true` if `mode` is `'production'`, otherwise `false`|Controls if and in what ways the output should be minified. See [minification](#minification) below for more details.|
-|**`hash`**|`{Boolean}`|`false`|If `true` then append a unique `webpack` compilation hash to all included scripts and CSS files. This is useful for cache busting|
+|**`hash`**|`{Boolean}`|`false`|If `true` then append a unique `webpack` compilation hash to all included scripts and CSS files (i.e. `main.js?hash=compilation_hash`). This is useful for cache busting|
 |**`cache`**|`{Boolean}`|`true`|Emit the file only if it was changed|
 |**`showErrors`**|`{Boolean}`|`true`|Errors details will be written into the HTML page|
 |**`chunks`**|`{?}`|`?`|Allows you to add only some chunks (e.g only the unit-test chunk)|
