@@ -1,54 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
+  email: null
+  name: meteorlxy
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2020-12-09T12:13:11.166Z'
 deprecated: false
 description: VuePress plugin - debug
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress
-  - plugin
-  - debug
+- vuepress
+- plugin
+- debug
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-debug'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-debug
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6442435490320751
-stars: 1781
+stars: 1783
 unstable: false
 version: 2.0.0-alpha.6
-watchers: 1781
+watchers: 1783
 
 ---
 
