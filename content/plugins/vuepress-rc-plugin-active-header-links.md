@@ -1,38 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/21354589?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: wangyonghao
+  email: null
+  name: wangyonghao
+  url: null
+  username: YongHao0
 bugs: https://github.com/YongHao0/vuepress/issues
 category: plugin
 date: '2020-09-15T06:32:06.665Z'
 deprecated: false
 description: active-header-links plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-active-header-links#readme
+downloads: null
+homepage: https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-active-header-links#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 2914905399@qq.com
-    username: wangyonghao
+maintainers: null
 name: vuepress-rc-plugin-active-header-links
 npm: https://www.npmjs.com/package/vuepress-rc-plugin-active-header-links
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2914905399@qq.com
-    username: wangyonghao
+  avatar: null
+  email: 2914905399@qq.com
+  name: null
+  url: null
+  username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
 score: 0.578921392692298
 stars: 0
