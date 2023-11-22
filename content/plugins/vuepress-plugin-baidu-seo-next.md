@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5085501?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: rqh656418510
+  email: null
+  name: rqh656418510
+  url: null
+  username: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-baidu-seo-next/issues
 category: plugin
 date: '2022-06-20T02:34:22.013Z'
 deprecated: false
 description: Baidu SEO plugin for vuepress v2.x
-downloads: ~
+downloads: null
 homepage: https://github.com/rqh656418510/vuepress-plugin-baidu-seo-next
 keywords:
-  - vuepress-plugin-baidu-seo-next
-  - vuepress2
-  - plugin
-  - baidu
-  - tongji
-  - seo
+- vuepress-plugin-baidu-seo-next
+- vuepress2
+- plugin
+- baidu
+- tongji
+- seo
 license: MIT License
-maintainers:
-  - email: 656418510@qq.com
-    username: rqh656418510
+maintainers: null
 name: vuepress-plugin-baidu-seo-next
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-seo-next
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 656418510@qq.com
-    username: rqh656418510
+  avatar: null
+  email: 656418510@qq.com
+  name: null
+  url: null
+  username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-baidu-seo-next
 score: 0.5140879352826927
 stars: 0
@@ -51,7 +46,7 @@ watchers: 0
 
 ### 安装插件
 
-> 以 SEO 插件版本号 `2.0.0-beta.66.x` 举例，其中的 `2.0.0-beta.66` 代表该 SEO 插件所兼容的 VuePress 2 版本，而 `x` 则代表 SEO 插件自身的修订版本号。若 VuePress 2 与 SEO 插件的版本不兼容，很可能会导致编译出错或者 SEO 插件无法生效。
+> 以 SEO 插件版本号 `2.0.0-rc.0.x` 举例，其中的 `2.0.0-rc.0` 代表该 SEO 插件所兼容的 VuePress 2 版本，而 `x` 则代表 SEO 插件自身的修订版本号。若 VuePress 2 与 SEO 插件的版本不兼容，很可能会导致编译出错或者 SEO 插件无法生效。
 
 - 查看插件的所有版本
 
@@ -67,7 +62,7 @@ $ npm view vuepress-plugin-baidu-seo-next versions
 $ npm install -D vuepress-plugin-baidu-seo-next
 
 # # 安装指定版本（推荐）
-$ npm install -D vuepress-plugin-baidu-seo-next@2.0.0-beta.66.1
+$ npm install -D vuepress-plugin-baidu-seo-next@2.0.0-rc.0.1
 ```
 
 ### 配置插件
