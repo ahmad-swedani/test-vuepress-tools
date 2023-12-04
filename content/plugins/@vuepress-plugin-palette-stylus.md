@@ -1,62 +1,44 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
+  email: null
+  name: meteorlxy
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2020-12-01T02:25:37.171Z'
 deprecated: false
 description: VuePress plugin - palette stylus
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress
-  - plugin
-  - palette
-  - stylus
+- vuepress
+- plugin
+- palette
+- stylus
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-palette-stylus'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-palette-stylus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6461549533415785
-stars: 1975
+stars: 1976
 unstable: false
 version: 2.0.0-alpha.1
-watchers: 1975
+watchers: 1976
 
 ---
 
 # vuepress-next
 
-[![github check](https://github.com/vuepress/vuepress-next/workflows/check/badge.svg)](https://github.com/vuepress/vuepress-next/actions?query=workflow%3Acheck)
-[![github docs](https://github.com/vuepress/vuepress-next/workflows/docs/badge.svg)](https://github.com/vuepress/vuepress-next/actions?query=workflow%3Adocs)
+[![check](https://github.com/vuepress/vuepress-next/workflows/check/badge.svg)](https://github.com/vuepress/vuepress-next/actions/workflows/check.yml?query=workflow%3Acheck)
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/vuepress-next/badge.svg?branch=main)](https://coveralls.io/github/vuepress/vuepress-next?branch=main)
 [![license](https://badgen.net/github/license/vuepress/vuepress-next)](https://github.com/vuepress/vuepress-next/blob/main/LICENSE)
@@ -72,7 +54,9 @@ https://v2.vuepress.vuejs.org
 
 ## Contribution
 
-See [Contributing Guide](https://github.com/vuepress/vuepress-next/blob/main/docs/contributing.md).
+See [Contributing Guide](https://github.com/vuepress/vuepress-next/blob/main/CONTRIBUTING.md)
+
+查看 [贡献指南](https://github.com/vuepress/vuepress-next/blob/main/CONTRIBUTING_zh.md)
 
 ## License
 
