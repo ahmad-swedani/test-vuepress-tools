@@ -1,38 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/24877853?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: xujian
+  email: null
+  name: xujian
+  url: null
+  username: sunnyxujian
 bugs: https://github.com/sunnyxujian/vuepress-plugin-image-viewer/issues
 category: plugin
 date: '2022-06-14T02:47:11.667Z'
 deprecated: false
 description: image viewer plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/sunnyxujian/vuepress-plugin-image-viewer
 keywords:
-  - vuepress
-  - plugin
-  - viewer
-  - image
-  - zoom
+- vuepress
+- plugin
+- viewer
+- image
+- zoom
 license: MIT License
-maintainers:
-  - email: 1227971544@qq.com
-    username: microjan
+maintainers: null
 name: vuepress-plugin-image-viewer
 npm: https://www.npmjs.com/package/vuepress-plugin-image-viewer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1227971544@qq.com
-    username: microjan
+  avatar: null
+  email: 1227971544@qq.com
+  name: null
+  url: null
+  username: microjan
 repository: https://github.com/sunnyxujian/vuepress-plugin-image-viewer
 score: 0.5289415948669366
 stars: 8
