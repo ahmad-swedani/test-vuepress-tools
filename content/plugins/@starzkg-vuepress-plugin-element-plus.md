@@ -1,43 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Starzkg
+  email: null
+  name: Starzkg
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-11-08T06:46:52.383Z'
 deprecated: false
 description: VuePress plugin - Element Plus
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - element-plus
+- vuepress-plugin
+- vuepress
+- plugin
+- element-plus
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-element-plus'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-element-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/vuepress/vuepress-next
 score: 0.5956441230359775
-stars: 1983
+stars: 1985
 unstable: true
 version: 1.0.0-beta.11
-watchers: 1983
+watchers: 1985
 
 ---
 
@@ -49,13 +44,13 @@ watchers: 1983
 [![license](https://badgen.net/github/license/vuepress/vuepress-next)](https://github.com/vuepress/vuepress-next/blob/main/LICENSE)
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
 
-## Status: Release Candidate
-
-For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
+Status: Release Candidate
 
 ## Documentation
 
 https://v2.vuepress.vuejs.org
+
+For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
 
 ## Contribution
 
