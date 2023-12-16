@@ -1,50 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    name: Pine Wu
-    username: octref
+  email: octref@gmail.com
+  name: Pine Wu
+  url: null
+  username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
 date: '2022-02-15T14:22:31.547Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: ~
+downloads: null
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-  - shiki
-  - vuepress
-  - vuepress-plugin
-  - syntax-highlighter
-  - highlighter
+- shiki
+- vuepress
+- vuepress-plugin
+- syntax-highlighter
+- highlighter
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: octref@gmail.com
-    username: octref
-  - email: anthonyfu117@hotmail.com
-    username: antfu
+maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    username: octref
+  avatar: null
+  email: octref@gmail.com
+  name: null
+  url: null
+  username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 6335
+stars: 6336
 unstable: true
 version: 0.10.1
-watchers: 6335
+watchers: 6336
 
 ---
 
@@ -422,7 +411,7 @@ The default functionality of rendering code blocks would use `codeToHtml` from t
 If you want to render the tokens into a code yourself, Shiki exposes two key methods to do that.
 
 - `codeToThemedTokens` takes a code string and a language id and returns an array of tokens. A token represents a single part of the code, for example a keyword, a string, a comment, etc.
-- `renderToHTML` takes an array of tokens and returns an HTML string that represents the provided code.
+- `renderToHtml` takes an array of tokens and returns an HTML string that represents the provided code.
 
 ```js
 import shiki, { getHighlighter } from 'shiki'
@@ -439,15 +428,15 @@ const code = `console.log("Here is your code.");`
 const tokens = highlighter.codeToThemedTokens(code, 'javascript')
 
 // This will return an HTML string that represents the provided code.
-const html = shiki.renderToHTML(tokens)
+const html = shiki.renderToHtml(tokens)
 ```
 
-Alternatively you can add to `renderToHTML` the desired element shape for `pre`, `code`, `line (span)`, and `token (span)`, and override the theme colors for background and foreground.
+Alternatively you can add to `renderToHtml` the desired element shape for `pre`, `code`, `line (span)`, and `token (span)`, and override the theme colors for background and foreground.
 
 For more about that, or to build your own renderer, check out the implementation in [shiki](./packages/shiki/src/renderer.ts).
 
 ```js
-const html = shiki.renderToHTML(tokens, {
+const html = shiki.renderToHtml(tokens, {
   fg: highlighter.getForegroundColor('nord'), // Set a specific foreground color.
   bg: highlighter.getBackgroundColor('nord'), // Set a specific background color.
   // Specified elements override the default elements.
