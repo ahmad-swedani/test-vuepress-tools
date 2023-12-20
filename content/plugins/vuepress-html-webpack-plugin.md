@@ -1,45 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4113649?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: charles.blaxland@gmail.com
-    name: Charles Blaxland
-    url: https://github.com/ampedandwired
+  email: charles.blaxland@gmail.com
+  name: Charles Blaxland
+  url: https://github.com/ampedandwired
+  username: jantimon
 bugs: https://github.com/jantimon/html-webpack-plugin/issues
 category: plugin
 date: '2018-04-16T17:42:11.111Z'
 deprecated: false
 description: Simplifies creation of HTML files to serve your webpack bundles
-downloads: ~
+downloads: null
 homepage: https://github.com/jantimon/html-webpack-plugin
 keywords:
-  - webpack
-  - plugin
-  - html
-  - html-webpack-plugin
+- webpack
+- plugin
+- html
+- html-webpack-plugin
 license: MIT License
-maintainers:
-  - email: yyx990803@gmail.com
-    username: yyx990803
+maintainers: null
 name: vuepress-html-webpack-plugin
 npm: https://www.npmjs.com/package/vuepress-html-webpack-plugin
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yyx990803@gmail.com
-    username: yyx990803
+  avatar: null
+  email: yyx990803@gmail.com
+  name: null
+  url: null
+  username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
 score: 0.7725195229172304
-stars: 10555
+stars: 10557
 unstable: false
 version: 3.2.0
-watchers: 10555
+watchers: 10557
 
 ---
 
@@ -196,7 +189,7 @@ Allowed values are as follows:
 |**`templateParameters`**|`{Boolean\|Object\|Function}`| `false`| Allows to overwrite the parameters used in the template - see [example](https://github.com/jantimon/html-webpack-plugin/tree/master/examples/template-parameters) |
 |**`inject`**|`{Boolean\|String}`|`true`|`true \|\| 'head' \|\| 'body' \|\| false` Inject all assets into the given `template` or `templateContent`. When passing `'body'` all javascript resources will be placed at the bottom of the body element. `'head'` will place the scripts in the head element. Passing `true` will add it to the head/body depending on the `scriptLoading` option. Passing `false` will disable automatic injections. - see the [inject:false example](https://github.com/jantimon/html-webpack-plugin/tree/master/examples/custom-insertion-position)|
 |**`publicPath`**|`{String\|'auto'}`|`'auto'`|The publicPath used for script and link tags|
-|**`scriptLoading`**|`{'blocking'\|'defer'\|'module'}`|`'defer'`| Modern browsers support non blocking javascript loading (`'defer'`) to improve the page startup performance. Setting to `'module'` adds attribute [`type="module"`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#applying_the_module_to_your_html). This also implies "defer", since modules are automatically deferred. |
+|**`scriptLoading`**|`{'blocking'\|'defer'\|'module'\|'systemjs-module'}`|`'defer'`| Modern browsers support non blocking javascript loading (`'defer'`) to improve the page startup performance. Setting to `'module'` adds attribute [`type="module"`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#applying_the_module_to_your_html). This also implies "defer", since modules are automatically deferred. |
 |**`favicon`**|`{String}`|``|Adds the given favicon path to the output HTML|
 |**`meta`**|`{Object}`|`{}`|Allows to inject `meta`-tags. E.g. `meta: {viewport: 'width=device-width, initial-scale=1, shrink-to-fit=no'}`|
 |**`base`**|`{Object\|String\|false}`|`false`|Inject a [`base`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base) tag. E.g. `base: "https://example.com/path/page.html`|
