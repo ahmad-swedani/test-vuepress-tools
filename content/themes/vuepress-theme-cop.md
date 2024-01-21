@@ -33,10 +33,10 @@ publisher:
     username: lblog
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.21065427812481416
-stars: 460
+stars: 461
 unstable: false
 version: 1.8.9
-watchers: 460
+watchers: 461
 
 ---
 
