@@ -1,28 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22772830?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: QiShaoXuan
 bugs: https://github.com/QiShaoXuan/vuepress-plugin-cat/issues
 category: plugin
 date: '2022-04-03T18:45:39.026Z'
 deprecated: false
 description: '## How to use'
-downloads: null
+downloads: ~
 homepage: https://github.com/QiShaoXuan/vuepress-plugin-cat#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 1440797327@qq.com
+    username: lblog
 name: vuepress-plugin-maor
 npm: https://www.npmjs.com/package/vuepress-plugin-maor
 publisher:
-  avatar: null
-  email: 1440797327@qq.com
-  name: null
-  url: null
-  username: lblog
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1440797327@qq.com
+    username: lblog
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
 score: 0.06026038908107664
 stars: 178

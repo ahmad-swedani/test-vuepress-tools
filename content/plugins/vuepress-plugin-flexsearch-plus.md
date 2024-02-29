@@ -1,34 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/30252550?v=4
-  email: admin@bajins.com
-  name: Bajins
-  url: https://github.com/bajins
-  username: bajins
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: admin@bajins.com
+    name: Bajins
+    url: https://github.com/bajins
 bugs: https://github.com/bajins/vuepress-plugin-flexsearch-plus/issues
 category: plugin
 date: '2021-07-09T03:01:38.666Z'
 deprecated: false
 description: Next-Generation full text search library for Vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/bajins/vuepress-plugin-flexsearch-plus#readme
 keywords:
-- vuepress-plugin-flexsearch-plus
-- vuepress-plugin-flexsearch
-- vuepress-search
-- search
-- vuepress-plugin
-- vuepress
+  - vuepress-plugin-flexsearch-plus
+  - vuepress-plugin-flexsearch
+  - vuepress-search
+  - search
+  - vuepress-plugin
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: clater.bajins@gmail.com
+    username: bajins
 name: vuepress-plugin-flexsearch-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-flexsearch-plus
 publisher:
-  avatar: null
-  email: clater.bajins@gmail.com
-  name: null
-  url: null
-  username: bajins
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: clater.bajins@gmail.com
+    username: bajins
 repository: https://github.com/bajins/vuepress-plugin-flexsearch-plus
 score: 0.46988574956253304
 stars: 1
