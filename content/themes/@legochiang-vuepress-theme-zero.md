@@ -1,43 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Lego Chiang
+  email: null
+  name: Lego Chiang
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2019-12-03T05:36:38.325Z'
 deprecated: false
 description: Lego Edition of VuePress theme
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: qas612820704@gmail.com
-    username: qas612820704
+maintainers: null
 name: '@legochiang/vuepress-theme-zero'
 npm: https://www.npmjs.com/package/%40legochiang%2Fvuepress-theme-zero
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qas612820704@gmail.com
-    username: qas612820704
+  avatar: null
+  email: qas612820704@gmail.com
+  name: null
+  url: null
+  username: qas612820704
 repository: https://github.com/vuejs/vuepress
 score: 0.06170698706479107
-stars: 22242
+stars: 22244
 unstable: false
 version: 1.2.1
-watchers: 22242
+watchers: 22244
 
 ---
 

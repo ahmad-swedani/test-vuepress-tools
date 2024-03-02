@@ -1,38 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22772830?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: QiShaoXuan
 bugs: https://github.com/QiShaoXuan/vuepress-plugin-cat/issues
 category: plugin
 date: '2022-04-03T18:08:13.137Z'
 deprecated: false
 description: '## How to use'
-downloads: ~
+downloads: null
 homepage: https://github.com/QiShaoXuan/vuepress-plugin-cat#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: 1440797327@qq.com
-    username: lblog
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-maol
 npm: https://www.npmjs.com/package/vuepress-plugin-maol
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1440797327@qq.com
-    username: lblog
+  avatar: null
+  email: 1440797327@qq.com
+  name: null
+  url: null
+  username: lblog
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
 score: 0.06026038908107664
-stars: 178
+stars: 177
 unstable: false
 version: 1.0.5
-watchers: 178
+watchers: 177
 
 ---
 
