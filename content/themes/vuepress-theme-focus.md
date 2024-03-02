@@ -1,29 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/23133919?v=4
-  email: chl814@foxmail.com
-  name: ULIVZ
-  url: null
-  username: ulivz
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ULIVZ
 bugs: https://github.com/ulivz/40-lines-of-vuepress-blog-theme/issues
 category: theme
 date: '2019-07-17T08:35:22.808Z'
 deprecated: false
-description: A VuePress Blog Theme implemented with [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme)
+description: >-
+  A VuePress Blog Theme implemented with
+  [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme)
   and [vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe).
-downloads: null
+downloads: ~
 homepage: https://github.com/ulivz/40-lines-of-vuepress-blog-theme#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: xxholly32@163.com
+    username: xiangxiao
 name: vuepress-theme-focus
 npm: https://www.npmjs.com/package/vuepress-theme-focus
 publisher:
-  avatar: null
-  email: xxholly32@163.com
-  name: null
-  url: null
-  username: xiangxiao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xxholly32@163.com
+    username: xiangxiao
 repository: https://github.com/ulivz/40-lines-of-vuepress-blog-theme
 score: 0.2808143947398011
 stars: 42
