@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: meteor.lxy@foxmail.com
-  name: meteorlxy
-  url: null
-  username: meteorlxy
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    name: meteorlxy
+    username: meteorlxy
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:51.457Z'
 deprecated: false
 description: VuePress plugin for typescript
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- plugin
-- typescript
-- vuepress
+  - plugin
+  - typescript
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
 name: vuepress-plugin-typescript
 npm: https://www.npmjs.com/package/vuepress-plugin-typescript
 publisher:
-  avatar: null
-  email: meteor.lxy@foxmail.com
-  name: null
-  url: null
-  username: meteorlxy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5411908150385685
 stars: 83
