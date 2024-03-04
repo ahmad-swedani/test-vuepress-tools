@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5326684?v=4
-  email: i@sylingd.com
-  name: ShuangYa
-  url: null
-  username: sylingd
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: i@sylingd.com
+    name: ShuangYa
 bugs: https://github.com/sylingd/vuepress-baidu-google-analytics/issues
 category: plugin
 date: '2020-04-18T13:25:20.646Z'
 deprecated: false
 description: Google-analytics and Baidu-tongji plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/sylingd/vuepress-baidu-google-analytics
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 896640547@qq.com
+    username: shuangya
 name: vuepress-plugin-baidu-google-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-google-analytics
 publisher:
-  avatar: null
-  email: i@sylingd.com
-  name: null
-  url: null
-  username: shuangya
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: i@sylingd.com
+    username: shuangya
 repository: https://github.com/sylingd/vuepress-baidu-google-analytics
 score: 0.5606766764259283
 stars: 2
