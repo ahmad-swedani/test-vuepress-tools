@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/15069983?v=4
-  email: omerbuyukcelik@gmail.com
-  name: "\xD6mer B\xFCy\xFCk\xE7elik"
-  url: null
-  username: bykclk
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: omerbuyukcelik@gmail.com
+    name: Ömer Büyükçelik
+    username: bykclk
 bugs: https://github.com/bykclk/vuepress-plugin-google-tag-manager/issues
 category: plugin
 date: '2020-12-06T10:15:51.320Z'
 deprecated: false
 description: vuepress-plugin-google-tag-manager plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/bykclk/vuepress-plugin-google-tag-manager#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-license: false
-maintainers: null
+  - documentation
+  - vue
+  - vuepress
+  - generator
+license: ~
+maintainers:
+  - email: omerbuyukcelik@gmail.com
+    username: bykclk
 name: vuepress-plugin-google-tag-manager
 npm: https://www.npmjs.com/package/vuepress-plugin-google-tag-manager
 publisher:
-  avatar: null
-  email: omerbuyukcelik@gmail.com
-  name: null
-  url: null
-  username: bykclk
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: omerbuyukcelik@gmail.com
+    username: bykclk
 repository: https://github.com/bykclk/vuepress-plugin-google-tag-manager
 score: 0.3248130564201722
 stars: 7
