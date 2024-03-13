@@ -1,41 +1,48 @@
 ---
 author:
-  avatar: null
-  email: 2434387555@qq.com
-  name: JoeyBling
-  url: https://zhousiwei.gitee.io
-  username: zhousiwei
+  avatar: https://avatars.githubusercontent.com/u/25240064?v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    name: JoeyBling
+    url: https://zhousiwei.gitee.io
+    username: zhousiwei
 bugs: https://github.com/JoeyBling/vuepress-plugin-gotop-plus/issues
 category: plugin
 date: '2020-05-12T06:43:03.545Z'
 deprecated: false
-description: "VuePress\u56DE\u5230\u9875\u9996\u63D2\u4EF6Plus. back-to-top plus plugin\
-  \ for VuePress."
-downloads: null
+description: VuePress回到页首插件Plus. back-to-top plus plugin for VuePress.
+downloads: ~
 homepage: https://github.com/JoeyBling/vuepress-plugin-gotop-plus
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- yilia-plus
-- generator
-- go-top
-license: null
-maintainers: null
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - yilia-plus
+  - generator
+  - go-top
+license: MIT License
+maintainers:
+  - email: 2434387555@qq.com
+    username: zhousiwei
 name: vuepress-plugin-gotop-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-gotop-plus
 publisher:
-  avatar: null
-  email: 2434387555@qq.com
-  name: null
-  url: null
-  username: zhousiwei
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-gotop-plus
 score: 0.3781762549609793
-stars: 0
+stars: 5
 unstable: false
 version: 1.0.4
-watchers: 0
+watchers: 5
 
 ---
 

@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/31888710?v=4
-  email: null
-  name: "\u524D\u7AEF\u6709\u9053"
-  url: null
-  username: qqlcx5
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: 前端有道
 bugs: https://github.com/qqlcx5/vuepress-plugin-notify/issues
 category: plugin
 date: '2021-05-23T12:33:59.365Z'
 deprecated: false
 description: Notify plugin for vuepress theme.
-downloads: null
+downloads: ~
 homepage: https://github.com/qqlcx5
 keywords:
-- vuepress
-- notify
-- "\u901A\u77E5\u5F39\u51FA\u6846"
-- vuepress-plugin-notify
-license: false
-maintainers: null
+  - vuepress
+  - notify
+  - 通知弹出框
+  - vuepress-plugin-notify
+license: ~
+maintainers:
+  - email: 893917884@qq.com
+    username: qqlcx5
 name: vuepress-plugin-notify
 npm: https://www.npmjs.com/package/vuepress-plugin-notify
 publisher:
-  avatar: null
-  email: 893917884@qq.com
-  name: null
-  url: null
-  username: qqlcx5
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 893917884@qq.com
+    username: qqlcx5
 repository: https://github.com/qqlcx5/vuepress-plugin-notify
 score: 0.4616407045028309
 stars: 0
