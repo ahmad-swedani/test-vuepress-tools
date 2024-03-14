@@ -1,32 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19400528?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: xieyx
 bugs: https://github.com/xieyx/vuepress-theme-feed/issues
 category: theme
 date: '2020-05-27T12:05:28.348Z'
 deprecated: false
 description: theme feed for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/xieyx/vuepress-theme-feed#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: xieyanxin93@gmail.com
-    username: xieyx
+maintainers: null
 name: vuepress-theme-feed
 npm: https://www.npmjs.com/package/vuepress-theme-feed
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xieyanxin93@gmail.com
-    username: xieyx
+  avatar: null
+  email: xieyanxin93@gmail.com
+  name: null
+  url: null
+  username: xieyx
 repository: https://github.com/xieyx/vuepress-theme-feed
 score: 0.33893518843493464
 stars: 2
