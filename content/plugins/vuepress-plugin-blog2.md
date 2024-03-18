@@ -1,38 +1,45 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: mister-hope@outlook.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mister-hope@outlook.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-20T18:47:00.208Z'
 deprecated: false
 description: Blog plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-hope.github.io/v2/blog/
 keywords:
-- vuepress-plugin
-- vuepress
-- blog
-- mr-hope
+  - vuepress-plugin
+  - vuepress
+  - blog
+  - mr-hope
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: vuepress-plugin-blog2
 npm: https://www.npmjs.com/package/vuepress-plugin-blog2
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6894066477746875
-stars: 1805
+stars: 1806
 unstable: false
 version: 2.0.0-beta.24
-watchers: 1805
+watchers: 1806
 
 ---
 

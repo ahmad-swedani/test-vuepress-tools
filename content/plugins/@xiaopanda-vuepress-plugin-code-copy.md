@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/31773900?v=4
-  email: null
-  name: Pan
-  url: null
-  username: panxingcheng
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Pan
 bugs: https://github.com/panxingcheng/vuepress-plugin-code-copy/issues
 category: plugin
 date: '2020-09-21T06:55:52.692Z'
 deprecated: false
 description: A vuepress plugin that copies code blocks with one click.
-downloads: null
+downloads: ~
 homepage: https://github.com/panxingcheng/vuepress-plugin-code-copy#readme
 keywords:
-- vuepress
-- vuepress plugin
-- code copy
-- copy
-- clipboard
+  - vuepress
+  - vuepress plugin
+  - code copy
+  - copy
+  - clipboard
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 583353816@qq.com
+    username: panxingcheng
 name: '@xiaopanda/vuepress-plugin-code-copy'
 npm: https://www.npmjs.com/package/%40xiaopanda%2Fvuepress-plugin-code-copy
 publisher:
-  avatar: null
-  email: 583353816@qq.com
-  name: null
-  url: null
-  username: panxingcheng
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 583353816@qq.com
+    username: panxingcheng
 repository: https://github.com/panxingcheng/vuepress-plugin-code-copy
 score: 0.35841514935585694
 stars: 4
