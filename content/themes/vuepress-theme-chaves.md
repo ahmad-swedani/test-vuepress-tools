@@ -1,37 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/20633606?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mail@chavesgu.com
-    name: chavesgu
-    username: chavesgu
+  email: mail@chavesgu.com
+  name: chavesgu
+  url: null
+  username: chavesgu
 bugs: https://github.com/chavesgu/vuepress-theme-meteorlxy/issues
 category: theme
 date: '2019-05-31T07:37:05.983Z'
 deprecated: false
 description: Vuepress theme - chaves
-downloads: ~
+downloads: null
 homepage: https://github.com/chavesgu/vuepress-theme-meteorlxy
 keywords:
-  - vuepress
-  - theme
+- vuepress
+- theme
 license: MIT License
-maintainers:
-  - email: mail@chavesgu.com
-    username: chavesgu
+maintainers: null
 name: vuepress-theme-chaves
 npm: https://www.npmjs.com/package/vuepress-theme-chaves
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mail@chavesgu.com
-    username: chavesgu
+  avatar: null
+  email: mail@chavesgu.com
+  name: null
+  url: null
+  username: chavesgu
 repository: https://github.com/chavesgu/vuepress-theme-meteorlxy
 score: 0.48429686025896634
 stars: 0
