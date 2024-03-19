@@ -1,28 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1062448?v=4
-  email: null
-  name: wubaiqing
-  url: null
-  username: wubaiqing
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: wubaiqing
 bugs: https://github.com/wubaiqing/vuepress-plugin-rss/issues
 category: plugin
 date: '2019-01-02T06:49:50.936Z'
 deprecated: false
-description: "### \u5B89\u88C5"
-downloads: null
+description: '### 安装'
+downloads: ~
 homepage: https://github.com/wubaiqing/vuepress-plugin-rss#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wubaiqing@vip.qq.com
+    username: wubaiqing
 name: vuepress-plugin-rss-support
 npm: https://www.npmjs.com/package/vuepress-plugin-rss-support
 publisher:
-  avatar: null
-  email: wubaiqing@vip.qq.com
-  name: null
-  url: null
-  username: wubaiqing
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wubaiqing@vip.qq.com
+    username: wubaiqing
 repository: https://github.com/wubaiqing/vuepress-plugin-rss
 score: 0.44528761041823917
 stars: 1
