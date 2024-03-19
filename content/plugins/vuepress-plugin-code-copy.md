@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/27291717?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Nicholas Brown
+  email: null
+  name: Nicholas Brown
+  url: null
+  username: znicholasbrown
 bugs: https://github.com/znicholasbrown/vuepress-plugin-code-copy/issues
 category: plugin
 date: '2020-02-20T05:49:55.374Z'
 deprecated: false
 description: A Vuepress plugin that adds copy code buttons to all code blocks.
-downloads: ~
+downloads: null
 homepage: https://github.com/znicholasbrown/vuepress-plugin-code-copy#readme
 keywords:
-  - vuepress
-  - code copy
-  - copy
-  - clipboard
-  - vuepress plugin
-  - plugin
+- vuepress
+- code copy
+- copy
+- clipboard
+- vuepress plugin
+- plugin
 license: GNU General Public License v3.0
-maintainers:
-  - email: znicholasbrown@gmail.com
-    username: znicholasbrown
+maintainers: null
 name: vuepress-plugin-code-copy
 npm: https://www.npmjs.com/package/vuepress-plugin-code-copy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: znicholasbrown@gmail.com
-    username: znicholasbrown
+  avatar: null
+  email: znicholasbrown@gmail.com
+  name: null
+  url: null
+  username: znicholasbrown
 repository: https://github.com/znicholasbrown/vuepress-plugin-code-copy
 score: 0.3768759833781701
 stars: 60
