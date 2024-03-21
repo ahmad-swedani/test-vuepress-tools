@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10540493?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: tortorse
+  email: null
+  name: tortorse
+  url: null
+  username: tortorse
 bugs: https://github.com/tortorse/vuepress-plugin-tabs/issues
 category: plugin
 date: '2020-08-07T03:26:03.259Z'
 deprecated: false
 description: Vuepress plugin - Tabs Container for Vuepress without SASS
-downloads: ~
+downloads: null
 homepage: https://github.com/tortorse/vuepress-plugin-tabs#readme
 keywords:
-  - vuepress-plugin
-  - tabs
-  - component
+- vuepress-plugin
+- tabs
+- component
 license: Other
-maintainers:
-  - email: tortorse@gmail.com
-    username: tortorse
+maintainers: null
 name: vuepress-plugin-element-tabs-less
 npm: https://www.npmjs.com/package/vuepress-plugin-element-tabs-less
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tortorse@gmail.com
-    username: tortorse
+  avatar: null
+  email: tortorse@gmail.com
+  name: null
+  url: null
+  username: tortorse
 repository: https://github.com/tortorse/vuepress-plugin-tabs
 score: 0.4585976027293285
 stars: 0
@@ -44,6 +39,7 @@ watchers: 0
 
 <a href="https://www.npmjs.com/package/vuepress-plugin-element-tabs-less"><img src="https://img.shields.io/npm/v/vuepress-plugin-element-tabs-less.svg" alt="Version"></a>
 <a href="https://www.npmjs.com/package/vuepress-plugin-element-tabs-less"><img src="https://img.shields.io/npm/l/vuepress-plugin-element-tabs-less.svg" alt="License"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less.svg?type=shield"/></a>
 <img src="https://img.shields.io/badge/thanks-element-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/thanks-vuepress--plugin--tabs-brightgreen"/>
 
@@ -121,3 +117,5 @@ __markdown content__
 ### License
 
 [MIT](./LICENSE)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less?ref=badge_large)
