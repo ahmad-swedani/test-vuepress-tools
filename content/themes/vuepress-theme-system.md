@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/156539?v=4
-  email: null
-  name: "Fran\xE7ois Romain"
-  url: null
-  username: francoisromain
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: François Romain
 bugs: https://github.com/francoisromain/vuepress-theme-system/issues
 category: theme
 date: '2021-01-08T15:55:06.607Z'
 deprecated: false
 description: a vuepress theme
-downloads: null
+downloads: ~
 homepage: https://github.com/francoisromain/vuepress-theme-system#readme
 keywords:
-- vuepress
-- theme
-- system.css
-license: false
-maintainers: null
+  - vuepress
+  - theme
+  - system.css
+license: ~
+maintainers:
+  - email: francoisromain@gmail.com
+    username: francoisromain
 name: vuepress-theme-system
 npm: https://www.npmjs.com/package/vuepress-theme-system
 publisher:
-  avatar: null
-  email: francoisromain@gmail.com
-  name: null
-  url: null
-  username: francoisromain
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: francoisromain@gmail.com
+    username: francoisromain
 repository: https://github.com/francoisromain/vuepress-theme-system
 score: 0.29559784895633956
 stars: 0
