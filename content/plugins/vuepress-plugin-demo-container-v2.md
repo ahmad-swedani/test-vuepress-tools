@@ -1,36 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8675871?v=4
-  email: null
-  name: JianhuiChen, WaycoWei
-  url: null
-  username: waycowei
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: JianhuiChen, WaycoWei
 bugs: https://github.com/waycowei/vuepress-plugin-demo-container-v2/issues
 category: plugin
 date: '2021-06-07T02:03:02.143Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: null
+downloads: ~
 homepage: https://github.com/waycowei/vuepress-plugin-demo-container-v2#readme
 keywords:
-- documentation
-- plugin
-- vue
-- vuepress
-- demo
-- block
-- componsition
-- componsition-api
+  - documentation
+  - plugin
+  - vue
+  - vuepress
+  - demo
+  - block
+  - componsition
+  - componsition-api
 license: MIT License
-maintainers: null
+maintainers:
+  - email: weikai@hrvc.vip
+    username: waycowei
 name: vuepress-plugin-demo-container-v2
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-container-v2
 publisher:
-  avatar: null
-  email: weikai@hrvc.vip
-  name: null
-  url: null
-  username: waycowei
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: weikai@hrvc.vip
+    username: waycowei
 repository: https://github.com/waycowei/vuepress-plugin-demo-container-v2
 score: 0.39564535884148716
 stars: 6
