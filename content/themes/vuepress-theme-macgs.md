@@ -1,40 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/44290508?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mitscherlich36@gmail.com
-    name: Mitscherlich
+  email: mitscherlich36@gmail.com
+  name: Mitscherlich
+  url: null
+  username: EasyHexo
 bugs: https://github.com/EasyHexo/vuepress-theme-macgs/issues
 category: theme
 date: '2019-02-14T06:35:14.812Z'
 deprecated: false
-description: 💫 A vuepress theme for easyhexo.com
-downloads: ~
+description: "\U0001F4AB A vuepress theme for easyhexo.com"
+downloads: null
 homepage: https://github.com/EasyHexo/vuepress-theme-macgs#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: chung.zh@qq.com
-    username: easyhexo
+maintainers: null
 name: vuepress-theme-macgs
 npm: https://www.npmjs.com/package/vuepress-theme-macgs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chung.zh@qq.com
-    username: easyhexo
+  avatar: null
+  email: chung.zh@qq.com
+  name: null
+  url: null
+  username: easyhexo
 repository: https://github.com/EasyHexo/vuepress-theme-macgs
 score: 0.5705933904186652
-stars: 15
+stars: 14
 unstable: true
 version: 1.0.0-alpha.37
-watchers: 15
+watchers: 14
 
 ---
 

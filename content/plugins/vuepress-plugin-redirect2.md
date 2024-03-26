@@ -1,43 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-04-13T18:39:13.061Z'
 deprecated: false
 description: Redirect plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/redirect/
 keywords:
-  - vuepress-plugin
-  - redirect
+- vuepress-plugin
+- redirect
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-redirect2
 npm: https://www.npmjs.com/package/vuepress-plugin-redirect2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6811068711217353
-stars: 1819
+stars: 1820
 unstable: false
 version: 2.0.0-beta.40
-watchers: 1819
+watchers: 1820
 
 ---
 
