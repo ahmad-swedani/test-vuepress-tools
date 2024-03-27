@@ -1,50 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    name: Pine Wu
-    username: octref
+  email: octref@gmail.com
+  name: Pine Wu
+  url: null
+  username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
 date: '2022-02-15T14:22:31.547Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: ~
+downloads: null
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-  - shiki
-  - vuepress
-  - vuepress-plugin
-  - syntax-highlighter
-  - highlighter
+- shiki
+- vuepress
+- vuepress-plugin
+- syntax-highlighter
+- highlighter
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: octref@gmail.com
-    username: octref
-  - email: anthonyfu117@hotmail.com
-    username: antfu
+maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: octref@gmail.com
-    username: octref
+  avatar: null
+  email: octref@gmail.com
+  name: null
+  url: null
+  username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 8121
+stars: 8163
 unstable: true
 version: 0.10.1
-watchers: 8121
+watchers: 8163
 
 ---
 
@@ -62,6 +51,8 @@ A beautiful syntax highlighter based on TextMate grammar, accurate and powerful.
 
 > [!NOTE]
 > You are viewing the **v1 branch**, which is a [major rewrite](https://github.com/shikijs/shiki/releases/tag/v1.0.0) from v0.x. Check out the [Migration Guide](https://shiki.style/guide/migrate#migrate-from-v0-14) if you are upgrading.
+>
+> Read more about [The Evolution of Shiki v1.0](https://nuxt.com/blog/shiki-v1).
 >
 > For legacy code, check the [v0.x branch](https://github.com/shikijs/shiki/tree/v0).
 
