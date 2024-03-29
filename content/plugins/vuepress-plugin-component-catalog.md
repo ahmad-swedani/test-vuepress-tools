@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16383815?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: make.app.ts@gmail.com
-    name: mya-ake
-    username: mya-ake
+  email: make.app.ts@gmail.com
+  name: mya-ake
+  url: null
+  username: mya-ake
 bugs: https://github.com/mya-ake/vuepress-plugin-component-catalog/issues
 category: plugin
 date: '2019-03-26T10:23:42.450Z'
 deprecated: false
 description: Generating a component catalog of Vue.js.
-downloads: ~
+downloads: null
 homepage: https://github.com/mya-ake/vuepress-plugin-component-catalog#readme
 keywords:
-  - vue.js
-  - vuepress
-  - component
-  - catalog
+- vue.js
+- vuepress
+- component
+- catalog
 license: MIT License
-maintainers:
-  - email: make.app.ts@gmail.com
-    username: mya-ake
+maintainers: null
 name: vuepress-plugin-component-catalog
 npm: https://www.npmjs.com/package/vuepress-plugin-component-catalog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: make.app.ts@gmail.com
-    username: mya-ake
+  avatar: null
+  email: make.app.ts@gmail.com
+  name: null
+  url: null
+  username: mya-ake
 repository: https://github.com/mya-ake/vuepress-plugin-component-catalog
 score: 0.3902322275690464
 stars: 28
