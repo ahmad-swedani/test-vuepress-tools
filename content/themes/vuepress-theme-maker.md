@@ -1,46 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/75064158?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: cmgddd@126.com
-    name: 80maker
-    username: 80maker
+  email: cmgddd@126.com
+  name: 80maker
+  url: null
+  username: 80maker
 bugs: https://github.com/80maker/vuepress-theme-maker/issues
 category: theme
 date: '2022-02-19T15:23:35.957Z'
 deprecated: false
-description: 🐉 A flat and clean Blog Theme for VuePress site | 一款多配置、简约风的VuePress主题.
-downloads: ~
+description: "\U0001F409 A flat and clean Blog Theme for VuePress site | \u4E00\u6B3E\
+  \u591A\u914D\u7F6E\u3001\u7B80\u7EA6\u98CE\u7684VuePress\u4E3B\u9898."
+downloads: null
 homepage: https://80shuo.com/
 keywords:
-  - vuepress-theme-blog
-  - vuepress-theme
-  - blog-theme
-  - vue
-  - vuepress
+- vuepress-theme-blog
+- vuepress-theme
+- blog-theme
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: cmgddd@126.com
-    username: 80maker
+maintainers: null
 name: vuepress-theme-maker
 npm: https://www.npmjs.com/package/vuepress-theme-maker
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: cmgddd@126.com
-    username: 80maker
+  avatar: null
+  email: cmgddd@126.com
+  name: null
+  url: null
+  username: 80maker
 repository: https://github.com/80maker/vuepress-theme-maker
 score: 0.5418252727225145
-stars: 80
+stars: 79
 unstable: false
 version: 1.2.1
-watchers: 80
+watchers: 79
 
 ---
 
