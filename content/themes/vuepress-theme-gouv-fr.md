@@ -1,34 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5313610?v=4
-  email: alexandre.bulte@data.gouv.fr
-  name: "Alexandre Bult\xE9"
-  url: null
-  username: etalab
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: alexandre.bulte@data.gouv.fr
+    name: Alexandre Bulté
 bugs: https://github.com/etalab/vuepress-theme-gouv-fr/issues
 category: theme
 date: '2020-01-31T10:39:04.540Z'
 deprecated: false
 description: VuePress theme - Gouv Fr
-downloads: null
+downloads: ~
 homepage: https://github.com/etalab/vuepress-theme-gouv-fr
 keywords:
-- vuepress
-- theme
-- gouv
-- gouvfr
-- france
-- gouvernement
+  - vuepress
+  - theme
+  - gouv
+  - gouvfr
+  - france
+  - gouvernement
 license: MIT License
-maintainers: null
+maintainers:
+  - email: antoine.augusti@gmail.com
+    username: aaugusti
 name: vuepress-theme-gouv-fr
 npm: https://www.npmjs.com/package/vuepress-theme-gouv-fr
 publisher:
-  avatar: null
-  email: antoine.augusti@gmail.com
-  name: null
-  url: null
-  username: aaugusti
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: antoine.augusti@gmail.com
+    username: aaugusti
 repository: https://github.com/etalab/vuepress-theme-gouv-fr
 score: 0.43808999773082236
 stars: 6
