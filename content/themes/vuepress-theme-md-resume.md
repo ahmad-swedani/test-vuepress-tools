@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13219417?v=4
-  email: ko.momo@qq.com
-  name: momoko
-  url: null
-  username: komomoo
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ko.momo@qq.com
+    name: momoko
 bugs: https://github.com/wannaxiao/vuepress-theme-resume/issues
 category: theme
 date: '2020-02-12T06:49:28.939Z'
 deprecated: false
-description: "\u7F16\u5199\u7B80\u6D01\u4F18\u96C5\u7684markdown\u7B80\u5386\uFF0C\
-  \u7531 vuepress \u9A71\u52A8"
-downloads: null
+description: 编写简洁优雅的markdown简历，由 vuepress 驱动
+downloads: ~
 homepage: https://github.com/wannaxiao/vuepress-theme-resume#readme
 keywords:
-- vuepress
-- markdown
-- bio
-- resume
+  - vuepress
+  - markdown
+  - bio
+  - resume
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 18158501703@163.com
+    username: mrjzhang
 name: vuepress-theme-md-resume
 npm: https://www.npmjs.com/package/vuepress-theme-md-resume
 publisher:
-  avatar: null
-  email: 18158501703@163.com
-  name: null
-  url: null
-  username: mrjzhang
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 18158501703@163.com
+    username: mrjzhang
 repository: https://github.com/wannaxiao/vuepress-theme-resume
 score: 0.1503188596376961
 stars: 408
