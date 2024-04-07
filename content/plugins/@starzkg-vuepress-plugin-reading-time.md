@@ -1,44 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/Mister-Hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-15T15:49:50.474Z'
 deprecated: false
 description: Reading time plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/Mister-Hope/vuepress-theme-hope#readme
 keywords:
-  - vuepress-plugin
-  - reading time
-  - word count
+- vuepress-plugin
+- reading time
+- word count
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-reading-time'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-reading-time
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/Mister-Hope/vuepress-theme-hope
 score: 0.1498945009601146
-stars: 1846
+stars: 1847
 unstable: true
 version: 1.0.0-beta.14
-watchers: 1846
+watchers: 1847
 
 ---
 
@@ -86,12 +79,12 @@ We recommend you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Details
 
-V2 is based on [_VuePress2_](https://vuejs.press), with the power of [_Vite5_](https://vitejs.dev) / [_Webpack5_](https://webpack.js.org) using [_Vue3_](https://vuejs.org) to provide powerful features.
+V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite5**](https://vitejs.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
 
 V2 is a full rewrite including:
 
-- All the components are rewritten with _Composition API in Vue3_
-- All the styles are migrated to _Sass_
+- All the components are rewritten with **Composition API in Vue3**
+- All the styles are migrated to **Sass**
 
 Also V2 has a better performance:🚀
 
