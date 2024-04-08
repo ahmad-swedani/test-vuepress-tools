@@ -1,37 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/154539531?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: genemators@gmail.com
-    name: Genemator
-    username: genemator
+  email: genemators@gmail.com
+  name: Genemator
+  url: null
+  username: genemator
 bugs: https://github.com/xinuxuz/xenon/issues
 category: theme
 date: '2021-03-11T12:51:06.100Z'
 deprecated: false
 description: Xinux jamiyati websayti uchun yaratilgan shaxsiy website dizayn moduli
-downloads: ~
+downloads: null
 homepage: https://github.com/xinuxuz/xenon#readme
 keywords:
-  - vuepress
-  - theme
+- vuepress
+- theme
 license: MIT License
-maintainers:
-  - email: genemators@gmail.com
-    username: genemator
+maintainers: null
 name: vuepress-theme-xenon
 npm: https://www.npmjs.com/package/vuepress-theme-xenon
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: genemators@gmail.com
-    username: genemator
+  avatar: null
+  email: genemators@gmail.com
+  name: null
+  url: null
+  username: genemator
 repository: https://github.com/xinuxuz/xenon
 score: 0.4666788331745788
 stars: 4
