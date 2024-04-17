@@ -1,30 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16360246?v=4
-  email: akccakccwww@gmail.com
-  name: Rex Tsou
-  url: null
-  username: akccakcctw
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: akccakccwww@gmail.com
+    name: Rex Tsou
+    username: akccakcctw
 bugs: https://github.com/akccakcctw/vuepress-plugin-last-updated-by/issues
 category: plugin
 date: '2021-05-31T17:39:36.299Z'
 deprecated: false
 description: last-updated plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/akccakcctw/vuepress-plugin-last-updated-by#readme
 keywords:
-- vue
-- vuepress
-license: false
-maintainers: null
+  - vue
+  - vuepress
+license: ~
+maintainers:
+  - email: akccakccwww@gmail.com
+    username: akccakcctw
 name: '@akccakcctw/vuepress-plugin-last-updated-by'
 npm: https://www.npmjs.com/package/%40akccakcctw%2Fvuepress-plugin-last-updated-by
 publisher:
-  avatar: null
-  email: akccakccwww@gmail.com
-  name: null
-  url: null
-  username: akccakcctw
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: akccakccwww@gmail.com
+    username: akccakcctw
 repository: https://github.com/akccakcctw/vuepress-plugin-last-updated-by
 score: 0.3426651105349274
 stars: 1
