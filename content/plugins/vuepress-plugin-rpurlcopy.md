@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/20827947?v=4
-  email: null
-  name: wk
-  url: null
-  username: weekdawn
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: wk
 bugs: https://github.com/weekdawn/vuepress-plugin-rpurlcopy/issues
 category: plugin
 date: '2022-03-26T07:50:52.968Z'
 deprecated: false
 description: Replace VuePress Blog URL of Pages and NavLinks.
-downloads: null
+downloads: ~
 homepage: https://github.com/weekdawn/vuepress-plugin-rpurlcopy#readme
 keywords:
-- vuepress
-- '''replace'
-- url'
-- sidebar
-- navlinks
-license: false
-maintainers: null
+  - vuepress
+  - '''replace'
+  - url'
+  - sidebar
+  - navlinks
+license: ~
+maintainers:
+  - email: weekdawn@qq.com
+    username: weekdawn
 name: vuepress-plugin-rpurlcopy
 npm: https://www.npmjs.com/package/vuepress-plugin-rpurlcopy
 publisher:
-  avatar: null
-  email: weekdawn@qq.com
-  name: null
-  url: null
-  username: weekdawn
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: weekdawn@qq.com
+    username: weekdawn
 repository: https://github.com/weekdawn/vuepress-plugin-rpurlcopy
 score: 0.5020052573623268
 stars: 0
