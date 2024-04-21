@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/46002903?v=4
-  email: null
-  name: youdeliang
-  url: null
-  username: youdeliang
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: youdeliang
 bugs: https://github.com/youdeliang/vuepress-theme-melodydl/issues
 category: theme
 date: '2020-05-30T07:18:23.501Z'
 deprecated: false
 description: blog by vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/youdeliang/vuepress-theme-melodydl
 keywords:
-- blog
-- theme
-- vuepress
+  - blog
+  - theme
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: topyou0316@gmail.com
+    username: topyou
 name: vuepress-theme-melodydl
 npm: https://www.npmjs.com/package/vuepress-theme-melodydl
 publisher:
-  avatar: null
-  email: topyou0316@gmail.com
-  name: null
-  url: null
-  username: topyou
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: topyou0316@gmail.com
+    username: topyou
 repository: https://github.com/youdeliang/vuepress-theme-melodydl
 score: 0.42226925499112844
 stars: 34

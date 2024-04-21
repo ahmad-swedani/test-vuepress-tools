@@ -1,30 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/43605758?v=4
-  email: yuan1241900094@gmail.com
-  name: yokefellow
-  url: null
-  username: yokefellow
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: yuan1241900094@gmail.com
+    name: yokefellow
+    username: yokefellow
 bugs: https://github.com/yokefellow/vuepress-plugin-sponsor/issues
 category: plugin
 date: '2020-08-18T11:22:30.617Z'
 deprecated: false
 description: Sponsor plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://yokefellow.github.io
 keywords:
-- sponsor
-- vuepress
+  - sponsor
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: yuan1241900094@gmail.com
+    username: yokefellow
 name: vuepress-plugin-sponsor
 npm: https://www.npmjs.com/package/vuepress-plugin-sponsor
 publisher:
-  avatar: null
-  email: yuan1241900094@gmail.com
-  name: null
-  url: null
-  username: yokefellow
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: yuan1241900094@gmail.com
+    username: yokefellow
 repository: https://github.com/yokefellow/vuepress-plugin-sponsor
 score: 0.3248083236958829
 stars: 10
