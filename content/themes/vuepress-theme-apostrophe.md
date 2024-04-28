@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/12648958?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Apostrophe Technologies
+  email: null
+  name: Apostrophe Technologies
+  url: null
+  username: apostrophecms
 bugs: https://github.com/apostrophecms/vuepress-theme-apostrophe/issues
 category: theme
 date: '2021-11-30T15:27:11.500Z'
 deprecated: false
 description: Vuepress theme for ApostropheCMS documentation
-downloads: ~
+downloads: null
 homepage: https://github.com/apostrophecms/vuepress-theme-apostrophe#readme
 keywords:
-  - vuepress
-  - theme
-  - apostrophecms
-  - apostrophe
-  - cms
-  - node
+- vuepress
+- theme
+- apostrophecms
+- apostrophe
+- cms
+- node
 license: MIT License
-maintainers:
-  - email: abea@mailbox.org
-    username: alexbea
+maintainers: null
 name: vuepress-theme-apostrophe
 npm: https://www.npmjs.com/package/vuepress-theme-apostrophe
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: abea@mailbox.org
-    username: alexbea
+  avatar: null
+  email: abea@mailbox.org
+  name: null
+  url: null
+  username: alexbea
 repository: https://github.com/apostrophecms/vuepress-theme-apostrophe
 score: 0.5058220634370882
 stars: 0
