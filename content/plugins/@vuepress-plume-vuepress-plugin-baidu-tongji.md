@@ -1,35 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:13.984Z'
 deprecated: false
 description: The Plugin for VuePres 2
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-baidu-tongji'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-baidu-tongji
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5026308707651894
 stars: 24
@@ -65,7 +58,7 @@ watchers: 24
 - 👀 支持 搜索、文章评论
 - 👨‍💻‍ 支持 浅色/深色 主题 （包括代码高亮）
 - 📠 markdown 增强，支持 代码块分组、提示容器、任务列表、数学公式、代码演示 等
-- 📚 代码演示，支持 CodePen, Replit
+- 📚 代码演示，支持 CodePen, Replit, JSFiddle, CodeSandbox 等
 - 📊 嵌入图标，支持 chart.js，Echarts，Mermaid，flowchart
 - 🎛 资源嵌入，支持 PDF, bilibili视频，youtube视频等
 
