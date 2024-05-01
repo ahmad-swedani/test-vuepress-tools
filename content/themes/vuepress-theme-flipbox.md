@@ -1,28 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/32937274?v=4
-  email: null
-  name: Flipbox Digital
-  url: null
-  username: flipboxlabs
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Flipbox Digital
 bugs: https://github.com/flipboxlabs/vuepress-theme-flipbox/issues
 category: theme
 date: '2018-11-16T22:54:42.725Z'
 deprecated: false
 description: vuepress-theme
-downloads: null
+downloads: ~
 homepage: https://github.com/flipboxlabs/vuepress-theme-flipbox#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: me@dsmrt.com
+    username: dsmrt
+  - email: doug@flipboxdigital.com
+    username: flipbox
 name: vuepress-theme-flipbox
 npm: https://www.npmjs.com/package/vuepress-theme-flipbox
 publisher:
-  avatar: null
-  email: doug@flipboxdigital.com
-  name: null
-  url: null
-  username: flipbox
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: doug@flipboxdigital.com
+    username: flipbox
 repository: https://github.com/flipboxlabs/vuepress-theme-flipbox
 score: 0.46114447366663447
 stars: 6
