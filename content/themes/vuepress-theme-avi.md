@@ -1,39 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/3624059?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: avimehenwal
 bugs: https://github.com/avimehenwal/vuepress-theme-avi/issues
 category: theme
 date: '2020-09-05T14:02:29.768Z'
 deprecated: false
-description: '@vuepress/theme-default ✨ perfected to its finest and greatest 😆 potential'
-downloads: ~
+description: "@vuepress/theme-default \u2728 perfected to its finest and greatest\
+  \ \U0001F606 potential"
+downloads: null
 homepage: https://github.com/avimehenwal/vuepress-theme-avi#readme
 keywords:
-  - vue
-  - vuejs
-  - vuepress
-  - vuepress-theme
-  - theme
-  - blog
-  - theme-default
+- vue
+- vuejs
+- vuepress
+- vuepress-theme
+- theme
+- blog
+- theme-default
 license: GNU General Public License v3.0
-maintainers:
-  - email: avi.mehanwal@gmail.com
-    username: avimehenwal
+maintainers: null
 name: vuepress-theme-avi
 npm: https://www.npmjs.com/package/vuepress-theme-avi
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: avi.mehanwal@gmail.com
-    username: avimehenwal
+  avatar: null
+  email: avi.mehanwal@gmail.com
+  name: null
+  url: null
+  username: avimehenwal
 repository: https://github.com/avimehenwal/vuepress-theme-avi
 score: 0.5224641868774743
 stars: 0
