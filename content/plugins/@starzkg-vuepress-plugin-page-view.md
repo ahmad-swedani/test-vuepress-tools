@@ -1,34 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-15T15:49:49.905Z'
 deprecated: false
 description: A comment plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
 keywords:
-- vuepress-plugin
-- vuepress-blog
-- comment
-- valine
-- vssue
-- page-info
+  - vuepress-plugin
+  - vuepress-blog
+  - comment
+  - valine
+  - vssue
+  - page-info
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shentuzhigang@qq.com
+    username: starzkg
 name: '@starzkg/vuepress-plugin-page-view'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-page-view
 publisher:
-  avatar: null
-  email: shentuzhigang@qq.com
-  name: null
-  url: null
-  username: starzkg
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@qq.com
+    username: starzkg
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.14998334014476095
 stars: 1894
