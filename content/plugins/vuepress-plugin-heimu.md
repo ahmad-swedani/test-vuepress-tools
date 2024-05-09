@@ -1,33 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8667822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Yesterday17
+  email: null
+  name: Yesterday17
+  url: null
+  username: Yesterday17
 bugs: https://github.com/Yesterday17/Kyandy/issues
 category: plugin
 date: '2019-06-08T09:19:12.774Z'
 deprecated: false
 description: Moegirlpedia-like heimu.
-downloads: ~
+downloads: null
 homepage: https://github.com/Yesterday17/Kyandy#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: t@yesterday17.cn
-    username: yesterday17
+maintainers: null
 name: vuepress-plugin-heimu
 npm: https://www.npmjs.com/package/vuepress-plugin-heimu
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: t@yesterday17.cn
-    username: yesterday17
+  avatar: null
+  email: t@yesterday17.cn
+  name: null
+  url: null
+  username: yesterday17
 repository: https://github.com/Yesterday17/Kyandy
 score: 0.17825017130205306
 stars: 2
