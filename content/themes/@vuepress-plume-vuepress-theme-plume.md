@@ -1,47 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
 date: '2022-05-17T21:45:22.728Z'
 deprecated: false
 description: A Blog Theme for VuePress 2.0
-downloads: ~
+downloads: null
 homepage: https://pengzhanbo.cn/note/vuepress-theme-plume
 keywords:
-  - VuePress
-  - Theme
-  - plume
-  - vuepress-theme
-  - vuepress-theme-plume
-  - theme-plume
+- VuePress
+- Theme
+- plume
+- vuepress-theme
+- vuepress-theme-plume
+- theme-plume
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-theme-plume
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5345670141542532
-stars: 27
+stars: 28
 unstable: true
 version: 1.0.0-beta.36
-watchers: 27
+watchers: 28
 
 ---
 
@@ -71,7 +64,7 @@ watchers: 27
 - 👀 支持 搜索、文章评论
 - 👨‍💻‍ 支持 浅色/深色 主题 （包括代码高亮）
 - 📠 markdown 增强，支持 代码块分组、提示容器、任务列表、数学公式、代码演示 等
-- 📚 嵌入代码演示，支持 CodePen, Replit, JSFiddle, CodeSandbox 等
+- 📚 嵌入代码演示，支持 CodePen, JSFiddle, CodeSandbox 等
 - 📊 嵌入图表，支持 chart.js，Echarts，Mermaid，flowchart
 - 🎛 资源嵌入，支持 PDF, bilibili视频，youtube视频等
 - 🪞 支持全站水印、部分内容水印
@@ -104,7 +97,7 @@ export default defineUserConfig({
 
 __options__ : `PlumeThemeOptions`
 
-[查看 options 详细说明](https://plume.pengzhanbo.cn/config/basic/)
+[查看 options 详细说明](https://theme-plume.vuejs.press//config/basic/)
 
 ## 案例
 
