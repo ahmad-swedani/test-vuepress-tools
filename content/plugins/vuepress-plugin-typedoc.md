@@ -1,34 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/168372190?v=4
-  email: null
-  name: Thomas Grey
-  url: null
-  username: typedoc2md
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Thomas Grey
 bugs: https://github.com/tgreyuk/typedoc-plugin-markdown/issues
 category: plugin
 date: '2022-02-04T23:11:40.408Z'
 deprecated: false
 description: A VuePress plugin to build api documentation with TypeDoc.
-downloads: null
-homepage: https://github.com/tgreyuk/typedoc-plugin-markdown/tree/master/packages/vuepress-plugin-typedoc
+downloads: ~
+homepage: >-
+  https://github.com/tgreyuk/typedoc-plugin-markdown/tree/master/packages/vuepress-plugin-typedoc
 keywords:
-- vuepress
-- typedoc
-- plugin
-- markdown
-- typescript
-- api
+  - vuepress
+  - typedoc
+  - plugin
+  - markdown
+  - typescript
+  - api
 license: MIT License
-maintainers: null
+maintainers:
+  - email: tgreyuk@gmail.com
+    username: tgreyuk
 name: vuepress-plugin-typedoc
 npm: https://www.npmjs.com/package/vuepress-plugin-typedoc
 publisher:
-  avatar: null
-  email: tgreyuk@gmail.com
-  name: null
-  url: null
-  username: tgreyuk
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: tgreyuk@gmail.com
+    username: tgreyuk
 repository: https://github.com/tgreyuk/typedoc-plugin-markdown
 score: 0.6419863110249573
 stars: 657
