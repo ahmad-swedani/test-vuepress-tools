@@ -1,30 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/21867818?v=4
-  email: null
-  name: jinjun
-  url: null
-  username: jinjun1994
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: jinjun
 bugs: https://github.com/jinjun1994/vuepress-theme-kim/issues
 category: theme
 date: '2019-02-10T08:00:24.110Z'
 deprecated: false
 description: vuepress theme
-downloads: null
+downloads: ~
 homepage: https://github.com/jinjun1994/vuepress-theme-kim#readme
 keywords:
-- vuepress
-- theme
+  - vuepress
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: jinjun199403@163.com
+    username: jinjun
 name: vuepress-theme-kim
 npm: https://www.npmjs.com/package/vuepress-theme-kim
 publisher:
-  avatar: null
-  email: jinjun199403@163.com
-  name: null
-  url: null
-  username: jinjun
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jinjun199403@163.com
+    username: jinjun
 repository: https://github.com/jinjun1994/vuepress-theme-kim
 score: 0.43300997809536973
 stars: 0

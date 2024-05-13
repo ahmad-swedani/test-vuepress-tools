@@ -1,28 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16911353?v=4
-  email: null
-  name: Shcant
-  url: null
-  username: shcant
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Shcant
 bugs: https://github.com/shcant/vuepress-theme-casper/issues
 category: theme
 date: '2019-06-12T14:23:31.678Z'
 deprecated: false
 description: Another Ghosts Casper Theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/shcant/vuepress-theme-casper#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: shuhao.yin@Outlook.com
+    username: shcant
 name: vuepress-theme-another-casper
 npm: https://www.npmjs.com/package/vuepress-theme-another-casper
 publisher:
-  avatar: null
-  email: shuhao.yin@Outlook.com
-  name: null
-  url: null
-  username: shcant
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shuhao.yin@Outlook.com
+    username: shcant
 repository: https://github.com/shcant/vuepress-theme-casper
 score: 0.1494100262025594
 stars: 1
