@@ -1,52 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
+  email: null
+  name: meteorlxy
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-02-24T12:19:59.044Z'
 deprecated: false
 description: VuePress plugin - palette
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - palette
-  - style
-  - css
-  - sass
-  - less
-  - stylus
+- vuepress-plugin
+- vuepress
+- plugin
+- palette
+- style
+- css
+- sass
+- less
+- stylus
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-palette'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-palette
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6730510853858724
 stars: 2084
@@ -58,7 +43,8 @@ watchers: 2084
 
 # VuePress
 
-[![check](https://github.com/vuepress/core/workflows/check/badge.svg)](https://github.com/vuepress/core/actions/workflows/check.yml?query=workflow%3Acheck)
+[![check](https://github.com/vuepress/core/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/check.yml)
+[![e2e](https://github.com/vuepress/core/actions/workflows/e2e.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/e2e.yml)
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/core/badge.svg?branch=main)](https://coveralls.io/github/vuepress/core?branch=main)
 [![license](https://badgen.net/github/license/vuepress/core)](https://github.com/vuepress/core/blob/main/LICENSE)

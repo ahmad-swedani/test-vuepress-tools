@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Starzkg
+  email: null
+  name: Starzkg
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-11-10T15:08:26.286Z'
 deprecated: false
 description: VuePress plugin - interaction effect
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - interaction-effect
-  - mouse
-  - keyboard
+- vuepress-plugin
+- vuepress
+- plugin
+- interaction-effect
+- mouse
+- keyboard
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-interaction-effect'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-interaction-effect
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6132218109218953
 stars: 2084
@@ -45,7 +40,8 @@ watchers: 2084
 
 # VuePress
 
-[![check](https://github.com/vuepress/core/workflows/check/badge.svg)](https://github.com/vuepress/core/actions/workflows/check.yml?query=workflow%3Acheck)
+[![check](https://github.com/vuepress/core/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/check.yml)
+[![e2e](https://github.com/vuepress/core/actions/workflows/e2e.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/e2e.yml)
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/core/badge.svg?branch=main)](https://coveralls.io/github/vuepress/core?branch=main)
 [![license](https://badgen.net/github/license/vuepress/core)](https://github.com/vuepress/core/blob/main/LICENSE)

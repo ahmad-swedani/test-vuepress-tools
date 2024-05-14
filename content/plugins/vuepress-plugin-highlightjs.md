@@ -1,38 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: pragdave
+  email: null
+  name: pragdave
+  url: null
+  username: vuepress
 bugs: https://github.com/pragdave/vuepress-plugin-highlightjs/issues
 category: plugin
 date: '2022-01-31T23:59:30.455Z'
 deprecated: false
 description: VuePress plugin - highlightjs
-downloads: ~
+downloads: null
 homepage: https://github.com/pragdave/vuepress-plugin-highlightjs
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - highlightjs
-  - highlight
+- vuepress-plugin
+- vuepress
+- plugin
+- highlightjs
+- highlight
 license: MIT License
-maintainers:
-  - email: dave@pragdave.me
-    username: pragdave
+maintainers: null
 name: vuepress-plugin-highlightjs
 npm: https://www.npmjs.com/package/vuepress-plugin-highlightjs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dave@pragdave.me
-    username: pragdave
+  avatar: null
+  email: dave@pragdave.me
+  name: null
+  url: null
+  username: pragdave
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17857743938807544
 stars: 2084
@@ -44,7 +39,8 @@ watchers: 2084
 
 # VuePress
 
-[![check](https://github.com/vuepress/core/workflows/check/badge.svg)](https://github.com/vuepress/core/actions/workflows/check.yml?query=workflow%3Acheck)
+[![check](https://github.com/vuepress/core/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/check.yml)
+[![e2e](https://github.com/vuepress/core/actions/workflows/e2e.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/e2e.yml)
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/core/badge.svg?branch=main)](https://coveralls.io/github/vuepress/core?branch=main)
 [![license](https://badgen.net/github/license/vuepress/core)](https://github.com/vuepress/core/blob/main/LICENSE)

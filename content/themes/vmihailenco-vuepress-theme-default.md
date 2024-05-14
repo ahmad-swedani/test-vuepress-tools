@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  email: null
+  name: Evan You
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: theme
 date: '2022-06-02T09:53:53.147Z'
 deprecated: false
 description: Default theme of VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress-theme
-  - vuepress
-  - theme
-  - default
+- vuepress-theme
+- vuepress
+- theme
+- default
 license: MIT License
-maintainers:
-  - email: vladimir.webdev@gmail.com
-    username: vmihailenco
+maintainers: null
 name: vmihailenco-vuepress-theme-default
 npm: https://www.npmjs.com/package/vmihailenco-vuepress-theme-default
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: vladimir.webdev@gmail.com
-    username: vmihailenco
+  avatar: null
+  email: vladimir.webdev@gmail.com
+  name: null
+  url: null
+  username: vmihailenco
 repository: https://github.com/vuepress/vuepress-next
 score: 0.180008619575756
 stars: 2084
@@ -43,7 +38,8 @@ watchers: 2084
 
 # VuePress
 
-[![check](https://github.com/vuepress/core/workflows/check/badge.svg)](https://github.com/vuepress/core/actions/workflows/check.yml?query=workflow%3Acheck)
+[![check](https://github.com/vuepress/core/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/check.yml)
+[![e2e](https://github.com/vuepress/core/actions/workflows/e2e.yml/badge.svg?branch=main)](https://github.com/vuepress/core/actions/workflows/e2e.yml)
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/core/badge.svg?branch=main)](https://coveralls.io/github/vuepress/core?branch=main)
 [![license](https://badgen.net/github/license/vuepress/core)](https://github.com/vuepress/core/blob/main/LICENSE)
