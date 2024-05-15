@@ -1,30 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8063914?v=4
-  email: null
-  name: llqgit
-  url: null
-  username: llqgit
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: llqgit
 bugs: https://github.com/llqgit/vuepress-plugin-visit/issues
 category: plugin
 date: '2019-12-24T12:12:52.693Z'
 deprecated: false
 description: vuepress plugin for visit count api
-downloads: null
+downloads: ~
 homepage: https://github.com/llqgit/vuepress-plugin-visit#readme
 keywords:
-- vuepress
-- plugin
-license: false
-maintainers: null
+  - vuepress
+  - plugin
+license: ~
+maintainers:
+  - email: llqggl@gmail.com
+    username: llq
 name: vuepress-plugin-visit
 npm: https://www.npmjs.com/package/vuepress-plugin-visit
 publisher:
-  avatar: null
-  email: llqggl@gmail.com
-  name: null
-  url: null
-  username: llq
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: llqggl@gmail.com
+    username: llq
 repository: https://github.com/llqgit/vuepress-plugin-visit
 score: 0.14943263247215519
 stars: 1
