@@ -1,41 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/9931685?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: xiguaxigua
+  email: null
+  name: xiguaxigua
+  url: null
+  username: xiguaxigua
 bugs: https://github.com/xiguaxigua/vuepress-plugin-demo-block/issues
 category: plugin
 date: '2019-03-28T09:53:26.436Z'
 deprecated: false
 description: demo block for vuepress both support vue and react
-downloads: ~
+downloads: null
 homepage: https://github.com/xiguaxigua/vuepress-plugin-demo-block#readme
 keywords:
-  - vuepress-plugin
-  - demo-block
+- vuepress-plugin
+- demo-block
 license: MIT License
-maintainers:
-  - email: quietcoder@163.com
-    username: quietcoder
+maintainers: null
 name: vuepress-plugin-demo-block
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-block
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: quietcoder@163.com
-    username: quietcoder
+  avatar: null
+  email: quietcoder@163.com
+  name: null
+  url: null
+  username: quietcoder
 repository: https://github.com/xiguaxigua/vuepress-plugin-demo-block
 score: 0.43409285751687654
-stars: 114
+stars: 113
 unstable: true
 version: 0.7.2
-watchers: 114
+watchers: 113
 
 ---
 

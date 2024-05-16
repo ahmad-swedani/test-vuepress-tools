@@ -1,40 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: keyu98@qq.com
-    name: keyu
-    username: kylezhao
+  email: keyu98@qq.com
+  name: keyu
+  url: null
+  username: kylezhao
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2020-10-29T11:45:08.056Z'
 deprecated: false
 description: search plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-search#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-search#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: keyu98@qq.com
-    username: kylezhao
+maintainers: null
 name: vuepress-plugin-search-custom-tgit
 npm: https://www.npmjs.com/package/vuepress-plugin-search-custom-tgit
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: keyu98@qq.com
-    username: kylezhao
+  avatar: null
+  email: keyu98@qq.com
+  name: null
+  url: null
+  username: kylezhao
 repository: https://github.com/vuejs/vuepress
 score: 0.1792685295663744
 stars: 22368
@@ -59,7 +51,11 @@ watchers: 22368
 
 ## Status
 
-> VuePress is now in maintenance mode. For a next-gen Vue-based SSG built on top of Vue 3 + Vite, check out [VitePress](https://vitepress.vuejs.org/).
+VuePress v1 is now in maintenance mode.
+
+For a next-gen Vue-based SSG:
+- [VitePress](https://vitepress.vuejs.org/): Vue.js official team supported. Built on top of Vue 3 + Vite.
+- [VuePress v2+](https://github.com/vuepress/core): Community supported. Built on top of Vue 3 + Vite / Webpack / Other bundlers.
 
 ## Documentation
 

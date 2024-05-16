@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  email: null
+  name: Evan You
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2018-12-21T07:58:59.012Z'
 deprecated: false
 description: Default theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: 1289739946@qq.com
-    username: hl1223
+maintainers: null
 name: vuepress-theme-uniapp
 npm: https://www.npmjs.com/package/vuepress-theme-uniapp
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1289739946@qq.com
-    username: hl1223
+  avatar: null
+  email: 1289739946@qq.com
+  name: null
+  url: null
+  username: hl1223
 repository: https://github.com/vuejs/vuepress
 score: 0.14895250473421395
 stars: 22368
@@ -56,7 +51,11 @@ watchers: 22368
 
 ## Status
 
-> VuePress is now in maintenance mode. For a next-gen Vue-based SSG built on top of Vue 3 + Vite, check out [VitePress](https://vitepress.vuejs.org/).
+VuePress v1 is now in maintenance mode.
+
+For a next-gen Vue-based SSG:
+- [VitePress](https://vitepress.vuejs.org/): Vue.js official team supported. Built on top of Vue 3 + Vite.
+- [VuePress v2+](https://github.com/vuepress/core): Community supported. Built on top of Vue 3 + Vite / Webpack / Other bundlers.
 
 ## Documentation
 

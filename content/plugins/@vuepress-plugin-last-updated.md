@@ -1,51 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ULIVZ
+  email: chl814@foxmail.com
+  name: ULIVZ
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2022-01-18T04:23:29.305Z'
 deprecated: false
 description: last-updated plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-last-updated#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-last-updated#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-last-updated'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-last-updated
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.6594111372154509
 stars: 22368
@@ -70,7 +51,11 @@ watchers: 22368
 
 ## Status
 
-> VuePress is now in maintenance mode. For a next-gen Vue-based SSG built on top of Vue 3 + Vite, check out [VitePress](https://vitepress.vuejs.org/).
+VuePress v1 is now in maintenance mode.
+
+For a next-gen Vue-based SSG:
+- [VitePress](https://vitepress.vuejs.org/): Vue.js official team supported. Built on top of Vue 3 + Vite.
+- [VuePress v2+](https://github.com/vuepress/core): Community supported. Built on top of Vue 3 + Vite / Webpack / Other bundlers.
 
 ## Documentation
 

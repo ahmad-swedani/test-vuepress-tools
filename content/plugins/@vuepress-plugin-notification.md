@@ -1,50 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ULIVZ
+  email: chl814@foxmail.com
+  name: ULIVZ
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2018-10-07T14:48:38.900Z'
 deprecated: false
 description: notification plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: '@vuepress/plugin-notification'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-notification
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.1507345799916282
 stars: 22368
@@ -69,7 +51,11 @@ watchers: 22368
 
 ## Status
 
-> VuePress is now in maintenance mode. For a next-gen Vue-based SSG built on top of Vue 3 + Vite, check out [VitePress](https://vitepress.vuejs.org/).
+VuePress v1 is now in maintenance mode.
+
+For a next-gen Vue-based SSG:
+- [VitePress](https://vitepress.vuejs.org/): Vue.js official team supported. Built on top of Vue 3 + Vite.
+- [VuePress v2+](https://github.com/vuepress/core): Community supported. Built on top of Vue 3 + Vite / Webpack / Other bundlers.
 
 ## Documentation
 
