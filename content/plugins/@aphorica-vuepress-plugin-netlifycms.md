@@ -1,31 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/33430560?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: Aphorica
 bugs: https://github.com/Aphorica/vuepress-plugin-netlifycms/issues
 category: plugin
 date: '2020-04-10T19:49:52.431Z'
 deprecated: false
 description: add netlifycms headertag to main page
-downloads: null
+downloads: ~
 homepage: https://github.com/Aphorica/vuepress-plugin-netlifycms#readme
 keywords:
-- vue
-- vuepress
-- generator
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - generator
+license: ~
+maintainers:
+  - email: gbergeraph@gmail.com
+    username: rickbsgu
 name: '@aphorica/vuepress-plugin-netlifycms'
 npm: https://www.npmjs.com/package/%40aphorica%2Fvuepress-plugin-netlifycms
 publisher:
-  avatar: null
-  email: gbergeraph@gmail.com
-  name: null
-  url: null
-  username: rickbsgu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: gbergeraph@gmail.com
+    username: rickbsgu
 repository: https://github.com/Aphorica/vuepress-plugin-netlifycms
 score: 0.3564660156102619
 stars: 0
