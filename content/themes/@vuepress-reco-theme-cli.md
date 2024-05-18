@@ -1,46 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: reco_luan
+  email: null
+  name: reco_luan
+  url: null
+  username: vuepress-reco
 bugs: https://github.com/recoluan/vuepress-theme-reco-cli/issues
 category: theme
 date: '2022-04-23T17:54:40.190Z'
 deprecated: false
 description: A cli for vuepress-theme-reco
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress
-  - vue
-  - theme
-  - reco
-  - cli
+- vuepress
+- vue
+- theme
+- reco
+- cli
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/theme-cli'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Ftheme-cli
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco
 score: 0.5197687406291992
-stars: 1622
+stars: 1623
 unstable: false
 version: 1.0.8
-watchers: 1622
+watchers: 1623
 
 ---
 
