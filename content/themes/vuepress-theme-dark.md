@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/920747?v=4
-  email: npm@coded.pl
-  name: Damian Stasik
-  url: null
-  username: damianstasik
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: npm@coded.pl
+    name: Damian Stasik
 bugs: https://github.com/visualfanatic/vue-svg-loader/issues
 category: theme
 date: '2018-08-31T20:12:25.000Z'
 deprecated: false
 description: Dark theme for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/visualfanatic/vuepress-theme-dark#readme
 keywords:
-- vuepress-theme
-- vuepress
-- dark
-- vue
+  - vuepress-theme
+  - vuepress
+  - dark
+  - vue
 license: MIT License
-maintainers: null
+maintainers:
+  - email: damian@visualfanatic.pl
+    username: visualfanatic
 name: vuepress-theme-dark
 npm: https://www.npmjs.com/package/vuepress-theme-dark
 publisher:
-  avatar: null
-  email: damian@visualfanatic.pl
-  name: null
-  url: null
-  username: visualfanatic
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: damian@visualfanatic.pl
+    username: visualfanatic
 repository: https://github.com/visualfanatic/vuepress-theme-dark
 score: 0.22730521905326542
 stars: 17
