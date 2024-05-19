@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-02-22T11:50:50.343Z'
 deprecated: false
 description: Light Gallery plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/lightgallery/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - lightgallery
-  - mr-hope
+- vuepress-plugin
+- vuepress
+- lightgallery
+- mr-hope
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-lightgallery
 npm: https://www.npmjs.com/package/vuepress-plugin-lightgallery
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6830913756104904
 stars: 1911
