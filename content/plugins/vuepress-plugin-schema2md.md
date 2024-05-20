@@ -1,28 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/58433797?v=4
-  email: chl814@foxmail.com
-  name: ulivz
-  url: null
-  username: rich-lab
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ulivz
 bugs: https://github.com/rich-lab/json-schema-2-markdown/issues
 category: plugin
 date: '2020-03-09T03:04:20.164Z'
 deprecated: false
 description: A VuePress plugin to help you generate pages via JSON Schema (HMR Support).
-downloads: null
+downloads: ~
 homepage: https://github.com/rich-lab/json-schema-2-markdown#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 472590061@qq.com
+    username: ulivz
 name: vuepress-plugin-schema2md
 npm: https://www.npmjs.com/package/vuepress-plugin-schema2md
 publisher:
-  avatar: null
-  email: 472590061@qq.com
-  name: null
-  url: null
-  username: ulivz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 472590061@qq.com
+    username: ulivz
 repository: https://github.com/rich-lab/json-schema-2-markdown
 score: 0.3866882976807335
 stars: 5
