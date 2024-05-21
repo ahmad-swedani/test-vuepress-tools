@@ -1,34 +1,29 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/33573212?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: lxh
+  email: null
+  name: lxh
+  url: null
+  username: StrivingRabbit
 bugs: https://github.com/StrivingRabbit/vuepress-theme-uni-app/issues
 category: theme
 date: '2022-06-16T11:54:20.865Z'
 deprecated: false
 description: uni-app official website theme for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/StrivingRabbit/vuepress-theme-uni-app#readme
 keywords:
-  - uni-app
-license: ~
-maintainers:
-  - email: 283700113@qq.com
-    username: liuxiaohang
+- uni-app
+license: false
+maintainers: null
 name: vuepress-theme-uni-app-test
 npm: https://www.npmjs.com/package/vuepress-theme-uni-app-test
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 283700113@qq.com
-    username: liuxiaohang
+  avatar: null
+  email: 283700113@qq.com
+  name: null
+  url: null
+  username: liuxiaohang
 repository: https://github.com/StrivingRabbit/vuepress-theme-uni-app
 score: 0.49499933580734456
 stars: 0
@@ -40,9 +35,9 @@ watchers: 0
 
 ### uni-app official website theme for vuepress
 
-# vuepress-theme-uni-app-test
+# vuepress-theme-uniapp-official
 
-[![NPM version](https://badgen.net/npm/v/vuepress-theme-uni-app-test)](https://www.npmjs.com/package/vuepress-theme-uni-app-test) [![NPM downloads](https://badgen.net/npm/dm/vuepress-theme-uni-app-test)](https://npmjs.com/package/vuepress-theme-uni-app-test)
+[![NPM version](https://badgen.net/npm/v/vuepress-theme-uniapp-official)](https://www.npmjs.com/package/vuepress-theme-uniapp-official) [![NPM downloads](https://badgen.net/npm/dm/vuepress-theme-uniapp-official)](https://npmjs.com/package/vuepress-theme-uniapp-official)
 
 ## Sites
 
@@ -52,8 +47,8 @@ watchers: 0
 ## Install
 
 ```bash
-yarn add vuepress-theme-uni-app-test -D
-# OR npm install vuepress-theme-uni-app-test -D
+yarn add vuepress-theme-uniapp-official -D
+# OR npm install vuepress-theme-uniapp-official -D
 ```
 
 
