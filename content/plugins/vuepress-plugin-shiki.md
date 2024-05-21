@@ -1,33 +1,44 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: octref@gmail.com
-  name: Pine Wu
-  url: null
-  username: octref
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: octref@gmail.com
+    name: Pine Wu
+    username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugin
 date: '2022-02-15T14:22:31.547Z'
 deprecated: false
 description: Vuepress plugin for Shiki
-downloads: null
+downloads: ~
 homepage: https://github.com/octref/shiki/tree/master/packages/vuepress-plugin
 keywords:
-- shiki
-- vuepress
-- vuepress-plugin
-- syntax-highlighter
-- highlighter
+  - shiki
+  - vuepress
+  - vuepress-plugin
+  - syntax-highlighter
+  - highlighter
 license: MIT License
-maintainers: null
+maintainers:
+  - email: orta.therox@gmail.com
+    username: orta
+  - email: octref@gmail.com
+    username: octref
+  - email: anthonyfu117@hotmail.com
+    username: antfu
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
 publisher:
-  avatar: null
-  email: octref@gmail.com
-  name: null
-  url: null
-  username: octref
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: octref@gmail.com
+    username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
 stars: 8865

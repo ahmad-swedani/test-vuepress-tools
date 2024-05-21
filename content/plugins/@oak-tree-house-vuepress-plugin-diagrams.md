@@ -1,30 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8998546?v=4
-  email: null
-  name: Sun Ziping
-  url: null
-  username: sunziping2016
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Sun Ziping
 bugs: https://github.com/sunziping2016/oak-tree-house/issues
 category: plugin
 date: '2020-05-25T06:34:08.925Z'
 deprecated: false
 description: VuePress Plugin to Render Diagrams
-downloads: null
-homepage: https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%40oak-tree-house/vuepress-plugin-diagrams#readme
+downloads: ~
+homepage: >-
+  https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%40oak-tree-house/vuepress-plugin-diagrams#readme
 keywords:
-- vue
-- vuepress
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: sunziping2016@gmail.com
+    username: sunziping2016
 name: '@oak-tree-house/vuepress-plugin-diagrams'
 npm: https://www.npmjs.com/package/%40oak-tree-house%2Fvuepress-plugin-diagrams
 publisher:
-  avatar: null
-  email: sunziping2016@gmail.com
-  name: null
-  url: null
-  username: sunziping2016
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sunziping2016@gmail.com
+    username: sunziping2016
 repository: https://github.com/sunziping2016/oak-tree-house
 score: 0.38702333012447104
 stars: 13
