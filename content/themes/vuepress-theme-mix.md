@@ -1,31 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29831211?v=4
-  email: gavinliu0606@gmail.com
-  name: Gavin Liu
-  url: https://gavinliu.me
-  username: gavinliu0606
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: gavinliu0606@gmail.com
+    name: Gavin Liu
+    url: https://gavinliu.me
+    username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: theme
 date: '2022-05-07T12:03:46.448Z'
 deprecated: false
 description: A VuePress theme with a mix of features
-downloads: null
+downloads: ~
 homepage: https://github.com/gavinliu6/vuepress-theme-mix
 keywords:
-- vuepress-theme
-- vuepress
-- vue
+  - vuepress-theme
+  - vuepress
+  - vue
 license: MIT License
-maintainers: null
+maintainers:
+  - email: gavinliu0606@gmail.com
+    username: gavinliu0606
 name: vuepress-theme-mix
 npm: https://www.npmjs.com/package/vuepress-theme-mix
 publisher:
-  avatar: null
-  email: gavinliu0606@gmail.com
-  name: null
-  url: null
-  username: gavinliu0606
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: gavinliu0606@gmail.com
+    username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
 score: 0.5919395312430268
 stars: 52

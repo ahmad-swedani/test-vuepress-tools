@@ -1,34 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/11927113?v=4
-  email: 99299684@qq.com
-  name: mrcode
-  url: null
-  username: zhuqiang
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 99299684@qq.com
+    name: mrcode
+    username: zhuqiang
 bugs: https://github.com/zq99299/vuepress-plugin/issues
 category: plugin
 date: '2020-04-27T02:46:37.807Z'
 deprecated: false
 description: baidu tongji analytics plugin for vuepress
-downloads: null
-homepage: https://github.com/zq99299/vuepress-plugin/blob/master/vuepress-plugin-baidu-tongji-analytics/README.md
+downloads: ~
+homepage: >-
+  https://github.com/zq99299/vuepress-plugin/blob/master/vuepress-plugin-baidu-tongji-analytics/README.md
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
-- baidu tongji analytics
-- "\u767E\u5EA6\u7EDF\u8BA1"
+  - documentation
+  - generator
+  - vue
+  - vuepress
+  - baidu tongji analytics
+  - 百度统计
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 99299684@qq.com
+    username: zhuqiang
 name: vuepress-plugin-baidu-tongji-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-tongji-analytics
 publisher:
-  avatar: null
-  email: 99299684@qq.com
-  name: null
-  url: null
-  username: zhuqiang
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 99299684@qq.com
+    username: zhuqiang
 repository: https://github.com/zq99299/vuepress-plugin
 score: 0.5482160002599727
 stars: 12
