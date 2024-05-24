@@ -1,35 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29809148?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: lvqq
+  email: null
+  name: lvqq
+  url: null
+  username: lvqq
 bugs: https://github.com/lvqq/vuepress-plugin-click/issues
 category: plugin
 date: '2019-09-21T09:47:31.776Z'
 deprecated: false
 description: beautify your click in vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/lvqq/vuepress-plugin-click#readme
 keywords:
-  - vuepress-plugin
-  - click
+- vuepress-plugin
+- click
 license: MIT License
-maintainers:
-  - email: nicksonlvqq@gmail.com
-    username: lvqq
+maintainers: null
 name: vuepress-plugin-click
 npm: https://www.npmjs.com/package/vuepress-plugin-click
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nicksonlvqq@gmail.com
-    username: lvqq
+  avatar: null
+  email: nicksonlvqq@gmail.com
+  name: null
+  url: null
+  username: lvqq
 repository: https://github.com/lvqq/vuepress-plugin-click
 score: 0.4419497301298373
 stars: 0
