@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/21354589?v=4
-  email: null
-  name: wangyonghao
-  url: null
-  username: YongHao0
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: wangyonghao
 bugs: https://github.com/YongHao0/vuepress/issues
 category: plugin
 date: '2020-09-15T06:32:14.655Z'
 deprecated: false
 description: search plugin for vuepress
-downloads: null
-homepage: https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-search#readme
+downloads: ~
+homepage: >-
+  https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-search#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2914905399@qq.com
+    username: wangyonghao
 name: vuepress-rc-plugin-search
 npm: https://www.npmjs.com/package/vuepress-rc-plugin-search
 publisher:
-  avatar: null
-  email: 2914905399@qq.com
-  name: null
-  url: null
-  username: wangyonghao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2914905399@qq.com
+    username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
 score: 0.5778870525906075
 stars: 0
