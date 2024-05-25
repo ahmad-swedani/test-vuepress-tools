@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29342568?v=4
-  email: null
-  name: ledouxb@gmail.com
-  url: null
-  username: vue-styleguidist
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: ledouxb@gmail.com
 bugs: https://github.com/vue-styleguidist/vuepress-plugin-live/issues
 category: plugin
 date: '2020-10-11T23:48:03.193Z'
 deprecated: false
 description: Make your markdown code examples come alive
-downloads: null
+downloads: ~
 homepage: http://vuepress-live.surge.sh/
 keywords:
-- vue
-- vuepress
-- vue-live
-- markdown
-- example
+  - vue
+  - vuepress
+  - vue-live
+  - markdown
+  - example
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ledouxb@me.com
+    username: elevatebart
 name: vuepress-plugin-live
 npm: https://www.npmjs.com/package/vuepress-plugin-live
 publisher:
-  avatar: null
-  email: ledouxb@me.com
-  name: null
-  url: null
-  username: elevatebart
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ledouxb@me.com
+    username: elevatebart
 repository: https://github.com/vue-styleguidist/vuepress-plugin-live
 score: 0.5193113845086387
 stars: 38
