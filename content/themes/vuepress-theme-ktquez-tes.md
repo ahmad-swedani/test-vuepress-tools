@@ -1,43 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/73457150?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ktquez@gmail.com
-    name: Alan Ktquez
-    url: https://ktquez.com/
+  email: ktquez@gmail.com
+  name: Alan Ktquez
+  url: https://ktquez.com/
+  username: firewone
 bugs: https://github.com/ktquez/vuepress-theme-ktquez/issues
 category: theme
 date: '2022-02-02T13:43:14.913Z'
 deprecated: false
 description: A blog theme for VuePress by Ktquez
-downloads: ~
+downloads: null
 homepage: https://github.com/firewone/vuepress-theme-ktquez#readme
 keywords:
-  - vuepress
-  - theme
-  - ktquez
-  - vuejs
-  - static
-  - jekyll
-  - documentation
-  - blog
+- vuepress
+- theme
+- ktquez
+- vuejs
+- static
+- jekyll
+- documentation
+- blog
 license: MIT License
-maintainers:
-  - email: venomserl1@gmail.com
-    username: venomserl1
+maintainers: null
 name: vuepress-theme-ktquez-tes
 npm: https://www.npmjs.com/package/vuepress-theme-ktquez-tes
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: venomserl1@gmail.com
-    username: venomserl1
+  avatar: null
+  email: venomserl1@gmail.com
+  name: null
+  url: null
+  username: venomserl1
 repository: https://github.com/firewone/vuepress-theme-ktquez
 score: 0.44876705118495924
 stars: 0
