@@ -1,48 +1,45 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69463896?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: qsyyke
+  email: null
+  name: qsyyke
+  url: null
+  username: xcyeye
 bugs: https://github.com/vuepress-aurora/vuepress-theme-aurora/issues
 category: theme
 date: '2022-05-02T10:52:44.411Z'
 deprecated: false
-description: >-
-  A vuepress-based animation blog theme, simple, beautiful, multi-color,
-  multiple custom functions, providing article poster sharing, talk, photo
-  album, comment and other features
-  一个基于vuepress的动漫类博客主题，简洁，漂亮，多色彩，多种自定义功能，提供文章海报分享，说说，相册，评论等特色功�?
-downloads: ~
+description: "A vuepress-based animation blog theme, simple, beautiful, multi-color,\
+  \ multiple custom functions, providing article poster sharing, talk, photo album,\
+  \ comment and other features \u4E00\u4E2A\u57FA\u4E8Evuepress\u7684\u52A8\u6F2B\u7C7B\
+  \u535A\u5BA2\u4E3B\u9898\uFF0C\u7B80\u6D01\uFF0C\u6F02\u4EAE\uFF0C\u591A\u8272\u5F69\
+  \uFF0C\u591A\u79CD\u81EA\u5B9A\u4E49\u529F\u80FD\uFF0C\u63D0\u4F9B\u6587\u7AE0\u6D77\
+  \u62A5\u5206\u4EAB\uFF0C\u8BF4\u8BF4\uFF0C\u76F8\u518C\uFF0C\u8BC4\u8BBA\u7B49\u7279\
+  \u8272\u529F\uFFFD?"
+downloads: null
 homepage: https://aurora.xcye.xyz/
 keywords:
-  - vuepress-theme
-  - vuepress-theme-aurora
-  - anime-blog
-  - vue
-  - theme
-  - blog-theme
-  - vuepress
-  - blog
-  - theme-blog
-  - colors-theme
-  - aurora theme
+- vuepress-theme
+- vuepress-theme-aurora
+- anime-blog
+- vue
+- theme
+- blog-theme
+- vuepress
+- blog
+- theme-blog
+- colors-theme
+- aurora theme
 license: MIT License
-maintainers:
-  - email: cqycco@gmail.com
-    username: qsyyke
+maintainers: null
 name: vuepress-theme-aurora
 npm: https://www.npmjs.com/package/vuepress-theme-aurora
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: cqycco@gmail.com
-    username: qsyyke
+  avatar: null
+  email: cqycco@gmail.com
+  name: null
+  url: null
+  username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
 score: 0.5718532858796384
 stars: 310
