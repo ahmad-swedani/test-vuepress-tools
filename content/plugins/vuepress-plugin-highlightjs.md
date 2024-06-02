@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: null
-  name: pragdave
-  url: null
-  username: vuepress
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: pragdave
 bugs: https://github.com/pragdave/vuepress-plugin-highlightjs/issues
 category: plugin
 date: '2022-01-31T23:59:30.455Z'
 deprecated: false
 description: VuePress plugin - highlightjs
-downloads: null
+downloads: ~
 homepage: https://github.com/pragdave/vuepress-plugin-highlightjs
 keywords:
-- vuepress-plugin
-- vuepress
-- plugin
-- highlightjs
-- highlight
+  - vuepress-plugin
+  - vuepress
+  - plugin
+  - highlightjs
+  - highlight
 license: MIT License
-maintainers: null
+maintainers:
+  - email: dave@pragdave.me
+    username: pragdave
 name: vuepress-plugin-highlightjs
 npm: https://www.npmjs.com/package/vuepress-plugin-highlightjs
 publisher:
-  avatar: null
-  email: dave@pragdave.me
-  name: null
-  url: null
-  username: pragdave
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: dave@pragdave.me
+    username: pragdave
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17857743938807544
 stars: 2111
