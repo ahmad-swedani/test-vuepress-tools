@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19198355?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: artiely
+  email: null
+  name: artiely
+  url: null
+  username: artiely
 bugs: https://github.com/artiely/vuepress-plugin-valine/issues
 category: plugin
 date: '2020-08-21T03:47:46.714Z'
 deprecated: false
 description: Comment plugin in vuepress, such as Valine
-downloads: ~
+downloads: null
 homepage: https://github.com/artiely/vuepress-plugin-valine#readme
 keywords:
-  - vuepress
-  - comment
-  - plugin
-  - vue
-  - gitalk
-  - valine
-license: ~
-maintainers:
-  - email: 1119696785@qq.com
-    username: artiely
+- vuepress
+- comment
+- plugin
+- vue
+- gitalk
+- valine
+license: false
+maintainers: null
 name: vuepress-plugin-valine
 npm: https://www.npmjs.com/package/vuepress-plugin-valine
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1119696785@qq.com
-    username: artiely
+  avatar: null
+  email: 1119696785@qq.com
+  name: null
+  url: null
+  username: artiely
 repository: https://github.com/artiely/vuepress-plugin-valine
 score: 0.4212813360686659
 stars: 0
