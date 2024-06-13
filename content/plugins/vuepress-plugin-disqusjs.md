@@ -1,35 +1,29 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/17308208?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: saltbo@foxmail.com
-    name: saltbo
-    username: saltbo
+  email: saltbo@foxmail.com
+  name: saltbo
+  url: null
+  username: saltbo
 bugs: https://github.com/saltbo/vuepress-plugin-disqusjs/issues
 category: plugin
 date: '2022-01-23T06:39:14.158Z'
 deprecated: false
-description: 🔌 Register a global `<DisqusJS />` component to add to your layouts.
-downloads: ~
+description: "\U0001F50C Register a global `<DisqusJS />` component to add to your\
+  \ layouts."
+downloads: null
 homepage: https://github.com/saltbo/vuepress-plugin-disqusjs#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: saltbo@foxmail.com
-    username: saltbo
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-disqusjs
 npm: https://www.npmjs.com/package/vuepress-plugin-disqusjs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: saltbo@foxmail.com
-    username: saltbo
+  avatar: null
+  email: saltbo@foxmail.com
+  name: null
+  url: null
+  username: saltbo
 repository: https://github.com/saltbo/vuepress-plugin-disqusjs
 score: 0.47554514130387127
 stars: 1
