@@ -1,32 +1,50 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: chl814@foxmail.com
-  name: ULIVZ
-  url: null
-  username: vuejs
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ULIVZ
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2018-10-07T14:48:38.900Z'
 deprecated: false
 description: notification plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
+  - email: abgrallkefran@gmail.com
+    username: kefranabg
+  - email: ben@bencodezen.io
+    username: bencodezen
+  - email: newsbielt703@gmail.com
+    username: newsbielt703
+  - email: florent.giraud.16@gmail.com
+    username: feltron
+  - email: yyx990803@gmail.com
+    username: yyx990803
+  - email: 472590061@qq.com
+    username: ulivz
 name: '@vuepress/plugin-notification'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-notification
 publisher:
-  avatar: null
-  email: 472590061@qq.com
-  name: null
-  url: null
-  username: ulivz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 472590061@qq.com
+    username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.1507345799916282
 stars: 22410
