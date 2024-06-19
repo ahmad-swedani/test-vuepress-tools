@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4111136?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Azamat Sarsenbayev
+  email: null
+  name: Azamat Sarsenbayev
+  url: null
+  username: azasar
 bugs: https://github.com/azasar/vuepress-plugin-disqus/issues
 category: plugin
 date: '2020-06-09T07:27:26.133Z'
 deprecated: false
 description: Register a global Disqus component to add to your layouts for SPA apps
-downloads: ~
+downloads: null
 homepage: https://github.com/azasar/vuepress-plugin-disqus#readme
 keywords:
-  - vuepress
-  - plugin
-  - disqus
+- vuepress
+- plugin
+- disqus
 license: MIT License
-maintainers:
-  - email: sarsenbayev.a.s@gmail.com
-    username: azasar
+maintainers: null
 name: vuepress-plugin-disqus-spa
 npm: https://www.npmjs.com/package/vuepress-plugin-disqus-spa
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sarsenbayev.a.s@gmail.com
-    username: azasar
+  avatar: null
+  email: sarsenbayev.a.s@gmail.com
+  name: null
+  url: null
+  username: azasar
 repository: https://github.com/azasar/vuepress-plugin-disqus
 score: 0.4230408445941546
 stars: 0
