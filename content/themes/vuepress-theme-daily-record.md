@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/39176876?v=4
-  email: 940150483@qq.com
-  name: ltf
-  url: null
-  username: litengfu
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 940150483@qq.com
+    name: ltf
+    username: litengfu
 bugs: https://github.com/litengfu/vuepress-theme-daily-record/issues
 category: theme
 date: '2020-04-12T06:33:14.490Z'
 deprecated: false
 description: Material Design theme for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/litengfu/vuepress-theme-daily-record#readme
 keywords:
-- vue
-- vuepress
-- theme
-- material design
+  - vue
+  - vuepress
+  - theme
+  - material design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 940150483@qq.com
+    username: litengfu
 name: vuepress-theme-daily-record
 npm: https://www.npmjs.com/package/vuepress-theme-daily-record
 publisher:
-  avatar: null
-  email: 940150483@qq.com
-  name: null
-  url: null
-  username: litengfu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 940150483@qq.com
+    username: litengfu
 repository: https://github.com/litengfu/vuepress-theme-daily-record
 score: 0.2712397448537003
 stars: 0

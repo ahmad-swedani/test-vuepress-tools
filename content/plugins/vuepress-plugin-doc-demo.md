@@ -1,34 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/37177191?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: systemctls
 bugs: https://github.com/wc-code/vuepress-plugin-doc-demo/issues
 category: plugin
 date: '2020-12-30T12:47:29.779Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: null
+downloads: ~
 homepage: https://github.com/wc-code/vuepress-plugin-doc-demo#readme
 keywords:
-- documentation
-- plugin
-- vue
-- vuepress
-- demo
-- block
+  - documentation
+  - plugin
+  - vue
+  - vuepress
+  - demo
+  - block
 license: MIT License
-maintainers: null
+maintainers:
+  - email: jinxiaoman0@gmail.com
+    username: jinxiaoman
 name: vuepress-plugin-doc-demo
 npm: https://www.npmjs.com/package/vuepress-plugin-doc-demo
 publisher:
-  avatar: null
-  email: jinxiaoman0@gmail.com
-  name: null
-  url: null
-  username: jinxiaoman
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jinxiaoman0@gmail.com
+    username: jinxiaoman
 repository: https://github.com/wc-code/vuepress-plugin-doc-demo
 score: 0.40980421341186024
 stars: 0
