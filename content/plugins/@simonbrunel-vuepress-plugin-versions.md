@@ -1,32 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/3874900?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: simonbrunel
 bugs: https://github.com/simonbrunel/vuepress-plugin-versions/issues
 category: plugin
 date: '2021-04-11T17:21:02.535Z'
 deprecated: false
 description: Allows users to switch between different versions of your documentation
-downloads: null
+downloads: ~
 homepage: https://github.com/simonbrunel/vuepress-plugin-versions#readme
 keywords:
-- vuepress
-- plugin
-- versions
-- npm
+  - vuepress
+  - plugin
+  - versions
+  - npm
 license: MIT License
-maintainers: null
+maintainers:
+  - email: s.b.npmjs@abysscorp.org
+    username: simonbrunel
 name: '@simonbrunel/vuepress-plugin-versions'
 npm: https://www.npmjs.com/package/%40simonbrunel%2Fvuepress-plugin-versions
 publisher:
-  avatar: null
-  email: s.b.npmjs@abysscorp.org
-  name: null
-  url: null
-  username: simonbrunel
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: s.b.npmjs@abysscorp.org
+    username: simonbrunel
 repository: https://github.com/simonbrunel/vuepress-plugin-versions
 score: 0.43249577834191916
 stars: 2
