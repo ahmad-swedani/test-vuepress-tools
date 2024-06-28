@@ -1,40 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19198355?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: artiely
+  email: null
+  name: artiely
+  url: null
+  username: artiely
 bugs: https://github.com/artiely/vuepress-plugin-copy-code/issues
 category: plugin
 date: '2020-03-30T07:23:36.449Z'
 deprecated: false
 description: A vuepress plugin for clipboard-copy
-downloads: ~
+downloads: null
 homepage: https://github.com/artiely/vuepress-plugin-copy-code#readme
 keywords:
-  - vuepress
-  - plugin
-  - clipboard-copy
-  - vuepress-copy-code
-  - vuepress-code-copy
-  - copy
-  - copy-code
+- vuepress
+- plugin
+- clipboard-copy
+- vuepress-copy-code
+- vuepress-code-copy
+- copy
+- copy-code
 license: Other
-maintainers:
-  - email: 1119696785@qq.com
-    username: artiely
+maintainers: null
 name: vuepress-plugin-copy-code
 npm: https://www.npmjs.com/package/vuepress-plugin-copy-code
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1119696785@qq.com
-    username: artiely
+  avatar: null
+  email: 1119696785@qq.com
+  name: null
+  url: null
+  username: artiely
 repository: https://github.com/artiely/vuepress-plugin-copy-code
 score: 0.1498548034622812
 stars: 2

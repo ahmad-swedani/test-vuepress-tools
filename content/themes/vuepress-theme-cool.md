@@ -1,39 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13860264?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: davidli012345@gmail.com
-    name: FriendlyUser
-    username: grandfleet
+  email: davidli012345@gmail.com
+  name: FriendlyUser
+  url: null
+  username: grandfleet
 bugs: https://github.com/FriendlyUser/vuepress-theme-cool/issues
 category: theme
 date: '2020-08-23T17:33:46.333Z'
 deprecated: false
-description: >-
-  A cool theme that has integrated some vue components, charts via charts, and
-  markdown based diagrams plantuml and mermaid.
-downloads: ~
+description: A cool theme that has integrated some vue components, charts via charts,
+  and markdown based diagrams plantuml and mermaid.
+downloads: null
 homepage: https://github.com/FriendlyUser/vuepress-theme-cool#readme
 keywords:
-  - vue
-  - vuepress
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: davidli012345@gmail.com
-    username: grandfleet
+maintainers: null
 name: vuepress-theme-cool
 npm: https://www.npmjs.com/package/vuepress-theme-cool
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: davidli012345@gmail.com
-    username: grandfleet
+  avatar: null
+  email: davidli012345@gmail.com
+  name: null
+  url: null
+  username: grandfleet
 repository: https://github.com/FriendlyUser/vuepress-theme-cool
 score: 0.3672773932004789
 stars: 59
