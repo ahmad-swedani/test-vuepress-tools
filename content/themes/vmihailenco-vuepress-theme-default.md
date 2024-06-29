@@ -1,38 +1,43 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: null
-  name: Evan You
-  url: null
-  username: vuepress
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: theme
 date: '2022-06-02T09:53:53.147Z'
 deprecated: false
 description: Default theme of VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- vuepress-theme
-- vuepress
-- theme
-- default
+  - vuepress-theme
+  - vuepress
+  - theme
+  - default
 license: MIT License
-maintainers: null
+maintainers:
+  - email: vladimir.webdev@gmail.com
+    username: vmihailenco
 name: vmihailenco-vuepress-theme-default
 npm: https://www.npmjs.com/package/vmihailenco-vuepress-theme-default
 publisher:
-  avatar: null
-  email: vladimir.webdev@gmail.com
-  name: null
-  url: null
-  username: vmihailenco
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: vladimir.webdev@gmail.com
+    username: vmihailenco
 repository: https://github.com/vuepress/vuepress-next
 score: 0.180008619575756
-stars: 2159
+stars: 2160
 unstable: false
 version: 2.0.0-beta.38.1
-watchers: 2159
+watchers: 2160
 
 ---
 
