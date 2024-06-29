@@ -1,48 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:20.120Z'
 deprecated: false
 description: The Plugin for VuePres 2, Support Netlify Functions
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
 keywords:
-  - VuePress
-  - vuepress plugin
-  - netlify
-  - netlify functions
-  - netlifyFunctions
-  - vuepress-plugin-plugin-netlify-functions
+- VuePress
+- vuepress plugin
+- netlify
+- netlify functions
+- netlifyFunctions
+- vuepress-plugin-plugin-netlify-functions
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-netlify-functions'
-npm: >-
-  https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-netlify-functions
+npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-netlify-functions
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.501360072968948
-stars: 47
+stars: 48
 unstable: true
 version: 1.0.0-beta.36
-watchers: 47
+watchers: 48
 
 ---
 
@@ -51,10 +43,14 @@ watchers: 47
 <img src="/preview/plume.svg" width="200px" alt="plume" />
 </p>
 
+<p align="center">
+
 [![npm version](https://img.shields.io/npm/v/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=npm)](https://www.npmjs.com/package/vuepress-theme-plume)
 [![npm download](https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads)](https://www.npmjs.com/package/vuepress-theme-plume)
 ![peer dependency](https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A)
 ![GitHub License](https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A)
+
+</p>
 
 一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
 
@@ -125,16 +121,16 @@ __options__ : `PlumeThemeOptions`
 
 #### home page
 
-![home](/preview/preview-home.jpeg)
+![home](/preview/preview-home.jpeg?1)
 
 #### blog page
 
-![blog](/preview/preview-blog.jpeg?t=1)
+![blog](/preview/preview-blog.jpeg?1)
 
 #### post page
 
-![post](/preview/preview-post.jpeg)
+![post](/preview/preview-post.jpeg?1)
 
 #### note page
 
-![note](/preview/preview-note.jpeg)
+![note](/preview/preview-note.jpeg?1)
