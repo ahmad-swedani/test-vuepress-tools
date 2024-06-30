@@ -1,35 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/57286975?v=4
-  email: null
-  name: cavalheiro
-  url: null
-  username: eddievandeer
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: cavalheiro
 bugs: https://github.com/eddievandeer/vuepress-theme-vivek/issues
 category: theme
 date: '2022-03-02T08:19:04.315Z'
 deprecated: false
-description: "A simple style vuepress theme. \u4E00\u4E2A\u7B80\u7EA6\u98CE\u683C\u7684\
-  vuepress\u4E3B\u9898\u3002"
-downloads: null
+description: A simple style vuepress theme. 一个简约风格的vuepress主题。
+downloads: ~
 homepage: https://github.com/eddievandeer/vuepress-theme-vivek#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- theme
-- blog
-license: false
-maintainers: null
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - theme
+  - blog
+license: ~
+maintainers:
+  - email: eddievandeer@163.com
+    username: cavalheiro
 name: vuepress-theme-vivek
 npm: https://www.npmjs.com/package/vuepress-theme-vivek
 publisher:
-  avatar: null
-  email: eddievandeer@163.com
-  name: null
-  url: null
-  username: cavalheiro
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: eddievandeer@163.com
+    username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
 score: 0.49579989769885735
 stars: 3
