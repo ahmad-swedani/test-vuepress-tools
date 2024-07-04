@@ -1,34 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1022868?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: brandon@pixelandtonic.com
-    name: brandonkelly
+  email: brandon@pixelandtonic.com
+  name: brandonkelly
+  url: null
+  username: pixelandtonic
 bugs: https://github.com/pixelandtonic/vuepress-theme-craftdocs/issues
 category: theme
 date: '2020-04-25T17:17:22.668Z'
 deprecated: false
 description: vuepress-theme
-downloads: ~
+downloads: null
 homepage: https://github.com/pixelandtonic/vuepress-theme-craftdocs#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: felikx.vansaet@gmail.com
-    username: felikx
+maintainers: null
 name: '@ibsys/vuepress-theme'
 npm: https://www.npmjs.com/package/%40ibsys%2Fvuepress-theme
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: felikx.vansaet@gmail.com
-    username: felikx
+  avatar: null
+  email: felikx.vansaet@gmail.com
+  name: null
+  url: null
+  username: felikx
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
 score: 0.17749364381884167
 stars: 107
