@@ -1,33 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/9140811?v=4
-  email: write@andreasvirkus.me
-  name: Andreas Virkus
-  url: https://andreasvirkus.me
-  username: igby
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: write@andreasvirkus.me
+    name: Andreas Virkus
+    url: https://andreasvirkus.me
+    username: igby
 bugs: https://github.com/andreasvirkus/vuepress-theme-ajv/issues
 category: theme
 date: '2018-04-21T11:37:00.986Z'
 deprecated: false
 description: Vuepress custom blog theme
-downloads: null
+downloads: ~
 homepage: https://github.com/andreasvirkus/vuepress-theme-ajv#readme
 keywords:
-- vuepress
-- blog
-- static
-- ajv
-- theme
-license: false
-maintainers: null
+  - vuepress
+  - blog
+  - static
+  - ajv
+  - theme
+license: ~
+maintainers:
+  - email: write@andreasvirkus.me
+    username: igby
 name: vuepress-theme-ajv
 npm: https://www.npmjs.com/package/vuepress-theme-ajv
 publisher:
-  avatar: null
-  email: write@andreasvirkus.me
-  name: null
-  url: null
-  username: igby
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: write@andreasvirkus.me
+    username: igby
 repository: https://github.com/andreasvirkus/vuepress-theme-ajv
 score: 0.45742307371305635
 stars: 4
