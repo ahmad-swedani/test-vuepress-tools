@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/96685951?v=4
-  email: shentuzhigang@shentuzhigang.cn
-  name: Starzkg
-  url: https://shentuzhigang.cn
-  username: vuepress-star
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@shentuzhigang.cn
+    name: Starzkg
+    url: https://shentuzhigang.cn
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-12-25T17:58:17.950Z'
 deprecated: false
 description: Light Gallery plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-- vuepress-plugin
-- vuepress
-- lightgallery
-- mr-hope
+  - vuepress-plugin
+  - vuepress
+  - lightgallery
+  - mr-hope
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shentuzhigang@qq.com
+    username: starzkg
 name: '@starzkg/vuepress-plugin-lightgallery'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-lightgallery
 publisher:
-  avatar: null
-  email: shentuzhigang@qq.com
-  name: null
-  url: null
-  username: starzkg
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@qq.com
+    username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5463012273606177
 stars: 1
