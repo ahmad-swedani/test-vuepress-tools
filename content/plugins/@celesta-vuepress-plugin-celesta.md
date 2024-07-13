@@ -1,34 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/41458459?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan.zx@outlook.com
-    name: Celeste
+  email: yuan.zx@outlook.com
+  name: Celeste
+  url: null
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/blog/issues
 category: plugin
 date: '2021-07-05T00:37:49.204Z'
 deprecated: false
 description: '> TODO: description'
-downloads: ~
+downloads: null
 homepage: https://github.com/nsznsznjsz/blog#readme
-keywords: ~
+keywords: null
 license: Other
-maintainers:
-  - email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+maintainers: null
 name: '@celesta/vuepress-plugin-celesta'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-celesta
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+  avatar: null
+  email: nsznsznjsz@outlook.com
+  name: null
+  url: null
+  username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
 score: 0.5489241388276382
 stars: 4
@@ -40,7 +34,7 @@ watchers: 4
 
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing my master's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
+- 🔭 I’m currently pursuing my PhD's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
 - ⚡ Fun fact: Computational Neuroscience and Software Engineering.
 - 🌱 I’m actively working on improving my English language skills.
 

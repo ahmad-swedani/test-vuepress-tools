@@ -1,38 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1981996?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: leo@getpop.org
-    name: Leo
-    username: leoloso
+  email: leo@getpop.org
+  name: Leo
+  url: null
+  username: leoloso
 bugs: https://github.com/leoloso/vuepress-plugin-plausible-analytics/issues
 category: plugin
 date: '2020-04-21T14:45:38.688Z'
 deprecated: false
 description: VuePress plugin to add analytics from plausible.io
-downloads: ~
+downloads: null
 homepage: https://github.com/leoloso/vuepress-plugin-plausible-analytics
 keywords:
-  - vuepress
-  - plausible
-  - analytics
+- vuepress
+- plausible
+- analytics
 license: MIT License
-maintainers:
-  - email: leo@getpop.org
-    username: leoloso
+maintainers: null
 name: vuepress-plugin-plausible-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-plausible-analytics
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: leo@getpop.org
-    username: leoloso
+  avatar: null
+  email: leo@getpop.org
+  name: null
+  url: null
+  username: leoloso
 repository: https://github.com/leoloso/vuepress-plugin-plausible-analytics
 score: 0.43001168657561945
 stars: 3
