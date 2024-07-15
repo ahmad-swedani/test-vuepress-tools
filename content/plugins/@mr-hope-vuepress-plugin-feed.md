@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: mister-hope@outlook.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mister-hope@outlook.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:44.666Z'
 deprecated: false
 description: Feed plugin for vuepress-theme-hope
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-hope.github.io/v1/feed/
 keywords:
-- vuepress-plugin
-- vuepress
-- feed
+  - vuepress-plugin
+  - vuepress
+  - feed
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: '@mr-hope/vuepress-plugin-feed'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-feed
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.21356428688426868
 stars: 1979

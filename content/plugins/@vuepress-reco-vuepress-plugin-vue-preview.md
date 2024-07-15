@@ -1,30 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: recoluan@outlook.com
-  name: reco_luan
-  url: null
-  username: reco_luan
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: recoluan@outlook.com
+    name: reco_luan
+    username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
 category: plugin
 date: '2022-01-25T17:08:01.047Z'
 deprecated: false
 description: A vue component preview plugin for vuepress-theme-reco.
-downloads: null
+downloads: ~
 homepage: https://github.com/recoluan/vuepress-theme-reco-next#readme
 keywords:
-- vuepress-plugin
-- vuepress
+  - vuepress-plugin
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: recoluan@outlook.com
+    username: reco_luan
+  - email: zsw0407@outlook.com
+    username: smallsunnyfox
 name: '@vuepress-reco/vuepress-plugin-vue-preview'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-vue-preview
 publisher:
-  avatar: null
-  email: recoluan@outlook.com
-  name: null
-  url: null
-  username: reco_luan
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: recoluan@outlook.com
+    username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.6244214049533316
 stars: 544
