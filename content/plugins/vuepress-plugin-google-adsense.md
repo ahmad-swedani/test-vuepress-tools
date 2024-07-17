@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/25154432?v=4
-  email: me@yunyoujun.cn
-  name: YunYouJun
-  url: null
-  username: yunyoujun
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@yunyoujun.cn
+    name: YunYouJun
+    username: yunyoujun
 bugs: https://github.com/YunYouJun/vuepress-plugin-google-adsense/issues
 category: plugin
 date: '2021-02-15T08:24:01.073Z'
 deprecated: false
 description: google-adsense plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/YunYouJun/vuepress-plugin-google-adsense#readme
 keywords:
-- vuepress
-- plugin
-- google
-- adsense
+  - vuepress
+  - plugin
+  - google
+  - adsense
 license: MIT License
-maintainers: null
+maintainers:
+  - email: me@yunyoujun.cn
+    username: yunyoujun
 name: vuepress-plugin-google-adsense
 npm: https://www.npmjs.com/package/vuepress-plugin-google-adsense
 publisher:
-  avatar: null
-  email: me@yunyoujun.cn
-  name: null
-  url: null
-  username: yunyoujun
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@yunyoujun.cn
+    username: yunyoujun
 repository: https://github.com/YunYouJun/vuepress-plugin-google-adsense
 score: 0.46810719394537
 stars: 12
