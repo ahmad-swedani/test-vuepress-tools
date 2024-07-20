@@ -1,35 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:13.984Z'
 deprecated: false
 description: The Plugin for VuePres 2
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-baidu-tongji'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-baidu-tongji
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5026308707651894
 stars: 61
@@ -117,21 +110,3 @@ __options__ : `PlumeThemeOptions`
 ## 贡献指南
 
 查看 [[贡献指南]](/CONTRIBUTING.md) 了解更多
-
-### 效果图
-
-#### home page
-
-![home](/preview/preview-home.jpeg?1)
-
-#### blog page
-
-![blog](/preview/preview-blog.jpeg?1)
-
-#### post page
-
-![post](/preview/preview-post.jpeg?1)
-
-#### note page
-
-![note](/preview/preview-note.jpeg?1)
