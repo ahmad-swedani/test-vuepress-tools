@@ -1,34 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/23313167?v=4
-  email: qw13131wang@gmail.com
-  name: tolking
-  url: null
-  username: tolking
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: qw13131wang@gmail.com
+    name: tolking
+    username: tolking
 bugs: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme/issues
 category: theme
 date: '2020-11-29T03:08:06.527Z'
 deprecated: false
 description: add prefers-color-scheme for vuepress default theme
-downloads: null
+downloads: ~
 homepage: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme
 keywords:
-- vuepress
-- vuepress-theme
-- documentation
-- prefers-color-scheme
-- light-theme
-- dark-theme
+  - vuepress
+  - vuepress-theme
+  - documentation
+  - prefers-color-scheme
+  - light-theme
+  - dark-theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: qw13131wang@gmail.com
+    username: tolking
 name: vuepress-theme-default-prefers-color-scheme
 npm: https://www.npmjs.com/package/vuepress-theme-default-prefers-color-scheme
 publisher:
-  avatar: null
-  email: qw13131wang@gmail.com
-  name: null
-  url: null
-  username: tolking
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: qw13131wang@gmail.com
+    username: tolking
 repository: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme
 score: 0.4882575925782605
 stars: 50
