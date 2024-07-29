@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/17965996?v=4
-  email: null
-  name: talltotal
-  url: null
-  username: talltotal
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: talltotal
 bugs: https://github.com/talltotal/vuepress-plugin-editor/issues
 category: plugin
 date: '2021-06-02T03:17:21.550Z'
 deprecated: false
 description: editor plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://talltotal.github.io/vuepress-plugin-editor/
 keywords:
-- rich editor
-- editor
-- vue
-- vuepress
-- vuepress-plugin
-license: false
-maintainers: null
+  - rich editor
+  - editor
+  - vue
+  - vuepress
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: talltotal@163.com
+    username: talltotal
 name: '@talltotal/vuepress-plugin-editor'
 npm: https://www.npmjs.com/package/%40talltotal%2Fvuepress-plugin-editor
 publisher:
-  avatar: null
-  email: talltotal@163.com
-  name: null
-  url: null
-  username: talltotal
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: talltotal@163.com
+    username: talltotal
 repository: https://github.com/talltotal/vuepress-plugin-editor
 score: 0.48868444254450094
 stars: 2
