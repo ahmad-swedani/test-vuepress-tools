@@ -1,37 +1,29 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/69196822?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Orta Therox
+  email: null
+  name: Orta Therox
+  url: null
+  username: shikijs
 bugs: https://github.com/shikijs/twoslash/issues
 category: plugin
 date: '2022-03-04T14:44:18.272Z'
 deprecated: false
-description: A VuePress plugin which adds shiki with optional twoslash-powered code samples
-downloads: ~
+description: A VuePress plugin which adds shiki with optional twoslash-powered code
+  samples
+downloads: null
 homepage: https://github.com/shikijs/twoslash
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: orta.therox@gmail.com
-    username: orta
-  - email: typescript-design@microsoft.com
-    username: typescript-deploys
-  - email: shiki-deploys@orta.io
-    username: shiki-deploys
+maintainers: null
 name: vuepress-plugin-shiki-twoslash
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki-twoslash
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shiki-deploys@orta.io
-    username: shiki-deploys
+  avatar: null
+  email: shiki-deploys@orta.io
+  name: null
+  url: null
+  username: shiki-deploys
 repository: https://github.com/shikijs/twoslash
 score: 0.633586168691885
 stars: 1038
