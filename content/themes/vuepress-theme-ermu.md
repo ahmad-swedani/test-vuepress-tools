@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/27935613?v=4
-  email: xsl0420@126.com
-  name: ermu
-  url: null
-  username: ermu
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xsl0420@126.com
+    name: ermu
+    username: ermu
 bugs: https://github.com/ermu0420/vuepress-theme-ermu/issues
 category: theme
 date: '2019-06-30T03:07:12.291Z'
 deprecated: false
-description: "vuepress\u535A\u5BA2\u4E3B\u9898"
-downloads: null
+description: vuepress博客主题
+downloads: ~
 homepage: https://github.com/ermu0420/vuepress-theme-ermu#readme
 keywords:
-- vuepress
-- theme
-- blog
+  - vuepress
+  - theme
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: xsl0420@126.com
+    username: ermu
 name: vuepress-theme-ermu
 npm: https://www.npmjs.com/package/vuepress-theme-ermu
 publisher:
-  avatar: null
-  email: xsl0420@126.com
-  name: null
-  url: null
-  username: ermu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xsl0420@126.com
+    username: ermu
 repository: https://github.com/ermu0420/vuepress-theme-ermu
 score: 0.43515848991313866
 stars: 0
