@@ -1,39 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/53175244?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kotvberloge@gmail.com
-    name: Dima Boger
-    username: b0g3r
+  email: kotvberloge@gmail.com
+  name: Dima Boger
+  url: null
+  username: b0g3r
 bugs: https://github.com/tlbootcamp/vuepress-plugin-generate-tree/issues
 category: plugin
 date: '2020-06-07T09:35:56.811Z'
 deprecated: false
 description: Vuepress Plugin for generating tree object with each page in locale prefix
-downloads: ~
+downloads: null
 homepage: https://github.com/tlbootcamp/vuepress-plugin-generate-tree
 keywords:
-  - tree
-  - plugin
-  - sidebar
-  - vuepress
+- tree
+- plugin
+- sidebar
+- vuepress
 license: MIT License
-maintainers:
-  - email: kotvberloge@gmail.com
-    username: b0g3r
+maintainers: null
 name: '@b0g3r/vuepress-plugin-generate-tree'
 npm: https://www.npmjs.com/package/%40b0g3r%2Fvuepress-plugin-generate-tree
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kotvberloge@gmail.com
-    username: b0g3r
+  avatar: null
+  email: kotvberloge@gmail.com
+  name: null
+  url: null
+  username: b0g3r
 repository: https://github.com/tlbootcamp/vuepress-plugin-generate-tree
 score: 0.2500215314750134
 stars: 0

@@ -1,32 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1732851?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: e8johan
 bugs: https://github.com/e8johan/vuepress-plugin-pdf-export/issues
 category: plugin
 date: '2022-05-20T15:48:22.487Z'
 deprecated: false
 description: Vuepress plugin for exporting site as PDF
-downloads: ~
+downloads: null
 homepage: https://github.com/e8johan/vuepress-plugin-pdf-export#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: e8johan@gmail.com
-    username: e8johan
+maintainers: null
 name: '@e8johan/vuepress-plugin-pdf-export'
 npm: https://www.npmjs.com/package/%40e8johan%2Fvuepress-plugin-pdf-export
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: e8johan@gmail.com
-    username: e8johan
+  avatar: null
+  email: e8johan@gmail.com
+  name: null
+  url: null
+  username: e8johan
 repository: https://github.com/e8johan/vuepress-plugin-pdf-export
 score: 0.5114309039546825
 stars: 0
