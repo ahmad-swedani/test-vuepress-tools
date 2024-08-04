@@ -1,38 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5085501?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: rqh656418510
+  email: null
+  name: rqh656418510
+  url: null
+  username: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-baidu-seo/issues
 category: plugin
 date: '2022-06-20T02:55:28.754Z'
 deprecated: false
 description: Baidu SEO plugin for vuepress v1.x
-downloads: ~
+downloads: null
 homepage: https://github.com/rqh656418510/vuepress-plugin-baidu-seo
 keywords:
-  - vuepress
-  - plugin
-  - baidu
-  - tongji
-  - seo
+- vuepress
+- plugin
+- baidu
+- tongji
+- seo
 license: MIT License
-maintainers:
-  - email: 656418510@qq.com
-    username: rqh656418510
+maintainers: null
 name: vuepress-plugin-baidu-seo
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-seo
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 656418510@qq.com
-    username: rqh656418510
+  avatar: null
+  email: 656418510@qq.com
+  name: null
+  url: null
+  username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-baidu-seo
 score: 0.4822847300877283
 stars: 0
