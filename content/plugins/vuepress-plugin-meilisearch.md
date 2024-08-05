@@ -1,28 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/43250847?v=4
-  email: clementine@meilisearch.com
-  name: "Cl\xE9mentine Urquizar"
-  url: null
-  username: meilisearch
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: clementine@meilisearch.com
+    name: Clémentine Urquizar
 bugs: https://github.com/meilisearch/vuepress-plugin-meilisearch/issues
 category: plugin
 date: '2022-05-19T12:34:53.507Z'
 deprecated: false
 description: Relevant and typo tolerant search bar for your Vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/meilisearch/vuepress-plugin-meilisearch#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: clementine.urquizar@gmail.com
+    username: curquiza
+  - email: charlottevermandel@gmail.com
+    username: bidoubiwa
+  - email: robot@meilisearch.com
+    username: meili-bot
 name: vuepress-plugin-meilisearch
 npm: https://www.npmjs.com/package/vuepress-plugin-meilisearch
 publisher:
-  avatar: null
-  email: robot@meilisearch.com
-  name: null
-  url: null
-  username: meili-bot
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: robot@meilisearch.com
+    username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
 score: 0.6448262011900783
 stars: 63
