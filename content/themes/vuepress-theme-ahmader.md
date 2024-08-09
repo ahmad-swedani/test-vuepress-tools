@@ -1,28 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/2225278?v=4
-  email: ahmader@gmail.com
-  name: ahmader
-  url: null
-  username: ahmader
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ahmader@gmail.com
+    name: ahmader
+    username: ahmader
 bugs: https://github.com/ahmader/vuepress-theme/issues
 category: theme
 date: '2020-09-15T16:18:39.251Z'
 deprecated: false
 description: '## Install ``` yarn install ```'
-downloads: null
+downloads: ~
 homepage: https://github.com/ahmader/vuepress-theme#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: ahmader@gmail.com
+    username: ahmader
 name: vuepress-theme-ahmader
 npm: https://www.npmjs.com/package/vuepress-theme-ahmader
 publisher:
-  avatar: null
-  email: ahmader@gmail.com
-  name: null
-  url: null
-  username: ahmader
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ahmader@gmail.com
+    username: ahmader
 repository: https://github.com/ahmader/vuepress-theme
 score: 0.4220258576677014
 stars: 0

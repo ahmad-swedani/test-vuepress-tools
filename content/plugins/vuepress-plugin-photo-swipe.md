@@ -1,34 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: mister-hope@outlook.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mister-hope@outlook.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:55.817Z'
 deprecated: false
 description: Photo Swipe plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-hope.github.io/v1/photo-swipe/
 keywords:
-- vuepress-plugin
-- vuepress
-- photo-swipe
-- preview
-- zoom
-- picture
+  - vuepress-plugin
+  - vuepress
+  - photo-swipe
+  - preview
+  - zoom
+  - picture
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: vuepress-plugin-photo-swipe
 npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6760539384015969
 stars: 2008

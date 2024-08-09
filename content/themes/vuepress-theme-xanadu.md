@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/7350513?v=4
-  email: null
-  name: Evan You
-  url: null
-  username: JohnsenZhou
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/JohnsenZhou/Xanadu/issues
 category: theme
 date: '2020-03-05T15:38:09.302Z'
 deprecated: false
 description: VuePress theme for Xanadu
-downloads: null
+downloads: ~
 homepage: https://github.com/JohnsenZhou/Xanadu#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 296240671@qq.com
+    username: johnsen
 name: vuepress-theme-xanadu
 npm: https://www.npmjs.com/package/vuepress-theme-xanadu
 publisher:
-  avatar: null
-  email: 296240671@qq.com
-  name: null
-  url: null
-  username: johnsen
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 296240671@qq.com
+    username: johnsen
 repository: https://github.com/JohnsenZhou/Xanadu
 score: 0.4476273289720075
 stars: 0
