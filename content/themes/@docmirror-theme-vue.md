@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: null
-  name: Evan You
-  url: null
-  username: vuejs
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2020-09-08T07:21:01.623Z'
 deprecated: false
 description: VuePress theme for official Vue projects
-downloads: null
-homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
+downloads: ~
+homepage: >-
+  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 252959493@qq.com
+    username: greper
 name: '@docmirror/theme-vue'
 npm: https://www.npmjs.com/package/%40docmirror%2Ftheme-vue
 publisher:
-  avatar: null
-  email: 252959493@qq.com
-  name: null
-  url: null
-  username: greper
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 252959493@qq.com
+    username: greper
 repository: https://github.com/vuejs/vuepress
 score: 0.07066652673276805
 stars: 22452
