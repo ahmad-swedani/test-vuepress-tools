@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/2576903?v=4
-  email: null
-  name: Gabriel Willemann
-  url: null
-  username: gabrielwillemann
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Gabriel Willemann
 bugs: https://github.com/gabrielwillemann/vuepress-theme-material-free/issues
 category: theme
 date: '2020-04-20T20:04:04.591Z'
 deprecated: false
 description: Vuepress theme inspired in Material Design Lite
-downloads: null
+downloads: ~
 homepage: https://github.com/gabrielwillemann/vuepress-theme-material-free#readme
 keywords:
-- vuepress
-- vuepress-theme
-- material
-- material-design
-- material-design-lite
-- material-lite
+  - vuepress
+  - vuepress-theme
+  - material
+  - material-design
+  - material-design-lite
+  - material-lite
 license: MIT License
-maintainers: null
+maintainers:
+  - email: gabrielw@outlook.com
+    username: gabrielwillemann
 name: vuepress-theme-material-free
 npm: https://www.npmjs.com/package/vuepress-theme-material-free
 publisher:
-  avatar: null
-  email: gabrielw@outlook.com
-  name: null
-  url: null
-  username: gabrielwillemann
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: gabrielw@outlook.com
+    username: gabrielwillemann
 repository: https://github.com/gabrielwillemann/vuepress-theme-material-free
 score: 0.43809465393987557
 stars: 7
