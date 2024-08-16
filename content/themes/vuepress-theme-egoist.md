@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: chl814@foxmail.com
-  name: ULIVZ
-  url: null
-  username: vuejs
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ULIVZ
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2018-11-12T02:33:27.202Z'
 deprecated: false
 description: theme-blog-example for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 472590061@qq.com
+    username: ulivz
 name: vuepress-theme-egoist
 npm: https://www.npmjs.com/package/vuepress-theme-egoist
 publisher:
-  avatar: null
-  email: 472590061@qq.com
-  name: null
-  url: null
-  username: ulivz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 472590061@qq.com
+    username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.17909381628771387
 stars: 22461
