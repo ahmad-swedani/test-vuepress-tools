@@ -1,44 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/33195150?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Yue-plus
+  email: null
+  name: Yue-plus
+  url: null
+  username: Yue-plus
 bugs: https://github.com/Yue-plus/vuepress-theme-oxygen-not-included/issues
 category: theme
 date: '2021-08-30T11:17:28.773Z'
 deprecated: false
-description: 《缺氧》游戏风格的 VuePress2 主题
-downloads: ~
+description: "\u300A\u7F3A\u6C27\u300B\u6E38\u620F\u98CE\u683C\u7684 VuePress2 \u4E3B\
+  \u9898"
+downloads: null
 homepage: https://github.com/Yue-plus/vuepress-theme-oxygen-not-included#readme
 keywords:
-  - vuepress-theme
-  - vuepress
-  - theme
-  - 缺氧
-  - oxygen-not-included
+- vuepress-theme
+- vuepress
+- theme
+- "\u7F3A\u6C27"
+- oxygen-not-included
 license: MIT License
-maintainers:
-  - email: Yue_plus@foxmail.com
-    username: yue_plus
+maintainers: null
 name: vuepress-theme-oxygen-not-included
 npm: https://www.npmjs.com/package/vuepress-theme-oxygen-not-included
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: Yue_plus@foxmail.com
-    username: yue_plus
+  avatar: null
+  email: Yue_plus@foxmail.com
+  name: null
+  url: null
+  username: yue_plus
 repository: https://github.com/Yue-plus/vuepress-theme-oxygen-not-included
 score: 0.4588456655735239
-stars: 7
+stars: 6
 unstable: true
 version: 0.3.3
-watchers: 7
+watchers: 6
 
 ---
 
