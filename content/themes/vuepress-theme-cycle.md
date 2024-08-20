@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6262853?v=4
-  email: marsak@live.cn
-  name: Dr.Cycle
-  url: null
-  username: dr.cycle
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: marsak@live.cn
+    name: Dr.Cycle
+    username: dr.cycle
 bugs: https://github.com/leCapsimRy/vuepress-theme-cycle/issues
 category: theme
 date: '2019-09-11T08:29:28.889Z'
 deprecated: false
 description: Vuepress theme - Cycle
-downloads: null
+downloads: ~
 homepage: https://github.com/leCapsimRy/vuepress-theme-cycle#readme
 keywords:
-- vuepress
-- theme
-- vuepres-theme
+  - vuepress
+  - theme
+  - vuepres-theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: marsak@live.cn
+    username: dr.cycle
 name: vuepress-theme-cycle
 npm: https://www.npmjs.com/package/vuepress-theme-cycle
 publisher:
-  avatar: null
-  email: marsak@live.cn
-  name: null
-  url: null
-  username: dr.cycle
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: marsak@live.cn
+    username: dr.cycle
 repository: https://github.com/leCapsimRy/vuepress-theme-cycle
 score: 0.444346122738807
 stars: 11
