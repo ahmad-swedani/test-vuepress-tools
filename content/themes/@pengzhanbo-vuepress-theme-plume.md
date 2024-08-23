@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: pengzhanbo
+  email: null
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
 date: '2022-03-13T18:14:51.157Z'
 deprecated: false
 description: blog theme by vuepress2.x
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume
 keywords:
-  - vuepress-next
-  - vuepress
-  - vuepress-theme
+- vuepress-next
+- vuepress
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@pengzhanbo/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40pengzhanbo%2Fvuepress-theme-plume
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.49780437276537615
 stars: 75
@@ -42,16 +37,18 @@ watchers: 75
 
 <h1 align="center">vuepress-theme-plume</h1>
 <p align="center">
-<img src="/preview/plume.svg" width="200px" alt="plume" />
+<img src="/preview/plume.svg" width="200px" alt="plume">
 </p>
 
 <p align="center">
-
-[![npm version](https://img.shields.io/npm/v/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=npm)](https://www.npmjs.com/package/vuepress-theme-plume)
-[![npm download](https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads)](https://www.npmjs.com/package/vuepress-theme-plume)
-![peer dependency](https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A)
-![GitHub License](https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A)
-
+  <a href="https://www.npmjs.com/package/vuepress-theme-plume" target="_blank">
+    <img src="https://img.shields.io/npm/v/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=npm" alt="npm version">
+  </a>
+  <a href="https://www.npmjs.com/package/vuepress-theme-plume" target="_blank">
+    <img src="https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads" alt="npm download">
+  </a>
+  <img src="https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A" alt="peer dependency">
+  <img src="https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A" alt="github license">
 </p>
 
 一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
