@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/38198082?v=4
-  email: null
-  name: Alejandro
-  url: null
-  username: realwds
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Alejandro
 bugs: https://github.com/realwds/vuepress-theme-realwds/issues
 category: theme
 date: '2021-06-10T08:11:07.683Z'
 deprecated: false
 description: A unique design theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://realwds.github.io/vuepress-realwds-demo
 keywords:
-- theme
-- plugin
-- vuepress
-- vuepress-theme
-- realwds
-- vuepress-theme-realwds
+  - theme
+  - plugin
+  - vuepress
+  - vuepress-theme
+  - realwds
+  - vuepress-theme-realwds
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wds@disnot.com
+    username: realwds
 name: vuepress-theme-realwds
 npm: https://www.npmjs.com/package/vuepress-theme-realwds
 publisher:
-  avatar: null
-  email: wds@disnot.com
-  name: null
-  url: null
-  username: realwds
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wds@disnot.com
+    username: realwds
 repository: https://github.com/realwds/vuepress-theme-realwds
 score: 0.46513466531513614
 stars: 1
