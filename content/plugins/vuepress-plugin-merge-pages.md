@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1561347?v=4
-  email: luiz.vinicius73@gmail.com
-  name: Vinicius Reis
-  url: null
-  username: vinicius-reis
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: luiz.vinicius73@gmail.com
+    name: Vinicius Reis
+    username: vinicius-reis
 bugs: https://github.com/vinicius73/vuepress-plugin-merge-pages/issues
 category: plugin
 date: '2021-11-04T17:11:36.875Z'
 deprecated: false
 description: 'VuePress Plugin: Merge Markdown files in a single Markdown'
-downloads: null
+downloads: ~
 homepage: https://github.com/vinicius73/vuepress-plugin-merge-pages
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- markdown
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - markdown
 license: MIT License
-maintainers: null
+maintainers:
+  - email: luiz.vinicius73@gmail.com
+    username: vinicius-reis
 name: vuepress-plugin-merge-pages
 npm: https://www.npmjs.com/package/vuepress-plugin-merge-pages
 publisher:
-  avatar: null
-  email: luiz.vinicius73@gmail.com
-  name: null
-  url: null
-  username: vinicius-reis
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: luiz.vinicius73@gmail.com
+    username: vinicius-reis
 repository: https://github.com/vinicius73/vuepress-plugin-merge-pages
 score: 0.6322059348721192
 stars: 4
