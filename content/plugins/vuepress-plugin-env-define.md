@@ -1,35 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/23009039?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: AnHyun
+  email: null
+  name: AnHyun
+  url: null
+  username: AnHyun
 bugs: https://github.com/AnHyun/vuepress-plugin-env-define/issues
 category: plugin
 date: '2022-03-08T06:25:38.151Z'
 deprecated: false
-description: vuepress环境变量注入插件
-downloads: ~
+description: "vuepress\u73AF\u5883\u53D8\u91CF\u6CE8\u5165\u63D2\u4EF6"
+downloads: null
 homepage: https://github.com/AnHyun/vuepress-plugin-env-define#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-license: ~
-maintainers:
-  - email: 909833009@qq.com
-    username: anhyun
+- vuepress
+- vuepress-plugin
+license: false
+maintainers: null
 name: vuepress-plugin-env-define
 npm: https://www.npmjs.com/package/vuepress-plugin-env-define
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 909833009@qq.com
-    username: anhyun
+  avatar: null
+  email: 909833009@qq.com
+  name: null
+  url: null
+  username: anhyun
 repository: https://github.com/AnHyun/vuepress-plugin-env-define
 score: 0.17980525752956913
 stars: 0
