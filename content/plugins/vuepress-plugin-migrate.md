@@ -1,33 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: 1700011071@pku.edu.cn
-  name: Shigma
-  url: null
-  username: shigma
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1700011071@pku.edu.cn
+    name: Shigma
+    username: shigma
 bugs: https://github.com/vuepress-contrib/vuepress-plugin-migrate/issues
 category: plugin
 date: '2019-03-14T09:27:40.429Z'
 deprecated: false
 description: A VuePress plugin which migrates a website to VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress-contrib/vuepress-plugin-migrate#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- migrate
-- migration
-- website
+  - vuepress
+  - vuepress-plugin
+  - migrate
+  - migration
+  - website
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1700011071@pku.edu.cn
+    username: shigma
 name: vuepress-plugin-migrate
 npm: https://www.npmjs.com/package/vuepress-plugin-migrate
 publisher:
-  avatar: null
-  email: 1700011071@pku.edu.cn
-  name: null
-  url: null
-  username: shigma
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1700011071@pku.edu.cn
+    username: shigma
 repository: https://github.com/vuepress-contrib/vuepress-plugin-migrate
 score: 0.29885227976879497
 stars: 5
