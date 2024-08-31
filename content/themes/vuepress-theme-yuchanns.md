@@ -1,38 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/25029451?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: airamusume@gmail.com
-    name: yuchanns
-    username: yuchanns
+  email: airamusume@gmail.com
+  name: yuchanns
+  url: null
+  username: yuchanns
 bugs: https://github.com/yuchanns/vuepress-theme-yuchanns/issues
 category: theme
 date: '2020-02-12T13:35:34.994Z'
 deprecated: false
 description: vuepress blog theme - yuchanns
-downloads: ~
+downloads: null
 homepage: https://github.com/yuchanns/vuepress-theme-yuchanns
 keywords:
-  - blog
-  - theme
-  - vuepress
+- blog
+- theme
+- vuepress
 license: MIT License
-maintainers:
-  - email: airamusume@gmail.com
-    username: yuchanns
+maintainers: null
 name: vuepress-theme-yuchanns
 npm: https://www.npmjs.com/package/vuepress-theme-yuchanns
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: airamusume@gmail.com
-    username: yuchanns
+  avatar: null
+  email: airamusume@gmail.com
+  name: null
+  url: null
+  username: yuchanns
 repository: https://github.com/yuchanns/vuepress-theme-yuchanns
 score: 0.5586562420612788
 stars: 9
