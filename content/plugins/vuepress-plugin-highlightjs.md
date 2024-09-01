@@ -1,44 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: pragdave
+  email: null
+  name: pragdave
+  url: null
+  username: vuepress
 bugs: https://github.com/pragdave/vuepress-plugin-highlightjs/issues
 category: plugin
 date: '2022-01-31T23:59:30.455Z'
 deprecated: false
 description: VuePress plugin - highlightjs
-downloads: ~
+downloads: null
 homepage: https://github.com/pragdave/vuepress-plugin-highlightjs
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - highlightjs
-  - highlight
+- vuepress-plugin
+- vuepress
+- plugin
+- highlightjs
+- highlight
 license: MIT License
-maintainers:
-  - email: dave@pragdave.me
-    username: pragdave
+maintainers: null
 name: vuepress-plugin-highlightjs
 npm: https://www.npmjs.com/package/vuepress-plugin-highlightjs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dave@pragdave.me
-    username: pragdave
+  avatar: null
+  email: dave@pragdave.me
+  name: null
+  url: null
+  username: pragdave
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17857743938807544
-stars: 2252
+stars: 2257
 unstable: false
 version: 1.0.0
-watchers: 2252
+watchers: 2257
 
 ---
 
@@ -55,9 +50,9 @@ Status: Release Candidate
 
 ## Documentation
 
-https://v2.vuepress.vuejs.org
+https://vuepress.vuejs.org
 
-For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
+For users from VuePress v1, please check out the [migration guide](https://vuepress.vuejs.org/guide/migration.html).
 
 ## Contribution
 
