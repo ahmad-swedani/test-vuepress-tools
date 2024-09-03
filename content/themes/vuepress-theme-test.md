@@ -1,30 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/18205362?v=4
-  email: meteor.lxy@foxmail.com
-  name: meteorlxy
-  url: null
-  username: meteorlxy
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    name: meteorlxy
+    username: meteorlxy
 bugs: https://github.com/meteorlxy/vuepress-theme-test/issues
 category: theme
 date: '2018-05-10T08:16:53.134Z'
 deprecated: false
 description: Test Theme for Vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/meteorlxy/vuepress-theme-test#readme
 keywords:
-- vuepress
-- theme
-license: false
-maintainers: null
+  - vuepress
+  - theme
+license: ~
+maintainers:
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
 name: vuepress-theme-test
 npm: https://www.npmjs.com/package/vuepress-theme-test
 publisher:
-  avatar: null
-  email: meteor.lxy@foxmail.com
-  name: null
-  url: null
-  username: meteorlxy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    username: meteorlxy
 repository: https://github.com/meteorlxy/vuepress-theme-test
 score: 0.14953056499102269
 stars: 1
@@ -34,3 +41,4 @@ watchers: 1
 
 ---
 
+undefined
