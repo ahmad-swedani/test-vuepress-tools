@@ -1,44 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/18205362?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    name: meteorlxy
-    username: meteorlxy
+  email: meteor.lxy@foxmail.com
+  name: meteorlxy
+  url: null
+  username: meteorlxy
 bugs: https://github.com/meteorlxy/vuepress-theme-meteorlxy/issues
 category: theme
 date: '2020-04-28T04:06:36.271Z'
 deprecated: false
 description: vuepress blog theme - meteorlxy
-downloads: ~
+downloads: null
 homepage: https://github.com/meteorlxy/vuepress-theme-meteorlxy
 keywords:
-  - blog
-  - theme
-  - vuepress
+- blog
+- theme
+- vuepress
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: vuepress-theme-meteorlxy
 npm: https://www.npmjs.com/package/vuepress-theme-meteorlxy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/meteorlxy/vuepress-theme-meteorlxy
 score: 0.6019194321889776
-stars: 371
+stars: 370
 unstable: false
 version: 1.9.0
-watchers: 371
+watchers: 370
 
 ---
 
