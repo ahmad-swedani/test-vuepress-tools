@@ -1,41 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10273406?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: marcinj10@gmail.com
-    name: marcinjahn
-    username: mnj
+  email: marcinj10@gmail.com
+  name: marcinjahn
+  url: null
+  username: mnj
 bugs: https://github.com/marcinjahn/vuepress-plugin-feedback-panel
 category: plugin
 date: '2022-04-21T10:59:42.852Z'
 deprecated: false
 description: A configurable feedback widget plugin for Vuepress 1.x
-downloads: ~
+downloads: null
 homepage: https://marcinjahn.com/projects/feedback-panel-vuepress-plugin.html
 keywords:
-  - vue
-  - vuepress
-  - feedback
-  - survey
-  - questions
-  - panel
-license: ~
-maintainers:
-  - email: marcinj10@gmail.com
-    username: mnj
+- vue
+- vuepress
+- feedback
+- survey
+- questions
+- panel
+license: false
+maintainers: null
 name: vuepress-plugin-feedback-panel
 npm: https://www.npmjs.com/package/vuepress-plugin-feedback-panel
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: marcinj10@gmail.com
-    username: mnj
+  avatar: null
+  email: marcinj10@gmail.com
+  name: null
+  url: null
+  username: mnj
 repository: https://github.com/marcinjahn/vuepress-plugin-feedback-panel
 score: 0.423165290444388
 stars: 2
