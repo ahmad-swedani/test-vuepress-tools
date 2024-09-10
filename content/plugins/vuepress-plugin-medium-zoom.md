@@ -1,42 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    name: meteorlxy
-    username: meteorlxy
+  email: meteor.lxy@foxmail.com
+  name: meteorlxy
+  url: null
+  username: meteorlxy
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:46.638Z'
 deprecated: false
 description: VuePress plugin for medium-zoom
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - image
-  - medium-zoom
-  - plugin
-  - vuepress
-  - zoom
+- image
+- medium-zoom
+- plugin
+- vuepress
+- zoom
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: 1700011071@pku.edu.cn
-    username: shigma
+maintainers: null
 name: vuepress-plugin-medium-zoom
 npm: https://www.npmjs.com/package/vuepress-plugin-medium-zoom
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5847615752672745
 stars: 81

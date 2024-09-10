@@ -1,33 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/7127874?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: lx1036@126.com
+  email: null
+  name: lx1036@126.com
+  url: null
+  username: lx1036
 bugs: https://github.com/lx1036/vuepress-plugin-export/issues
 category: plugin
 date: '2019-07-11T09:49:50.317Z'
 deprecated: false
 description: Export your VuePress site to a PDF file
-downloads: ~
+downloads: null
 homepage: https://github.com/lx1036/vuepress-plugin-export#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: lx1036@126.com
-    username: lx1036
+maintainers: null
 name: '@lx1036/vuepress-plugin-export'
 npm: https://www.npmjs.com/package/%40lx1036%2Fvuepress-plugin-export
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lx1036@126.com
-    username: lx1036
+  avatar: null
+  email: lx1036@126.com
+  name: null
+  url: null
+  username: lx1036
 repository: https://github.com/lx1036/vuepress-plugin-export
 score: 0.3790636158225358
 stars: 0
