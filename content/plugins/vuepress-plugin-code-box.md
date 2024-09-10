@@ -1,28 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6063358?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: xxholly32
 bugs: https://github.com/xxholly32/vuepress-plugin-code-box/issues
 category: plugin
 date: '2020-05-09T12:30:57.657Z'
 deprecated: false
 description: code box for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/xxholly32/vuepress-plugin-code-box#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: xxholly32@163.com
+    username: xiangxiao
 name: vuepress-plugin-code-box
 npm: https://www.npmjs.com/package/vuepress-plugin-code-box
 publisher:
-  avatar: null
-  email: xxholly32@163.com
-  name: null
-  url: null
-  username: xiangxiao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xxholly32@163.com
+    username: xiangxiao
 repository: https://github.com/xxholly32/vuepress-plugin-code-box
 score: 0.29077295662106467
 stars: 2
