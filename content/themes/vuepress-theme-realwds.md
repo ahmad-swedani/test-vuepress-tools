@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/38198082?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Alejandro
+  email: null
+  name: Alejandro
+  url: null
+  username: realwds
 bugs: https://github.com/realwds/vuepress-theme-realwds/issues
 category: theme
 date: '2021-06-10T08:11:07.683Z'
 deprecated: false
 description: A unique design theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://realwds.github.io/vuepress-realwds-demo
 keywords:
-  - theme
-  - plugin
-  - vuepress
-  - vuepress-theme
-  - realwds
-  - vuepress-theme-realwds
+- theme
+- plugin
+- vuepress
+- vuepress-theme
+- realwds
+- vuepress-theme-realwds
 license: MIT License
-maintainers:
-  - email: wds@disnot.com
-    username: realwds
+maintainers: null
 name: vuepress-theme-realwds
 npm: https://www.npmjs.com/package/vuepress-theme-realwds
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wds@disnot.com
-    username: realwds
+  avatar: null
+  email: wds@disnot.com
+  name: null
+  url: null
+  username: realwds
 repository: https://github.com/realwds/vuepress-theme-realwds
 score: 0.46513466531513614
 stars: 1
@@ -47,7 +42,6 @@ watchers: 1
 
 [![npm](https://img.shields.io/npm/v/vuepress-theme-realwds.svg)](https://www.npmjs.com/package/vuepress-theme-realwds)
 [![LICENSE](https://img.shields.io/npm/l/vuepress-theme-realwds.svg)](https://github.com/realwds/vuepress-theme-realwds/blob/master/LICENSE)
-[![Dependency Status](https://david-dm.org/realwds/vuepress-theme-realwds.svg?theme=shields.io)](https://david-dm.org/realwds/vuepress-theme-realwds)
 [![NPM downloads](https://badgen.net/npm/dm/vuepress-theme-realwds)](https://npmjs.com/package/vuepress-theme-realwds)
 
 
@@ -70,6 +64,10 @@ module.exports = {
 ## Demo
 
 [https://realwds.github.io/vuepress-realwds-demo](https://realwds.github.io/vuepress-realwds-demo)
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=realwds/vuepress-theme-realwds&type=Date)
 
 ## LICENSE
 
