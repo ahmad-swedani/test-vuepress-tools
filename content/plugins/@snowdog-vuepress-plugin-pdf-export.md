@@ -1,28 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1844298?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: SnowdogApps
 bugs: https://github.com/SnowdogApps/vuepress-plugin-pdf-export/issues
 category: plugin
 date: '2020-07-03T09:26:02.207Z'
 deprecated: false
 description: Vuepress plugin for exporting site as PDF
-downloads: null
+downloads: ~
 homepage: https://github.com/SnowdogApps/vuepress-plugin-pdf-export#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: piotr.krusicki@snow.dog
+    username: piotr.krusicki
+  - email: robert.wozniak@snow.dog
+    username: robert.wozniak
+  - email: pawel.kajdasz@snow.dog
+    username: pawel.kajdasz
+  - email: pawel.szafranski@snow.dog
+    username: szafransd
+  - email: anna.karon@snow.dog
+    username: anqasnow
+  - email: igloczek@gmail.com
+    username: igloczek
 name: '@snowdog/vuepress-plugin-pdf-export'
 npm: https://www.npmjs.com/package/%40snowdog%2Fvuepress-plugin-pdf-export
 publisher:
-  avatar: null
-  email: igloczek@gmail.com
-  name: null
-  url: null
-  username: igloczek
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: igloczek@gmail.com
+    username: igloczek
 repository: https://github.com/SnowdogApps/vuepress-plugin-pdf-export
 score: 0.36025250089929756
 stars: 28
