@@ -1,28 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13609768?v=4
-  email: sabic.alija@gmail.com
-  name: Alija Sabic
-  url: null
-  username: alija
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sabic.alija@gmail.com
+    name: Alija Sabic
+    username: alija
 bugs: https://github.com/sabicalija/webdev.js/issues
 category: theme
 date: '2020-06-05T07:55:38.687Z'
 deprecated: false
 description: Vuepress theme for webdev course (bsa5, ak)
-downloads: null
+downloads: ~
 homepage: https://github.com/sabicalija/webdev.js#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: sabic.alija@gmail.com
+    username: alija
 name: '@fhtw/vuepress-theme-bsa5-ak-webdev'
 npm: https://www.npmjs.com/package/%40fhtw%2Fvuepress-theme-bsa5-ak-webdev
 publisher:
-  avatar: null
-  email: sabic.alija@gmail.com
-  name: null
-  url: null
-  username: alija
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sabic.alija@gmail.com
+    username: alija
 repository: https://github.com/sabicalija/webdev.js
 score: 0.19617597206728413
 stars: 0
@@ -32,3 +39,4 @@ watchers: 0
 
 ---
 
+undefined
