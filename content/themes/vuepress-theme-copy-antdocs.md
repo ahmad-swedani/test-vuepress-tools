@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/49757965?v=4
-  email: null
-  name: Evan Wu
-  url: null
-  username: zpfz
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan Wu
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
 category: theme
 date: '2021-07-24T07:28:12.040Z'
 deprecated: false
 description: An Ant Design style theme for VuePress. Inherit from Feng L.H.
-downloads: null
+downloads: ~
 homepage: https://github.com/zpfz/vuepress-theme-antdocs
 keywords:
-- theme
-- vuepress
-- vuepress-theme
-- antd
-- antdocs
-- ant-design
+  - theme
+  - vuepress
+  - vuepress-theme
+  - antd
+  - antdocs
+  - ant-design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 850123119@qq.com
+    username: evan_wu
 name: vuepress-theme-copy-antdocs
 npm: https://www.npmjs.com/package/vuepress-theme-copy-antdocs
 publisher:
-  avatar: null
-  email: 850123119@qq.com
-  name: null
-  url: null
-  username: evan_wu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 850123119@qq.com
+    username: evan_wu
 repository: https://github.com/zpfz/vuepress-theme-antdocs
 score: 0.17867980124230684
 stars: 215
