@@ -1,29 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/12029165?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: im
 bugs: https://github.com/im/vuepress-theme-travis/issues
 category: theme
 date: '2019-07-26T08:42:54.340Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://github.com/im/vuepress-theme-travis#readme
 keywords:
-- vuepress
-license: false
-maintainers: null
+  - vuepress
+license: ~
+maintainers:
+  - email: tangxiaomiemail@gmail.com
+    username: tangxiaomi
 name: vuepress-theme-travis
 npm: https://www.npmjs.com/package/vuepress-theme-travis
 publisher:
-  avatar: null
-  email: tangxiaomiemail@gmail.com
-  name: null
-  url: null
-  username: tangxiaomi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: tangxiaomiemail@gmail.com
+    username: tangxiaomi
 repository: https://github.com/im/vuepress-theme-travis
 score: 0.3713942341704037
 stars: 0
