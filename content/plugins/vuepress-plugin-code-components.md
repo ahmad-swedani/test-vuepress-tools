@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8417241?v=4
-  email: null
-  name: renzhsh
-  url: null
-  username: renzhsh
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: renzhsh
 bugs: https://github.com/renzhsh/vuepress-code-components/issues
 category: plugin
 date: '2021-06-14T07:17:09.861Z'
 deprecated: false
 description: '[Document](https://thinking.renzhansheng.cn/devops/markdown/#fiddle)'
-downloads: null
+downloads: ~
 homepage: https://github.com/renzhsh/vuepress-code-components#readme
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- markdown
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - markdown
 license: MIT License
-maintainers: null
+maintainers:
+  - email: renzhsh@126.com
+    username: renzhsh
 name: vuepress-plugin-code-components
 npm: https://www.npmjs.com/package/vuepress-plugin-code-components
 publisher:
-  avatar: null
-  email: renzhsh@126.com
-  name: null
-  url: null
-  username: renzhsh
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: renzhsh@126.com
+    username: renzhsh
 repository: https://github.com/renzhsh/vuepress-code-components
 score: 0.4471668692765279
 stars: 0
