@@ -1,30 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/64388301?v=4
-  email: null
-  name: wangjia_1919@163.com
-  url: null
-  username: nine-theme
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: wangjia_1919@163.com
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-ga/issues
 category: plugin
 date: '2020-01-12T16:29:57.830Z'
 deprecated: false
 description: ga plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/NineSwordsMonster/vuepress-plugin-ga#readme
 keywords:
-- ga
-- vuepress
+  - ga
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wangjia_1919@163.com
+    username: wangjia_1919
 name: '@nines/vuepress-plugin-ga'
 npm: https://www.npmjs.com/package/%40nines%2Fvuepress-plugin-ga
 publisher:
-  avatar: null
-  email: wangjia_1919@163.com
-  name: null
-  url: null
-  username: wangjia_1919
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wangjia_1919@163.com
+    username: wangjia_1919
 repository: https://github.com/NineSwordsMonster/vuepress-plugin-ga
 score: 0.4305508820632581
 stars: 0

@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6310131?v=4
-  email: null
-  name: springleo
-  url: null
-  username: lq782655835
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: springleo
 bugs: https://github.com/lq782655835/vuepress-theme-antdocs/issues
 category: theme
 date: '2020-04-14T11:45:54.969Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/lq782655835/vuepress-theme-antdocs#readme
 keywords:
-- theme
-- vuepress
-- vuepress-theme
-- antd
-- antdocs
-- ant-design
+  - theme
+  - vuepress
+  - vuepress-theme
+  - antd
+  - antdocs
+  - ant-design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 18521566707@163.com
+    username: springleo
 name: vuepress-theme-antdocs-phone
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs-phone
 publisher:
-  avatar: null
-  email: 18521566707@163.com
-  name: null
-  url: null
-  username: springleo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 18521566707@163.com
+    username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-antdocs
 score: 0.17812265169731872
 stars: 1
