@@ -1,53 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
+  email: null
+  name: meteorlxy
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2020-12-11T18:04:01.198Z'
 deprecated: false
 description: VuePress plugin - PWA popup
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress
-  - plugin
-  - pwa
-  - popup
+- vuepress
+- plugin
+- pwa
+- popup
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-pwa-popup'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-pwa-popup
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6583219453434059
-stars: 2277
+stars: 2279
 unstable: false
 version: 2.0.0-alpha.8
-watchers: 2277
+watchers: 2279
 
 ---
 
