@@ -1,47 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5597992?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wowthemesnet@gmail.com
-    name: sal
-    username: wowthemesnet
+  email: wowthemesnet@gmail.com
+  name: sal
+  url: null
+  username: wowthemesnet
 bugs: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme/issues
 category: theme
 date: '2020-03-04T14:36:05.385Z'
 deprecated: false
 description: Mediumish blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-theme
-  - blog-theme
-  - blog
-  - theme
+- vue
+- vuepress
+- vuepress-theme
+- blog-theme
+- blog
+- theme
 license: MIT License
-maintainers:
-  - email: wowthemesnet@gmail.com
-    username: wowthemesnet
+maintainers: null
 name: vuepress-theme-mediumish
 npm: https://www.npmjs.com/package/vuepress-theme-mediumish
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wowthemesnet@gmail.com
-    username: wowthemesnet
+  avatar: null
+  email: wowthemesnet@gmail.com
+  name: null
+  url: null
+  username: wowthemesnet
 repository: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
 score: 0.6306124586839854
-stars: 111
+stars: 112
 unstable: false
 version: 1.0.32
-watchers: 111
+watchers: 112
 
 ---
 
