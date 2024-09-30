@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/17965996?v=4
-  email: null
-  name: talltotal
-  url: null
-  username: talltotal
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: talltotal
 bugs: https://github.com/talltotal/vuepress-plugin-ppt/issues
 category: plugin
 date: '2020-01-07T05:41:18.056Z'
 deprecated: false
 description: ppt plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://talltotal.github.io/vuepress-plugin-ppt/
 keywords:
-- ppt
-- vue
-- vuepress
-- vuepress-plugin
+  - ppt
+  - vue
+  - vuepress
+  - vuepress-plugin
 license: MIT License
-maintainers: null
+maintainers:
+  - email: talltotal@163.com
+    username: talltotal
 name: '@talltotal/vuepress-plugin-ppt'
 npm: https://www.npmjs.com/package/%40talltotal%2Fvuepress-plugin-ppt
 publisher:
-  avatar: null
-  email: talltotal@163.com
-  name: null
-  url: null
-  username: talltotal
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: talltotal@163.com
+    username: talltotal
 repository: https://github.com/talltotal/vuepress-plugin-ppt
 score: 0.4282313324848662
 stars: 3

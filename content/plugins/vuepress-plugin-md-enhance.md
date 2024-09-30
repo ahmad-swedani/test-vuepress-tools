@@ -1,41 +1,48 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: mister-hope@outlook.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mister-hope@outlook.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:50.817Z'
 deprecated: false
 description: Markdown enhancement for vuepress
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-hope.github.io/v1/md-enhance/
 keywords:
-- vuepress-plugin
-- markdown
-- align
-- superscript
-- subscript
-- footnote
-- flowchart
-- tex
-- latex
-- katex
-- mark
-- presentation
-- reveal.js
+  - vuepress-plugin
+  - markdown
+  - align
+  - superscript
+  - subscript
+  - footnote
+  - flowchart
+  - tex
+  - latex
+  - katex
+  - mark
+  - presentation
+  - reveal.js
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: vuepress-plugin-md-enhance
 npm: https://www.npmjs.com/package/vuepress-plugin-md-enhance
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6521263648841097
 stars: 2083
