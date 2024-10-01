@@ -1,28 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/7794717?v=4
-  email: github@heimbu.ch
-  name: Alexander Heimbuch
-  url: null
-  username: alexander-heimbuch
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: github@heimbu.ch
+    name: Alexander Heimbuch
 bugs: https://github.com/alexander-heimbuch/vuepress-theme-casper/issues
 category: theme
 date: '2020-04-12T11:02:00.609Z'
 deprecated: false
 description: Ghosts Casper Theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/alexander-heimbuch/vuepress-theme-casper#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: npm@heimbu.ch
+    username: alexander-heimbuch
 name: vuepress-theme-casper
 npm: https://www.npmjs.com/package/vuepress-theme-casper
 publisher:
-  avatar: null
-  email: npm@heimbu.ch
-  name: null
-  url: null
-  username: alexander-heimbuch
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: npm@heimbu.ch
+    username: alexander-heimbuch
 repository: https://github.com/alexander-heimbuch/vuepress-theme-casper
 score: 0.34619067208420934
 stars: 107
