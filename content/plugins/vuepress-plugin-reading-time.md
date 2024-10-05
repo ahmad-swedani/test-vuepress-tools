@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5770711?v=4
-  email: null
-  name: Darren Jennings
-  url: null
-  username: darrenjennings
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Darren Jennings
 bugs: https://github.com/darrenjennings/vuepress-plugin-reading-time/issues
 category: plugin
 date: '2019-01-05T21:32:34.008Z'
 deprecated: false
 description: Vuepress plugin to add reading-time functionality to page data
-downloads: null
+downloads: ~
 homepage: https://github.com/darrenjennings/vuepress-plugin-reading-time#readme
 keywords:
-- vue
-- vuepress
-- reading-time
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - reading-time
+license: ~
+maintainers:
+  - email: dmjenn02@gmail.com
+    username: darrenjennings
 name: vuepress-plugin-reading-time
 npm: https://www.npmjs.com/package/vuepress-plugin-reading-time
 publisher:
-  avatar: null
-  email: dmjenn02@gmail.com
-  name: null
-  url: null
-  username: darrenjennings
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: dmjenn02@gmail.com
+    username: darrenjennings
 repository: https://github.com/darrenjennings/vuepress-plugin-reading-time
 score: 0.5360172609665406
 stars: 31
