@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10758182?v=4
-  email: www@cnguu.cn
-  name: cnguu
-  url: null
-  username: cnguu
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: www@cnguu.cn
+    name: cnguu
+    username: cnguu
 bugs: https://github.com/cnguu/vuepress-theme-yur/issues
 category: theme
 date: '2020-11-14T02:23:20.641Z'
 deprecated: false
 description: VuePress Theme - Yur
-downloads: null
+downloads: ~
 homepage: https://github.com/cnguu/vuepress-theme-yur/
 keywords:
-- vuepress
-- theme
-- yur
+  - vuepress
+  - theme
+  - yur
 license: MIT License
-maintainers: null
+maintainers:
+  - email: www@cnguu.cn
+    username: cnguu
 name: vuepress-theme-yur
 npm: https://www.npmjs.com/package/vuepress-theme-yur
 publisher:
-  avatar: null
-  email: www@cnguu.cn
-  name: null
-  url: null
-  username: cnguu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: www@cnguu.cn
+    username: cnguu
 repository: https://github.com/cnguu/vuepress-theme-yur
 score: 0.6309027235794508
 stars: 146

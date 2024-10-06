@@ -1,28 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/11006857?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: factorial-io
 bugs: https://github.com/factorial-io/vuepress-theme/issues
 category: theme
 date: '2019-09-27T12:43:51.506Z'
 deprecated: false
 description: '> Vuepress theme with the factorial colors'
-downloads: null
+downloads: ~
 homepage: https://github.com/factorial-io/vuepress-theme#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: dennis@factorial.io
+    username: dnnsjrng
+  - email: hello@factorial.io
+    username: mmatull
+  - email: milan@factorial.io
+    username: mlnmln
+  - email: mail@mgrossklaus.de
+    username: mgrsskls
+  - email: andrewbeng89@gmail.com
+    username: andrewbeng89
+  - email: kris@factorial.io
+    username: krisimmig
 name: '@factorial/vuepress-theme'
 npm: https://www.npmjs.com/package/%40factorial%2Fvuepress-theme
 publisher:
-  avatar: null
-  email: milan@factorial.io
-  name: null
-  url: null
-  username: mlnmln
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: milan@factorial.io
+    username: mlnmln
 repository: https://github.com/factorial-io/vuepress-theme
 score: 0.2920146715686202
 stars: 0
