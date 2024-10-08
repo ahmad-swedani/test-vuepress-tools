@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/26917599?v=4
-  email: null
-  name: "\u524D\u7AEF\u7A0B\u5E8F\u733F"
-  url: null
-  username: zhb333
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: 前端程序猿
 bugs: https://github.com/zhb333/vuepress-theme-knzn/issues
 category: theme
 date: '2022-05-22T16:35:39.421Z'
 deprecated: false
 description: blog theme for vuepress2
-downloads: null
+downloads: ~
 homepage: https://github.com/zhb333/vuepress-theme-knzn#readme
 keywords:
-- vuepress-theme
-- vuepress
-- blog-theme
-- blog
-- theme
+  - vuepress-theme
+  - vuepress
+  - blog-theme
+  - blog
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhanghuanbiao@outlook.com
+    username: zhb333
 name: vuepress-theme-knzn
 npm: https://www.npmjs.com/package/vuepress-theme-knzn
 publisher:
-  avatar: null
-  email: zhanghuanbiao@outlook.com
-  name: null
-  url: null
-  username: zhb333
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhanghuanbiao@outlook.com
+    username: zhb333
 repository: https://github.com/zhb333/vuepress-theme-knzn
 score: 0.5235357094313732
 stars: 13
