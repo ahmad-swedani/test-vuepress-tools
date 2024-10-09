@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/17965996?v=4
-  email: null
-  name: talltotal
-  url: null
-  username: talltotal
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: talltotal
 bugs: https://github.com/talltotal/vuepress-theme-talltotal/issues
 category: theme
 date: '2020-04-20T12:18:30.276Z'
 deprecated: false
 description: talltotal theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/talltotal/vuepress-theme-talltotal#readme
 keywords:
-- vue
-- vuepress
-- vuepress-theme
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - vuepress-theme
+license: ~
+maintainers:
+  - email: talltotal@163.com
+    username: talltotal
 name: vuepress-theme-talltotal
 npm: https://www.npmjs.com/package/vuepress-theme-talltotal
 publisher:
-  avatar: null
-  email: talltotal@163.com
-  name: null
-  url: null
-  username: talltotal
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: talltotal@163.com
+    username: talltotal
 repository: https://github.com/talltotal/vuepress-theme-talltotal
 score: 0.40795160218139687
 stars: 3
