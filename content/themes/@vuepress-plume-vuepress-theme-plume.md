@@ -1,47 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
 date: '2022-05-17T21:45:22.728Z'
 deprecated: false
 description: A Blog Theme for VuePress 2.0
-downloads: ~
+downloads: null
 homepage: https://pengzhanbo.cn/note/vuepress-theme-plume
 keywords:
-  - VuePress
-  - Theme
-  - plume
-  - vuepress-theme
-  - vuepress-theme-plume
-  - theme-plume
+- VuePress
+- Theme
+- plume
+- vuepress-theme
+- vuepress-theme-plume
+- theme-plume
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-theme-plume
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5345670141542532
-stars: 105
+stars: 106
 unstable: true
 version: 1.0.0-beta.36
-watchers: 105
+watchers: 106
 
 ---
 
@@ -59,6 +52,11 @@ watchers: 105
   </a>
   <img src="https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A" alt="peer dependency">
   <img src="https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A" alt="github license">
+  <br>
+  <a href="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume" >
+ <img src="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume/graph/badge.svg?token=W6KYBX7WO5" alt="codecov"/>
+ </a>
+
 </p>
 
 一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
