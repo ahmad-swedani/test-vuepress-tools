@@ -1,37 +1,29 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/17216317?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 16viko@gmail.com
-    name: viko16
+  email: 16viko@gmail.com
+  name: viko16
+  url: null
+  username: g-plane
 bugs: https://github.com/g-plane/vuepress-theme-simple-blog/issues
 category: theme
 date: '2021-09-04T15:19:53.344Z'
 deprecated: false
-description: >-
-  Forked from vuepress-theme-simple, but provides better support for
-  @vuepress/plugin-blog.
-downloads: ~
+description: Forked from vuepress-theme-simple, but provides better support for @vuepress/plugin-blog.
+downloads: null
 homepage: https://github.com/g-plane/vuepress-theme-simple-blog#readme
 keywords:
-  - vuepress
+- vuepress
 license: MIT License
-maintainers:
-  - email: g-plane@hotmail.com
-    username: gplane
+maintainers: null
 name: vuepress-theme-simple-blog
 npm: https://www.npmjs.com/package/vuepress-theme-simple-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: g-plane@hotmail.com
-    username: gplane
+  avatar: null
+  email: g-plane@hotmail.com
+  name: null
+  url: null
+  username: gplane
 repository: https://github.com/g-plane/vuepress-theme-simple-blog
 score: 0.5185392489182474
 stars: 3
