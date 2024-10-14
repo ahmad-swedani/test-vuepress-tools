@@ -1,38 +1,46 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/85858775?v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-01T09:58:05.269Z'
 deprecated: false
-description: "Baidu autopush SEO plugin for vuepress. \u767E\u5EA6\u7AD9\u70B9\u81EA\
-  \u52A8\u63A8\u9001 Vuepress \u63D2\u4EF6."
-downloads: null
-homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-baidu-autopush#readme
+description: Baidu autopush SEO plugin for vuepress. 百度站点自动推送 Vuepress 插件.
+downloads: ~
+homepage: >-
+  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-baidu-autopush#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- theme
-- denaro
-- baidu-autopush
-- SEO
-- baidu
-- "\u767E\u5EA6"
-- "\u81EA\u52A8\u63A8\u9001"
+  - vuepress
+  - vuepress-plugin
+  - theme
+  - denaro
+  - baidu-autopush
+  - SEO
+  - baidu
+  - 百度
+  - 自动推送
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: '@vuepress-denaro/vuepress-plugin-baidu-autopush'
-npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-baidu-autopush
+npm: >-
+  https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-baidu-autopush
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117482769586659
 stars: 5
