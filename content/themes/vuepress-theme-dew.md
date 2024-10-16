@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/26021844?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Hvnobug
+  email: null
+  name: Hvnobug
+  url: null
+  username: hvnobug
 bugs: https://github.com/hvnobug/vuepress-theme-dew/issues
 category: theme
 date: '2019-12-20T08:33:48.166Z'
 deprecated: false
 description: A simple vuepress theme.
-downloads: ~
+downloads: null
 homepage: https://github.com/hvnobug/vuepress-theme-dew#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - theme
-  - hvnobug
+- documentation
+- vue
+- vuepress
+- generator
+- theme
+- hvnobug
 license: MIT License
-maintainers:
-  - email: 972080809@qq.com
-    username: hvnobug
+maintainers: null
 name: vuepress-theme-dew
 npm: https://www.npmjs.com/package/vuepress-theme-dew
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 972080809@qq.com
-    username: hvnobug
+  avatar: null
+  email: 972080809@qq.com
+  name: null
+  url: null
+  username: hvnobug
 repository: https://github.com/hvnobug/vuepress-theme-dew
 score: 0.442469716172168
 stars: 10

@@ -1,41 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:17.941Z'
 deprecated: false
 description: The Plugin for VuePres 2
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-copy-code'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-copy-code
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.49937295244701085
-stars: 107
+stars: 108
 unstable: true
 version: 1.0.0-beta.36
-watchers: 107
+watchers: 108
 
 ---
 
@@ -83,6 +76,8 @@ watchers: 107
 
 ## [使用文档](https://theme-plume.vuejs.press)
 
+QQ 交流群：[792882761](https://qm.qq.com/q/O3HNy4rxYc)
+
 ## 案例
 
 - [我的个人博客](https://pengzhanbo.cn/)
@@ -100,6 +95,8 @@ watchers: 107
 ## 贡献者
 
 感谢所有的贡献者！
+
+![GitHub contributors](https://img.shields.io/github/contributors/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
 
 [![contributors](https://contrib.rocks/image?repo=pengzhanbo/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
 

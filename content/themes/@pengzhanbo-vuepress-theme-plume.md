@@ -1,42 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: pengzhanbo
+  email: null
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
 date: '2022-03-13T18:14:51.157Z'
 deprecated: false
 description: blog theme by vuepress2.x
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume
 keywords:
-  - vuepress-next
-  - vuepress
-  - vuepress-theme
+- vuepress-next
+- vuepress
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@pengzhanbo/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40pengzhanbo%2Fvuepress-theme-plume
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.49780437276537615
-stars: 107
+stars: 108
 unstable: true
 version: 1.0.0-beta.7
-watchers: 107
+watchers: 108
 
 ---
 
@@ -84,6 +79,8 @@ watchers: 107
 
 ## [使用文档](https://theme-plume.vuejs.press)
 
+QQ 交流群：[792882761](https://qm.qq.com/q/O3HNy4rxYc)
+
 ## 案例
 
 - [我的个人博客](https://pengzhanbo.cn/)
@@ -101,6 +98,8 @@ watchers: 107
 ## 贡献者
 
 感谢所有的贡献者！
+
+![GitHub contributors](https://img.shields.io/github/contributors/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
 
 [![contributors](https://contrib.rocks/image?repo=pengzhanbo/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
 
