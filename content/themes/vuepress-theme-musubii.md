@@ -1,34 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/9658016?v=4
-  email: null
-  name: Qrac
-  url: https://qrac.jp
-  username: qrac
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Qrac
+    url: https://qrac.jp
 bugs: https://github.com/qrac/vuepress-theme-musubii/issues
 category: theme
 date: '2020-07-03T02:14:32.003Z'
 deprecated: false
 description: VuePress theme based on MUSUBii SCSS & CSS Variables
-downloads: null
+downloads: ~
 homepage: https://musubii.qranoko.jp
 keywords:
-- vuepress
-- scss
-- css-variables
-- documentation
-- japanese
-- musubii
+  - vuepress
+  - scss
+  - css-variables
+  - documentation
+  - japanese
+  - musubii
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 173581251@qq.com
+    username: wenfangcao
 name: vuepress-theme-musubii
 npm: https://www.npmjs.com/package/vuepress-theme-musubii
 publisher:
-  avatar: null
-  email: 173581251@qq.com
-  name: null
-  url: null
-  username: wenfangcao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 173581251@qq.com
+    username: wenfangcao
 repository: https://github.com/qrac/vuepress-theme-musubii
 score: 0.4334391033658021
 stars: 3

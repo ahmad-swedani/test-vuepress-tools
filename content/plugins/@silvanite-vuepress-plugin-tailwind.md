@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4539223?v=4
-  email: m2de@outlook.com
-  name: Marco Mark
-  url: null
-  username: m2de
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: m2de@outlook.com
+    name: Marco Mark
+    username: m2de
 bugs: https://github.com/silvanite/vuepress-plugin-tailwind/issues
 category: plugin
 date: '2020-05-17T19:30:41.203Z'
 deprecated: false
 description: Tailwind CSS plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/silvanite/vuepress-plugin-tailwind#readme
 keywords:
-- vuepress
-- plugin
-- tailwind
-- css
-license: false
-maintainers: null
+  - vuepress
+  - plugin
+  - tailwind
+  - css
+license: ~
+maintainers:
+  - email: m2de@outlook.com
+    username: m2de
 name: '@silvanite/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40silvanite%2Fvuepress-plugin-tailwind
 publisher:
-  avatar: null
-  email: m2de@outlook.com
-  name: null
-  url: null
-  username: m2de
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: m2de@outlook.com
+    username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-tailwind
 score: 0.4603673533610526
 stars: 19
