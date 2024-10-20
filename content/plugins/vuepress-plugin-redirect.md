@@ -1,33 +1,43 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: 1700011071@pku.edu.cn
-  name: Shigma
-  url: null
-  username: vuepress
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1700011071@pku.edu.cn
+    name: Shigma
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:54.242Z'
 deprecated: false
 description: VuePress plugin to handle redirection
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- i18n
-- plugin
-- redirect
-- router
-- vuepress
+  - i18n
+  - plugin
+  - redirect
+  - router
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
+  - email: shigma10826@gmail.com
+    username: shigma
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: vuepress-plugin-redirect
 npm: https://www.npmjs.com/package/vuepress-plugin-redirect
 publisher:
-  avatar: null
-  email: meteor.lxy@foxmail.com
-  name: null
-  url: null
-  username: meteorlxy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5721525796075847
 stars: 81
