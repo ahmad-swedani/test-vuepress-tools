@@ -1,38 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48777072?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zpj80231@163.com
-    name: zpj80231
-    username: zpj80231
+  email: zpj80231@163.com
+  name: zpj80231
+  url: null
+  username: zpj80231
 bugs: https://github.com/zpj80231/vuepress-plugin-boxx/issues
 category: plugin
 date: '2020-04-12T01:24:46.995Z'
 deprecated: false
 description: Simplification of VuePress Custom Containers!
-downloads: ~
+downloads: null
 homepage: https://zpj80231.github.io/znote
 keywords:
-  - vuepress-theme-reco
-  - boxx
-  - vuepress
+- vuepress-theme-reco
+- boxx
+- vuepress
 license: MIT License
-maintainers:
-  - email: zpj80231@163.com
-    username: zpj80231
+maintainers: null
 name: vuepress-plugin-boxx
 npm: https://www.npmjs.com/package/vuepress-plugin-boxx
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zpj80231@163.com
-    username: zpj80231
+  avatar: null
+  email: zpj80231@163.com
+  name: null
+  url: null
+  username: zpj80231
 repository: https://github.com/zpj80231/vuepress-plugin-boxx
 score: 0.3164279763568628
 stars: 6
@@ -52,11 +45,11 @@ watchers: 6
 
 ## 安装
 
-- 在文件`package.json`中的`devDependencies`下加入`"vuepress-plugin-boxx": "0.0.7"`：
+- 在文件`package.json`中的`devDependencies`下加入`"vuepress-plugin-boxx": "1.0.0"`：
 
 ```json
 "devDependencies": {
-    "vuepress-plugin-boxx": "0.0.7"
+    "vuepress-plugin-boxx": "1.0.0"
 }
 ```
 
