@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/3642397?v=4
-  email: null
-  name: Loris Leiva
-  url: null
-  username: lorisleiva
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Loris Leiva
 bugs: https://github.com/lorisleiva/vuepress-plugin-disqus/issues
 category: plugin
 date: '2020-01-13T00:46:29.489Z'
 deprecated: false
 description: Register a global Disqus component to add to your layouts
-downloads: null
+downloads: ~
 homepage: https://github.com/lorisleiva/vuepress-plugin-disqus#readme
 keywords:
-- vuepress
-- plugin
-- disqus
+  - vuepress
+  - plugin
+  - disqus
 license: MIT License
-maintainers: null
+maintainers:
+  - email: loris.leiva@gmail.com
+    username: lorisleiva
 name: vuepress-plugin-disqus
 npm: https://www.npmjs.com/package/vuepress-plugin-disqus
 publisher:
-  avatar: null
-  email: loris.leiva@gmail.com
-  name: null
-  url: null
-  username: lorisleiva
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: loris.leiva@gmail.com
+    username: lorisleiva
 repository: https://github.com/lorisleiva/vuepress-plugin-disqus
 score: 0.4437706817949969
 stars: 29

@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/34917927?v=4
-  email: null
-  name: xitice
-  url: null
-  username: xitice
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: xitice
 bugs: https://github.com/xitice/vuepress-plugin-demo-horizontal/issues
 category: plugin
 date: '2020-08-03T01:11:50.690Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: null
+downloads: ~
 homepage: https://github.com/xitice/vuepress-plugin-demo-horizontal#readme
 keywords:
-- documentation
-- plugin
-- vue
-- vuepress
-- demo
-- block
+  - documentation
+  - plugin
+  - vue
+  - vuepress
+  - demo
+  - block
 license: MIT License
-maintainers: null
+maintainers:
+  - email: sjc_buaa@foxmail.com
+    username: xitice
 name: vuepress-plugin-demo-horizontal
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-horizontal
 publisher:
-  avatar: null
-  email: sjc_buaa@foxmail.com
-  name: null
-  url: null
-  username: xitice
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sjc_buaa@foxmail.com
+    username: xitice
 repository: https://github.com/xitice/vuepress-plugin-demo-horizontal
 score: 0.45614002218826954
 stars: 0
