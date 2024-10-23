@@ -1,40 +1,48 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/246901?v=4
-  email: webmasterish@gmail.com
-  name: webmasterish
-  url: https://webmasterish.com
-  username: webmasterish
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: webmasterish@gmail.com
+    name: webmasterish
+    url: https://webmasterish.com
+    username: webmasterish
 bugs: https://github.com/webmasterish/vuepress-plugin-feed/issues
 category: plugin
 date: '2020-10-27T18:47:32.007Z'
 deprecated: false
 description: RSS, Atom, and JSON feeds generator plugin for VuePress 1.x
-downloads: null
+downloads: ~
 homepage: https://github.com/webmasterish/vuepress-plugin-feed
 keywords:
-- vue
-- vuepress
-- plugin
-- vuepress-plugin
-- blog
-- feed
-- xml
-- rss
-- atom
-- json
-- json-feed
-- syndication
+  - vue
+  - vuepress
+  - plugin
+  - vuepress-plugin
+  - blog
+  - feed
+  - xml
+  - rss
+  - atom
+  - json
+  - json-feed
+  - syndication
 license: MIT License
-maintainers: null
+maintainers:
+  - email: webmasterish@gmail.com
+    username: webmasterish
 name: vuepress-plugin-feed
 npm: https://www.npmjs.com/package/vuepress-plugin-feed
 publisher:
-  avatar: null
-  email: webmasterish@gmail.com
-  name: null
-  url: null
-  username: webmasterish
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: webmasterish@gmail.com
+    username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-feed
 score: 0.42426440735670495
 stars: 48

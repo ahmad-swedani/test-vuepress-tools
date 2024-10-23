@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/96685951?v=4
-  email: shentuzhigang@shentuzhigang.cn
-  name: Starzkg
-  url: https://shentuzhigang.cn
-  username: vuepress-star
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@shentuzhigang.cn
+    name: Starzkg
+    url: https://shentuzhigang.cn
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-12-18T13:04:12.871Z'
 deprecated: false
 description: Icon library for Vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-- icon
-- svg
-- vuepress
+  - icon
+  - svg
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shentuzhigang@qq.com
+    username: starzkg
 name: '@starzkg/vuepress-plugin-classifier'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-classifier
 publisher:
-  avatar: null
-  email: shentuzhigang@qq.com
-  name: null
-  url: null
-  username: starzkg
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@qq.com
+    username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5571478357733641
 stars: 1
