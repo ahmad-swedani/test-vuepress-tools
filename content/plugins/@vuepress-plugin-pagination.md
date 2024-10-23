@@ -1,55 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  email: null
+  name: Evan You
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2018-09-26T17:48:16.802Z'
 deprecated: false
 description: pagination plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: '@vuepress/plugin-pagination'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-pagination
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.1507805798192239
-stars: 22542
+stars: 22543
 unstable: true
 version: 1.0.0-alpha.0
-watchers: 22542
+watchers: 22543
 
 ---
 
