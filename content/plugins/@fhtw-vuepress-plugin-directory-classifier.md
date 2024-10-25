@@ -1,28 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13609768?v=4
-  email: sabic.alija@gmail.com
-  name: Alija Sabic
-  url: null
-  username: alija
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sabic.alija@gmail.com
+    name: Alija Sabic
+    username: alija
 bugs: https://github.com/sabicalija/webdev.js/issues
 category: plugin
 date: '2019-09-09T00:47:04.936Z'
 deprecated: false
 description: Vuepress plugin for directory based classification
-downloads: null
+downloads: ~
 homepage: https://github.com/sabicalija/webdev.js#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: sabic.alija@gmail.com
+    username: alija
 name: '@fhtw/vuepress-plugin-directory-classifier'
 npm: https://www.npmjs.com/package/%40fhtw%2Fvuepress-plugin-directory-classifier
 publisher:
-  avatar: null
-  email: sabic.alija@gmail.com
-  name: null
-  url: null
-  username: alija
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sabic.alija@gmail.com
+    username: alija
 repository: https://github.com/sabicalija/webdev.js
 score: 0.18267429770759622
 stars: 0
@@ -32,3 +39,4 @@ watchers: 0
 
 ---
 
+undefined
