@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1589433?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: FrankFan
+  email: null
+  name: FrankFan
+  url: null
+  username: FrankFan
 bugs: https://github.com/FrankFan/vuepress-theme-quiet/issues
 category: theme
 date: '2021-08-02T11:19:34.190Z'
 deprecated: false
 description: a vuepress blog theme, makes you feel quiet
-downloads: ~
+downloads: null
 homepage: https://github.com/FrankFan/vuepress-theme-quiet
 keywords:
-  - vuepress
-  - blog
-  - theme
-  - quiet
-license: ~
-maintainers:
-  - email: fanyong@gmail.com
-    username: fanyong
+- vuepress
+- blog
+- theme
+- quiet
+license: false
+maintainers: null
 name: vuepress-theme-quiet
 npm: https://www.npmjs.com/package/vuepress-theme-quiet
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: fanyong@gmail.com
-    username: fanyong
+  avatar: null
+  email: fanyong@gmail.com
+  name: null
+  url: null
+  username: fanyong
 repository: https://github.com/FrankFan/vuepress-theme-quiet
 score: 0.4513830808288576
 stars: 0

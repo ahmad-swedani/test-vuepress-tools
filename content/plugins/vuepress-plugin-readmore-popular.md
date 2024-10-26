@@ -1,41 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5085501?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: rqh656418510
+  email: null
+  name: rqh656418510
+  url: null
+  username: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular/issues
 category: plugin
 date: '2022-06-20T01:10:44.905Z'
 deprecated: false
-description: 为 VuePress 博客的每一篇文章都自动添加阅读更多的效果，关注公众号后方可解锁全站文章，从而将博客流量引流到微信公众号，达到涨粉丝数的目的。
-downloads: ~
+description: "\u4E3A VuePress \u535A\u5BA2\u7684\u6BCF\u4E00\u7BC7\u6587\u7AE0\u90FD\
+  \u81EA\u52A8\u6DFB\u52A0\u9605\u8BFB\u66F4\u591A\u7684\u6548\u679C\uFF0C\u5173\u6CE8\
+  \u516C\u4F17\u53F7\u540E\u65B9\u53EF\u89E3\u9501\u5168\u7AD9\u6587\u7AE0\uFF0C\u4ECE\
+  \u800C\u5C06\u535A\u5BA2\u6D41\u91CF\u5F15\u6D41\u5230\u5FAE\u4FE1\u516C\u4F17\u53F7\
+  \uFF0C\u8FBE\u5230\u6DA8\u7C89\u4E1D\u6570\u7684\u76EE\u7684\u3002"
+downloads: null
 homepage: https://github.com/rqh656418510/vuepress-plugin-readmore-popular#readme
 keywords:
-  - vuepress-plugin-readmore-popular
-  - vuepress-plugin-readmore
-  - vuepress-plugin
-  - openwrite
-  - readmore
-  - 公众号引流
-  - 阅读更多
-  - 文章隐藏
+- vuepress-plugin-readmore-popular
+- vuepress-plugin-readmore
+- vuepress-plugin
+- openwrite
+- readmore
+- "\u516C\u4F17\u53F7\u5F15\u6D41"
+- "\u9605\u8BFB\u66F4\u591A"
+- "\u6587\u7AE0\u9690\u85CF"
 license: MIT License
-maintainers:
-  - email: 656418510@qq.com
-    username: rqh656418510
+maintainers: null
 name: vuepress-plugin-readmore-popular
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 656418510@qq.com
-    username: rqh656418510
+  avatar: null
+  email: 656418510@qq.com
+  name: null
+  url: null
+  username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular
 score: 0.49295517343285106
 stars: 5
@@ -134,8 +133,8 @@ module.exports = {
       interval: 60,
       // 等待 DOM 节点加载完成的时间（毫秒），如果部分页面的引流功能无法生效，可适当增大此参数的值
       waitDomMills: 1000,
-      // 每篇文章随机添加引流工具的概率，有效范围在 0.1 ~ 1 之间，1 则表示所有文章默认都自动添加引流工具
-      random: 1
+      // 每篇文章随机添加引流工具的概率，范围在 0.1 ~ 1.0 之间，代表 10% ~ 100%，其中 1.0 表示所有文章默认都添加引流工具
+      random: 1.0
     }]
   ]
 }
@@ -159,7 +158,7 @@ module.exports = {
 | expires      | Number          | 否   | `365`                                                | -    |
 | interval     | Number          | 否   | `60`                                                 | -    |
 | waitDomMills | Number          | 否   | `1000`                                               | -    |
-| random       | Number          | 否   | `1`                                                  | -    |
+| random       | Number          | 否   | `1.0`                                                | -    |
 
 `selector` 参数的作用是指定 JS 选择器来获取文章的主体内容，若 VuePress 使用了第三方主题，则一般需要根据第三方主题来配置该参数，否则可能会导致引流工具无法生效。其中 VuePress 不同主题的配置示例如下：
 
