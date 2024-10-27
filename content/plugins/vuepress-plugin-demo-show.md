@@ -1,39 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/34917927?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: xitice
+  email: null
+  name: xitice
+  url: null
+  username: xitice
 bugs: https://github.com/xitice/vuepress-plugin-demo-show/issues
 category: plugin
 date: '2020-08-03T06:03:04.728Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: ~
+downloads: null
 homepage: https://github.com/xitice/vuepress-plugin-demo-show#readme
 keywords:
-  - documentation
-  - plugin
-  - vue
-  - vuepress
-  - demo
-  - block
+- documentation
+- plugin
+- vue
+- vuepress
+- demo
+- block
 license: MIT License
-maintainers:
-  - email: sjc_buaa@foxmail.com
-    username: xitice
+maintainers: null
 name: vuepress-plugin-demo-show
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-show
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sjc_buaa@foxmail.com
-    username: xitice
+  avatar: null
+  email: sjc_buaa@foxmail.com
+  name: null
+  url: null
+  username: xitice
 repository: https://github.com/xitice/vuepress-plugin-demo-show
 score: 0.45570377199306067
 stars: 0
