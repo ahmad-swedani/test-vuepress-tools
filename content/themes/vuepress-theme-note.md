@@ -1,33 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/61529623?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: renhj
+  email: null
+  name: renhj
+  url: null
+  username: JackRay-C
 bugs: https://github.com/JackRay-C/vuepress-theme-note/issues
 category: theme
 date: '2020-05-02T18:13:38.882Z'
 deprecated: false
 description: vuepress theme
-downloads: ~
+downloads: null
 homepage: https://jackray-c.github.io/vuepress-theme-note/
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: 1761179051@qq.com
-    username: renhj
+maintainers: null
 name: vuepress-theme-note
 npm: https://www.npmjs.com/package/vuepress-theme-note
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1761179051@qq.com
-    username: renhj
+  avatar: null
+  email: 1761179051@qq.com
+  name: null
+  url: null
+  username: renhj
 repository: https://github.com/JackRay-C/vuepress-theme-note
 score: 0.3601512901363114
 stars: 6
