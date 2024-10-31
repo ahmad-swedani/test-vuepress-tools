@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/12009244?v=4
-  email: null
-  name: ldy
-  url: null
-  username: gitldy1013
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: ldy
 bugs: https://github.com/gitldy1013/vuepress-theme-ldy/issues
 category: theme
 date: '2019-11-14T07:56:48.878Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-- vuepress
-- vue
-- theme
+  - vuepress
+  - vue
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 13691363167@163.com
+    username: dongyang_liu
 name: vuepress-theme-reco-ldy
 npm: https://www.npmjs.com/package/vuepress-theme-reco-ldy
 publisher:
-  avatar: null
-  email: 13691363167@163.com
-  name: null
-  url: null
-  username: dongyang_liu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 13691363167@163.com
+    username: dongyang_liu
 repository: https://github.com/gitldy1013/vuepress-theme-ldy
 score: 0.47423889631000127
 stars: 2
