@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/106938?v=4
-  email: null
-  name: '@cwaring'
-  url: null
-  username: cwaring
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: '@cwaring'
 bugs: https://github.com/cwaring/vuepress-plugin-ipfs/issues
 category: plugin
 date: '2021-01-11T19:04:05.602Z'
 deprecated: false
 description: Host a VuePress project on IPFS
-downloads: null
+downloads: ~
 homepage: https://github.com/cwaring/vuepress-plugin-ipfs#readme
 keywords:
-- ipfs
-- vuepress
-- plugin
+  - ipfs
+  - vuepress
+  - plugin
 license: MIT License
-maintainers: null
+maintainers:
+  - email: myqrrlolof@yahoo.com
+    username: michaelolof
 name: michaelolof-vuepress-plugin-ipfs
 npm: https://www.npmjs.com/package/michaelolof-vuepress-plugin-ipfs
 publisher:
-  avatar: null
-  email: myqrrlolof@yahoo.com
-  name: null
-  url: null
-  username: michaelolof
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: myqrrlolof@yahoo.com
+    username: michaelolof
 repository: https://github.com/cwaring/vuepress-plugin-ipfs
 score: 0.3404064141591403
 stars: 14
