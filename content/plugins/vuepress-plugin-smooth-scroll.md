@@ -1,47 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    name: meteorlxy
-    username: meteorlxy
+  email: meteor.lxy@foxmail.com
+  name: meteorlxy
+  url: null
+  username: meteorlxy
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:50.760Z'
 deprecated: false
 description: VuePress plugin for smooth scrolling
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - plugin
-  - scroll
-  - smooth
-  - vuepress
+- plugin
+- scroll
+- smooth
+- vuepress
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: 1700011071@pku.edu.cn
-    username: shigma
+maintainers: null
 name: vuepress-plugin-smooth-scroll
 npm: https://www.npmjs.com/package/vuepress-plugin-smooth-scroll
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.6082373282557917
-stars: 81
+stars: 82
 unstable: true
 version: 0.0.10
-watchers: 81
+watchers: 82
 
 ---
 
