@@ -1,38 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/42024979?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: KittenTeam
 bugs: https://github.com/KittenTeam/vuepress-theme-codemao_docs/issues
 category: theme
 date: '2018-09-09T09:45:07.615Z'
 deprecated: false
 description: codemao docs theme
-downloads: ~
+downloads: null
 homepage: https://github.com/KittenTeam/vuepress-theme-codemao_docs
 keywords:
-  - vuepress
-  - docs
-license: ~
-maintainers:
-  - email: zn.he@foxmail.com
-    username: greendou
-  - email: luosha@codemao.cn
-    username: luosha109
-  - email: ethanlu126@gmail.com
-    username: ethanlu
+- vuepress
+- docs
+license: false
+maintainers: null
 name: '@kitten-team/vuepress-theme-codemao_docs'
 npm: https://www.npmjs.com/package/%40kitten-team%2Fvuepress-theme-codemao_docs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zczhangchao51@126.com
-    username: zczhangchao51
+  avatar: null
+  email: zczhangchao51@126.com
+  name: null
+  url: null
+  username: zczhangchao51
 repository: https://github.com/KittenTeam/vuepress-theme-codemao_docs
 score: 0.44301030987905743
 stars: 2
