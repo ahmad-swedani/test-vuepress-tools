@@ -1,41 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1489465?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: photoadrian@outlook.com
-    name: Adrian Hall
-    username: photoadrian
+  email: photoadrian@outlook.com
+  name: Adrian Hall
+  url: null
+  username: photoadrian
 bugs: https://github.com/adrianhall/vuepress-theme-orbit/issues
 category: theme
 date: '2020-06-01T20:05:34.501Z'
 deprecated: false
 description: A Resume template using Vuepress - concentrate on content, not style!
-downloads: ~
+downloads: null
 homepage: https://github.com/adrianhall/vuepress-theme-orbit#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - xriley
-  - 3rdwave
-  - resume
-  - resume-theme
+- vuepress
+- vuepress-theme
+- xriley
+- 3rdwave
+- resume
+- resume-theme
 license: MIT License
-maintainers:
-  - email: photoadrian@outlook.com
-    username: photoadrian
+maintainers: null
 name: vuepress-theme-orbit
 npm: https://www.npmjs.com/package/vuepress-theme-orbit
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: photoadrian@outlook.com
-    username: photoadrian
+  avatar: null
+  email: photoadrian@outlook.com
+  name: null
+  url: null
+  username: photoadrian
 repository: https://github.com/adrianhall/vuepress-theme-orbit
 score: 0.45785830713346815
 stars: 0
