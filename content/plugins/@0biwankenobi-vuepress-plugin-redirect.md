@@ -1,33 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/4061104?v=4
-  email: metal.rulesall@gmail.com
-  name: 0biwankenobi
-  url: https://github.com/0biWanKenobi
-  username: 0biwankenobi
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: metal.rulesall@gmail.com
+    name: 0biwankenobi
+    url: https://github.com/0biWanKenobi
+    username: 0biwankenobi
 bugs: https://github.com/0biWanKenobi/vuepress-plugin-redirect/issues
 category: plugin
 date: '2021-12-12T15:08:00.621Z'
 deprecated: false
 description: VuePress 2 plugin to handle redirection
-downloads: null
+downloads: ~
 homepage: https://github.com/0biWanKenobi
 keywords:
-- i18n
-- plugin
-- redirect
-- router
-- vuepress 2
-license: false
-maintainers: null
+  - i18n
+  - plugin
+  - redirect
+  - router
+  - vuepress 2
+license: ~
+maintainers:
+  - email: metal.rulesall@gmail.com
+    username: 0biwankenobi
 name: '@0biwankenobi/vuepress-plugin-redirect'
 npm: https://www.npmjs.com/package/%400biwankenobi%2Fvuepress-plugin-redirect
 publisher:
-  avatar: null
-  email: metal.rulesall@gmail.com
-  name: null
-  url: null
-  username: 0biwankenobi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: metal.rulesall@gmail.com
+    username: 0biwankenobi
 repository: https://github.com/0biWanKenobi/vuepress-plugin-redirect
 score: 0.5143189867917886
 stars: 0
