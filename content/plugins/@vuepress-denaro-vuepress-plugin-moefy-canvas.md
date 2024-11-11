@@ -1,35 +1,43 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/85858775?v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-01T09:58:04.418Z'
 deprecated: false
-description: "Decorate your web pages with lovely canvas animations.\u7528\u53EF\u53EF\
-  \u7231\u7231\u7684 canvas \u52A8\u6548\u88C5\u9970\u4F60\u7684\u7F51\u9875."
-downloads: null
-homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-moefy-canvas#readme
+description: Decorate your web pages with lovely canvas animations.用可可爱爱的 canvas 动效装饰你的网页.
+downloads: ~
+homepage: >-
+  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-moefy-canvas#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- theme
-- denaro
-- moefy-canvas
-- "vue \u7EC4\u4EF6\u9884\u89C8"
+  - vuepress
+  - vuepress-plugin
+  - theme
+  - denaro
+  - moefy-canvas
+  - vue 组件预览
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: '@vuepress-denaro/vuepress-plugin-moefy-canvas'
-npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-moefy-canvas
+npm: >-
+  https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-moefy-canvas
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117294082457533
 stars: 5
