@@ -1,46 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: keyu98@qq.com
-    name: keyu
-    username: kylezhao
+  email: keyu98@qq.com
+  name: keyu
+  url: null
+  username: kylezhao
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2020-10-29T11:45:08.056Z'
 deprecated: false
 description: search plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-search#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-search#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: keyu98@qq.com
-    username: kylezhao
+maintainers: null
 name: vuepress-plugin-search-custom-tgit
 npm: https://www.npmjs.com/package/vuepress-plugin-search-custom-tgit
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: keyu98@qq.com
-    username: kylezhao
+  avatar: null
+  email: keyu98@qq.com
+  name: null
+  url: null
+  username: kylezhao
 repository: https://github.com/vuejs/vuepress
 score: 0.1792685295663744
-stars: 22575
+stars: 22574
 unstable: false
 version: 1.0.6
-watchers: 22575
+watchers: 22574
 
 ---
 
