@@ -1,28 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1093590?v=4
-  email: rashfael@isobeef.org
-  name: rashfael
-  url: null
-  username: rash
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: rashfael@isobeef.org
+    name: rashfael
+    username: rash
 bugs: https://github.com/rashfael/daumenkino/issues
 category: theme
 date: '2020-05-11T13:23:51.546Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://github.com/rashfael/daumenkino#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: rashfael@isobeef.org
+    username: rash
 name: vuepress-theme-daumenkino
 npm: https://www.npmjs.com/package/vuepress-theme-daumenkino
 publisher:
-  avatar: null
-  email: rashfael@isobeef.org
-  name: null
-  url: null
-  username: rash
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: rashfael@isobeef.org
+    username: rash
 repository: https://github.com/rashfael/daumenkino
 score: 0.2788501526188258
 stars: 10
