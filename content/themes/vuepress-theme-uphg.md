@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/49513387?v=4
-  email: null
-  name: upheng
-  url: null
-  username: uphg
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: upheng
 bugs: https://github.com/uphg/vuepress-theme-uphg/issues
 category: theme
 date: '2021-09-23T06:45:10.772Z'
 deprecated: false
 description: Docs theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/uphg/vuepress-theme-uphg
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1834805770@qq.com
+    username: chennings
 name: vuepress-theme-uphg
 npm: https://www.npmjs.com/package/vuepress-theme-uphg
 publisher:
-  avatar: null
-  email: 1834805770@qq.com
-  name: null
-  url: null
-  username: chennings
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1834805770@qq.com
+    username: chennings
 repository: https://github.com/uphg/vuepress-theme-uphg
 score: 0.4800643688143732
 stars: 0
