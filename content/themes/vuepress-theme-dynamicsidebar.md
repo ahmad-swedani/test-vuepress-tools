@@ -1,35 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/25088094?v=4
-  email: maxcharleswolf@gmail.com
-  name: Max Wolf
-  url: null
-  username: maxcwolf
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: maxcharleswolf@gmail.com
+    name: Max Wolf
+    username: maxcwolf
 bugs: https://github.com/maxcwolf/vuepress-theme-dynamicsidebar/issues
 category: theme
 date: '2018-11-21T15:58:28.951Z'
 deprecated: false
 description: vuepress-theme
-downloads: null
+downloads: ~
 homepage: https://github.com/maxcwolf/vuepress-theme-dynamicsidebar#readme
 keywords:
-- vuepress
-- theme
-- dynamic
-- sidebar
-- drag
-- drop
-- file
-license: false
-maintainers: null
+  - vuepress
+  - theme
+  - dynamic
+  - sidebar
+  - drag
+  - drop
+  - file
+license: ~
+maintainers:
+  - email: maxcharleswolf@gmail.com
+    username: maxcwolf
 name: vuepress-theme-dynamicsidebar
 npm: https://www.npmjs.com/package/vuepress-theme-dynamicsidebar
 publisher:
-  avatar: null
-  email: maxcharleswolf@gmail.com
-  name: null
-  url: null
-  username: maxcwolf
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: maxcharleswolf@gmail.com
+    username: maxcwolf
 repository: https://github.com/maxcwolf/vuepress-theme-dynamicsidebar
 score: 0.4187901912568671
 stars: 1
