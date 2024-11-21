@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/26399528?v=4
-  email: null
-  name: dongyuanxin
-  url: null
-  username: dongyuanxin
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: dongyuanxin
 bugs: https://github.com/dongyuanxin/vuepress-plugin-comment/issues
 category: plugin
 date: '2020-02-08T05:20:34.589Z'
 deprecated: false
 description: Comment plugin in vuepress, such as Gitalk, Valine...
-downloads: null
+downloads: ~
 homepage: https://github.com/dongyuanxin/vuepress-plugin-comment#readme
 keywords:
-- vuepress
-- comment
-- plugin
-- vue
-- gitalk
-- valine
-license: false
-maintainers: null
+  - vuepress
+  - comment
+  - plugin
+  - vue
+  - gitalk
+  - valine
+license: ~
+maintainers:
+  - email: yuanxin.me@gmail.com
+    username: godbmw
 name: vuepress-plugin-comment
 npm: https://www.npmjs.com/package/vuepress-plugin-comment
 publisher:
-  avatar: null
-  email: yuanxin.me@gmail.com
-  name: null
-  url: null
-  username: godbmw
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: yuanxin.me@gmail.com
+    username: godbmw
 repository: https://github.com/dongyuanxin/vuepress-plugin-comment
 score: 0.34410711007217953
 stars: 39
