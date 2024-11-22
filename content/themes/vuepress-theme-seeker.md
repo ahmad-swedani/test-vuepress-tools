@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/2544185?v=4
-  email: null
-  name: WensonSmith
-  url: null
-  username: wensonsmith
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: WensonSmith
 bugs: https://github.com/wensonsmith/vuepress-theme-seeker/issues
 category: theme
 date: '2020-03-16T08:09:57.341Z'
 deprecated: false
 description: A colorful and simple vuepress theme
-downloads: null
+downloads: ~
 homepage: https://github.com/wensonsmith/vuepress-theme-seeker
 keywords:
-- vuepress-theme
-- theme
-- vuepress
-- blog
-- simple
+  - vuepress-theme
+  - theme
+  - vuepress
+  - blog
+  - simple
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wensonsmith@gmail.com
+    username: wensonsmith
 name: vuepress-theme-seeker
 npm: https://www.npmjs.com/package/vuepress-theme-seeker
 publisher:
-  avatar: null
-  email: wensonsmith@gmail.com
-  name: null
-  url: null
-  username: wensonsmith
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wensonsmith@gmail.com
+    username: wensonsmith
 repository: https://github.com/wensonsmith/vuepress-theme-seeker
 score: 0.3474410698552845
 stars: 75
