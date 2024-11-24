@@ -1,41 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5085501?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: rqh656418510
+  email: null
+  name: rqh656418510
+  url: null
+  username: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next/issues
 category: plugin
 date: '2022-06-20T02:31:48.871Z'
 deprecated: false
-description: 为 VuePress 博客的每一篇文章都自动添加阅读更多的效果，关注公众号后方可解锁全站文章，从而将博客流量引流到微信公众号，达到涨粉丝数的目的。
-downloads: ~
+description: "\u4E3A VuePress \u535A\u5BA2\u7684\u6BCF\u4E00\u7BC7\u6587\u7AE0\u90FD\
+  \u81EA\u52A8\u6DFB\u52A0\u9605\u8BFB\u66F4\u591A\u7684\u6548\u679C\uFF0C\u5173\u6CE8\
+  \u516C\u4F17\u53F7\u540E\u65B9\u53EF\u89E3\u9501\u5168\u7AD9\u6587\u7AE0\uFF0C\u4ECE\
+  \u800C\u5C06\u535A\u5BA2\u6D41\u91CF\u5F15\u6D41\u5230\u5FAE\u4FE1\u516C\u4F17\u53F7\
+  \uFF0C\u8FBE\u5230\u6DA8\u7C89\u4E1D\u6570\u7684\u76EE\u7684\u3002"
+downloads: null
 homepage: https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next#readme
 keywords:
-  - vuepress-plugin-readmore-popular-next
-  - vuepress-plugin-readmore
-  - vuepress2
-  - openwrite
-  - readmore
-  - 公众号引流
-  - 阅读更多
-  - 文章隐藏
+- vuepress-plugin-readmore-popular-next
+- vuepress-plugin-readmore
+- vuepress2
+- openwrite
+- readmore
+- "\u516C\u4F17\u53F7\u5F15\u6D41"
+- "\u9605\u8BFB\u66F4\u591A"
+- "\u6587\u7AE0\u9690\u85CF"
 license: MIT License
-maintainers:
-  - email: 656418510@qq.com
-    username: rqh656418510
+maintainers: null
 name: vuepress-plugin-readmore-popular-next
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular-next
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 656418510@qq.com
-    username: rqh656418510
+  avatar: null
+  email: 656418510@qq.com
+  name: null
+  url: null
+  username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next
 score: 0.516602999384705
 stars: 10
@@ -92,7 +91,7 @@ watchers: 10
 
 ## 安装插件
 
-> 值得一提的是，以引流插件版本号 `2.0.0-rc.13.x` 举例，其中的 `2.0.0-rc.13` 代表该引流插件所兼容的 VuePress 版本，而 `x` 则代表引流插件自身的修订版本号。若 VuePress 与引流插件的版本不兼容，很可能会导致编译出错或者引流插件无法生效。
+> 值得一提的是，以引流插件版本号 `2.0.0-rc.15.x` 举例，其中的 `2.0.0-rc.15` 代表该引流插件所兼容的 VuePress 版本，而 `x` 则代表引流插件自身的修订版本号。若 VuePress 与引流插件的版本不兼容，很可能会导致编译出错或者引流插件无法生效。
 
 - 查看插件所有的版本信息
 
@@ -108,7 +107,7 @@ $ npm view vuepress-plugin-readmore-popular-next versions
 $ npm install -D vuepress-plugin-readmore-popular-next
 
 # 安装指定版本（推荐）
-$ npm install -D vuepress-plugin-readmore-popular-next@2.0.0-rc.13.1
+$ npm install -D vuepress-plugin-readmore-popular-next@2.0.0-rc.15.1
 ```
 
 ## 配置 VuePress
