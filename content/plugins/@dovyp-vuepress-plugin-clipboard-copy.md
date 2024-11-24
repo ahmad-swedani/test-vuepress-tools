@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/890963?v=4
-  email: me@dovy.io
-  name: Dovy
-  url: null
-  username: dovyp
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@dovy.io
+    name: Dovy
+    username: dovyp
 bugs: https://github.com/dovy/vuepress-plugin-clipboard-copy/issues
 category: plugin
 date: '2019-04-20T22:31:28.711Z'
 deprecated: false
 description: VuePress plugin for copying code blocks
-downloads: null
+downloads: ~
 homepage: https://github.com/dovy/vuepress-plugin-clipboard-copy#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: me@dovy.io
+    username: dovyp
 name: '@dovyp/vuepress-plugin-clipboard-copy'
 npm: https://www.npmjs.com/package/%40dovyp%2Fvuepress-plugin-clipboard-copy
 publisher:
-  avatar: null
-  email: me@dovy.io
-  name: null
-  url: null
-  username: dovyp
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@dovy.io
+    username: dovyp
 repository: https://github.com/dovy/vuepress-plugin-clipboard-copy
 score: 0.15615833472266905
 stars: 3
