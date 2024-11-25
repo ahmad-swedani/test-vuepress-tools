@@ -1,28 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22772830?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: QiShaoXuan
 bugs: https://github.com/QiShaoXuan/vuepress-plugin-cat/issues
 category: plugin
 date: '2019-08-14T02:30:54.762Z'
 deprecated: false
 description: '## How to use'
-downloads: null
+downloads: ~
 homepage: https://github.com/QiShaoXuan/vuepress-plugin-cat#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 474021214@qq.com
+    username: qishaoxuan
 name: vuepress-plugin-cat
 npm: https://www.npmjs.com/package/vuepress-plugin-cat
 publisher:
-  avatar: null
-  email: 474021214@qq.com
-  name: null
-  url: null
-  username: qishaoxuan
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 474021214@qq.com
+    username: qishaoxuan
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
 score: 0.35091456656181497
 stars: 181

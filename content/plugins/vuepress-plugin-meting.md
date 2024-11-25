@@ -1,38 +1,43 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
-  email: null
-  name: Nyakku Shigure
-  url: null
-  username: moefyit
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Nyakku Shigure
 bugs: https://github.com/moefyit/vuepress-plugin-meting/issues
 category: plugin
 date: '2022-06-05T15:18:40.931Z'
 deprecated: false
 description: A simple plugin connect APlayer, Meting and VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/moefyit/vuepress-plugin-meting#readme
 keywords:
-- vuepress
-- plugin
-- meting
-- aplayer
+  - vuepress
+  - plugin
+  - meting
+  - aplayer
 license: MIT License
-maintainers: null
+maintainers:
+  - email: sigure.qaq@gmail.com
+    username: sigure_mo
 name: vuepress-plugin-meting
 npm: https://www.npmjs.com/package/vuepress-plugin-meting
 publisher:
-  avatar: null
-  email: sigure.qaq@gmail.com
-  name: null
-  url: null
-  username: sigure_mo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sigure.qaq@gmail.com
+    username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.5448067316812332
-stars: 32
+stars: 33
 unstable: true
 version: 0.3.2
-watchers: 32
+watchers: 33
 
 ---
 
