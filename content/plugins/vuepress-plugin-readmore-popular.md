@@ -1,40 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5085501?v=4
-  email: null
-  name: rqh656418510
-  url: null
-  username: rqh656418510
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular/issues
 category: plugin
 date: '2022-06-20T01:10:44.905Z'
 deprecated: false
-description: "\u4E3A VuePress \u535A\u5BA2\u7684\u6BCF\u4E00\u7BC7\u6587\u7AE0\u90FD\
-  \u81EA\u52A8\u6DFB\u52A0\u9605\u8BFB\u66F4\u591A\u7684\u6548\u679C\uFF0C\u5173\u6CE8\
-  \u516C\u4F17\u53F7\u540E\u65B9\u53EF\u89E3\u9501\u5168\u7AD9\u6587\u7AE0\uFF0C\u4ECE\
-  \u800C\u5C06\u535A\u5BA2\u6D41\u91CF\u5F15\u6D41\u5230\u5FAE\u4FE1\u516C\u4F17\u53F7\
-  \uFF0C\u8FBE\u5230\u6DA8\u7C89\u4E1D\u6570\u7684\u76EE\u7684\u3002"
-downloads: null
+description: 为 VuePress 博客的每一篇文章都自动添加阅读更多的效果，关注公众号后方可解锁全站文章，从而将博客流量引流到微信公众号，达到涨粉丝数的目的。
+downloads: ~
 homepage: https://github.com/rqh656418510/vuepress-plugin-readmore-popular#readme
 keywords:
-- vuepress-plugin-readmore-popular
-- vuepress-plugin-readmore
-- vuepress-plugin
-- openwrite
-- readmore
-- "\u516C\u4F17\u53F7\u5F15\u6D41"
-- "\u9605\u8BFB\u66F4\u591A"
-- "\u6587\u7AE0\u9690\u85CF"
+  - vuepress-plugin-readmore-popular
+  - vuepress-plugin-readmore
+  - vuepress-plugin
+  - openwrite
+  - readmore
+  - 公众号引流
+  - 阅读更多
+  - 文章隐藏
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 656418510@qq.com
+    username: rqh656418510
 name: vuepress-plugin-readmore-popular
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular
 publisher:
-  avatar: null
-  email: 656418510@qq.com
-  name: null
-  url: null
-  username: rqh656418510
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 656418510@qq.com
+    username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular
 score: 0.49295517343285106
 stars: 5
@@ -60,12 +61,14 @@ watchers: 5
 
 ## 特色功能
 
-- [x] 支持随机为博客添加引流功能
-- [x] 支持关闭某篇文章的引流功能
-- [x] 支持查询用户解锁文章的历史记录
-- [x] 支持自定义或者动态计算文章内容的预览高度
-- [x] 支持自定义 CSS 样式，轻松适配不同风格的博客
-- [x] 支持开放 API，灵活接入第三方私有化部署的系统服务
+- 兼容主流的 VuePress 主题
+- 支持随机为博客添加引流功能
+- 支持关闭某篇文章的引流功能
+- 支持微信公众号验证码解锁文章
+- 支持查询用户解锁文章的历史记录
+- 支持自定义或者动态计算文章内容的预览高度
+- 支持自定义 CSS 样式，轻松适配不同风格的博客
+- 支持开放 API，灵活接入第三方私有化部署的系统服务
 
 ## 注册博客
 
@@ -270,13 +273,10 @@ module.exports = {
 ## 周边生态
 
 - [Hexo 引流插件](https://github.com/rqh656418510/hexo-readmore)
+- [VuePress v1 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular)
 - [VuePress v2 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next)
-- [基于开放引流 API 的 Java 后端项目](https://github.com/rqh656418510/techgrow-openapi-java)
-
-## 开发计划
-
-- [ ] 支持博客的 UV、PV 统计
-- [ ] 在博客的后台管理界面中，支持博客浏览量的图表分析
+- [基于开放 API 的 Java 后端引流项目](https://github.com/rqh656418510/techgrow-openapi-java)
+- [TechGrow 公众号引流工具的整合案例](https://github.com/rqh656418510/techgrow-blog-demo)
 
 ## 官方微信群
 
