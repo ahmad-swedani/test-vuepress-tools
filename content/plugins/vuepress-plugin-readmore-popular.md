@@ -1,41 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5085501?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: rqh656418510
+  email: null
+  name: rqh656418510
+  url: null
+  username: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular/issues
 category: plugin
 date: '2022-06-20T01:10:44.905Z'
 deprecated: false
-description: 为 VuePress 博客的每一篇文章都自动添加阅读更多的效果，关注公众号后方可解锁全站文章，从而将博客流量引流到微信公众号，达到涨粉丝数的目的。
-downloads: ~
+description: "\u4E3A VuePress \u535A\u5BA2\u7684\u6BCF\u4E00\u7BC7\u6587\u7AE0\u90FD\
+  \u81EA\u52A8\u6DFB\u52A0\u9605\u8BFB\u66F4\u591A\u7684\u6548\u679C\uFF0C\u5173\u6CE8\
+  \u516C\u4F17\u53F7\u540E\u65B9\u53EF\u89E3\u9501\u5168\u7AD9\u6587\u7AE0\uFF0C\u4ECE\
+  \u800C\u5C06\u535A\u5BA2\u6D41\u91CF\u5F15\u6D41\u5230\u5FAE\u4FE1\u516C\u4F17\u53F7\
+  \uFF0C\u8FBE\u5230\u6DA8\u7C89\u4E1D\u6570\u7684\u76EE\u7684\u3002"
+downloads: null
 homepage: https://github.com/rqh656418510/vuepress-plugin-readmore-popular#readme
 keywords:
-  - vuepress-plugin-readmore-popular
-  - vuepress-plugin-readmore
-  - vuepress-plugin
-  - openwrite
-  - readmore
-  - 公众号引流
-  - 阅读更多
-  - 文章隐藏
+- vuepress-plugin-readmore-popular
+- vuepress-plugin-readmore
+- vuepress-plugin
+- openwrite
+- readmore
+- "\u516C\u4F17\u53F7\u5F15\u6D41"
+- "\u9605\u8BFB\u66F4\u591A"
+- "\u6587\u7AE0\u9690\u85CF"
 license: MIT License
-maintainers:
-  - email: 656418510@qq.com
-    username: rqh656418510
+maintainers: null
 name: vuepress-plugin-readmore-popular
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 656418510@qq.com
-    username: rqh656418510
+  avatar: null
+  email: 656418510@qq.com
+  name: null
+  url: null
+  username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular
 score: 0.49295517343285106
 stars: 5
@@ -66,7 +65,7 @@ watchers: 5
 - [x] 支持查询用户解锁文章的历史记录
 - [x] 支持自定义或者动态计算文章内容的预览高度
 - [x] 支持自定义 CSS 样式，轻松适配不同风格的博客
-- [x] 支持开放 API，灵活接入第三方私有化部署的应用服务
+- [x] 支持开放 API，灵活接入第三方私有化部署的系统服务
 
 ## 注册博客
 
@@ -161,7 +160,7 @@ module.exports = {
 | waitDomMills | Number          | 否   | `1000`                                               | -    |
 | random       | Number          | 否   | `1.0`                                                | -    |
 
-`selector` 参数的作用是指定 JS 选择器来获取文章的主体内容，若 VuePress 使用了第三方主题，则一般需要根据第三方主题来配置该参数，否则可能会导致引流工具无法生效。其中 VuePress 不同主题的配置示例如下：
+`selector` 参数的作用是指定 JS 选择器来获取文章的主体内容，若 VuePress 使用了第三方主题，则通常需要根据第三方主题来配置该参数，否则可能会导致引流工具无法生效。其中 VuePress 不同主题的配置示例如下（特别注意，随着主题的迭代开发，以下配置可能会过时失效，请根据最新的主题代码来配置）：
 
 | 主题                                                                                              | 插件配置                                | 备注         |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------ |
@@ -215,13 +214,12 @@ module.exports = {
 
 - 根据 URL 正则表达式，关闭符合规则的所有文章的引流功能
 
-
 ``` js
 module.exports = {
   plugins: [
     ['vuepress-plugin-readmore-popular', {
-      // 排除 URL 不以 `/fontend` 开头的文章
-      excludes: { regExp: ['^(?!\/fontend).*'] },
+      // 排除 URL 不以 `/php` 开头的文章
+      excludes: { regExp: ['^(?!\/php).*'] },
     }]
   ]
 }
@@ -243,6 +241,10 @@ module.exports = {
 - 文章 URL 一旦满足 `strExp` 规则，则不会再匹配 `regExp` 规则
 - 如果希望符合 URL 排除规则的文章才添加引流工具，则可以使用 `reverse : true` 配置参数实现
 
+## 开放 API 支持
+
+若不希望依赖 TechGrow 官方提供的系统服务，可以选择使用开放 API 的方式，让引流插件直接使用私有化部署的后端系统服务，详细教程请阅读[官方文档](https://docs.techgrow.cn/v1/wechat/openapi/api/)。
+
 ## 自定义样式
 
 插件默认使用了定义在 [vuepress.css](https://qiniu.techgrow.cn/readmore/dist/vuepress.css) 的 CSS 样式，你可以使用以下两种方式自定义自己的样式：
@@ -252,9 +254,14 @@ module.exports = {
 
 > 提示：为了方便日后维护，强烈建议使用第二种方式来添加自定义样式
 
-## 开放 API
+## 已兼容主题
 
-若不希望依赖 TechGrow 官方提供的系统服务，可以选择使用开放 API 的方式，让引流插件直接使用私有化部署的后端应用服务，详细教程请阅读[官方文档](https://docs.techgrow.cn/v1/wechat/openapi/api/)。
+| 主题                  | GitHub 仓库                                                                                                                                              |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| @vuepress/theme-vue   | [https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/theme-vue](https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/theme-vue) |
+| vuepress-theme-reco   | [https://github.com/vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x)                                     |
+| vuepress-theme-hope   | [https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1](https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1)                           |
+| vuepress-theme-vdoing | [https://github.com/xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)                                                     |
 
 ## 常见问题
 
