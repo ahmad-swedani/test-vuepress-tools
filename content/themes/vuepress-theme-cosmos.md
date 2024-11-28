@@ -1,44 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/228843?v=4
-  email: ~
-  name: ~
-  url: ~
+  email: null
+  name: null
+  url: null
   username: cosmos
 bugs: https://github.com/cosmos/vuepress-theme-cosmos/issues
 category: theme
 date: '2022-01-18T08:28:16.861Z'
 deprecated: false
-description: >-
-  Theme for VuePress static site generator used by Tendermint and Cosmos
+description: Theme for VuePress static site generator used by Tendermint and Cosmos
   projects.
-downloads: ~
+downloads: null
 homepage: https://github.com/cosmos/vuepress-theme-cosmos#readme
 keywords:
-  - documentation
-  - docs
-  - cosmos
-  - tendermint
-  - vuepress
-  - theme
+- documentation
+- docs
+- cosmos
+- tendermint
+- vuepress
+- theme
 license: Other
-maintainers:
-  - email: nylira@protonmail.com
-    username: nylira
-  - email: hello@lovincyrus.com
-    username: lovincyrus
-  - email: denis@fadeev.org
-    username: fadeev
+maintainers: null
 name: vuepress-theme-cosmos
 npm: https://www.npmjs.com/package/vuepress-theme-cosmos
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: denis@fadeev.org
-    username: fadeev
+  avatar: null
+  email: denis@fadeev.org
+  name: null
+  url: null
+  username: fadeev
 repository: https://github.com/cosmos/vuepress-theme-cosmos
 score: 0.5174225790078266
 stars: 16
