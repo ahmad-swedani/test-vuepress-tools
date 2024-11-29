@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48777072?v=4
-  email: zpj80231@163.com
-  name: zpj80231
-  url: null
-  username: zpj80231
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zpj80231@163.com
+    name: zpj80231
+    username: zpj80231
 bugs: https://github.com/zpj80231/vuepress-plugin-boxx/issues
 category: plugin
 date: '2020-04-12T01:24:46.995Z'
 deprecated: false
 description: Simplification of VuePress Custom Containers!
-downloads: null
+downloads: ~
 homepage: https://zpj80231.github.io/znote
 keywords:
-- vuepress-theme-reco
-- boxx
-- vuepress
+  - vuepress-theme-reco
+  - boxx
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zpj80231@163.com
+    username: zpj80231
 name: vuepress-plugin-boxx
 npm: https://www.npmjs.com/package/vuepress-plugin-boxx
 publisher:
-  avatar: null
-  email: zpj80231@163.com
-  name: null
-  url: null
-  username: zpj80231
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zpj80231@163.com
+    username: zpj80231
 repository: https://github.com/zpj80231/vuepress-plugin-boxx
 score: 0.3164279763568628
 stars: 6
