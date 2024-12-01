@@ -1,37 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/41458459?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan.zx@outlook.com
-    name: Celeste
+  email: yuan.zx@outlook.com
+  name: Celeste
+  url: null
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/blog/issues
 category: theme
 date: '2021-07-05T00:37:53.696Z'
 deprecated: false
 description: Vuepress blog theme
-downloads: ~
+downloads: null
 homepage: https://github.com/nsznsznjsz/blog/tree/master/packages/theme-celesta#readme
 keywords:
-  - blog
-  - vuepress
-  - vuepress-theme
+- blog
+- vuepress
+- vuepress-theme
 license: Other
-maintainers:
-  - email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+maintainers: null
 name: '@celesta/vuepress-theme-celesta'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-theme-celesta
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nsznsznjsz@outlook.com
-    username: nsznsznjsz
+  avatar: null
+  email: nsznsznjsz@outlook.com
+  name: null
+  url: null
+  username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
 score: 0.5162852320480927
 stars: 4
@@ -41,16 +35,27 @@ watchers: 4
 
 ---
 
-### Hi there 👋
+## Hi! I'm Zexin 👋
 
-- 🔭 I’m currently pursuing my PhD's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
+- 🔭 I’m currently pursuing my PhD's degree.
 - ⚡ Fun fact: Computational Neuroscience and Software Engineering.
-- 🌱 I’m actively working on improving my English language skills.
 
 \[[GitHub](https://github.com/yzx9)\]\[[Blog](https://yzx9.github.io/)\]
 
-[![yzx9's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![yzx9's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-yzx9.vercel.app/api?username=yzx9&show_icons=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-yzx9.vercel.app/api?username=yzx9&show_icons=true&theme=default"
+  />
+  <img 
+    alt="Zexin's github stats"
+    src="https://github-readme-stats-yzx9.vercel.app/api?username=yzx9&show_icons=true"
+  />
+</picture>
 
 <!--
 **yzx9/yzx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
