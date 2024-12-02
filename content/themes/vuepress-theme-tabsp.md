@@ -1,28 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/55568111?v=4
-  email: tabsp@qq.com
-  name: tabsp
-  url: https://tabsp.com/
-  username: tabsp
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: tabsp@qq.com
+    name: tabsp
+    url: https://tabsp.com/
+    username: tabsp
 bugs: https://github.com/tabsp/vuepress-theme-tabsp/issues
 category: theme
 date: '2019-12-27T09:54:03.467Z'
 deprecated: false
-description: '![NPM](https://img.shields.io/npm/l/vuepress-theme-tabsp) ![npm](https://img.shields.io/npm/v/vuepress-theme-tabsp)'
-downloads: null
+description: >-
+  ![NPM](https://img.shields.io/npm/l/vuepress-theme-tabsp)
+  ![npm](https://img.shields.io/npm/v/vuepress-theme-tabsp)
+downloads: ~
 homepage: https://github.com/tabsp/vuepress-theme-tabsp#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: tabsp@qq.com
+    username: tabsp
 name: vuepress-theme-tabsp
 npm: https://www.npmjs.com/package/vuepress-theme-tabsp
 publisher:
-  avatar: null
-  email: tabsp@qq.com
-  name: null
-  url: null
-  username: tabsp
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: tabsp@qq.com
+    username: tabsp
 repository: https://github.com/tabsp/vuepress-theme-tabsp
 score: 0.33741553813739655
 stars: 0
