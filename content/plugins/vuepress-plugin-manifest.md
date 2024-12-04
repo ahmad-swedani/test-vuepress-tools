@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/2761281?v=4
-  email: brandon.liles@gmail.com
-  name: Brandon Liles
-  url: null
-  username: bliles
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: brandon.liles@gmail.com
+    name: Brandon Liles
+    username: bliles
 bugs: https://github.com/bliles/vuepress-page-manifest/issues
 category: plugin
 date: '2019-07-18T16:41:57.442Z'
 deprecated: false
 description: Vuepress plugin to write a page manifest
-downloads: null
+downloads: ~
 homepage: https://github.com/bliles/vuepress-page-manifest#readme
 keywords:
-- vue
-- vuepress
-- generator
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: brandon.liles@gmail.com
+    username: bliles
 name: vuepress-plugin-manifest
 npm: https://www.npmjs.com/package/vuepress-plugin-manifest
 publisher:
-  avatar: null
-  email: brandon.liles@gmail.com
-  name: null
-  url: null
-  username: bliles
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: brandon.liles@gmail.com
+    username: bliles
 repository: https://github.com/bliles/vuepress-page-manifest
 score: 0.4409253880378603
 stars: 1
