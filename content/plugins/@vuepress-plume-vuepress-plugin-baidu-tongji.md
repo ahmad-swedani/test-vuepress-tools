@@ -1,28 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: volodymyr@foxmail.com
-  name: pengzhanbo
-  url: null
-  username: pengzhanbo
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: volodymyr@foxmail.com
+    name: pengzhanbo
+    username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:13.984Z'
 deprecated: false
 description: The Plugin for VuePres 2
-downloads: null
+downloads: ~
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: volodymyr@foxmail.com
+    username: pengzhanbo
 name: '@vuepress-plume/vuepress-plugin-baidu-tongji'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-baidu-tongji
 publisher:
-  avatar: null
-  email: volodymyr@foxmail.com
-  name: null
-  url: null
-  username: pengzhanbo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: volodymyr@foxmail.com
+    username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5026308707651894
 stars: 142

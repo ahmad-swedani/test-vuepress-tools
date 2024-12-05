@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10918415?v=4
-  email: blank0129@gmail.com
-  name: Tr-blank
-  url: null
-  username: tiya
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: blank0129@gmail.com
+    name: Tr-blank
+    username: tiya
 bugs: https://github.com/Tr-blank/vuepress-theme-trskillblog/issues
 category: theme
 date: '2019-10-25T06:56:41.056Z'
 deprecated: false
 description: VuePress Blog Theme - trskillblog
-downloads: null
+downloads: ~
 homepage: https://github.com/Tr-blank/vuepress-theme-trskillblog#readme
 keywords:
-- blog
-- theme
-- vuepress
-license: false
-maintainers: null
+  - blog
+  - theme
+  - vuepress
+license: ~
+maintainers:
+  - email: blank0129@gmail.com
+    username: tiya
 name: vuepress-theme-trskillblog
 npm: https://www.npmjs.com/package/vuepress-theme-trskillblog
 publisher:
-  avatar: null
-  email: blank0129@gmail.com
-  name: null
-  url: null
-  username: tiya
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: blank0129@gmail.com
+    username: tiya
 repository: https://github.com/Tr-blank/vuepress-theme-trskillblog
 score: 0.1781729491140099
 stars: 0
