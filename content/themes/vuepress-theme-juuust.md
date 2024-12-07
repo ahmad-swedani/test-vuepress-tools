@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/12868055?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: leadream
+  email: null
+  name: leadream
+  url: null
+  username: hallee9000
 bugs: https://github.com/leadream/vuepress-theme-juuust/issues
 category: theme
 date: '2019-09-03T08:02:59.912Z'
 deprecated: false
 description: A compact theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/leadream/vuepress-theme-juuust#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - documentation
-  - site-generator
+- vuepress
+- vuepress-theme
+- documentation
+- site-generator
 license: MIT License
-maintainers:
-  - email: leadream4@gmail.com
-    username: leadream
+maintainers: null
 name: vuepress-theme-juuust
 npm: https://www.npmjs.com/package/vuepress-theme-juuust
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: leadream4@gmail.com
-    username: leadream
+  avatar: null
+  email: leadream4@gmail.com
+  name: null
+  url: null
+  username: leadream
 repository: https://github.com/leadream/vuepress-theme-juuust
 score: 0.5390022853686876
 stars: 0
