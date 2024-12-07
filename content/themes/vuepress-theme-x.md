@@ -1,33 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10876646?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: h69
-bugs: null
+bugs: ~
 category: theme
 date: '2020-12-25T09:26:11.977Z'
 deprecated: false
 description: VuePress theme.
-downloads: null
+downloads: ~
 homepage: https://github.com/h69/vuepress-theme-x#readme
 keywords:
-- vuepress
-- theme
-- vuepress-theme
-- x
-- blog
+  - vuepress
+  - theme
+  - vuepress-theme
+  - x
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: adamearth@qq.com
+    username: adamearth
 name: vuepress-theme-x
 npm: https://www.npmjs.com/package/vuepress-theme-x
 publisher:
-  avatar: null
-  email: adamearth@qq.com
-  name: null
-  url: null
-  username: adamearth
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: adamearth@qq.com
+    username: adamearth
 repository: https://github.com/h69/vuepress-theme-x
 score: 0.4806026008479518
 stars: 0
