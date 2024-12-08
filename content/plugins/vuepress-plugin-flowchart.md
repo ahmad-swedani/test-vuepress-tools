@@ -1,38 +1,44 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: chl814@foxmail.com
-  name: ULIVZ
-  url: null
-  username: vuejs
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ULIVZ
 bugs: https://github.com/ulivz/vuepress-plugin-flowchart
 category: plugin
 date: '2021-12-16T09:25:52.826Z'
 deprecated: false
 description: Rapid flowchart development plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 472590061@qq.com
+    username: ulivz
 name: vuepress-plugin-flowchart
 npm: https://www.npmjs.com/package/vuepress-plugin-flowchart
 publisher:
-  avatar: null
-  email: 472590061@qq.com
-  name: null
-  url: null
-  username: ulivz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 472590061@qq.com
+    username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.18793163155498094
-stars: 22607
+stars: 22608
 unstable: false
 version: 1.5.0
-watchers: 22607
+watchers: 22608
 
 ---
 
