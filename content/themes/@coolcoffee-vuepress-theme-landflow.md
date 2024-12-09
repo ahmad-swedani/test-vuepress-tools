@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: null
-  name: Evan You
-  url: null
-  username: vuepress
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: theme
 date: '2021-09-07T18:32:00.755Z'
 deprecated: false
 description: Default theme of VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- vuepress-theme
-- vuepress
-- theme
-- default
+  - vuepress-theme
+  - vuepress
+  - theme
+  - default
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wangchaoyi.tk@gmail.com
+    username: coolcoffee
 name: '@coolcoffee/vuepress-theme-landflow'
 npm: https://www.npmjs.com/package/%40coolcoffee%2Fvuepress-theme-landflow
 publisher:
-  avatar: null
-  email: wangchaoyi.tk@gmail.com
-  name: null
-  url: null
-  username: coolcoffee
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wangchaoyi.tk@gmail.com
+    username: coolcoffee
 repository: https://github.com/vuepress/vuepress-next
 score: 0.12795584842631974
 stars: 2369
