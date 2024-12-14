@@ -1,41 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: theme
 date: '2022-06-02T17:43:24.819Z'
 deprecated: false
 description: Theme types for vuepress-theme-hope
-downloads: ~
-homepage: >-
-  https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/tree/main/packages/theme-types#readme
+downloads: null
+homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/tree/main/packages/theme-types#readme
 keywords:
-  - vuepress-theme
-  - types
-  - vuepress
-  - vuepress-theme-hope
-  - mr-hope
+- vuepress-theme
+- types
+- vuepress
+- vuepress-theme-hope
+- mr-hope
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-theme-types'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-theme-types
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.18482880008143043
 stars: 2169
@@ -89,7 +81,7 @@ We recommend you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Details
 
-V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite5**](https://vitejs.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
+V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite6**](https://vite.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
 
 V2 is a full rewrite including:
 

@@ -1,37 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-04-13T18:39:13.061Z'
 deprecated: false
 description: Redirect plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/redirect/
 keywords:
-  - vuepress-plugin
-  - redirect
+- vuepress-plugin
+- redirect
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-redirect2
 npm: https://www.npmjs.com/package/vuepress-plugin-redirect2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6811068711217353
 stars: 2169
@@ -85,7 +78,7 @@ We recommend you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Details
 
-V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite5**](https://vitejs.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
+V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite6**](https://vite.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
 
 V2 is a full rewrite including:
 

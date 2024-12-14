@@ -1,38 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: zhangbowang1998@gmail.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/Mister-Hope/vuepress-theme-hope/issues
 category: plugin
 date: '2021-11-15T15:49:50.474Z'
 deprecated: false
 description: Reading time plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/Mister-Hope/vuepress-theme-hope#readme
 keywords:
-  - vuepress-plugin
-  - reading time
-  - word count
+- vuepress-plugin
+- reading time
+- word count
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-reading-time'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-reading-time
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/Mister-Hope/vuepress-theme-hope
 score: 0.1498945009601146
 stars: 2169
@@ -86,7 +79,7 @@ We recommend you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Details
 
-V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite5**](https://vitejs.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
+V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite6**](https://vite.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
 
 V2 is a full rewrite including:
 
