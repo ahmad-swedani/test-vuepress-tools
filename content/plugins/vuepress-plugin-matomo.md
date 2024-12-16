@@ -1,33 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/34539?v=4
-  email: null
-  name: kyle@nonpolynomial.com
-  url: null
-  username: qdot
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: kyle@nonpolynomial.com
 bugs: https://github.com/qdot/vuepress-plugin-matomo/issues
 category: plugin
 date: '2019-01-13T07:33:31.239Z'
 deprecated: false
 description: matomo plugin for vuepress >= 1.0
-downloads: null
+downloads: ~
 homepage: https://github.com/qdot/vuepress-plugin-matomo/
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- matomo
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - matomo
 license: MIT License
-maintainers: null
+maintainers:
+  - email: kyle@nonpolynomial.com
+    username: qdot
 name: vuepress-plugin-matomo
 npm: https://www.npmjs.com/package/vuepress-plugin-matomo
 publisher:
-  avatar: null
-  email: kyle@nonpolynomial.com
-  name: null
-  url: null
-  username: qdot
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: kyle@nonpolynomial.com
+    username: qdot
 repository: https://github.com/qdot/vuepress-plugin-matomo
 score: 0.3467883948882475
 stars: 9
