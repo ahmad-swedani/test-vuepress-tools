@@ -1,34 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/49757965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzQ5NzU3OTY1In0.Gke4IC-KaHlS2MgOKYNYfiPMTcahPZ_rJ1z6aExHXyk&v=4
-  email: null
-  name: Feng L.H.
-  url: null
-  username: zpfz
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/49757965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzQ5NzU3OTY1In0.lUlcty3A4wb-NOn0U-MrB3UyZ_T3EemnDC6lsehL2ZI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Feng L.H.
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
 category: theme
 date: '2022-06-08T14:30:46.727Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/zpfz/vuepress-theme-antdocs
 keywords:
-- theme
-- vuepress
-- vuepress-theme
-- antd
-- antdocs
-- ant-design
+  - theme
+  - vuepress
+  - vuepress-theme
+  - antd
+  - antdocs
+  - ant-design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zpfz520@outlook.com
+    username: seeyoz
 name: vuepress-theme-antdocs
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs
 publisher:
-  avatar: null
-  email: zpfz520@outlook.com
-  name: null
-  url: null
-  username: seeyoz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zpfz520@outlook.com
+    username: seeyoz
 repository: https://github.com/zpfz/vuepress-theme-antdocs
 score: 0.5329878861306966
 stars: 217

@@ -1,33 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/77988340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91Lzc3OTg4MzQwIn0.03Pl9Xrf26Yy_hTqzEmBHJX8B_Jejr_7lVYKRMX-i6c&v=4
-  email: null
-  name: "J\xE9r\xE9my LAMBERT"
-  url: System-Glitch
-  username: go-goyave
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/77988340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91Lzc3OTg4MzQwIn0.F0YmomjLpI9ZSPZdQbfRZKtnnN3eI0NNtuxOumiMVJw&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Jérémy LAMBERT
+    url: System-Glitch
 bugs: https://github.com/go-goyave/vuepress-theme-goyave/issues
 category: theme
 date: '2022-01-14T16:10:35.890Z'
 deprecated: false
 description: Vuepresse theme for the Goyave documentation
-downloads: null
+downloads: ~
 homepage: https://github.com/go-goyave/vuepress-theme-goyave#readme
 keywords:
-- vuepress
-- theme
-- goyave
-- dark
-- vue
+  - vuepress
+  - theme
+  - goyave
+  - dark
+  - vue
 license: MIT License
-maintainers: null
+maintainers:
+  - email: jeremy.la@outlook.fr
+    username: systemglitch
 name: vuepress-theme-goyave
 npm: https://www.npmjs.com/package/vuepress-theme-goyave
 publisher:
-  avatar: null
-  email: jeremy.la@outlook.fr
-  name: null
-  url: null
-  username: systemglitch
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jeremy.la@outlook.fr
+    username: systemglitch
 repository: https://github.com/go-goyave/vuepress-theme-goyave
 score: 0.5120550715033343
 stars: 0

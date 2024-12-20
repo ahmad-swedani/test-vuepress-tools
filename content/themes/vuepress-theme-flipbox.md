@@ -1,28 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/32937274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzMyOTM3Mjc0In0.1WEawGpdOVRICG9MGWxTxVZfPCiCf_TVwMOl9i2mNoc&v=4
-  email: null
-  name: Flipbox Digital
-  url: null
-  username: flipboxlabs
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/32937274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzMyOTM3Mjc0In0.sSWKRdkmB5AfbR8IyI83XDK0lIx7VO0GAtMld2aE0H8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Flipbox Digital
 bugs: https://github.com/flipboxlabs/vuepress-theme-flipbox/issues
 category: theme
 date: '2018-11-16T22:54:42.725Z'
 deprecated: false
 description: vuepress-theme
-downloads: null
+downloads: ~
 homepage: https://github.com/flipboxlabs/vuepress-theme-flipbox#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: me@dsmrt.com
+    username: dsmrt
+  - email: doug@flipboxdigital.com
+    username: flipbox
 name: vuepress-theme-flipbox
 npm: https://www.npmjs.com/package/vuepress-theme-flipbox
 publisher:
-  avatar: null
-  email: doug@flipboxdigital.com
-  name: null
-  url: null
-  username: flipbox
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: doug@flipboxdigital.com
+    username: flipbox
 repository: https://github.com/flipboxlabs/vuepress-theme-flipbox
 score: 0.46114447366663447
 stars: 6

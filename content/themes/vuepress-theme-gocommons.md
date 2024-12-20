@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/35213792?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzM1MjEzNzkyIn0.WmFHdrVbMkPzp0LuRo_3ymA_hqgQJ74teS72b3HNYac&v=4
-  email: null
-  name: cperezcapote
-  url: null
-  username: cperezcapote
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/35213792?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzM1MjEzNzkyIn0.3B-26BrqBBX1JwmhPsPXYyBOD4ebROVToa-C7Y_nVaQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: cperezcapote
 bugs: https://github.com/cperezcapote/vuepress-theme-gocommons/issues
 category: theme
 date: '2019-04-12T05:58:23.274Z'
 deprecated: false
 description: A custom Vuepress theme for GO!Commons partners applications.
-downloads: null
+downloads: ~
 homepage: https://github.com/cperezcapote/vuepress-theme-gocommons#readme
 keywords:
-- vuepress
-- vuepress-theme
-- theme
+  - vuepress
+  - vuepress-theme
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: cperezcapote@gmail.com
+    username: cperezcapote
 name: vuepress-theme-gocommons
 npm: https://www.npmjs.com/package/vuepress-theme-gocommons
 publisher:
-  avatar: null
-  email: cperezcapote@gmail.com
-  name: null
-  url: null
-  username: cperezcapote
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: cperezcapote@gmail.com
+    username: cperezcapote
 repository: https://github.com/cperezcapote/vuepress-theme-gocommons
 score: 0.43769291361397833
 stars: 0

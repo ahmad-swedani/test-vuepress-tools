@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/46474644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzQ2NDc0NjQ0In0.-86cXMFCJC8o_8LSUp620p_OrJl4KS1X5G4Y991od6o&v=4
-  email: null
-  name: shiguanghai
-  url: null
-  username: shiguanghai
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/46474644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzQ2NDc0NjQ0In0.nYITn-cUjC1V47ABPWAEtCKv-EGJ8NiDF8L7gUCKKTg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: shiguanghai
 bugs: https://github.com/shiguanghai/vuepress-plugin-core-video-player/issues
 category: plugin
 date: '2021-02-02T08:05:11.953Z'
 deprecated: false
 description: A Lightweight Video Player For VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/shiguanghai/vuepress-plugin-core-video-player#readme
 keywords:
-- vuepress
-- plugin
-- video
-license: false
-maintainers: null
+  - vuepress
+  - plugin
+  - video
+license: ~
+maintainers:
+  - email: 1932275668@qq.com
+    username: shiguanghai
 name: vuepress-plugin-core-video-player
 npm: https://www.npmjs.com/package/vuepress-plugin-core-video-player
 publisher:
-  avatar: null
-  email: 1932275668@qq.com
-  name: null
-  url: null
-  username: shiguanghai
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1932275668@qq.com
+    username: shiguanghai
 repository: https://github.com/shiguanghai/vuepress-plugin-core-video-player
 score: 0.46431859803548836
 stars: 4

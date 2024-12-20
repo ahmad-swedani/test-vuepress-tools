@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30315743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzMwMzE1NzQzIn0.MsP6N4TY37iLP8XmFypR60uXEbXWywlL8mb8hyb0FR8&v=4
-  email: geniuslim27@gmail.com
-  name: limdongjin
-  url: null
-  username: limdongjin
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/30315743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzMwMzE1NzQzIn0.wIsvLm06Y4vFSkbpFwGiVDATJrMq7Cgx8eV0q7K3rpI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: geniuslim27@gmail.com
+    name: limdongjin
+    username: limdongjin
 bugs: https://github.com/limdongjin/vuepress-plugin-sidebar-on-off/issues
 category: plugin
 date: '2019-01-17T06:55:40.949Z'
 deprecated: false
 description: sidebar-on-off plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/limdongjin/vuepress-plugin-sidebar-on-off#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- sidebar
+  - documentation
+  - vue
+  - vuepress
+  - sidebar
 license: MIT License
-maintainers: null
+maintainers:
+  - email: geniuslim27@gmail.com
+    username: limdongjin
 name: '@limdongjin/vuepress-plugin-sidebar-on-off'
 npm: https://www.npmjs.com/package/%40limdongjin%2Fvuepress-plugin-sidebar-on-off
 publisher:
-  avatar: null
-  email: geniuslim27@gmail.com
-  name: null
-  url: null
-  username: limdongjin
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: geniuslim27@gmail.com
+    username: limdongjin
 repository: https://github.com/limdongjin/vuepress-plugin-sidebar-on-off
 score: 0.3074565767163967
 stars: 1

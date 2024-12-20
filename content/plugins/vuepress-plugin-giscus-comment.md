@@ -1,29 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13284800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzEzMjg0ODAwIn0.6ESs6JDv5lKv1lWoKcxPg9CGtvF-SfALC29xTjboHE4&v=4
-  email: debe3721@gmail.com
-  name: PresentKim
-  url: null
-  username: presentkim
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/13284800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzEzMjg0ODAwIn0.wrDL-qHaQjoAADU0kxDGcoivr1yIiDWImqccT2oGW0E&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: debe3721@gmail.com
+    name: PresentKim
+    username: presentkim
 bugs: https://github.com/PresentKim/vuepress-plugin-giscus-comment/issues
 category: plugin
 date: '2022-03-25T03:15:33.177Z'
 deprecated: false
-description: '[![npm](https://img.shields.io/npm/v/vuepress-plugin-giscus-comment.svg)](https://www.npmjs.com/package/vuepress-plugin-giscus-comment)
-  [![GitHub license](https://img.shields.io/github/license/PresentKim/vuepress-plugin-giscus-comment.svg)](https://github'
-downloads: null
+description: >-
+  [![npm](https://img.shields.io/npm/v/vuepress-plugin-giscus-comment.svg)](https://www.npmjs.com/package/vuepress-plugin-giscus-comment)
+  [![GitHub
+  license](https://img.shields.io/github/license/PresentKim/vuepress-plugin-giscus-comment.svg)](https://github
+downloads: ~
 homepage: https://github.com/PresentKim/vuepress-plugin-giscus-comment#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: debe3721@gmail.com
+    username: presentkim
 name: vuepress-plugin-giscus-comment
 npm: https://www.npmjs.com/package/vuepress-plugin-giscus-comment
 publisher:
-  avatar: null
-  email: debe3721@gmail.com
-  name: null
-  url: null
-  username: presentkim
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: debe3721@gmail.com
+    username: presentkim
 repository: https://github.com/PresentKim/vuepress-plugin-giscus-comment
 score: 0.5436716130593746
 stars: 2

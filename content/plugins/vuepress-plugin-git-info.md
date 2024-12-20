@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1549175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzE1NDkxNzUifQ.-mxGk4SM-sfxzEWYOf63oMawDCy8dDoyU5j2iCoBXrI&v=4
-  email: null
-  name: Shinichiro MORI
-  url: null
-  username: smori1983
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/1549175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzE1NDkxNzUifQ.FDSEKlMqFwIK7AYW0vXiCbfqOrqRvM0Mi6BdSLkc6_Q&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Shinichiro MORI
 bugs: https://github.com/smori1983/vuepress-plugin-git-info/issues
 category: plugin
 date: '2022-02-14T17:04:34.302Z'
 deprecated: false
 description: Integrate git information into vuepress site.
-downloads: null
+downloads: ~
 homepage: https://github.com/smori1983/vuepress-plugin-git-info#readme
 keywords:
-- vuepress
-- vuepress-plugin
+  - vuepress
+  - vuepress-plugin
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shinichiro.mori.1983@gmail.com
+    username: smori1983
 name: vuepress-plugin-git-info
 npm: https://www.npmjs.com/package/vuepress-plugin-git-info
 publisher:
-  avatar: null
-  email: shinichiro.mori.1983@gmail.com
-  name: null
-  url: null
-  username: smori1983
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shinichiro.mori.1983@gmail.com
+    username: smori1983
 repository: https://github.com/smori1983/vuepress-plugin-git-info
 score: 0.4988847481163968
 stars: 0

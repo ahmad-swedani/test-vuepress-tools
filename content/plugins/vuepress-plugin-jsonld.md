@@ -1,31 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/7025343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzcwMjUzNDMifQ.rhkNqNOYdzQ3j5ZJX6cPO3lTAGj7Rad3os5GeO9CPNk&v=4
-  email: me@snazzah.com
-  name: Snazzah
-  url: https://snazzah.com/
-  username: snazzah
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/7025343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzcwMjUzNDMifQ.VA_yW65Pmi6JqmUs6cWeZMg_5ruPkPSiHA_hA6cAp_w&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@snazzah.com
+    name: Snazzah
+    url: https://snazzah.com/
+    username: snazzah
 bugs: https://github.com/Snazzah/vuepress-plugin-jsonld/issues
 category: plugin
 date: '2022-04-06T04:32:37.418Z'
 deprecated: false
 description: VuePress plugin for adding JSON-LD to pages
-downloads: null
+downloads: ~
 homepage: https://github.com/Snazzah/vuepress-plugin-jsonld#readme
 keywords:
-- linkeddata
-- jsonld
-- vuepress
+  - linkeddata
+  - jsonld
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: me@snazzah.com
+    username: snazzah
 name: vuepress-plugin-jsonld
 npm: https://www.npmjs.com/package/vuepress-plugin-jsonld
 publisher:
-  avatar: null
-  email: me@snazzah.com
-  name: null
-  url: null
-  username: snazzah
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@snazzah.com
+    username: snazzah
 repository: https://github.com/Snazzah/vuepress-plugin-jsonld
 score: 0.39879174041772586
 stars: 0

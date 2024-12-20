@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/70450445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzcwNDUwNDQ1In0.9JhY3UchLOqOyliz7f6pQNdgGMIVwfLMNrYBLPUVuYU&v=4
-  email: anthony@panelbear.com
-  name: Anthony N. Simon
-  url: null
-  username: anthonynsimon
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/70450445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzcwNDUwNDQ1In0.o79gk3ToBNIwiyFVL02ttmLpP_xBbAOwLkrEtPz_WY8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: anthony@panelbear.com
+    name: Anthony N. Simon
+    username: anthonynsimon
 bugs: https://github.com/panelbearhq/vuepress-plugin-panelbear/issues
 category: plugin
 date: '2021-01-16T13:05:07.304Z'
 deprecated: false
 description: Official Panelbear Vuepress Plugin
-downloads: null
+downloads: ~
 homepage: https://github.com/panelbearhq/vuepress-plugin-panelbear#readme
 keywords:
-- panelbear
-- analytics
-- vue
-- vuepress
-- plugin
-- vuepress-plugin
+  - panelbear
+  - analytics
+  - vue
+  - vuepress
+  - plugin
+  - vuepress-plugin
 license: Apache License 2.0
-maintainers: null
+maintainers:
+  - email: anthony@panelbear.com
+    username: anthonynsimon
 name: '@panelbear/vuepress-plugin-panelbear'
 npm: https://www.npmjs.com/package/%40panelbear%2Fvuepress-plugin-panelbear
 publisher:
-  avatar: null
-  email: anthony@panelbear.com
-  name: null
-  url: null
-  username: anthonynsimon
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: anthony@panelbear.com
+    username: anthonynsimon
 repository: https://github.com/panelbearhq/vuepress-plugin-panelbear
 score: 0.4627028224337285
 stars: 1

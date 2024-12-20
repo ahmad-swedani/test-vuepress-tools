@@ -1,28 +1,33 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/47939026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzQ3OTM5MDI2In0.dcoVIRwqjhSXvEUdUEtfrEHsDTRd0yqb3vowRbtjTfs&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/47939026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzQ3OTM5MDI2In0.8jyAZwU2ehuVG2FjbV-7ovLHyyUViVII3Zxga0IXFwQ&v=4
+  email: ~
+  name: ~
+  url: ~
   username: youpenglai
 bugs: https://github.com/youpenglai/vue-cli-plugin-vuepress/issues
 category: plugin
 date: '2020-02-29T04:29:04.014Z'
 deprecated: false
 description: vue-cli 3 plugin to add vue-cli-plugin-vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/youpenglai/vue-cli-plugin-vuepress#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 957737702@qq.com
+    username: ualazy
 name: vue-cli-plugin-ypl-vuepress
 npm: https://www.npmjs.com/package/vue-cli-plugin-ypl-vuepress
 publisher:
-  avatar: null
-  email: 957737702@qq.com
-  name: null
-  url: null
-  username: ualazy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 957737702@qq.com
+    username: ualazy
 repository: https://github.com/youpenglai/vue-cli-plugin-vuepress
 score: 0.45700808574977625
 stars: 0

@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/96685951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91Lzk2Njg1OTUxIn0.idohK8z0O_o2k9S2mSpVIWt-tOAX-wVrcEcaS7IfTQk&v=4
-  email: shentuzhigang@shentuzhigang.cn
-  name: Starzkg
-  url: https://shentuzhigang.cn
-  username: vuepress-star
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/96685951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91Lzk2Njg1OTUxIn0.i2XTPMJbSG0mJqlmVINJxB7C-_6Zd-uqIbXeeYv1EYA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@shentuzhigang.cn
+    name: Starzkg
+    url: https://shentuzhigang.cn
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-11-28T12:06:56.390Z'
 deprecated: false
 description: VuePress plugin - Star Components
-downloads: null
+downloads: ~
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-- vuepress-plugin
-- vuepress
-- plugin
-- github
+  - vuepress-plugin
+  - vuepress
+  - plugin
+  - github
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shentuzhigang@qq.com
+    username: starzkg
 name: '@starzkg/vuepress-plugin-components-star'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-components-star
 publisher:
-  avatar: null
-  email: shentuzhigang@qq.com
-  name: null
-  url: null
-  username: starzkg
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@qq.com
+    username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.1510616543233176
 stars: 1

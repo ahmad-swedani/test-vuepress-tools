@@ -1,33 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/87758778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91Lzg3NzU4Nzc4In0.4S148NBFVUzR2HnmQb7OY5idA_7s5J2AuRYUsa6HyBA&v=4
-  email: null
-  name: aibayanyu
-  url: null
-  username: yanyu-fe
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/87758778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91Lzg3NzU4Nzc4In0.6p9_4-pRcgKmOkW8liSyprtLYxFIiTk58zjSM33mKLU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: aibayanyu
 bugs: https://github.com/yanyu-fe/vuepress-plugins/issues
 category: theme
 date: '2022-05-31T15:14:29.102Z'
 deprecated: false
 description: Dumi theme of VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/yanyu-fe/vuepress-plugins
 keywords:
-- vuepress-theme
-- vuepress
-- theme
-- default
-- dumi
-license: false
-maintainers: null
+  - vuepress-theme
+  - vuepress
+  - theme
+  - default
+  - dumi
+license: ~
+maintainers:
+  - email: aibayanyu@qq.com
+    username: aibayanyu
 name: '@yanyu-fe/vuepress-theme-dumi'
 npm: https://www.npmjs.com/package/%40yanyu-fe%2Fvuepress-theme-dumi
 publisher:
-  avatar: null
-  email: aibayanyu@qq.com
-  name: null
-  url: null
-  username: aibayanyu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: aibayanyu@qq.com
+    username: aibayanyu
 repository: https://github.com/yanyu-fe/vuepress-plugins
 score: 0.5872766414426488
 stars: 22

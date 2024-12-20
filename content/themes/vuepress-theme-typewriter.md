@@ -1,28 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2796198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzI3OTYxOTgifQ.ppWGIu0G4qzeZdY8Z88BSniUk8H5syA_OI_82CzjEKc&v=4
-  email: m@ake.kr
-  name: mAKEkr
-  url: null
-  username: makekr
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/2796198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzI3OTYxOTgifQ.XchAv6Vzzr5mnKCyi0MEaiOkgEn2QXXu1EJKOgbV_FM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: m@ake.kr
+    name: mAKEkr
+    username: makekr
 bugs: https://github.com/mAKEkr/vuepress-theme-typewriter/issues
 category: theme
 date: '2020-09-30T19:47:42.834Z'
 deprecated: false
 description: A VuePress Blog Theme
-downloads: null
+downloads: ~
 homepage: https://github.com/mAKEkr/vuepress-theme-typewriter#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: m@ake.kr
+    username: makekr
 name: vuepress-theme-typewriter
 npm: https://www.npmjs.com/package/vuepress-theme-typewriter
 publisher:
-  avatar: null
-  email: m@ake.kr
-  name: null
-  url: null
-  username: makekr
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: m@ake.kr
+    username: makekr
 repository: https://github.com/mAKEkr/vuepress-theme-typewriter
 score: 0.45788002820386364
 stars: 13

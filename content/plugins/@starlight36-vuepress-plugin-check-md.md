@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.cis3FA7O7adEMqfo1VHCa0OYN0ZVT768AHaBsa4OU9g&v=4
-  email: chl814@foxmail.com
-  name: ulivz
-  url: null
-  username: ulivz
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.K5WFiIl8wV-BVCrkMUMCwSRMC8hiqUOxPjyfrRIRMdY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ulivz
 bugs: https://github.com/ulivz/vuepress-plugin-check-md/issues
 category: plugin
 date: '2020-11-22T01:25:51.184Z'
 deprecated: false
 description: checks dead links of markdown
-downloads: null
+downloads: ~
 homepage: https://github.com/ulivz/vuepress-plugin-check-md#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: starlight36@163.com
+    username: starlight36
 name: '@starlight36/vuepress-plugin-check-md'
 npm: https://www.npmjs.com/package/%40starlight36%2Fvuepress-plugin-check-md
 publisher:
-  avatar: null
-  email: starlight36@163.com
-  name: null
-  url: null
-  username: starlight36
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: starlight36@163.com
+    username: starlight36
 repository: https://github.com/ulivz/vuepress-plugin-check-md
 score: 0.05368982440851702
 stars: 25

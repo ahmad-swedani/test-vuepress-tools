@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8622362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91Lzg2MjIzNjIifQ.KkxgoPtEKZDKHova_mg7bTtOrFmxpkcH-PMNrrAw9iQ&v=4
-  email: imsqrtthree@gmail.com
-  name: sqrtthree
-  url: null
-  username: linhe0x0
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/8622362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91Lzg2MjIzNjIifQ.5vbjrTCofjk10_FYPkXg2evOUaZHdfDTfmtFXuZwWnQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: imsqrtthree@gmail.com
+    name: sqrtthree
 bugs: https://github.com/sqrthree/vuepress-theme-jian/issues
 category: theme
 date: '2020-02-27T15:39:26.672Z'
 deprecated: false
 description: Just a vuepress theme.
-downloads: null
+downloads: ~
 homepage: https://github.com/sqrthree/vuepress-theme-jian#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: sqrtthree@foxmail.com
+    username: sqrtthree
 name: vuepress-theme-jian
 npm: https://www.npmjs.com/package/vuepress-theme-jian
 publisher:
-  avatar: null
-  email: sqrtthree@foxmail.com
-  name: null
-  url: null
-  username: sqrtthree
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sqrtthree@foxmail.com
+    username: sqrtthree
 repository: https://github.com/sqrthree/vuepress-theme-jian
 score: 0.40771333702980495
 stars: 0

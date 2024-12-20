@@ -1,31 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/41458459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzQxNDU4NDU5In0.6uvnXgUCdNqS-HuMNfjNqyUuHLrTkFFQLXhoi5NGc5M&v=4
-  email: yuan.zx@outlook.com
-  name: Celeste
-  url: null
-  username: yzx9
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/41458459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzQxNDU4NDU5In0.Jd4NY5C_4s2_mnixMABFzD2-3EIz_GcuDlBG5GhrFYE&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: yuan.zx@outlook.com
+    name: Celeste
 bugs: https://github.com/nsznsznjsz/blog/issues
 category: theme
 date: '2021-07-05T00:37:53.696Z'
 deprecated: false
 description: Vuepress blog theme
-downloads: null
+downloads: ~
 homepage: https://github.com/nsznsznjsz/blog/tree/master/packages/theme-celesta#readme
 keywords:
-- blog
-- vuepress
-- vuepress-theme
+  - blog
+  - vuepress
+  - vuepress-theme
 license: Other
-maintainers: null
+maintainers:
+  - email: nsznsznjsz@outlook.com
+    username: nsznsznjsz
 name: '@celesta/vuepress-theme-celesta'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-theme-celesta
 publisher:
-  avatar: null
-  email: nsznsznjsz@outlook.com
-  name: null
-  url: null
-  username: nsznsznjsz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: nsznsznjsz@outlook.com
+    username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
 score: 0.5162852320480927
 stars: 4

@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16383815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzE2MzgzODE1In0.J4_audQKH0W4cLe0BOFg2RawZhbbGUzuko_dfKUaYWQ&v=4
-  email: make.app.ts@gmail.com
-  name: mya-ake
-  url: null
-  username: mya-ake
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/16383815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzE2MzgzODE1In0.QJnagQJ1ntv2V2JKSKIkIP-ywgpceWm24-tS9KiUk6g&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: make.app.ts@gmail.com
+    name: mya-ake
+    username: mya-ake
 bugs: https://github.com/mya-ake/vuepress-plugin-component-catalog/issues
 category: plugin
 date: '2019-03-26T10:23:42.450Z'
 deprecated: false
 description: Generating a component catalog of Vue.js.
-downloads: null
+downloads: ~
 homepage: https://github.com/mya-ake/vuepress-plugin-component-catalog#readme
 keywords:
-- vue.js
-- vuepress
-- component
-- catalog
+  - vue.js
+  - vuepress
+  - component
+  - catalog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: make.app.ts@gmail.com
+    username: mya-ake
 name: vuepress-plugin-component-catalog
 npm: https://www.npmjs.com/package/vuepress-plugin-component-catalog
 publisher:
-  avatar: null
-  email: make.app.ts@gmail.com
-  name: null
-  url: null
-  username: mya-ake
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: make.app.ts@gmail.com
+    username: mya-ake
 repository: https://github.com/mya-ake/vuepress-plugin-component-catalog
 score: 0.3902322275690464
 stars: 28

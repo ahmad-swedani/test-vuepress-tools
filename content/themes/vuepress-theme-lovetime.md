@@ -1,28 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12842804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzEyODQyODA0In0.C66XXX2V7caJM31lBd60oo3ye8NEq7msHfQ1op-r4AA&v=4
-  email: imwarn@163.com
-  name: Warn
-  url: null
-  username: warn
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/12842804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzEyODQyODA0In0.2H_44n5Qgp7O6fXZaeSyrdiXYzyiFuoOQCJ_EM-WKl8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: imwarn@163.com
+    name: Warn
+    username: warn
 bugs: https://github.com/WangEn/vuepress-theme-lovetime/issues
 category: theme
 date: '2022-04-21T10:35:13.463Z'
 deprecated: false
-description: "lovetime\u81EA\u5B9A\u4E49\u4E3B\u9898"
-downloads: null
+description: lovetime自定义主题
+downloads: ~
 homepage: https://github.com/WangEn/vuepress-theme-lovetime#readme
-keywords: null
+keywords: ~
 license: Apache License 2.0
-maintainers: null
+maintainers:
+  - email: imwarn@163.com
+    username: warn
 name: vuepress-theme-lovetime
 npm: https://www.npmjs.com/package/vuepress-theme-lovetime
 publisher:
-  avatar: null
-  email: imwarn@163.com
-  name: null
-  url: null
-  username: warn
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: imwarn@163.com
+    username: warn
 repository: https://github.com/WangEn/vuepress-theme-lovetime
 score: 0.031534506429580174
 stars: 0

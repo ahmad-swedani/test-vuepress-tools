@@ -1,35 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48642166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzQ4NjQyMTY2In0.cVinE9dd88rmAUF7IgNMPhd5UZC6olawrSMGpKc64so&v=4
-  email: hi@yue.dev
-  name: Justin Wang
-  url: null
-  username: hiyue
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48642166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzQ4NjQyMTY2In0.amXWIzhY-MX-idjJgzJwCtntvoHLF3U3c6Q4xYhlEoo&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: hi@yue.dev
+    name: Justin Wang
+    username: hiyue
 bugs: https://github.com/HiYue/vuepress-plugin-contact-us/issues
 category: plugin
 date: '2019-07-22T00:42:43.783Z'
 deprecated: false
 description: 'Vuepress plugin: Contact Us Form'
-downloads: null
+downloads: ~
 homepage: https://github.com/HiYue/vuepress-plugin-contact-us#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- contact us form
-- vue
-- vuepress
-- contact us form generator for vuepress
-- contact us
-license: false
-maintainers: null
+  - vuepress
+  - vuepress-plugin
+  - contact us form
+  - vue
+  - vuepress
+  - contact us form generator for vuepress
+  - contact us
+license: ~
+maintainers:
+  - email: hi@yue.dev
+    username: hiyue
 name: vuepress-plugin-contact-us
 npm: https://www.npmjs.com/package/vuepress-plugin-contact-us
 publisher:
-  avatar: null
-  email: hi@yue.dev
-  name: null
-  url: null
-  username: hiyue
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: hi@yue.dev
+    username: hiyue
 repository: https://github.com/HiYue/vuepress-plugin-contact-us
 score: 0.3236382308860054
 stars: 6

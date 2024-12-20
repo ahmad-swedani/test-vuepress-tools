@@ -1,36 +1,44 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25240064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzI1MjQwMDY0In0.Lvq3Vw5yP1yiuAuedOaHtMmu_RIA7CuduTJ1izBp4os&v=4
-  email: 2434387555@qq.com
-  name: JoeyBling
-  url: https://zhousiwei.gitee.io
-  username: zhousiwei
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/25240064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI1MjQwMDY0In0.rm09c5AFfeuLE7DdPhlZvK4NZWJ3WlPiYKGbtYcs3oM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    name: JoeyBling
+    url: https://zhousiwei.gitee.io
+    username: zhousiwei
 bugs: https://github.com/JoeyBling/vuepress-theme-yilia-plus/issues
 category: theme
 date: '2019-09-20T10:06:40.639Z'
 deprecated: false
-description: "\u4E00\u4E2A\u7B80\u6D01\u4F18\u96C5\u7684VuePress\u4E3B\u9898 A simple\
-  \ and elegant theme for VuePress."
-downloads: null
+description: 一个简洁优雅的VuePress主题 A simple and elegant theme for VuePress.
+downloads: ~
 homepage: https://github.com/JoeyBling/vuepress-theme-yilia-plus/
 keywords:
-- vue
-- vuepress
-- vuepress-theme
-- live2d
-- generator
-- customization
-- yilia-plus
+  - vue
+  - vuepress
+  - vuepress-theme
+  - live2d
+  - generator
+  - customization
+  - yilia-plus
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2434387555@qq.com
+    username: zhousiwei
 name: vuepress-theme-yilia-plus
 npm: https://www.npmjs.com/package/vuepress-theme-yilia-plus
 publisher:
-  avatar: null
-  email: 2434387555@qq.com
-  name: null
-  url: null
-  username: zhousiwei
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-theme-yilia-plus
 score: 0.3922412519148434
 stars: 49

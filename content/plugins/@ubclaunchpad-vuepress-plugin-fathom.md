@@ -1,28 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12406312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzEyNDA2MzEyIn0.d83YJb77Fd2Ev32aWXpaPnZe-FOQKfRUPuTLQ4UK_YU&v=4
-  email: null
-  name: UBC Launch Pad
-  url: null
-  username: ubclaunchpad
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/12406312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzEyNDA2MzEyIn0.CIDxRfUjxvwBL5V88X6NlbI3EYiPGtdEtq5AYf8edbU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: UBC Launch Pad
 bugs: https://github.com/ubclaunchpad/vuepress-plugin-fathom/issues
 category: plugin
 date: '2020-06-03T15:42:07.229Z'
 deprecated: false
 description: Vuepress plugin for Fathom Analytics
-downloads: null
+downloads: ~
 homepage: https://github.com/ubclaunchpad/vuepress-plugin-fathom#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: robertlin1@gmail.com
+    username: bobheadxi
+  - email: kimoantiqe@hotmail.com
+    username: kimoantiqe
 name: '@ubclaunchpad/vuepress-plugin-fathom'
 npm: https://www.npmjs.com/package/%40ubclaunchpad%2Fvuepress-plugin-fathom
 publisher:
-  avatar: null
-  email: robertlin1@gmail.com
-  name: null
-  url: null
-  username: bobheadxi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: robertlin1@gmail.com
+    username: bobheadxi
 repository: https://github.com/ubclaunchpad/vuepress-plugin-fathom
 score: 0.45050541699564833
 stars: 0

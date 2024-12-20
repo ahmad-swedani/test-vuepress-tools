@@ -1,32 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
-  email: 1700011071@pku.edu.cn
-  name: Shigma
-  url: null
-  username: vuepress
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1700011071@pku.edu.cn
+    name: Shigma
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2021-10-01T22:55:58.256Z'
 deprecated: false
 description: VuePress plugin for clean URLs
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- clean-url
-- plugin
-- url
-- vuepress
+  - clean-url
+  - plugin
+  - url
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: anastiour@gmail.com
+    username: tanas
 name: vuepress-plugin-clean-urls-hikaya
 npm: https://www.npmjs.com/package/vuepress-plugin-clean-urls-hikaya
 publisher:
-  avatar: null
-  email: anastiour@gmail.com
-  name: null
-  url: null
-  username: tanas
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: anastiour@gmail.com
+    username: tanas
 repository: https://github.com/vuepress/vuepress-community
 score: 0.17838770556577116
 stars: 82

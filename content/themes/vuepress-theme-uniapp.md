@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.0M9G4CJfu-xi4rweavooYnFypHySZvRwdEKh-vre_MM&v=4
-  email: null
-  name: Evan You
-  url: null
-  username: vuejs
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.BvbADjVAfEVJ06dRnhjr_UNtgEH7IbHYbH2eXsUnLPA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2018-12-21T07:58:59.012Z'
 deprecated: false
 description: Default theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1289739946@qq.com
+    username: hl1223
 name: vuepress-theme-uniapp
 npm: https://www.npmjs.com/package/vuepress-theme-uniapp
 publisher:
-  avatar: null
-  email: 1289739946@qq.com
-  name: null
-  url: null
-  username: hl1223
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1289739946@qq.com
+    username: hl1223
 repository: https://github.com/vuejs/vuepress
 score: 0.14895250473421395
 stars: 22618

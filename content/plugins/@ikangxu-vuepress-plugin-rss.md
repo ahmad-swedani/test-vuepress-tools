@@ -1,30 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17905150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzE3OTA1MTUwIn0.70XzB6EEXhttMdssKBqFeVqHg_QQtuIz5hph9ZICBw8&v=4
-  email: ikangxu@outlook.com
-  name: IKangXu
-  url: null
-  username: IKangXu
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/17905150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzE3OTA1MTUwIn0.dtt8XcAThJ1A0hEMlhG_AdRLa2n0g4CjFYQqYKxhPqI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ikangxu@outlook.com
+    name: IKangXu
 bugs: https://github.com/IKangXu/vuepress-plugin-rss/issues
 category: plugin
 date: '2020-06-03T03:24:03.335Z'
 deprecated: false
 description: rss plugin for vuepress-theme-ic
-downloads: null
+downloads: ~
 homepage: https://github.com/IKangXu?tab=repositories
 keywords:
-- vuepress-theme-ic
-- rss
+  - vuepress-theme-ic
+  - rss
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ikangxu@qq.com
+    username: kangxu
 name: '@ikangxu/vuepress-plugin-rss'
 npm: https://www.npmjs.com/package/%40ikangxu%2Fvuepress-plugin-rss
 publisher:
-  avatar: null
-  email: ikangxu@qq.com
-  name: null
-  url: null
-  username: kangxu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ikangxu@qq.com
+    username: kangxu
 repository: https://github.com/IKangXu/vuepress-plugin-rss
 score: 0.4072754386800855
 stars: 0

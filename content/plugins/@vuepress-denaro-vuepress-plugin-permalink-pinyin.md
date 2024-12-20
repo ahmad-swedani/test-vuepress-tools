@@ -1,36 +1,46 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.8OXBHQpoY7d6CzCf4LOTnBPDLEqPHmoQ15RhIDQTMTo&v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.rQdKqK_ns40yNuRVnoM-j8LW1mpPXG_co30xZs0oAzY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-10T06:18:27.921Z'
 deprecated: false
-description: "A VuePress plugin which convert Chinese title to transliterate permalink.\u4E00\
-  \u4E2A VuePress \u63D2\u4EF6\uFF0C\u5C06\u4E2D\u6587\u6807\u9898\u8F6C\u6362\u4E3A\
-  \u97F3\u8BD1\u6C38\u4E45\u94FE\u63A5."
-downloads: null
-homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-permalink-pinyin#readme
+description: >-
+  A VuePress plugin which convert Chinese title to transliterate permalink.一个
+  VuePress 插件，将中文标题转换为音译永久链接.
+downloads: ~
+homepage: >-
+  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-permalink-pinyin#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- theme
-- denaro
-- permalink-pinyin
-- pinyin
+  - vuepress
+  - vuepress-plugin
+  - theme
+  - denaro
+  - permalink-pinyin
+  - pinyin
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: '@vuepress-denaro/vuepress-plugin-permalink-pinyin'
-npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-permalink-pinyin
+npm: >-
+  https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-permalink-pinyin
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5104264256325926
 stars: 5

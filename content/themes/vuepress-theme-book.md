@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1302282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzEzMDIyODIifQ.2Aq-ENFlsfZpI1g6Pp_Ix5rw9CkrUHNe7m3-qvGmGnU&v=4
-  email: null
-  name: cyrilf
-  url: null
-  username: cyrilf
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/1302282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzEzMDIyODIifQ._Mm41tYKeM8aeJikvM5T6fo1GZV4akpEg_izVuQXofU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: cyrilf
 bugs: https://github.com/cyrilf/vuepress-theme-book/issues
 category: theme
 date: '2022-03-18T21:55:55.711Z'
 deprecated: false
 description: A Vuepress theme inspired by gitbook aesthetics
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-book.netlify.app/
 keywords:
-- vuepress
-- theme
-- gitbook
-- vuepress-theme
-license: false
-maintainers: null
+  - vuepress
+  - theme
+  - gitbook
+  - vuepress-theme
+license: ~
+maintainers:
+  - email: cyrilf7x@gmail.com
+    username: cyrilf
 name: vuepress-theme-book
 npm: https://www.npmjs.com/package/vuepress-theme-book
 publisher:
-  avatar: null
-  email: cyrilf7x@gmail.com
-  name: null
-  url: null
-  username: cyrilf
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: cyrilf7x@gmail.com
+    username: cyrilf
 repository: https://github.com/cyrilf/vuepress-theme-book
 score: 0.5470652392146793
 stars: 118

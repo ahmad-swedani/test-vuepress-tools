@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/65664118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzY1NjY0MTE4In0.rHL2UI-TXfojsUa-Pk2Ff7mx-nRxWhxoo1Rt29uYNds&v=4
-  email: null
-  name: Nyakku Shigure
-  url: null
-  username: moefyit
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/65664118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzY1NjY0MTE4In0.qGdVC2lem9ao6l6UlE_XKygF2C6kN6wLJoRJD6mQnH8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Nyakku Shigure
 bugs: https://github.com/moefyit/vuepress-plugin-cursor-effects/issues
 category: plugin
 date: '2022-05-21T09:54:40.613Z'
 deprecated: false
 description: Add a cute click effect to your mouse in your vuepress!
-downloads: null
+downloads: ~
 homepage: https://github.com/moefyit/vuepress-plugin-cursor-effects#readme
 keywords:
-- vuepress
-- plugin
-- cursor
-- effects
+  - vuepress
+  - plugin
+  - cursor
+  - effects
 license: MIT License
-maintainers: null
+maintainers:
+  - email: sigure.qaq@gmail.com
+    username: sigure_mo
 name: vuepress-plugin-cursor-effects
 npm: https://www.npmjs.com/package/vuepress-plugin-cursor-effects
 publisher:
-  avatar: null
-  email: sigure.qaq@gmail.com
-  name: null
-  url: null
-  username: sigure_mo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sigure.qaq@gmail.com
+    username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-cursor-effects
 score: 0.5673242622989161
 stars: 23

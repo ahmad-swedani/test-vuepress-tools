@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/37999218?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzM3OTk5MjE4In0.sVHVKQTKBprvtcgGx9R6wQWi4CmD_JeW4H0yCawcMWY&v=4
-  email: null
-  name: Jabin
-  url: null
-  username: JabinPeng
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/37999218?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzM3OTk5MjE4In0.6sLfMp2zjU2AYj7fba1lZ3Oc5X-jCPotSc-78Bl55WY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Jabin
 bugs: https://github.com/JabinPeng/pengBlog/issues
 category: theme
 date: '2022-06-15T09:31:37.596Z'
 deprecated: false
 description: Jabin's own theme.
-downloads: null
+downloads: ~
 homepage: https://www.zpzpup.com
 keywords:
-- vuepress
-- vue
-- theme
-license: false
-maintainers: null
+  - vuepress
+  - vue
+  - theme
+license: ~
+maintainers:
+  - email: 690996726@qq.com
+    username: jabin_l
 name: vuepress-theme-jabinblog
 npm: https://www.npmjs.com/package/vuepress-theme-jabinblog
 publisher:
-  avatar: null
-  email: 690996726@qq.com
-  name: null
-  url: null
-  username: jabin_l
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 690996726@qq.com
+    username: jabin_l
 repository: https://github.com/JabinPeng/pengBlog
 score: 0.1797407248725787
 stars: 109

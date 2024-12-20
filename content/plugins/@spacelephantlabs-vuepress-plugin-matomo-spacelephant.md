@@ -1,35 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/45766545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ1NzY2NTQ1In0.Am_GY-KDffGCwsSfEMivK6wLCtvn4lq0Rx47WDclx7g&v=4
-  email: developers@spacelephant.org
-  name: Space Elephant SAS
-  url: null
-  username: spacelephantlabs
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/45766545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ1NzY2NTQ1In0.zAlDrnVKccunl_y7wcQ24ESLxiDHLZx3y-c6UZVJuhk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: developers@spacelephant.org
+    name: Space Elephant SAS
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant/issues
 category: plugin
 date: '2021-06-21T13:26:07.618Z'
 deprecated: false
 description: Matomo plugin for vuepress >= 1.0 for Space Elephant's projects
-downloads: null
+downloads: ~
 homepage: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant/
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- matomo
-- spacelephant
-- space elephant
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - matomo
+  - spacelephant
+  - space elephant
 license: MIT License
-maintainers: null
+maintainers:
+  - email: dev@dlecan.com
+    username: dlecan
 name: '@spacelephantlabs/vuepress-plugin-matomo-spacelephant'
-npm: https://www.npmjs.com/package/%40spacelephantlabs%2Fvuepress-plugin-matomo-spacelephant
+npm: >-
+  https://www.npmjs.com/package/%40spacelephantlabs%2Fvuepress-plugin-matomo-spacelephant
 publisher:
-  avatar: null
-  email: developers@spacelephant.org
-  name: null
-  url: null
-  username: spacelephantbot
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: developers@spacelephant.org
+    username: spacelephantbot
 repository: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant
 score: 0.42928710975482753
 stars: 0

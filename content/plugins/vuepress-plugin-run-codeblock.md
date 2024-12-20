@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24841685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzI0ODQxNjg1In0.UxZUNmlLYWPHxH-B_-8lWT8PNwVZbLkpXr9cpVAhuBo&v=4
-  email: qinwencheng719@gmail.com
-  name: qinwencheng
-  url: null
-  username: qinwencheng
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/24841685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzI0ODQxNjg1In0.y26d6u7kar_59_p7r0_0rPZwH2fRtJKEq7_bISVkTfU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: qinwencheng719@gmail.com
+    name: qinwencheng
+    username: qinwencheng
 bugs: https://github.com/qinwencheng/vuepress-plugin-run-codeblock/issues
 category: plugin
 date: '2022-04-06T16:37:37.744Z'
 deprecated: false
 description: run simple code in vuepress markdowm containner
-downloads: null
+downloads: ~
 homepage: https://github.com/qinwencheng/vuepress-plugin-run-codeblock#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
-- run
-- markdowm
-license: false
-maintainers: null
+  - documentation
+  - generator
+  - vue
+  - vuepress
+  - run
+  - markdowm
+license: ~
+maintainers:
+  - email: qinwencheng719@gmail.com
+    username: qinwencheng
 name: vuepress-plugin-run-codeblock
 npm: https://www.npmjs.com/package/vuepress-plugin-run-codeblock
 publisher:
-  avatar: null
-  email: qinwencheng719@gmail.com
-  name: null
-  url: null
-  username: qinwencheng
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: qinwencheng719@gmail.com
+    username: qinwencheng
 repository: https://github.com/qinwencheng/vuepress-plugin-run-codeblock
 score: 0.5087533121134064
 stars: 0

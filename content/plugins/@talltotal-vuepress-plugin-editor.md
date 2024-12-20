@@ -1,33 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17965996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzE3OTY1OTk2In0.ZxmuGGZGs9Pkxk_CS4QWEdFp733vUtJCa2I8rQWveOo&v=4
-  email: null
-  name: talltotal
-  url: null
-  username: talltotal
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/17965996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzE3OTY1OTk2In0.SithBTAgGfZZNIDqKRxzdT3ItbgUMiTwgIa78HC3QfQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: talltotal
 bugs: https://github.com/talltotal/vuepress-plugin-editor/issues
 category: plugin
 date: '2021-06-02T03:17:21.550Z'
 deprecated: false
 description: editor plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://talltotal.github.io/vuepress-plugin-editor/
 keywords:
-- rich editor
-- editor
-- vue
-- vuepress
-- vuepress-plugin
-license: false
-maintainers: null
+  - rich editor
+  - editor
+  - vue
+  - vuepress
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: talltotal@163.com
+    username: talltotal
 name: '@talltotal/vuepress-plugin-editor'
 npm: https://www.npmjs.com/package/%40talltotal%2Fvuepress-plugin-editor
 publisher:
-  avatar: null
-  email: talltotal@163.com
-  name: null
-  url: null
-  username: talltotal
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: talltotal@163.com
+    username: talltotal
 repository: https://github.com/talltotal/vuepress-plugin-editor
 score: 0.48868444254450094
 stars: 2

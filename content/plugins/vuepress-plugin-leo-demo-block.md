@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.SCXXWhvD6DJ0jXpxnehZfa4I6BYNvl2kGGAwaLaDBZg&v=4
-  email: null
-  name: springleo
-  url: null
-  username: lq782655835
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.Kzo9Dz-US61sGaLseDitT2iChDn-U2ShLOGWF1QFHgU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: springleo
 bugs: https://github.com/lq782655835/vuepress-plugin-demo-block/issues
 category: plugin
 date: '2020-04-14T07:26:08.461Z'
 deprecated: false
 description: demo block for vuepress both support vue and react
-downloads: null
+downloads: ~
 homepage: https://github.com/lq782655835/vuepress-plugin-demo-block#readme
 keywords:
-- vuepress-plugin
-- demo-block
+  - vuepress-plugin
+  - demo-block
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 18521566707@163.com
+    username: springleo
 name: vuepress-plugin-leo-demo-block
 npm: https://www.npmjs.com/package/vuepress-plugin-leo-demo-block
 publisher:
-  avatar: null
-  email: 18521566707@163.com
-  name: null
-  url: null
-  username: springleo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 18521566707@163.com
+    username: springleo
 repository: https://github.com/lq782655835/vuepress-plugin-demo-block
 score: 0.46373743904034026
 stars: 5

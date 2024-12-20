@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1093590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzEwOTM1OTAifQ.lW7dzAFaMV34wll7GpYesYLc1tonhZVIcfKfccn0XRo&v=4
-  email: rashfael@isobeef.org
-  name: rashfael
-  url: null
-  username: rash
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/1093590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzEwOTM1OTAifQ.fJQl9KJFTM_ykHEhlzXoyiac5PShhZahDCuTCSDxv6M&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: rashfael@isobeef.org
+    name: rashfael
+    username: rash
 bugs: https://github.com/rashfael/daumenkino/issues
 category: theme
 date: '2020-05-11T13:23:51.546Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://github.com/rashfael/daumenkino#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: rashfael@isobeef.org
+    username: rash
 name: vuepress-theme-daumenkino
 npm: https://www.npmjs.com/package/vuepress-theme-daumenkino
 publisher:
-  avatar: null
-  email: rashfael@isobeef.org
-  name: null
-  url: null
-  username: rash
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: rashfael@isobeef.org
+    username: rash
 repository: https://github.com/rashfael/daumenkino
 score: 0.2788501526188258
 stars: 10

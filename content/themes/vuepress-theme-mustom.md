@@ -1,32 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25066570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzI1MDY2NTcwIn0.-If-WySE7MSRzgGtbMypYxxi6dTSmWaYfksBoYZ7Qpo&v=4
-  email: jinyao.ma@outlook.com
-  name: jinyaoMa
-  url: null
-  username: ma-jinyao
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/25066570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzI1MDY2NTcwIn0.x9wlSNMkfVHNIPgmChw_zqsT0bvOKaTzhA-Klr2P94Y&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jinyao.ma@outlook.com
+    name: jinyaoMa
+    username: ma-jinyao
 bugs: https://github.com/jinyaoMa/vuepress-theme-mustom/issues
 category: theme
 date: '2020-09-01T17:04:08.376Z'
 deprecated: false
-description: "Simple design theme for VuePress\uFF0CBlog\uFF0C\u8000 \u306E \u4E2A\
-  \u4EBA\u7F51\u7AD9 | Mark \u306E Personal Website (QQ Group: 595614161)"
-downloads: null
+description: >-
+  Simple design theme for VuePress，Blog，耀 の 个人网站 | Mark の Personal Website (QQ
+  Group: 595614161)
+downloads: ~
 homepage: https://github.com/jinyaoMa/vuepress-theme-mustom#readme
 keywords:
-- vuepress
-- vuepress-theme
-- mustom
+  - vuepress
+  - vuepress-theme
+  - mustom
 license: MIT License
-maintainers: null
+maintainers:
+  - email: jinyao.ma@outlook.com
+    username: ma-jinyao
 name: vuepress-theme-mustom
 npm: https://www.npmjs.com/package/vuepress-theme-mustom
 publisher:
-  avatar: null
-  email: jinyao.ma@outlook.com
-  name: null
-  url: null
-  username: ma-jinyao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jinyao.ma@outlook.com
+    username: ma-jinyao
 repository: https://github.com/jinyaoMa/vuepress-theme-mustom
 score: 0.34687811421227055
 stars: 26

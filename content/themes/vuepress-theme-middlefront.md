@@ -1,35 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5212214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzUyMTIyMTQifQ.EhOuH0XtUFIVSjE40puPUYv31J0SkO_D60WuHFtSbhk&v=4
-  email: null
-  name: gaoyi
-  url: Evan
-  username: xugaoyi
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/5212214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzUyMTIyMTQifQ.b-AVfbshMkgnmLr62nbcOIA_IWKvOMqy84pLQEv6Row&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: gaoyi
+    url: Evan
 bugs: https://github.com/xugaoyi/vuepress-theme-vdoing/issues
 category: theme
 date: '2021-07-20T10:29:21.925Z'
 deprecated: false
-description: "Vdoing theme for VuePress. \u4E00\u4E2A\u57FA\u4E8EVuePress\u7684\u77E5\
-  \u8BC6\u7BA1\u7406\u517C\u535A\u5BA2\u4E3B\u9898\u3002"
-downloads: null
+description: Vdoing theme for VuePress. 一个基于VuePress的知识管理兼博客主题。
+downloads: ~
 homepage: https://github.com/xugaoyi/vuepress-theme-vdoing#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- theme
-- blog
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - theme
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 823294139@qq.com
+    username: anwh
 name: vuepress-theme-middlefront
 npm: https://www.npmjs.com/package/vuepress-theme-middlefront
 publisher:
-  avatar: null
-  email: 823294139@qq.com
-  name: null
-  url: null
-  username: anwh
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 823294139@qq.com
+    username: anwh
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.17802507145792953
 stars: 4598

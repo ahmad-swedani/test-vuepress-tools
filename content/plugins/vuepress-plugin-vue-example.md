@@ -1,36 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2233663?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzIyMzM2NjMifQ.RZ6U3VUGZtCotEYZShFvjZ8D7B-IXpuZN3R3NV6fKO4&v=4
-  email: null
-  name: Giannis Koutsaftakis
-  url: null
-  username: kouts
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/2233663?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzIyMzM2NjMifQ.RXOXqLFEHA3gPsB7CZcZ7zEucH4oqRhayGyBHIGdxNg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Giannis Koutsaftakis
 bugs: https://github.com/kouts/vuepress-plugin-vue-example/issues
 category: plugin
 date: '2022-05-07T11:45:57.608Z'
 deprecated: false
-description: A Vuepress plugin to display Vue components' live examples and source
-  code inside documentation
-downloads: null
+description: >-
+  A Vuepress plugin to display Vue components' live examples and source code
+  inside documentation
+downloads: ~
 homepage: https://github.com/kouts/vuepress-plugin-vue-example#readme
 keywords:
-- vuepress
-- code
-- example
-- vue
-- demo
-- demo-code
-- documentation
+  - vuepress
+  - code
+  - example
+  - vue
+  - demo
+  - demo-code
+  - documentation
 license: MIT License
-maintainers: null
+maintainers:
+  - email: koutsaftakis@gmail.com
+    username: kouts
 name: vuepress-plugin-vue-example
 npm: https://www.npmjs.com/package/vuepress-plugin-vue-example
 publisher:
-  avatar: null
-  email: koutsaftakis@gmail.com
-  name: null
-  url: null
-  username: kouts
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: koutsaftakis@gmail.com
+    username: kouts
 repository: https://github.com/kouts/vuepress-plugin-vue-example
 score: 0.5975909362397476
 stars: 5

@@ -1,29 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/11868477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0MDAsIm5iZiI6MTczNDY3MDIwMCwicGF0aCI6Ii91LzExODY4NDc3In0.-FBEH6JATLsa27jmJGbmKj6XwGdXtpOKVRldj6N7kzs&v=4
-  email: null
-  name: justforuse
-  url: null
-  username: justforuse
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/11868477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzExODY4NDc3In0.w8ASHVgOAXEne7F4mknAB_KbQq9WjL_VK6HXcdFfh38&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: justforuse
 bugs: https://github.com/justforuse/vuepress-plugin-presentation-mode2/issues
 category: plugin
 date: '2021-12-10T02:50:35.975Z'
 deprecated: false
 description: Add presentation support for you vuepress website
-downloads: null
+downloads: ~
 homepage: https://github.com/justforuse/vuepress-plugin-presentation-mode2#readme
 keywords:
-- vuepress-plugin
-license: false
-maintainers: null
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: allenforuse@gmail.com
+    username: justforuse
 name: vuepress-plugin-presentation-mode2
 npm: https://www.npmjs.com/package/vuepress-plugin-presentation-mode2
 publisher:
-  avatar: null
-  email: allenforuse@gmail.com
-  name: null
-  url: null
-  username: justforuse
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: allenforuse@gmail.com
+    username: justforuse
 repository: https://github.com/justforuse/vuepress-plugin-presentation-mode2
 score: 0.48276323375023494
 stars: 0

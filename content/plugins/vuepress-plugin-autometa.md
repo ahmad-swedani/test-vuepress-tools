@@ -1,39 +1,48 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/246901?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzI0NjkwMSJ9.YhVBN65WU1Go448aKN3QyS4AhkKQFDcr2-glg-6_gnM&v=4
-  email: webmasterish@gmail.com
-  name: webmasterish
-  url: https://webmasterish.com
-  username: webmasterish
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/246901?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzI0NjkwMSJ9.b5n6hGfIhWiaYxNTcF1XVC5njYuu24uM1MM7BtiG9Y8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: webmasterish@gmail.com
+    name: webmasterish
+    url: https://webmasterish.com
+    username: webmasterish
 bugs: https://github.com/webmasterish/vuepress-plugin-autometa/issues
 category: plugin
 date: '2019-11-16T22:06:39.168Z'
 deprecated: false
 description: Auto meta tags plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/webmasterish/vuepress-plugin-autometa
 keywords:
-- vue
-- vuepress
-- plugin
-- vuepress-plugin
-- meta
-- meta-tags
-- social
-- social-metas
-- page
-- post
-- head
+  - vue
+  - vuepress
+  - plugin
+  - vuepress-plugin
+  - meta
+  - meta-tags
+  - social
+  - social-metas
+  - page
+  - post
+  - head
 license: MIT License
-maintainers: null
+maintainers:
+  - email: webmasterish@gmail.com
+    username: webmasterish
 name: vuepress-plugin-autometa
 npm: https://www.npmjs.com/package/vuepress-plugin-autometa
 publisher:
-  avatar: null
-  email: webmasterish@gmail.com
-  name: null
-  url: null
-  username: webmasterish
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: webmasterish@gmail.com
+    username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-autometa
 score: 0.3475967949278055
 stars: 40

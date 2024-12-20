@@ -1,35 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23313167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzIzMzEzMTY3In0.Pjd_128qKxRgY_w419_Go6hBri-wCvtVVdwqtRVfCow&v=4
-  email: qw13131wang@gmail.com
-  name: tolking
-  url: null
-  username: tolking
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/23313167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzIzMzEzMTY3In0.hrpbxiZUC6N2da_VOA-hXhyt3SLpp-mMusWjnoGPDr8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: qw13131wang@gmail.com
+    name: tolking
+    username: tolking
 bugs: https://github.com/tolking/vuepress-theme-ououe/issues
 category: theme
 date: '2020-12-02T06:46:03.476Z'
 deprecated: false
 description: A blog theme for VuePress by tolking
-downloads: null
+downloads: ~
 homepage: https://github.com/tolking/vuepress-theme-ououe
 keywords:
-- vue
-- vuepress
-- blog
-- blog-theme
-- vuepress-theme
-- light-theme
-- dark-theme
+  - vue
+  - vuepress
+  - blog
+  - blog-theme
+  - vuepress-theme
+  - light-theme
+  - dark-theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: qw13131wang@gmail.com
+    username: tolking
 name: vuepress-theme-ououe
 npm: https://www.npmjs.com/package/vuepress-theme-ououe
 publisher:
-  avatar: null
-  email: qw13131wang@gmail.com
-  name: null
-  url: null
-  username: tolking
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: qw13131wang@gmail.com
+    username: tolking
 repository: https://github.com/tolking/vuepress-theme-ououe
 score: 0.5534438839522795
 stars: 78

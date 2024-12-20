@@ -1,35 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6525873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzY1MjU4NzMifQ.u1NzKoovq5oOLJRQCPGVZY8M7GTftFhidEwVKnJEhIc&v=4
-  email: null
-  name: Andreas Martin
-  url: null
-  username: about-code
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/6525873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzY1MjU4NzMifQ.1g7yFzCEVROwnvwNa5rMGF1eB5lT_6AV8rtjb-RiWgE&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Andreas Martin
 bugs: https://github.com/about-code/vuepress-plugin-jsonld-playground/issues
 category: plugin
 date: '2022-01-25T21:20:35.588Z'
 deprecated: false
 description: A JSON-LD Playground component for vuepress (v1) and vuejs (v2).
-downloads: null
+downloads: ~
 homepage: https://github.com/about-code/vuepress-plugin-jsonld-playground#readme
 keywords:
-- vuepress
-- json-ld
-- linked
-- data
-- playground
-- vue
-- component
+  - vuepress
+  - json-ld
+  - linked
+  - data
+  - playground
+  - vue
+  - component
 license: MIT License
-maintainers: null
+maintainers:
+  - email: about-code@gmx.net
+    username: about-code-js
 name: vuepress-plugin-jsonld-playground
 npm: https://www.npmjs.com/package/vuepress-plugin-jsonld-playground
 publisher:
-  avatar: null
-  email: about-code@gmx.net
-  name: null
-  url: null
-  username: about-code-js
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: about-code@gmx.net
+    username: about-code-js
 repository: https://github.com/about-code/vuepress-plugin-jsonld-playground
 score: 0.49561482058603
 stars: 0

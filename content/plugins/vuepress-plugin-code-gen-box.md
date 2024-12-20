@@ -1,34 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16357724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91LzE2MzU3NzI0In0.iAA97C9KWj6-DPtKFfRmwSN9EaZ9lzsXObQ-52Pjn2k&v=4
-  email: null
-  name: falstack
-  url: null
-  username: falstack
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/16357724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzE2MzU3NzI0In0.cEtGpNcQ4-4M50iQC-Fbp65I2TZfIP5ermO04l-XDJg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: falstack
 bugs: https://github.com/falstack/vuepress-code-box/issues
 category: plugin
 date: '2019-09-10T02:25:12.822Z'
 deprecated: false
-description: "\U0001F4DD Demo and code plugin for vuepress"
-downloads: null
+description: 📝 Demo and code plugin for vuepress
+downloads: ~
 homepage: https://github.com/falstack/vuepress-code-box/
 keywords:
-- vue
-- code
-- demo
-- vuepress
-- demo-code
-- documentation
+  - vue
+  - code
+  - demo
+  - vuepress
+  - demo-code
+  - documentation
 license: MIT License
-maintainers: null
+maintainers:
+  - email: icesilt@outlook.com
+    username: falstack
 name: vuepress-plugin-code-gen-box
 npm: https://www.npmjs.com/package/vuepress-plugin-code-gen-box
 publisher:
-  avatar: null
-  email: icesilt@outlook.com
-  name: null
-  url: null
-  username: falstack
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: icesilt@outlook.com
+    username: falstack
 repository: https://github.com/falstack/vuepress-code-box
 score: 0.5104707811144898
 stars: 0

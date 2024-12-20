@@ -1,35 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/57286975?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzU3Mjg2OTc1In0.-DsjQRTGa9lXHBqWiZt93030wl5B4fwUEcLWq9NSs80&v=4
-  email: null
-  name: cavalheiro
-  url: null
-  username: eddievandeer
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/57286975?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4NjAsIm5iZiI6MTczNDY3MjY2MCwicGF0aCI6Ii91LzU3Mjg2OTc1In0.Fgsg3vKNRRKHniPe8HiQ4GQcPf1u2BgY43Gcuqd_AIY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: cavalheiro
 bugs: https://github.com/eddievandeer/vuepress-theme-vivek/issues
 category: theme
 date: '2022-03-02T08:19:04.315Z'
 deprecated: false
-description: "A simple style vuepress theme. \u4E00\u4E2A\u7B80\u7EA6\u98CE\u683C\u7684\
-  vuepress\u4E3B\u9898\u3002"
-downloads: null
+description: A simple style vuepress theme. 一个简约风格的vuepress主题。
+downloads: ~
 homepage: https://github.com/eddievandeer/vuepress-theme-vivek#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- theme
-- blog
-license: false
-maintainers: null
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - theme
+  - blog
+license: ~
+maintainers:
+  - email: eddievandeer@163.com
+    username: cavalheiro
 name: vuepress-theme-vivek
 npm: https://www.npmjs.com/package/vuepress-theme-vivek
 publisher:
-  avatar: null
-  email: eddievandeer@163.com
-  name: null
-  url: null
-  username: cavalheiro
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: eddievandeer@163.com
+    username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
 score: 0.49579989769885735
 stars: 3

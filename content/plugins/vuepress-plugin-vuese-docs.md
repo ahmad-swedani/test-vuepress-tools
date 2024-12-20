@@ -1,33 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/20984527?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzIwOTg0NTI3In0.QI4_Ip7ZFt_yIWRQOg5Cmc3sVwJrRp0YcEH_q4j-6u4&v=4
-  email: null
-  name: busyrat
-  url: null
-  username: busyrat
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/20984527?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzIwOTg0NTI3In0.-UYOgLIBtaS1vC2suzCFBmGhguQ9tYHfypU0eMrKlsI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: busyrat
 bugs: https://github.com/busyrat/blog/issues
 category: plugin
 date: '2019-08-21T08:37:00.089Z'
 deprecated: false
-description: "> \u57FA\u4E8E vuese \u81EA\u52A8\u751F\u6210\u9879\u76EE\u7EC4\u4EF6\
-  \u6587\u6863"
-downloads: null
+description: '> 基于 vuese 自动生成项目组件文档'
+downloads: ~
 homepage: https://github.com/busyrat/blog#readme
 keywords:
-- vuepress
-- vuese
-- vue-demo
-- vuepress-plugin
-license: false
-maintainers: null
+  - vuepress
+  - vuese
+  - vue-demo
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: mcmagni@163.com
+    username: mcmagni
 name: vuepress-plugin-vuese-docs
 npm: https://www.npmjs.com/package/vuepress-plugin-vuese-docs
 publisher:
-  avatar: null
-  email: mcmagni@163.com
-  name: null
-  url: null
-  username: mcmagni
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mcmagni@163.com
+    username: mcmagni
 repository: https://github.com/busyrat/blog
 score: 0.1784414786997976
 stars: 0

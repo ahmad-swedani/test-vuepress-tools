@@ -1,34 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/39508895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzM5NTA4ODk1In0.oDd_7-9y9L7L3AGDNyARLjpDGeeFzDmtHXxJZy6ZEso&v=4
-  email: null
-  name: boses
-  url: null
-  username: bosens-China
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/39508895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzM5NTA4ODk1In0.kHKxq_YhsHXcOQH0PLeC6E4i-RX5gXikTdNy2jKDL_g&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: boses
 bugs: https://github.com/bosens-China/Typescript-manual/issues
 category: plugin
 date: '2020-01-11T11:08:56.230Z'
 deprecated: false
-description: "Vuepress gold digging style copy code;vuePress\u6398\u91D1\u98CE\u683C\
-  \u590D\u5236\u4EE3\u7801"
-downloads: null
+description: Vuepress gold digging style copy code;vuePress掘金风格复制代码
+downloads: ~
 homepage: https://github.com/bosens-China/Typescript-manual#readme
 keywords:
-- vuePress
-- plugins
-- nuggets
-- code
-- copy
+  - vuePress
+  - plugins
+  - nuggets
+  - code
+  - copy
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1123598783@qq.com
+    username: cs-xy
 name: vuepress-plugin-nuggets-style-copy
 npm: https://www.npmjs.com/package/vuepress-plugin-nuggets-style-copy
 publisher:
-  avatar: null
-  email: 1123598783@qq.com
-  name: null
-  url: null
-  username: boses
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1123598783@qq.com
+    username: boses
 repository: https://github.com/bosens-China/Typescript-manual
 score: 0.18107991350297323
 stars: 52

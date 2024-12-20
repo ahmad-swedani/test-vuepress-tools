@@ -1,34 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/49757965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzQ5NzU3OTY1In0.Gke4IC-KaHlS2MgOKYNYfiPMTcahPZ_rJ1z6aExHXyk&v=4
-  email: null
-  name: Feng L.H.
-  url: null
-  username: zpfz
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/49757965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzQ5NzU3OTY1In0.lUlcty3A4wb-NOn0U-MrB3UyZ_T3EemnDC6lsehL2ZI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Feng L.H.
 bugs: https://github.com/zpfz/vuepress-plugin-homebadge/issues
 category: plugin
 date: '2020-03-28T09:40:15.416Z'
 deprecated: false
 description: A homepage badge plugin for AntDocs theme.
-downloads: null
+downloads: ~
 homepage: https://github.com/zpfz/vuepress-plugin-homebadge
 keywords:
-- homepage
-- generator
-- vue
-- vuepress
-- badge
-- homebadge
+  - homepage
+  - generator
+  - vue
+  - vuepress
+  - badge
+  - homebadge
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zpfz@seeyoz.cn
+    username: seeyoz
 name: vuepress-plugin-homebadge
 npm: https://www.npmjs.com/package/vuepress-plugin-homebadge
 publisher:
-  avatar: null
-  email: zpfz@seeyoz.cn
-  name: null
-  url: null
-  username: seeyoz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zpfz@seeyoz.cn
+    username: seeyoz
 repository: https://github.com/zpfz/vuepress-plugin-homebadge
 score: 0.42101912816939724
 stars: 0

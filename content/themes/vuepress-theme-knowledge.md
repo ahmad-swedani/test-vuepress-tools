@@ -1,35 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/43396646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzQzMzk2NjQ2In0.F-e_EQThPlVfKpE7kzmQnukl4SOp12kpQfQKztMoTf8&v=4
-  email: null
-  name: ame
-  url: null
-  username: aimeiyijia
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/43396646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzQzMzk2NjQ2In0.e9VKMDomRR5kX3WBWpslt2hBL32mo3swHfcnhK-LCsk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: ame
 bugs: https://github.com/aimeiyijia/vuepress-theme-knowledge/issues
 category: theme
 date: '2022-01-26T07:20:14.455Z'
 deprecated: false
-description: "knowledge theme for VuePress. \u4E00\u4E2A\u57FA\u4E8EVuePress\u7684\
-  \u77E5\u8BC6\u5E93\u4E3B\u9898\u3002"
-downloads: null
+description: knowledge theme for VuePress. 一个基于VuePress的知识库主题。
+downloads: ~
 homepage: https://github.com/aimeiyijia/vuepress-theme-knowledge#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- theme
-- blog
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - theme
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1456723200@qq.com
+    username: true-ame
 name: vuepress-theme-knowledge
 npm: https://www.npmjs.com/package/vuepress-theme-knowledge
 publisher:
-  avatar: null
-  email: 1456723200@qq.com
-  name: null
-  url: null
-  username: true-ame
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1456723200@qq.com
+    username: true-ame
 repository: https://github.com/aimeiyijia/vuepress-theme-knowledge
 score: 0.15028088273196433
 stars: 0

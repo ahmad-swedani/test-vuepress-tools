@@ -1,33 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26917599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzI2OTE3NTk5In0.gYWbeNPlpdEmSOYt1TFArOKfC5ahdW4PEfqst5NALmc&v=4
-  email: null
-  name: "\u524D\u7AEF\u7A0B\u5E8F\u733F"
-  url: null
-  username: zhb333
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/26917599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzI2OTE3NTk5In0.E-XWTgMXs9TEYV9NV96ScLw2m0FwmV9j_G6CZm4XpO0&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: 前端程序猿
 bugs: https://github.com/zhb333/vuepress-theme-knzn/issues
 category: theme
 date: '2022-05-22T16:35:39.421Z'
 deprecated: false
 description: blog theme for vuepress2
-downloads: null
+downloads: ~
 homepage: https://github.com/zhb333/vuepress-theme-knzn#readme
 keywords:
-- vuepress-theme
-- vuepress
-- blog-theme
-- blog
-- theme
+  - vuepress-theme
+  - vuepress
+  - blog-theme
+  - blog
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhanghuanbiao@outlook.com
+    username: zhb333
 name: vuepress-theme-knzn
 npm: https://www.npmjs.com/package/vuepress-theme-knzn
 publisher:
-  avatar: null
-  email: zhanghuanbiao@outlook.com
-  name: null
-  url: null
-  username: zhb333
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhanghuanbiao@outlook.com
+    username: zhb333
 repository: https://github.com/zhb333/vuepress-theme-knzn
 score: 0.5235357094313732
 stars: 13

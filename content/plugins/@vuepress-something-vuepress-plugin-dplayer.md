@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/33161749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzMzMTYxNzQ5In0.CEvcDAg3OPWdXk-HMJfzp4-I2yJQWQeASQTbE7l0hME&v=4
-  email: null
-  name: vczyh
-  url: null
-  username: vczyh
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/33161749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzMzMTYxNzQ5In0.SgqUtFnj9Qu34v-6YTuzCw5FeMUtM_K19sHoU_kLsoM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: vczyh
 bugs: https://github.com/vczyh/vuepress-theme-something/issues
 category: plugin
 date: '2020-08-02T16:18:24.795Z'
 deprecated: false
 description: dplayer for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/vczyh/vuepress-theme-something#readme
 keywords:
-- vuepress
-- dplayer
+  - vuepress
+  - dplayer
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2939531323@qq.com
+    username: vczyh
 name: '@vuepress-something/vuepress-plugin-dplayer'
 npm: https://www.npmjs.com/package/%40vuepress-something%2Fvuepress-plugin-dplayer
 publisher:
-  avatar: null
-  email: 2939531323@qq.com
-  name: null
-  url: null
-  username: vczyh
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2939531323@qq.com
+    username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.36085854319112076
 stars: 4

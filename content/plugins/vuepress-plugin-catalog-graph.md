@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/27280733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzI3MjgwNzMzIn0.pvVFljM2aVVkoSNKEe5FSw2E_8yEBFmVcmBZAEeWfIk&v=4
-  email: ludanxer@icloud.com
-  name: ludanxer
-  url: null
-  username: ludanxer
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/27280733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzI3MjgwNzMzIn0.qYUS72zWqYx9rFGGu3CpQHHJIf1mmfrQo5-oCN6mxJk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ludanxer@icloud.com
+    name: ludanxer
+    username: ludanxer
 bugs: https://github.com/ludanxer/catalog-graph/issues
 category: plugin
 date: '2020-12-17T21:19:46.579Z'
 deprecated: false
 description: A network graph for your VuePress' documentation
-downloads: null
+downloads: ~
 homepage: https://github.com/ludanxer/catalog-graph#readme
 keywords:
-- vuepress-plugin
-- catalog
-- network-graph
-- d3-force
+  - vuepress-plugin
+  - catalog
+  - network-graph
+  - d3-force
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ludanxer@icloud.com
+    username: ludanxer
 name: vuepress-plugin-catalog-graph
 npm: https://www.npmjs.com/package/vuepress-plugin-catalog-graph
 publisher:
-  avatar: null
-  email: ludanxer@icloud.com
-  name: null
-  url: null
-  username: ludanxer
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ludanxer@icloud.com
+    username: ludanxer
 repository: https://github.com/ludanxer/catalog-graph
 score: 0.4706000847594261
 stars: 5

@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.cis3FA7O7adEMqfo1VHCa0OYN0ZVT768AHaBsa4OU9g&v=4
-  email: chl814@foxmail.com
-  name: ulivz
-  url: null
-  username: ulivz
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.K5WFiIl8wV-BVCrkMUMCwSRMC8hiqUOxPjyfrRIRMdY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ulivz
 bugs: https://github.com/ulivz/vuepress-plugin-yuque/issues
 category: plugin
 date: '2020-02-05T12:34:51.158Z'
 deprecated: false
 description: 'I: Yuque Repo, O: VuePress Site!'
-downloads: null
+downloads: ~
 homepage: https://github.com/ulivz/vuepress-plugin-yuque#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: me@xcodebuild.com
+    username: xcodebuild
 name: '@xcodebuild/vuepress-plugin-yuque'
 npm: https://www.npmjs.com/package/%40xcodebuild%2Fvuepress-plugin-yuque
 publisher:
-  avatar: null
-  email: me@xcodebuild.com
-  name: null
-  url: null
-  username: xcodebuild
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: me@xcodebuild.com
+    username: xcodebuild
 repository: https://github.com/ulivz/vuepress-plugin-yuque
 score: 0.30412803579018577
 stars: 304

@@ -1,38 +1,44 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13448091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzEzNDQ4MDkxIn0.24Z1_goJC7Tr9ZS4bCbALYsP8383FBo-RWL9qSBvr7o&v=4
-  email: null
-  name: seepine
-  url: null
-  username: weiquanju
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/13448091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzEzNDQ4MDkxIn0.MH7GHY1qezjAzuUy31jRhq2km5VOYCWax_NTOnYt3eM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: seepine
 bugs: https://github.com/weiquanju/vuepress-plugin-demo-code-block/issues
 category: plugin
 date: '2022-05-04T14:37:27.670Z'
 deprecated: false
 description: Vuepress2 plugin for demo block support vue3.
-downloads: null
+downloads: ~
 homepage: https://github.com/weiquanju/vuepress-plugin-demo-code-block/issues
 keywords:
-- documentation
-- plugin
-- vue
-- vue3
-- vuepress
-- vuepress2
-- demo
-- block
-- code
-- tsx
-license: false
-maintainers: null
+  - documentation
+  - plugin
+  - vue
+  - vue3
+  - vuepress
+  - vuepress2
+  - demo
+  - block
+  - code
+  - tsx
+license: ~
+maintainers:
+  - email: anbine@qq.com
+    username: anbine
 name: vuepress-plugin-demo-code-block
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-code-block
 publisher:
-  avatar: null
-  email: anbine@qq.com
-  name: null
-  url: null
-  username: anbine
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: anbine@qq.com
+    username: anbine
 repository: https://github.com/weiquanju/vuepress-plugin-demo-code-block
 score: 0.397413907578827
 stars: 2

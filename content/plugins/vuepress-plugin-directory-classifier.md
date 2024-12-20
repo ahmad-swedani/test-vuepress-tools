@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13609768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzEzNjA5NzY4In0.rR7UeDbGINNpOcqJ9tNR9slwoDO3GgKpXagJ1_RyS3Y&v=4
-  email: sabic.alija@gmail.com
-  name: Alija Sabic
-  url: null
-  username: alija
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/13609768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzEzNjA5NzY4In0.kQg4kRmHOw2ijkqRTKcSMtXQLrFUFKlhNoQo-wYH2M0&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sabic.alija@gmail.com
+    name: Alija Sabic
+    username: alija
 bugs: https://github.com/sabicalija/vuepress-plugins/issues
 category: plugin
 date: '2020-04-23T22:29:12.784Z'
 deprecated: false
 description: VuePress plugin for directory based classification
-downloads: null
+downloads: ~
 homepage: https://github.com/sabicalija/vuepress-plugins#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- directory
-- classifier
-license: false
-maintainers: null
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - directory
+  - classifier
+license: ~
+maintainers:
+  - email: sabic.alija@gmail.com
+    username: alija
 name: vuepress-plugin-directory-classifier
 npm: https://www.npmjs.com/package/vuepress-plugin-directory-classifier
 publisher:
-  avatar: null
-  email: sabic.alija@gmail.com
-  name: null
-  url: null
-  username: alija
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sabic.alija@gmail.com
+    username: alija
 repository: https://github.com/sabicalija/vuepress-plugins
 score: 0.3001032846224886
 stars: 0
@@ -38,3 +46,4 @@ watchers: 0
 
 ---
 
+undefined

@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23009039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzIzMDA5MDM5In0.j0G3ICPJlrBON_nfGZDb8t8DGA-tgPxxwSryvq23sEk&v=4
-  email: null
-  name: AnHyun
-  url: null
-  username: AnHyun
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/23009039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQxNjAsIm5iZiI6MTczNDY3Mjk2MCwicGF0aCI6Ii91LzIzMDA5MDM5In0.TK0eB6GOoc36w8cvsbiT75sfxXyDdBBuwbYNOLnMsUU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: AnHyun
 bugs: https://github.com/AnHyun/vuepress-plugin-env-define/issues
 category: plugin
 date: '2022-03-08T06:25:38.151Z'
 deprecated: false
-description: "vuepress\u73AF\u5883\u53D8\u91CF\u6CE8\u5165\u63D2\u4EF6"
-downloads: null
+description: vuepress环境变量注入插件
+downloads: ~
 homepage: https://github.com/AnHyun/vuepress-plugin-env-define#readme
 keywords:
-- vuepress
-- vuepress-plugin
-license: false
-maintainers: null
+  - vuepress
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: 909833009@qq.com
+    username: anhyun
 name: vuepress-plugin-env-define
 npm: https://www.npmjs.com/package/vuepress-plugin-env-define
 publisher:
-  avatar: null
-  email: 909833009@qq.com
-  name: null
-  url: null
-  username: anhyun
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 909833009@qq.com
+    username: anhyun
 repository: https://github.com/AnHyun/vuepress-plugin-env-define
 score: 0.17980525752956913
 stars: 0

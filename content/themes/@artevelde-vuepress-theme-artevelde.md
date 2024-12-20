@@ -1,28 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16255180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzE2MjU1MTgwIn0.UE9dtlKiAEDH-tUwmGSezmGKkRjR0_sNs6dsfLjVvf0&v=4
-  email: olivier.parent@arteveldehs.be
-  name: Olivier Parent
-  url: null
-  username: olivierparent
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/16255180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzE2MjU1MTgwIn0.s8BpDXMKNYb7dvot7crxjsnB26y38DbF6QfE49EwFdA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: olivier.parent@arteveldehs.be
+    name: Olivier Parent
+    username: olivierparent
 bugs: https://github.com/gdmgent/vuepress-theme-artevelde/issues
 category: theme
 date: '2022-02-02T17:30:38.350Z'
 deprecated: false
 description: VuePress theme for Artevelde University of Applied Sciences.
-downloads: null
+downloads: ~
 homepage: https://github.com/gdmgent/vuepress-theme-artevelde#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: olivier.parent@arteveldehs.be
+    username: olivierparent
 name: '@artevelde/vuepress-theme-artevelde'
 npm: https://www.npmjs.com/package/%40artevelde%2Fvuepress-theme-artevelde
 publisher:
-  avatar: null
-  email: olivier.parent@arteveldehs.be
-  name: null
-  url: null
-  username: olivierparent
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: olivier.parent@arteveldehs.be
+    username: olivierparent
 repository: https://github.com/gdmgent/vuepress-theme-artevelde
 score: 0.5177594798236126
 stars: 0

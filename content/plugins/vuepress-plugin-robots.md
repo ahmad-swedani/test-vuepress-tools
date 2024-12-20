@@ -1,33 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48642166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzQ4NjQyMTY2In0.cVinE9dd88rmAUF7IgNMPhd5UZC6olawrSMGpKc64so&v=4
-  email: hi@yue.dev
-  name: Yue Wang
-  url: null
-  username: hiyue
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48642166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzQ4NjQyMTY2In0.amXWIzhY-MX-idjJgzJwCtntvoHLF3U3c6Q4xYhlEoo&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: hi@yue.dev
+    name: Yue Wang
+    username: hiyue
 bugs: https://github.com/HiYue/vuepress-plugin-robotstxt/issues
 category: plugin
 date: '2019-07-20T10:57:06.190Z'
 deprecated: false
 description: Robots.txt file generator plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/HiYue/vuepress-plugin-robotstxt#readme
 keywords:
-- vuepress-plugin
-- robots.txt
-- vue
-- vuepress
-- robots.txt generator for vuepress
-license: false
-maintainers: null
+  - vuepress-plugin
+  - robots.txt
+  - vue
+  - vuepress
+  - robots.txt generator for vuepress
+license: ~
+maintainers:
+  - email: hi@yue.dev
+    username: hiyue
 name: vuepress-plugin-robots
 npm: https://www.npmjs.com/package/vuepress-plugin-robots
 publisher:
-  avatar: null
-  email: hi@yue.dev
-  name: null
-  url: null
-  username: hiyue
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: hi@yue.dev
+    username: hiyue
 repository: https://github.com/HiYue/vuepress-plugin-robotstxt
 score: 0.34731778753169174
 stars: 9

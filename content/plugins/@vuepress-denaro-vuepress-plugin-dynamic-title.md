@@ -1,37 +1,46 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.8OXBHQpoY7d6CzCf4LOTnBPDLEqPHmoQ15RhIDQTMTo&v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.rQdKqK_ns40yNuRVnoM-j8LW1mpPXG_co30xZs0oAzY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-01T09:58:05.569Z'
 deprecated: false
-description: "Add a dynamic title to your site.\u7ED9\u4F60\u7684\u7AD9\u70B9\u6DFB\
-  \u52A0\u52A8\u6001\u6807\u9898\u7684\u652F\u6301\u63D2\u4EF6."
-downloads: null
-homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-dynamic-title#readme
+description: Add a dynamic title to your site.给你的站点添加动态标题的支持插件.
+downloads: ~
+homepage: >-
+  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-dynamic-title#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- theme
-- denaro
-- dynamic-title
-- dynamic
-- "\u52A8\u6001"
-- "\u6807\u9898"
+  - vuepress
+  - vuepress-plugin
+  - theme
+  - denaro
+  - dynamic-title
+  - dynamic
+  - 动态
+  - 标题
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: '@vuepress-denaro/vuepress-plugin-dynamic-title'
-npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-dynamic-title
+npm: >-
+  https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-dynamic-title
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117103446390923
 stars: 5

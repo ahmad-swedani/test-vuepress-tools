@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26066123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzI2MDY2MTIzIn0.zHorS9kqc3boNEaa4aPyXhkzBSqiRMsan1dWF4FBfWA&v=4
-  email: null
-  name: "Artur M\u0119dryga\u0142"
-  url: null
-  username: demtario
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/26066123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzI2MDY2MTIzIn0.0Go3A423GgUs61-iHT4rj1aQFWXmTACJgwn8xBM9Ri8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Artur Mędrygał
 bugs: https://github.com/demtario/vuepress-plugin-global-variables/issues
 category: plugin
 date: '2020-11-06T11:22:54.228Z'
 deprecated: false
 description: <h1 align="center">vuepress-plugin-global-variables</h1> <div align="center">
-downloads: null
+downloads: ~
 homepage: https://github.com/demtario/vuepress-plugin-global-variables
 keywords:
-- global
-- global-variables
-- vue
-- vuepress
-license: false
-maintainers: null
+  - global
+  - global-variables
+  - vue
+  - vuepress
+license: ~
+maintainers:
+  - email: medrygal.artur@gmail.com
+    username: demtario
 name: vuepress-plugin-global-variables
 npm: https://www.npmjs.com/package/vuepress-plugin-global-variables
 publisher:
-  avatar: null
-  email: medrygal.artur@gmail.com
-  name: null
-  url: null
-  username: demtario
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: medrygal.artur@gmail.com
+    username: demtario
 repository: https://github.com/demtario/vuepress-plugin-global-variables
 score: 0.4267991465699949
 stars: 2

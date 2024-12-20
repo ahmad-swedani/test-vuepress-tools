@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16745751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzE2NzQ1NzUxIn0.PTkjqb-Ap-EKZ0C8F8WvUEKqj7CyTCNtr5YwrnruzsA&v=4
-  email: volodymyr@foxmail.com
-  name: pengzhanbo
-  url: null
-  username: pengzhanbo
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/16745751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzE2NzQ1NzUxIn0._zJhkXL0A3BslfR0gFPDxJArN1-ex11VGz9b-E5osX8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: volodymyr@foxmail.com
+    name: pengzhanbo
+    username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
 date: '2022-05-17T21:45:22.728Z'
 deprecated: false
 description: A Blog Theme for VuePress 2.0
-downloads: null
+downloads: ~
 homepage: https://pengzhanbo.cn/note/vuepress-theme-plume
 keywords:
-- VuePress
-- Theme
-- plume
-- vuepress-theme
-- vuepress-theme-plume
-- theme-plume
+  - VuePress
+  - Theme
+  - plume
+  - vuepress-theme
+  - vuepress-theme-plume
+  - theme-plume
 license: MIT License
-maintainers: null
+maintainers:
+  - email: volodymyr@foxmail.com
+    username: pengzhanbo
 name: '@vuepress-plume/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-theme-plume
 publisher:
-  avatar: null
-  email: volodymyr@foxmail.com
-  name: null
-  url: null
-  username: pengzhanbo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: volodymyr@foxmail.com
+    username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5345670141542532
 stars: 153

@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12797966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0MDAsIm5iZiI6MTczNDY3MDIwMCwicGF0aCI6Ii91LzEyNzk3OTY2In0.z7EWAcSPfoCclWgdz_sgb-I_vn3KbFW6mEBo9PloErE&v=4
-  email: a495008890@live.com
-  name: gezihuzi
-  url: null
-  username: gezihuzi
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/12797966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQxMDAsIm5iZiI6MTczNDY3MjkwMCwicGF0aCI6Ii91LzEyNzk3OTY2In0.jGJl7jf_w-x-jWmsyBMoAuy7XFY7ydkRw1BcUr2klko&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: a495008890@live.com
+    name: gezihuzi
+    username: gezihuzi
 bugs: https://github.com/gezihuzi/vuepress-plugin-jsdelivr-cdn/issues
 category: plugin
 date: '2020-12-21T15:48:49.927Z'
 deprecated: false
 description: jsdelivr-cdn plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/gezihuzi/vuepress-plugin-jsdelivr-cdn#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
-- jsdelivr
-- cdn
+  - documentation
+  - generator
+  - vue
+  - vuepress
+  - jsdelivr
+  - cdn
 license: MIT License
-maintainers: null
+maintainers:
+  - email: a495008890@live.com
+    username: gezihuzi
 name: vuepress-plugin-jsdelivr-cdn
 npm: https://www.npmjs.com/package/vuepress-plugin-jsdelivr-cdn
 publisher:
-  avatar: null
-  email: a495008890@live.com
-  name: null
-  url: null
-  username: gezihuzi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: a495008890@live.com
+    username: gezihuzi
 repository: https://github.com/gezihuzi/vuepress-plugin-jsdelivr-cdn
 score: 0.45540554446816
 stars: 0

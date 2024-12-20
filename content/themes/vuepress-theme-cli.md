@@ -1,37 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/93846129?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzMDAsIm5iZiI6MTczNDY3MTEwMCwicGF0aCI6Ii91LzkzODQ2MTI5In0.ELgEY3By2a-R0Swt5KN4xTjBFuEND9VJinJBPDz1B7I&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/93846129?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzkzODQ2MTI5In0.7W7B_z45_mRwdAMnTJHnZp8wEqoid1BM_IpajwIHjrs&v=4
+  email: ~
+  name: ~
+  url: ~
   username: blog-aurora
 bugs: https://github.com/vuepress-aurora/theme-cli/issues
 category: theme
 date: '2022-03-18T04:47:34.392Z'
 deprecated: false
-description: "\u8FD9\u662F\u4E00\u4E2Avuepress2\u7248\u672C\u7684\u535A\u5BA2\u811A\
-  \u624B\u67B6\uFF0C\u4F7F\u7528\u4E0B\u9762\u547D\u4EE4\uFF0C\u4FBF\u53EF\u4EE5\u975E\
-  \u5E38\u65B9\u4FBF\u7684\u5728\u4F60\u672C\u5730\u521B\u5EFA\u4E00\u4E2A\u535A\u5BA2"
-downloads: null
+description: 这是一个vuepress2版本的博客脚手架，使用下面命令，便可以非常方便的在你本地创建一个博客
+downloads: ~
 homepage: https://aurora.xcye.xyz/readme/
 keywords:
-- vuepress
-- vue cli
-- vuepress cli
-- aurora
-- cli
-- theme cli
-- theme
-license: false
-maintainers: null
+  - vuepress
+  - vue cli
+  - vuepress cli
+  - aurora
+  - cli
+  - theme cli
+  - theme
+license: ~
+maintainers:
+  - email: cqycco@gmail.com
+    username: qsyyke
 name: vuepress-theme-cli
 npm: https://www.npmjs.com/package/vuepress-theme-cli
 publisher:
-  avatar: null
-  email: cqycco@gmail.com
-  name: null
-  url: null
-  username: qsyyke
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: cqycco@gmail.com
+    username: qsyyke
 repository: https://github.com/vuepress-aurora/theme-cli
 score: 0.5074083985493029
 stars: 0

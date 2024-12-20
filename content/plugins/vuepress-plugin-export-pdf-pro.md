@@ -1,28 +1,33 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24851764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzI0ODUxNzY0In0.hDe53WNkd5VfQuJ9x8RucB4R7yLFHaIZ1SQxXFNhTtw&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/24851764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzI0ODUxNzY0In0.Qbndlf8jYsb2edgZtWLMxWdNeexqqfDn4BnRXbleI_4&v=4
+  email: ~
+  name: ~
+  url: ~
   username: jiangliuhong
 bugs: https://github.com/jiangliuhong/vuepress-plugin-export-pdf/issues
 category: plugin
 date: '2021-10-01T15:56:25.091Z'
 deprecated: false
 description: export pdf
-downloads: null
+downloads: ~
 homepage: https://github.com/jiangliuhong/vuepress-plugin-export-pdf#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: ja_rome@163.com
+    username: jarome
 name: vuepress-plugin-export-pdf-pro
 npm: https://www.npmjs.com/package/vuepress-plugin-export-pdf-pro
 publisher:
-  avatar: null
-  email: ja_rome@163.com
-  name: null
-  url: null
-  username: jarome
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ja_rome@163.com
+    username: jarome
 repository: https://github.com/jiangliuhong/vuepress-plugin-export-pdf
 score: 0.455543477512406
 stars: 2

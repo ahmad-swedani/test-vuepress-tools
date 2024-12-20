@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/38957202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzM4OTU3MjAyIn0.UwZKuBNFsxmUeyzxgdn-WcIDtqSkB8Pbnco5z7nJ3-w&v=4
-  email: newsbielt703@gmail.com
-  name: Billyyyyy3320
-  url: null
-  username: newsbielt703
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/38957202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzM4OTU3MjAyIn0.s3AUF2SVdO6o7IiWW4ENjcXDz1N_D_JMDE-nK9DZtCU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: newsbielt703@gmail.com
+    name: Billyyyyy3320
+    username: newsbielt703
 bugs: https://github.com/newsbielt703/vuepress-plugin-mailchimp/issues
 category: plugin
 date: '2020-03-27T07:03:24.140Z'
 deprecated: false
 description: A VuePress plugin for Mailchimp subscriptions
-downloads: null
+downloads: ~
 homepage: https://github.com/newsbielt703/vuepress-plugin-mailchimp#readme
 keywords:
-- mailchimp
-- newsletter
-- plugin
-- vuepress
+  - mailchimp
+  - newsletter
+  - plugin
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: newsbielt703@gmail.com
+    username: newsbielt703
 name: vuepress-plugin-mailchimp
 npm: https://www.npmjs.com/package/vuepress-plugin-mailchimp
 publisher:
-  avatar: null
-  email: newsbielt703@gmail.com
-  name: null
-  url: null
-  username: newsbielt703
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: newsbielt703@gmail.com
+    username: newsbielt703
 repository: https://github.com/newsbielt703/vuepress-plugin-mailchimp
 score: 0.4455314477520397
 stars: 7

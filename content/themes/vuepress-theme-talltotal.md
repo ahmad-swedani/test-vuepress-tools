@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17965996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzE3OTY1OTk2In0.ZxmuGGZGs9Pkxk_CS4QWEdFp733vUtJCa2I8rQWveOo&v=4
-  email: null
-  name: talltotal
-  url: null
-  username: talltotal
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/17965996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMwODAsIm5iZiI6MTczNDY3MTg4MCwicGF0aCI6Ii91LzE3OTY1OTk2In0.ZV2dORHLYLGL4vDd6xdVUzx-PblPFaOnsPeTdtzvmvk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: talltotal
 bugs: https://github.com/talltotal/vuepress-theme-talltotal/issues
 category: theme
 date: '2020-04-20T12:18:30.276Z'
 deprecated: false
 description: talltotal theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/talltotal/vuepress-theme-talltotal#readme
 keywords:
-- vue
-- vuepress
-- vuepress-theme
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - vuepress-theme
+license: ~
+maintainers:
+  - email: talltotal@163.com
+    username: talltotal
 name: vuepress-theme-talltotal
 npm: https://www.npmjs.com/package/vuepress-theme-talltotal
 publisher:
-  avatar: null
-  email: talltotal@163.com
-  name: null
-  url: null
-  username: talltotal
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: talltotal@163.com
+    username: talltotal
 repository: https://github.com/talltotal/vuepress-theme-talltotal
 score: 0.40795160218139687
 stars: 3

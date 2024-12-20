@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.cis3FA7O7adEMqfo1VHCa0OYN0ZVT768AHaBsa4OU9g&v=4
-  email: chl814@foxmail.com
-  name: ulivz
-  url: null
-  username: ulivz
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.K5WFiIl8wV-BVCrkMUMCwSRMC8hiqUOxPjyfrRIRMdY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ulivz
 bugs: https://github.com/ulivz/vuepress-plugin-export/issues
 category: plugin
 date: '2019-03-10T19:02:35.095Z'
 deprecated: false
 description: Export your VuePress site to a PDF file
-downloads: null
+downloads: ~
 homepage: https://github.com/ulivz/vuepress-plugin-export#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 472590061@qq.com
+    username: ulivz
 name: vuepress-plugin-export
 npm: https://www.npmjs.com/package/vuepress-plugin-export
 publisher:
-  avatar: null
-  email: 472590061@qq.com
-  name: null
-  url: null
-  username: ulivz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 472590061@qq.com
+    username: ulivz
 repository: https://github.com/ulivz/vuepress-plugin-export
 score: 0.3706730544434276
 stars: 90

@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/39819523?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzM5ODE5NTIzIn0.ypdONatv8vWgzR5K08ixFYZtakEs5ghVWPrarwVt--o&v=4
-  email: null
-  name: IFreeOvO
-  url: null
-  username: IFreeOvO
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/39819523?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzM5ODE5NTIzIn0.11c8EfTjbF-oxGa2UpcnoLw1BHIA-rDyI2VJFNXoE70&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: IFreeOvO
 bugs: https://github.com/IFreeOvO/vuepress-plugin-easy-sidebar/issues
 category: plugin
 date: '2022-05-04T16:06:41.688Z'
 deprecated: false
 description: a vuepress plugin for generate sidebar
-downloads: null
+downloads: ~
 homepage: https://github.com/IFreeOvO/vuepress-plugin-easy-sidebar
 keywords:
-- vuepress
-- plugin
-- auto
-- sidebar
+  - vuepress
+  - plugin
+  - auto
+  - sidebar
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 278199196@qq.com
+    username: yiq
 name: vuepress-plugin-easy-sidebar
 npm: https://www.npmjs.com/package/vuepress-plugin-easy-sidebar
 publisher:
-  avatar: null
-  email: 278199196@qq.com
-  name: null
-  url: null
-  username: yiq
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 278199196@qq.com
+    username: yiq
 repository: https://github.com/IFreeOvO/vuepress-plugin-easy-sidebar
 score: 0.5195013425232273
 stars: 2

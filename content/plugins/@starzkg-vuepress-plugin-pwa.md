@@ -1,33 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/96685951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91Lzk2Njg1OTUxIn0.3rbrjHPjGGYSJJrc9U4MA2jh5774TRPx1CTUfSY0N9k&v=4
-  email: shentuzhigang@shentuzhigang.cn
-  name: Starzkg
-  url: https://shentuzhigang.cn
-  username: vuepress-star
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/96685951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91Lzk2Njg1OTUxIn0.i2XTPMJbSG0mJqlmVINJxB7C-_6Zd-uqIbXeeYv1EYA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@shentuzhigang.cn
+    name: Starzkg
+    url: https://shentuzhigang.cn
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-12-25T17:58:23.078Z'
 deprecated: false
 description: Powerful PWA plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-- vuepress-plugin
-- pwa
-- web app
-- workbox
-- service worker
+  - vuepress-plugin
+  - pwa
+  - web app
+  - workbox
+  - service worker
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shentuzhigang@qq.com
+    username: starzkg
 name: '@starzkg/vuepress-plugin-pwa'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-pwa
 publisher:
-  avatar: null
-  email: shentuzhigang@qq.com
-  name: null
-  url: null
-  username: starzkg
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shentuzhigang@qq.com
+    username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.48493669585183274
 stars: 1

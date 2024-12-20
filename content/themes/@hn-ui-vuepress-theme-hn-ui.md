@@ -1,34 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/19725091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzE5NzI1MDkxIn0.No678I0c6kgEZkdPjS-eCmxOvLctplQZOXN9IOxIzeU&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/19725091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMwODAsIm5iZiI6MTczNDY3MTg4MCwicGF0aCI6Ii91LzE5NzI1MDkxIn0.1XxC_txS8Cx4jJ3fjW0oStODBY8doY1pBe7M0JHOJZA&v=4
+  email: ~
+  name: ~
+  url: ~
   username: kimmy-wang
 bugs: https://github.com/hn-ui/hn-ui/issues
 category: theme
 date: '2020-07-15T08:43:18.077Z'
 deprecated: false
 description: A theme based on Vuepress for HN UI.
-downloads: null
+downloads: ~
 homepage: https://github.com/hn-ui/hn-ui#readme
 keywords:
-- vue
-- vuepress
-- theme
-- hn
-- ui
-- hn-ui
+  - vue
+  - vuepress
+  - theme
+  - hn
+  - ui
+  - hn-ui
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wang_ying13@163.com
+    username: wangying
+  - email: 18562597248@163.com
+    username: changjinpeng
 name: '@hn-ui/vuepress-theme-hn-ui'
 npm: https://www.npmjs.com/package/%40hn-ui%2Fvuepress-theme-hn-ui
 publisher:
-  avatar: null
-  email: upcwangying@126.com
-  name: null
-  url: null
-  username: upcwangying
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: upcwangying@126.com
+    username: upcwangying
 repository: https://github.com/hn-ui/hn-ui
 score: 0.6040317387017997
 stars: 0

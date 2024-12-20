@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/33010418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzMzMDEwNDE4In0.Cx7IusfLbOKIC-V50E6o2x0jTSopr_tIQLcncA1e1dE&v=4
-  email: null
-  name: bidoubiwa
-  url: null
-  username: bidoubiwa
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/33010418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzMzMDEwNDE4In0.7LKsMtpqiVC3osslc3LHvCxKZ_SfBAwcXDi3DyqqCxg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: bidoubiwa
 bugs: https://github.com/bidoubiwa/vuepress-plugin-element-tabs/issues
 category: plugin
 date: '2022-05-24T21:44:56.426Z'
 deprecated: false
 description: Vuepress plugin - Tabs Container for Vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/bidoubiwa/vuepress-plugin-element-tabs/blob/main/README.md
 keywords:
-- vuepress-plugin
-- tabs
-- component
+  - vuepress-plugin
+  - tabs
+  - component
 license: Other
-maintainers: null
+maintainers:
+  - email: charlottevermandel@gmail.com
+    username: bidoubiwa
 name: '@bidoubiwa/vuepress-plugin-element-tabs'
 npm: https://www.npmjs.com/package/%40bidoubiwa%2Fvuepress-plugin-element-tabs
 publisher:
-  avatar: null
-  email: charlottevermandel@gmail.com
-  name: null
-  url: null
-  username: bidoubiwa
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: charlottevermandel@gmail.com
+    username: bidoubiwa
 repository: https://github.com/bidoubiwa/vuepress-plugin-element-tabs
 score: 0.511600273346017
 stars: 1

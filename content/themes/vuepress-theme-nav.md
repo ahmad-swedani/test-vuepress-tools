@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/42461471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzQyNDYxNDcxIn0.FwZSOHnZhVg6qPYgzBA9a5s4Rcs7-5LPdorwPQzmBic&v=4
-  email: null
-  name: nav
-  url: null
-  username: zeroNav
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/42461471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzQyNDYxNDcxIn0.cUZ05TiCqHBTLUWscY0rBrM9I396CAYFJm4mh3GN8o4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: nav
 bugs: https://github.com/zeroNav/vuepress-theme-nav/issues
 category: theme
 date: '2018-09-07T06:59:30.215Z'
 deprecated: false
 description: Vuepress theme - nav
-downloads: null
+downloads: ~
 homepage: https://github.com/zeroNav/vuepress-theme-nav
 keywords:
-- vuepress
-- theme
+  - vuepress
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: nooldey@gmail.com
+    username: nooldey
 name: vuepress-theme-nav
 npm: https://www.npmjs.com/package/vuepress-theme-nav
 publisher:
-  avatar: null
-  email: nooldey@gmail.com
-  name: null
-  url: null
-  username: nooldey
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: nooldey@gmail.com
+    username: nooldey
 repository: https://github.com/zeroNav/vuepress-theme-nav
 score: 0.3858915182254239
 stars: 0

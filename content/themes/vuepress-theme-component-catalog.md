@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16383815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzNjAsIm5iZiI6MTczNDY3MTE2MCwicGF0aCI6Ii91LzE2MzgzODE1In0.7DqQDV0jxoMbXTLst2O0ufyHhe4LbppGfcyD9BOtiBQ&v=4
-  email: make.app.ts@gmail.com
-  name: mya-ake
-  url: null
-  username: mya-ake
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/16383815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzE2MzgzODE1In0.QJnagQJ1ntv2V2JKSKIkIP-ywgpceWm24-tS9KiUk6g&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: make.app.ts@gmail.com
+    name: mya-ake
+    username: mya-ake
 bugs: https://github.com/mya-ake/vuepress-theme-component-catalog/issues
 category: theme
 date: '2019-01-29T18:57:56.311Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://github.com/mya-ake/vuepress-theme-component-catalog#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: make.app.ts@gmail.com
+    username: mya-ake
 name: vuepress-theme-component-catalog
 npm: https://www.npmjs.com/package/vuepress-theme-component-catalog
 publisher:
-  avatar: null
-  email: make.app.ts@gmail.com
-  name: null
-  url: null
-  username: mya-ake
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: make.app.ts@gmail.com
+    username: mya-ake
 repository: https://github.com/mya-ake/vuepress-theme-component-catalog
 score: 0.40866955789034776
 stars: 1

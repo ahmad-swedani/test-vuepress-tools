@@ -1,30 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/43257350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzQzMjU3MzUwIn0.7gf4ZjI5PZ_ZHURNO5J4ek27ZAABN0yTRGp5R0sgpPI&v=4
-  email: willin@willin.org
-  name: willin
-  url: null
-  username: willin
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/43257350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzQzMjU3MzUwIn0.hMvFk9Ywmgb_hSqQKeWXMUM-My92KbZ3tdGPb-rIB18&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: willin@willin.org
+    name: willin
+    username: willin
 bugs: https://github.com/assholev0/vuepress-theme-asshole/issues
 category: theme
 date: '2018-09-18T08:37:37.690Z'
 deprecated: false
 description: A Vuepress Theme for assholev0
-downloads: null
+downloads: ~
 homepage: https://github.com/assholev0/vuepress-theme-asshole#readme
 keywords:
-- vuepress
-- theme
+  - vuepress
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: willin@willin.org
+    username: willin
 name: vuepress-theme-asshole
 npm: https://www.npmjs.com/package/vuepress-theme-asshole
 publisher:
-  avatar: null
-  email: willin@willin.org
-  name: null
-  url: null
-  username: willin
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: willin@willin.org
+    username: willin
 repository: https://github.com/assholev0/vuepress-theme-asshole
 score: 0.41163369911576697
 stars: 0

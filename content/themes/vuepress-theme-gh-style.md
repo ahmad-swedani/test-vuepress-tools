@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/34718241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzM0NzE4MjQxIn0.2tPvm5ZzhOBfdt50vBEoSzh7FaO5I9pIr8PwhePzzGc&v=4
-  email: 1052642137@qq.com
-  name: wencaizhang
-  url: null
-  username: wencaizhang
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/34718241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzM0NzE4MjQxIn0.m_ZbEqukh0g8_xD52oExmvFHQFex9niRUNwPo4VaKS4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1052642137@qq.com
+    name: wencaizhang
+    username: wencaizhang
 bugs: https://github.com/wencaizhang/vuepress-theme-gh-style/issues
 category: theme
 date: '2019-11-11T03:22:37.905Z'
 deprecated: false
 description: vuepress blog theme - Github style replication for vuepress blog theme
-downloads: null
+downloads: ~
 homepage: https://github.com/wencaizhang/vuepress-theme-gh-style
 keywords:
-- Github style
-- blog
-- theme
-- vuepress
+  - Github style
+  - blog
+  - theme
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1052642137@qq.com
+    username: wencaizhang
 name: vuepress-theme-gh-style
 npm: https://www.npmjs.com/package/vuepress-theme-gh-style
 publisher:
-  avatar: null
-  email: 1052642137@qq.com
-  name: null
-  url: null
-  username: wencaizhang
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1052642137@qq.com
+    username: wencaizhang
 repository: https://github.com/wencaizhang/vuepress-theme-gh-style
 score: 0.2955772704347226
 stars: 0

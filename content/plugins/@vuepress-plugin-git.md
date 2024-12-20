@@ -1,31 +1,47 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
-  email: null
-  name: meteorlxy
-  url: null
-  username: vuepress
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: meteorlxy
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2020-12-01T02:25:31.352Z'
 deprecated: false
 description: VuePress plugin - git
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- vuepress
-- plugin
-- git
+  - vuepress
+  - plugin
+  - git
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 472590061@qq.com
+    username: ulivz
+  - email: yyx990803@gmail.com
+    username: yyx990803
+  - email: newsbielt703@gmail.com
+    username: newsbielt703
+  - email: ben@bencodezen.io
+    username: bencodezen
+  - email: abgrallkefran@gmail.com
+    username: kefranabg
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
 name: '@vuepress/plugin-git'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-git
 publisher:
-  avatar: null
-  email: meteor.lxy@foxmail.com
-  name: null
-  url: null
-  username: meteorlxy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6710477121660403
 stars: 2389

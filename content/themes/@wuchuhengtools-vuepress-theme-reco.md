@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.couGd9B-0J81H_26YiZxWOn3cew5ORLJ4nRllz9wOLg&v=4
-  email: null
-  name: reco_luan
-  url: null
-  username: vuepress-reco
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.bhJukbXLbaUY4rj8QMcnMVlVspkqcT0B-52924jMOvc&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: reco_luan
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: theme
 date: '2021-08-16T09:47:12.303Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-- vuepress
-- vue
-- theme
+  - vuepress
+  - vue
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wuchuheng@163.com
+    username: wuchuheng
 name: '@wuchuhengtools/vuepress-theme-reco'
 npm: https://www.npmjs.com/package/%40wuchuhengtools%2Fvuepress-theme-reco
 publisher:
-  avatar: null
-  email: wuchuheng@163.com
-  name: null
-  url: null
-  username: wuchuheng
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wuchuheng@163.com
+    username: wuchuheng
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.1358722778817047
 stars: 603

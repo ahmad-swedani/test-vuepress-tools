@@ -1,34 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30969327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzMwOTY5MzI3In0.AXmqFoeGeryOQ5PTEjfyHg6eu1n2XFCiN7z2QveJG-Q&v=4
-  email: null
-  name: imgradeone
-  url: https://www.imgradeone.com
-  username: imgradeone
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/30969327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4NjAsIm5iZiI6MTczNDY3MjY2MCwicGF0aCI6Ii91LzMwOTY5MzI3In0.vMCQx-eN3FxX9tIcyW9BKg_TY-4lRg7dTWSlH6Ju28k&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: imgradeone
+    url: https://www.imgradeone.com
 bugs: https://github.com/imgradeone/vuepress-plugin-plausible/issues
 category: plugin
 date: '2021-09-25T06:07:09.438Z'
 deprecated: false
 description: Modified Plausible Analytics plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/imgradeone/vuepress-plugin-plausible
 keywords:
-- vue
-- vuepress
-- plugin
-- vuepress-plugin
-- analytics
-- plausible
+  - vue
+  - vuepress
+  - plugin
+  - vuepress-plugin
+  - analytics
+  - plausible
 license: MIT License
-maintainers: null
+maintainers:
+  - email: imgradeone@outlook.com
+    username: imgradeone
 name: vuepress-plugin-plausible-imgradeone
 npm: https://www.npmjs.com/package/vuepress-plugin-plausible-imgradeone
 publisher:
-  avatar: null
-  email: imgradeone@outlook.com
-  name: null
-  url: null
-  username: imgradeone
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: imgradeone@outlook.com
+    username: imgradeone
 repository: https://github.com/imgradeone/vuepress-plugin-plausible
 score: 0.4217949074129733
 stars: 0

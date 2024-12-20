@@ -1,28 +1,34 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1062448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzEwNjI0NDgifQ.i2TmxgtCEytZ0CQkxUMlL8aEeOJRapKaWGnX9H_1k7g&v=4
-  email: null
-  name: wubaiqing
-  url: null
-  username: wubaiqing
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/1062448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzEwNjI0NDgifQ.zVilU_XtHsAbnH-1ceeSlw4XMGhtQpP-TgM_Pgh_l2s&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: wubaiqing
 bugs: https://github.com/wubaiqing/vuepress-plugin-rss/issues
 category: plugin
 date: '2019-01-02T06:49:50.936Z'
 deprecated: false
-description: "### \u5B89\u88C5"
-downloads: null
+description: '### 安装'
+downloads: ~
 homepage: https://github.com/wubaiqing/vuepress-plugin-rss#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wubaiqing@vip.qq.com
+    username: wubaiqing
 name: vuepress-plugin-rss-support
 npm: https://www.npmjs.com/package/vuepress-plugin-rss-support
 publisher:
-  avatar: null
-  email: wubaiqing@vip.qq.com
-  name: null
-  url: null
-  username: wubaiqing
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wubaiqing@vip.qq.com
+    username: wubaiqing
 repository: https://github.com/wubaiqing/vuepress-plugin-rss
 score: 0.44528761041823917
 stars: 1

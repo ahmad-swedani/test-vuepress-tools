@@ -1,30 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/43475371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzQzNDc1MzcxIn0.c46wCVySciINH0O0eVXArn_otZmq-5KDn05F33Y4phw&v=4
-  email: stickmyc@163.com
-  name: "\u5B50\u8083"
-  url: null
-  username: Yubisaki
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/43475371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzQzNDc1MzcxIn0.OUdE-_vXk_KEY4V5hHRVrBXyFVCJrvgZVynhGoQCDic&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: stickmyc@163.com
+    name: 子肃
 bugs: https://github.com/Yubisaki/vuepress-plugin-blog/issues
 category: plugin
 date: '2019-02-27T09:41:30.210Z'
 deprecated: false
 description: blog support plugin for vuepress theme yubisaki
-downloads: null
+downloads: ~
 homepage: https://github.com/Yubisaki/vuepress-plugin-blog#readme
 keywords:
-- vuepress
-- vuepress-plugin
-license: false
-maintainers: null
+  - vuepress
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: mail@chavesgu.com
+    username: chavesgu
 name: '@chavesweb/vuepress-plugin-blog'
 npm: https://www.npmjs.com/package/%40chavesweb%2Fvuepress-plugin-blog
 publisher:
-  avatar: null
-  email: mail@chavesgu.com
-  name: null
-  url: null
-  username: chavesgu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mail@chavesgu.com
+    username: chavesgu
 repository: https://github.com/Yubisaki/vuepress-plugin-blog
 score: 0.17917462919845592
 stars: 0

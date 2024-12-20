@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/20102582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzIwMTAyNTgyIn0.6hCLaMqn8qo5wzeMn9LQGabB8RleePIALrHYk9krQhk&v=4
-  email: ybd0612@qq.com
-  name: Ybond
-  url: null
-  username: ybd0612
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/20102582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzIwMTAyNTgyIn0.8NyYGPWEELHVVqRgQZd9Yox7iH-5UATddRed8R8GA8E&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ybd0612@qq.com
+    name: Ybond
+    username: ybd0612
 bugs: https://github.com/ybd0612/vuepress-plugin-sitemap/issues
 category: plugin
 date: '2022-04-15T06:54:51.874Z'
 deprecated: false
 description: update for vuepress-plugin-sitemap
-downloads: null
+downloads: ~
 homepage: https://github.com/ybd0612/vuepress-plugin-sitemap#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- vuepress-plugin
-- sitemap
-- generator
+  - documentation
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - sitemap
+  - generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ybd0612@qq.com
+    username: ybd0612
 name: vuepress-plugin-sitemap-ybd
 npm: https://www.npmjs.com/package/vuepress-plugin-sitemap-ybd
 publisher:
-  avatar: null
-  email: ybd0612@qq.com
-  name: null
-  url: null
-  username: ybd0612
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ybd0612@qq.com
+    username: ybd0612
 repository: https://github.com/ybd0612/vuepress-plugin-sitemap
 score: 0.5155874478514947
 stars: 0

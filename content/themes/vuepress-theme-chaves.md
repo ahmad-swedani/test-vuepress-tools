@@ -1,30 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/20633606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzIwNjMzNjA2In0.AyB3qqOZKG2OEEv8fHopHSxqb_e5cA-6BAQ7pqK1unk&v=4
-  email: mail@chavesgu.com
-  name: chavesgu
-  url: null
-  username: chavesgu
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/20633606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzIwNjMzNjA2In0.5mLiJ8FOpk81VF_eNWGtS1JpfKDb1Ek04naM9wGBseM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mail@chavesgu.com
+    name: chavesgu
+    username: chavesgu
 bugs: https://github.com/chavesgu/vuepress-theme-meteorlxy/issues
 category: theme
 date: '2019-05-31T07:37:05.983Z'
 deprecated: false
 description: Vuepress theme - chaves
-downloads: null
+downloads: ~
 homepage: https://github.com/chavesgu/vuepress-theme-meteorlxy
 keywords:
-- vuepress
-- theme
+  - vuepress
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: mail@chavesgu.com
+    username: chavesgu
 name: vuepress-theme-chaves
 npm: https://www.npmjs.com/package/vuepress-theme-chaves
 publisher:
-  avatar: null
-  email: mail@chavesgu.com
-  name: null
-  url: null
-  username: chavesgu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mail@chavesgu.com
+    username: chavesgu
 repository: https://github.com/chavesgu/vuepress-theme-meteorlxy
 score: 0.48429686025896634
 stars: 0

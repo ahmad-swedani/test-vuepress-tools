@@ -1,28 +1,33 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/19198355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzE5MTk4MzU1In0.-jK1rU9umM4E3gcIgdUNI2Bzz76jgNEbCeL0FWC1Jjk&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/19198355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzE5MTk4MzU1In0.mt5VkB4v38nO-5yZDQe4JqQpRsq-OXNMOc1LUSgX73w&v=4
+  email: ~
+  name: ~
+  url: ~
   username: artiely
 bugs: https://github.com/artiely/vuepress-plugin-live2d-cat/issues
 category: plugin
 date: '2020-04-07T03:52:29.070Z'
 deprecated: false
 description: 1. install `npm i vuepress-plugin-live2d-cat -S`
-downloads: null
+downloads: ~
 homepage: https://github.com/artiely/vuepress-plugin-live2d-cat#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 1119696785@qq.com
+    username: artiely
 name: vuepress-plugin-live2d-cat
 npm: https://www.npmjs.com/package/vuepress-plugin-live2d-cat
 publisher:
-  avatar: null
-  email: 1119696785@qq.com
-  name: null
-  url: null
-  username: artiely
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1119696785@qq.com
+    username: artiely
 repository: https://github.com/artiely/vuepress-plugin-live2d-cat
 score: 0.2585000855014957
 stars: 1

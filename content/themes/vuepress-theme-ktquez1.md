@@ -1,36 +1,44 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8084606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzgwODQ2MDYifQ.9Yco1nCb96uzesY1PfBQpdAEHlHsM2-qWvta4eaNog4&v=4
-  email: ktquez@gmail.com
-  name: Alan Ktquez
-  url: https://ktquez.com/
-  username: ktquez
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/8084606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzgwODQ2MDYifQ.btnYlbjxVPftbnGqzgSM8cPtnpxO43Af5E5jremNFP8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ktquez@gmail.com
+    name: Alan Ktquez
+    url: https://ktquez.com/
 bugs: https://github.com/ktquez/vuepress-theme-ktquez/issues
 category: theme
 date: '2019-06-08T04:42:39.740Z'
 deprecated: false
 description: A blog theme for VuePress by Ktquez
-downloads: null
+downloads: ~
 homepage: https://github.com/ktquez/vuepress-theme-ktquez#readme
 keywords:
-- vuepress
-- theme
-- ktquez
-- vuejs
-- static
-- jekyll
-- documentation
-- blog
+  - vuepress
+  - theme
+  - ktquez
+  - vuejs
+  - static
+  - jekyll
+  - documentation
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: dodo45133@gmail.com
+    username: dodo4513
 name: vuepress-theme-ktquez1
 npm: https://www.npmjs.com/package/vuepress-theme-ktquez1
 publisher:
-  avatar: null
-  email: dodo45133@gmail.com
-  name: null
-  url: null
-  username: dodo4513
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: dodo45133@gmail.com
+    username: dodo4513
 repository: https://github.com/ktquez/vuepress-theme-ktquez
 score: 0.14968665750758378
 stars: 328

@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5770711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzU3NzA3MTEifQ.mtk9UtELlJQzP_jvTtVoMh1G9utUphCyEJhDVTnLmWw&v=4
-  email: null
-  name: Darren Jennings
-  url: null
-  username: darrenjennings
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/5770711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzU3NzA3MTEifQ.Wka-sBIQ7emRl8RcClERs7Mhxg2-tFiQXlz6Xrgppww&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Darren Jennings
 bugs: https://github.com/darrenjennings/vuepress-plugin-reading-time/issues
 category: plugin
 date: '2019-01-05T21:32:34.008Z'
 deprecated: false
 description: Vuepress plugin to add reading-time functionality to page data
-downloads: null
+downloads: ~
 homepage: https://github.com/darrenjennings/vuepress-plugin-reading-time#readme
 keywords:
-- vue
-- vuepress
-- reading-time
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - reading-time
+license: ~
+maintainers:
+  - email: dmjenn02@gmail.com
+    username: darrenjennings
 name: vuepress-plugin-reading-time
 npm: https://www.npmjs.com/package/vuepress-plugin-reading-time
 publisher:
-  avatar: null
-  email: dmjenn02@gmail.com
-  name: null
-  url: null
-  username: darrenjennings
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: dmjenn02@gmail.com
+    username: darrenjennings
 repository: https://github.com/darrenjennings/vuepress-plugin-reading-time
 score: 0.5360172609665406
 stars: 31

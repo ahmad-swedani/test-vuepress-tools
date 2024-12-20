@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8151143?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzgxNTExNDMifQ.J38s3VZqjhdhI4XCYbhAaqhDwUzCHH7pjaMF0Ou3PuA&v=4
-  email: null
-  name: Vittorio Minacori
-  url: null
-  username: vittominacori
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/8151143?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzgxNTExNDMifQ.E_MrhgJaGfvkCj70p2TH07pq5NcvpCHC6VtrxbKFAjM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Vittorio Minacori
 bugs: https://github.com/vittominacori/vuepress-plugin-facebook-pixel/issues
 category: plugin
 date: '2020-12-10T20:27:48.556Z'
 deprecated: false
 description: Facebook Pixel plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/vittominacori/vuepress-plugin-facebook-pixel
 keywords:
-- facebook
-- pixel
-- vue
-- vuepress
+  - facebook
+  - pixel
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: vittoriominacori@gmail.com
+    username: vittominacori
 name: vuepress-plugin-facebook-pixel
 npm: https://www.npmjs.com/package/vuepress-plugin-facebook-pixel
 publisher:
-  avatar: null
-  email: vittoriominacori@gmail.com
-  name: null
-  url: null
-  username: vittominacori
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: vittoriominacori@gmail.com
+    username: vittominacori
 repository: https://github.com/vittominacori/vuepress-plugin-facebook-pixel
 score: 0.4829912794846074
 stars: 2

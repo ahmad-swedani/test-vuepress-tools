@@ -1,28 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/38933658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzM4OTMzNjU4In0.UoK2lstsWfznZAkZjtfKJeHOSER15YwDQTiVn07iAJA&v=4
-  email: ktquez@gmail.com
-  name: Alan Ktquez
-  url: https://github.com/ktquez
-  username: ktquez
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/38933658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzM4OTMzNjU4In0.dOHByq-e7Iz38T3gzNt28dGoS01I7y3EqmasiDYVbEE&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ktquez@gmail.com
+    name: Alan Ktquez
+    url: https://github.com/ktquez
+    username: ktquez
 bugs: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y/issues
 category: theme
 date: '2020-07-01T19:31:49.061Z'
 deprecated: false
 description: Vuepress theme for vue-a11y documentation
-downloads: null
+downloads: ~
 homepage: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: kevin.deisz@gmail.com
+    username: kddeisz
+  - email: ktquez@gmail.com
+    username: ktquez
+  - email: marialamardo@outlook.com
+    username: mlama007
 name: vuepress-theme-default-vue-a11y
 npm: https://www.npmjs.com/package/vuepress-theme-default-vue-a11y
 publisher:
-  avatar: null
-  email: ktquez@gmail.com
-  name: null
-  url: null
-  username: ktquez
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ktquez@gmail.com
+    username: ktquez
 repository: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y
 score: 0.42661946236714865
 stars: 6

@@ -1,37 +1,45 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.8OXBHQpoY7d6CzCf4LOTnBPDLEqPHmoQ15RhIDQTMTo&v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.rQdKqK_ns40yNuRVnoM-j8LW1mpPXG_co30xZs0oAzY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-01T09:58:07.692Z'
 deprecated: false
-description: "A vuepress plugin for clipboard-copy. \u4E00\u952E\u590D\u5236 Vuepress\
-  \ \u63D2\u4EF6."
-downloads: null
+description: A vuepress plugin for clipboard-copy. 一键复制 Vuepress 插件.
+downloads: ~
 homepage: https://github.com/denaro-org/vuepress-theme-denaro#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- theme
-- denaro
-- one-click-copy
-- "\u4E00\u952E\u590D\u5236"
-- "\u70B9\u51FB\u590D\u5236"
-- "\u4EE3\u7801\u590D\u5236"
+  - vuepress
+  - vuepress-plugin
+  - theme
+  - denaro
+  - one-click-copy
+  - 一键复制
+  - 点击复制
+  - 代码复制
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: '@vuepress-denaro/vuepress-plugin-one-click-copy'
-npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-one-click-copy
+npm: >-
+  https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-one-click-copy
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117007381858296
 stars: 5

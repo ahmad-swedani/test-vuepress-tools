@@ -1,29 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8409100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91Lzg0MDkxMDAifQ.EZn5vPf17au9jXfm9BNRBR7GWv5tW1gPzeIrLOYvaoE&v=4
-  email: null
-  name: Shawn Xu
-  url: null
-  username: xxyan0205
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/8409100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91Lzg0MDkxMDAifQ.NjamNwa1cPoQYCyO4EbfYKieRM4TAccR95gFLcCDFZg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Shawn Xu
 bugs: https://github.com/xxyan0205/vuepress-theme-quicksand/issues
 category: theme
 date: '2021-11-25T11:30:34.054Z'
 deprecated: false
 description: vuepress-theme
-downloads: null
+downloads: ~
 homepage: https://github.com/xxyan0205/vuepress-theme-quicksand#readme
 keywords:
-- vuepress-theme
+  - vuepress-theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 630653829@qq.com
+    username: xxyan0205
 name: vuepress-theme-quicksand
 npm: https://www.npmjs.com/package/vuepress-theme-quicksand
 publisher:
-  avatar: null
-  email: 630653829@qq.com
-  name: null
-  url: null
-  username: xxyan0205
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 630653829@qq.com
+    username: xxyan0205
 repository: https://github.com/xxyan0205/vuepress-theme-quicksand
 score: 0.602218375450956
 stars: 12

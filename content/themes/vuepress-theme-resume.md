@@ -1,33 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13219417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzEzMjE5NDE3In0.rFxXXVgnUwfdaHXOOHnxX6jrRAUuy4VwPMy8Jq0K9R4&v=4
-  email: ko.momo@qq.com
-  name: momoko
-  url: null
-  username: momoko
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/13219417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzEzMjE5NDE3In0.x5ktfy5sPMr0musF3fLLx2B-j_kpaVnNuUzaDQ96eHE&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ko.momo@qq.com
+    name: momoko
+    username: momoko
 bugs: https://github.com/komomoo/vuepress-theme-resume/issues
 category: theme
 date: '2021-11-19T09:08:24.910Z'
 deprecated: false
-description: "\u7F16\u5199\u7B80\u6D01\u4F18\u96C5\u7684markdown\u7B80\u5386\uFF0C\
-  \u7531 vuepress \u9A71\u52A8"
-downloads: null
+description: 编写简洁优雅的markdown简历，由 vuepress 驱动
+downloads: ~
 homepage: https://github.com/komomoo/vuepress-theme-resume#readme
 keywords:
-- vuepress
-- markdown
-- bio
-- resume
+  - vuepress
+  - markdown
+  - bio
+  - resume
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ko.momo@qq.com
+    username: momoko
 name: vuepress-theme-resume
 npm: https://www.npmjs.com/package/vuepress-theme-resume
 publisher:
-  avatar: null
-  email: ko.momo@qq.com
-  name: null
-  url: null
-  username: momoko
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ko.momo@qq.com
+    username: momoko
 repository: https://github.com/komomoo/vuepress-theme-resume
 score: 0.5303136424666359
 stars: 433

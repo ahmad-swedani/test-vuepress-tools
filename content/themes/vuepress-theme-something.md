@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/33161749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzMzMTYxNzQ5In0.CEvcDAg3OPWdXk-HMJfzp4-I2yJQWQeASQTbE7l0hME&v=4
-  email: null
-  name: vczyh
-  url: null
-  username: vczyh
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/33161749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzMzMTYxNzQ5In0.SgqUtFnj9Qu34v-6YTuzCw5FeMUtM_K19sHoU_kLsoM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: vczyh
 bugs: https://github.com/vczyh/vuepress-theme-something/issues
 category: theme
 date: '2020-08-02T16:11:53.061Z'
 deprecated: false
 description: a simple and gorgeous vuepress theme
-downloads: null
+downloads: ~
 homepage: https://github.com/vczyh/vuepress-theme-something#readme
 keywords:
-- vuepress
-- vuepress-theme
-- blog
+  - vuepress
+  - vuepress-theme
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2939531323@qq.com
+    username: vczyh
 name: vuepress-theme-something
 npm: https://www.npmjs.com/package/vuepress-theme-something
 publisher:
-  avatar: null
-  email: 2939531323@qq.com
-  name: null
-  url: null
-  username: vczyh
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2939531323@qq.com
+    username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.3621064387498498
 stars: 4

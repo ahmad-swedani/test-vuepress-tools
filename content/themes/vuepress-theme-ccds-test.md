@@ -1,39 +1,46 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/69463896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzY5NDYzODk2In0.EHGdrP7jIa4RadlZJbxGc7WIkcLxSSKhiHm69htj4X4&v=4
-  email: null
-  name: qsyyke
-  url: null
-  username: xcyeye
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/69463896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzY5NDYzODk2In0.uCS4ei17x9xiHQkfj7KTP8PRADgDG2uYDZRLF_hzOLQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: qsyyke
 bugs: https://github.com/qsyyke/vuepress-theme-ccds/issues
 category: theme
 date: '2021-09-13T00:47:05.033Z'
 deprecated: false
-description: This is an anime blog theme based on vuepress, the theme is simple, colorful,
-  versatile, and supports customization, providing multiple components to set the
-  theme
-downloads: null
+description: >-
+  This is an anime blog theme based on vuepress, the theme is simple, colorful,
+  versatile, and supports customization, providing multiple components to set
+  the theme
+downloads: ~
 homepage: https://github.com/qsyyke/vuepress-theme-ccds#readme
 keywords:
-- vuepress-theme
-- vuepress-theme-ccds
-- anime-blog
-- vue
-- theme
-- blog-theme
-- vuepress
-- blog
-- theme
+  - vuepress-theme
+  - vuepress-theme-ccds
+  - anime-blog
+  - vue
+  - theme
+  - blog-theme
+  - vuepress
+  - blog
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2291308094@qq.com
+    username: chuchen
 name: vuepress-theme-ccds-test
 npm: https://www.npmjs.com/package/vuepress-theme-ccds-test
 publisher:
-  avatar: null
-  email: 2291308094@qq.com
-  name: null
-  url: null
-  username: chuchen
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2291308094@qq.com
+    username: chuchen
 repository: https://github.com/qsyyke/vuepress-theme-ccds
 score: 0.17874888795358937
 stars: 311

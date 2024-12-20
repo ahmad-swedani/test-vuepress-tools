@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30484534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzMwNDg0NTM0In0.4fiXF6nI4Y3CrsJ2HlMxKwMCSvZ1sxpy2nTW6YjF_mo&v=4
-  email: null
-  name: panzhiyue
-  url: null
-  username: panzhiyue
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/30484534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzMwNDg0NTM0In0.wzFehdMevmCRLMp15EDDZAk328xTxeFJeNYJua0IKS4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: panzhiyue
 bugs: https://github.com/panzhiyue/vuepress-theme-knowledge/issues
 category: plugin
 date: '2022-06-14T02:41:44.885Z'
 deprecated: false
-description: "Vuepress2.x\u793A\u4F8B\u5757\u63D2\u4EF6"
-downloads: null
+description: Vuepress2.x示例块插件
+downloads: ~
 homepage: https://panzhiyue.github.io/vuepress-theme-knowledge
 keywords:
-- vuepress-plugin
-- vuepress
-- plugin
-license: false
-maintainers: null
+  - vuepress-plugin
+  - vuepress
+  - plugin
+license: ~
+maintainers:
+  - email: 892105346@qq.com
+    username: panzhiyue
 name: '@panzhiyue/vuepress-plugin-demo-block'
 npm: https://www.npmjs.com/package/%40panzhiyue%2Fvuepress-plugin-demo-block
 publisher:
-  avatar: null
-  email: 892105346@qq.com
-  name: null
-  url: null
-  username: panzhiyue
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 892105346@qq.com
+    username: panzhiyue
 repository: https://github.com/panzhiyue/vuepress-theme-knowledge
 score: 0.5018260338908067
 stars: 1

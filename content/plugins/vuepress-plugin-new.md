@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/34507012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzM0NTA3MDEyIn0.un8CygnKDVyuLp8qSnbK9V1otpR02nL6aSV4ZQwQldY&v=4
-  email: sanbaofeng@baijiahulian.com
-  name: sanbaofeng
-  url: null
-  username: baofengs
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/34507012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzM0NTA3MDEyIn0.ASM6xmo7221Q7K6KOei9JTBeiqlS8PnsycWZy_fd19U&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sanbaofeng@baijiahulian.com
+    name: sanbaofeng
 bugs: https://github.com/x-bao/vuepress-plugin-new/issues
 category: plugin
 date: '2019-07-03T12:22:10.584Z'
 deprecated: false
-description: A vuepress command-line plugin to create markdown file just like `hexo
-  new 'hello world'`
-downloads: null
+description: >-
+  A vuepress command-line plugin to create markdown file just like `hexo new
+  'hello world'`
+downloads: ~
 homepage: https://github.com/x-bao/vuepress-plugin-new#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- command-line
+  - vuepress
+  - vuepress-plugin
+  - command-line
 license: MIT License
-maintainers: null
+maintainers:
+  - email: sanbaofeng@foxmail.com
+    username: baof
 name: vuepress-plugin-new
 npm: https://www.npmjs.com/package/vuepress-plugin-new
 publisher:
-  avatar: null
-  email: sanbaofeng@foxmail.com
-  name: null
-  url: null
-  username: baof
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: sanbaofeng@foxmail.com
+    username: baof
 repository: https://github.com/x-bao/vuepress-plugin-new
 score: 0.3620032332527773
 stars: 1

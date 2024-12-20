@@ -1,33 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/36102904?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzM2MTAyOTA0In0.l93U5H0LHdODcFtIDWNwjeo2uOP8qiQ9f6zcLcgkPdk&v=4
-  email: bougie.liu@qq.com
-  name: Bougie
-  url: https://www.bougieblog.cn
-  username: bougieL
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/36102904?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzM2MTAyOTA0In0.tBgRSqTgY9kXYtBRZZ4pYxe_ixrJFD_dyrLr7uesI-w&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: bougie.liu@qq.com
+    name: Bougie
+    url: https://www.bougieblog.cn
 bugs: https://github.com/bougieL/vuepress-plugin-rss/issues
 category: plugin
 date: '2022-01-10T07:43:24.178Z'
 deprecated: false
-description: Generate `rss.xml` file with `content:encoded` for rss client pretty
-  preview. Reference https://www.bougieblog.cn/rss.xml for example.
-downloads: null
+description: >-
+  Generate `rss.xml` file with `content:encoded` for rss client pretty preview.
+  Reference https://www.bougieblog.cn/rss.xml for example.
+downloads: ~
 homepage: https://github.com/bougieL/vuepress-plugin-rss
 keywords:
-- vuepress
-- plugin
-- rss
-- feed
+  - vuepress
+  - plugin
+  - rss
+  - feed
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1742070326@qq.com
+    username: bougie
 name: vuepress-plugin-rss-feed
 npm: https://www.npmjs.com/package/vuepress-plugin-rss-feed
 publisher:
-  avatar: null
-  email: 1742070326@qq.com
-  name: null
-  url: null
-  username: bougie
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1742070326@qq.com
+    username: bougie
 repository: https://github.com/bougieL/vuepress-plugin-rss
 score: 0.38531069169429566
 stars: 3

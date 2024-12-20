@@ -1,34 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/37177191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzM3MTc3MTkxIn0.KSq6iDnwqLtLsdrYoprYZNav5Avg05tM0-scDlceIf0&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/37177191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzM3MTc3MTkxIn0.DOJ4qHHP66QWLaov0StVC28uzN-uOefcCR-e1v1hQ1E&v=4
+  email: ~
+  name: ~
+  url: ~
   username: systemctls
 bugs: https://github.com/wc-code/vuepress-plugin-doc-demo/issues
 category: plugin
 date: '2020-12-30T12:47:29.779Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: null
+downloads: ~
 homepage: https://github.com/wc-code/vuepress-plugin-doc-demo#readme
 keywords:
-- documentation
-- plugin
-- vue
-- vuepress
-- demo
-- block
+  - documentation
+  - plugin
+  - vue
+  - vuepress
+  - demo
+  - block
 license: MIT License
-maintainers: null
+maintainers:
+  - email: jinxiaoman0@gmail.com
+    username: jinxiaoman
 name: vuepress-plugin-doc-demo
 npm: https://www.npmjs.com/package/vuepress-plugin-doc-demo
 publisher:
-  avatar: null
-  email: jinxiaoman0@gmail.com
-  name: null
-  url: null
-  username: jinxiaoman
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jinxiaoman0@gmail.com
+    username: jinxiaoman
 repository: https://github.com/wc-code/vuepress-plugin-doc-demo
 score: 0.40980421341186024
 stars: 0

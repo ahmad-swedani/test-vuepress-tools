@@ -1,33 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/32100575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzMyMTAwNTc1In0.TVk5K8bZDaeyFnNYi_kg7EjzLzbSTVBn8GiobESckiY&v=4
-  email: shuaxinjs@qq.com
-  name: SHUAXINDIARY
-  url: https://blog.shuaxindiary.cn/
-  username: SHUAXINDIARY
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/32100575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzMyMTAwNTc1In0.YBGi3Vof354c1RVgpNizR5xJcmcqtZtDdHTdzXzDh9c&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shuaxinjs@qq.com
+    name: SHUAXINDIARY
+    url: https://blog.shuaxindiary.cn/
 bugs: https://github.com/SHUAXINDIARY/vuepress-theme-stella/issues
 category: theme
 date: '2022-03-25T08:12:31.318Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://stella.shuaxinjs.cn/
 keywords:
-- vue
-- vuepress
-- theme
-- stella
-- vuepress-theme-stella
+  - vue
+  - vuepress
+  - theme
+  - stella
+  - vuepress-theme-stella
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 986384495@qq.com
+    username: shuaxin
 name: vuepress-theme-stella
 npm: https://www.npmjs.com/package/vuepress-theme-stella
 publisher:
-  avatar: null
-  email: 986384495@qq.com
-  name: null
-  url: null
-  username: shuaxin
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 986384495@qq.com
+    username: shuaxin
 repository: https://github.com/SHUAXINDIARY/vuepress-theme-stella
 score: 0.597553674245862
 stars: 11

@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/27122409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzI3MTIyNDA5In0.L32-gtpEwOyoKk681sGC2OM7ob9dhDTPyQe7p5GzRpk&v=4
-  email: 864299347@qq.com
-  name: shanyuhai123
-  url: null
-  username: shanyuhai123
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/27122409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzI3MTIyNDA5In0.lFCs8lnIL2UwFw7iwEqjocE5_XlkYrQCN2JWSt2BZNU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 864299347@qq.com
+    name: shanyuhai123
+    username: shanyuhai123
 bugs: https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar/issues
 category: plugin
 date: '2021-07-03T17:20:34.852Z'
 deprecated: false
 description: A vuepress plugin for generate sidebar
-downloads: null
+downloads: ~
 homepage: https://shanyuhai123.github.io/vuepress-plugin-auto-sidebar/
 keywords:
-- vuepress
-- sidebar
-- bar
-- auto-sidebar
+  - vuepress
+  - sidebar
+  - bar
+  - auto-sidebar
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 864299347@qq.com
+    username: shanyuhai123
 name: vuepress-plugin-auto-sidebar
 npm: https://www.npmjs.com/package/vuepress-plugin-auto-sidebar
 publisher:
-  avatar: null
-  email: 864299347@qq.com
-  name: null
-  url: null
-  username: shanyuhai123
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 864299347@qq.com
+    username: shanyuhai123
 repository: https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar
 score: 0.6478904736739253
 stars: 140

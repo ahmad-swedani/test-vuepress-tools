@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1022868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzEwMjI4NjgifQ.dZl9t3L6LSiqPvmfSk6Hnq0iWQUJ3HkSiEkiyksmJnk&v=4
-  email: brandon@pixelandtonic.com
-  name: brandonkelly
-  url: null
-  username: pixelandtonic
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/1022868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzEwMjI4NjgifQ.WydiYtpe5zKnyseCoTiWZ_lM1VJYlN-xTTt15-iYQMk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: brandon@pixelandtonic.com
+    name: brandonkelly
 bugs: https://github.com/pixelandtonic/vuepress-theme-craftdocs/issues
 category: theme
 date: '2020-04-25T17:17:22.668Z'
 deprecated: false
 description: vuepress-theme
-downloads: null
+downloads: ~
 homepage: https://github.com/pixelandtonic/vuepress-theme-craftdocs#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: felikx.vansaet@gmail.com
+    username: felikx
 name: '@ibsys/vuepress-theme'
 npm: https://www.npmjs.com/package/%40ibsys%2Fvuepress-theme
 publisher:
-  avatar: null
-  email: felikx.vansaet@gmail.com
-  name: null
-  url: null
-  username: felikx
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: felikx.vansaet@gmail.com
+    username: felikx
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
 score: 0.17749364381884167
 stars: 107

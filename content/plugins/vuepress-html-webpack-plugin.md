@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/4113649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzQxMTM2NDkifQ.nDnahIYqUz8yu0syy7Kg7N_g5Xi7h4OZ2jzNm5Gn1jQ&v=4
-  email: charles.blaxland@gmail.com
-  name: Charles Blaxland
-  url: https://github.com/ampedandwired
-  username: jantimon
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/4113649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzQxMTM2NDkifQ.kPnS-1kBVUl305OwA6neT8T-W6eO4hVStiGR4sHplII&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: charles.blaxland@gmail.com
+    name: Charles Blaxland
+    url: https://github.com/ampedandwired
 bugs: https://github.com/jantimon/html-webpack-plugin/issues
 category: plugin
 date: '2018-04-16T17:42:11.111Z'
 deprecated: false
 description: Simplifies creation of HTML files to serve your webpack bundles
-downloads: null
+downloads: ~
 homepage: https://github.com/jantimon/html-webpack-plugin
 keywords:
-- webpack
-- plugin
-- html
-- html-webpack-plugin
+  - webpack
+  - plugin
+  - html
+  - html-webpack-plugin
 license: MIT License
-maintainers: null
+maintainers:
+  - email: yyx990803@gmail.com
+    username: yyx990803
 name: vuepress-html-webpack-plugin
 npm: https://www.npmjs.com/package/vuepress-html-webpack-plugin
 publisher:
-  avatar: null
-  email: yyx990803@gmail.com
-  name: null
-  url: null
-  username: yyx990803
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: yyx990803@gmail.com
+    username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
 score: 0.7725195229172304
 stars: 10720

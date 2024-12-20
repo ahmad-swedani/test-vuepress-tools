@@ -1,31 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17541209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzE3NTQxMjA5In0.FFeEvdKTbE-xS6upPqD4tqrhmLX6fwlN3fDmxTcVclw&v=4
-  email: aster@vers.site
-  name: Aster
-  url: null
-  username: oovm
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/17541209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzE3NTQxMjA5In0.BUkYJcn7Ufy40SY3ga-US22zr1mzdOpiw7SRkh-_A_A&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: aster@vers.site
+    name: Aster
 bugs: https://github.com/GalAster/vuepress-plugin-shiki/issues
 category: plugin
 date: '2020-08-09T10:26:39.354Z'
 deprecated: false
 description: shiki highlighter
-downloads: null
+downloads: ~
 homepage: https://github.com/GalAster/vuepress-plugin-shiki
 keywords:
-- shiki
-- syntax-highlighter
-- highlighter
+  - shiki
+  - syntax-highlighter
+  - highlighter
 license: Mozilla Public License 2.0
-maintainers: null
+maintainers:
+  - email: galaster@foxmail.com
+    username: galaster
+  - email: 1700011071@pku.edu.cn
+    username: shigma
 name: '@vutex/vuepress-plugin-shiki'
 npm: https://www.npmjs.com/package/%40vutex%2Fvuepress-plugin-shiki
 publisher:
-  avatar: null
-  email: galaster@foxmail.com
-  name: null
-  url: null
-  username: galaster
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: galaster@foxmail.com
+    username: galaster
 repository: https://github.com/GalAster/vuepress-plugin-shiki
 score: 0.4486211989933508
 stars: 0

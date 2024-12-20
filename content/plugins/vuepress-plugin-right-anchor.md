@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/49433924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzQ5NDMzOTI0In0.TDfWli5Rr0IkhawvIH8HHsnHLOzUv0Hd4q8ZShX_lyg&v=4
-  email: null
-  name: xuek
-  url: null
-  username: xuek9900
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/49433924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzQ5NDMzOTI0In0.NVFhZ-eRQY9G0X3AVGiZziZOQigW_97qI9lCux5G1X8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: xuek
 bugs: https://github.com/xuekai-china/vuepress-plugin-right-anchor/issues
 category: plugin
 date: '2021-09-16T14:30:35.099Z'
 deprecated: false
 description: Right-anchor plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/xuekai-china/vuepress-plugin-right-anchor#readme
 keywords:
-- vuepres
-- right
-- anchor
-license: false
-maintainers: null
+  - vuepres
+  - right
+  - anchor
+license: ~
+maintainers:
+  - email: ee_shadow@163.com
+    username: xuek
 name: vuepress-plugin-right-anchor
 npm: https://www.npmjs.com/package/vuepress-plugin-right-anchor
 publisher:
-  avatar: null
-  email: ee_shadow@163.com
-  name: null
-  url: null
-  username: xuek
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ee_shadow@163.com
+    username: xuek
 repository: https://github.com/xuekai-china/vuepress-plugin-right-anchor
 score: 0.4749068711284355
 stars: 36

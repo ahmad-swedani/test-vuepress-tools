@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12868055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzEyODY4MDU1In0.VgT9UPKkM2M9aFs2TSJh-XlRWA3RPj72ZcVjzikFAoA&v=4
-  email: null
-  name: leadream
-  url: null
-  username: hallee9000
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/12868055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzEyODY4MDU1In0.RpspXl0tQ2JahnTgOhGX7nVssu2j54rj1uWP3mQ61B4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: leadream
 bugs: https://github.com/leadream/vuepress-theme-juuust/issues
 category: theme
 date: '2019-09-03T08:02:59.912Z'
 deprecated: false
 description: A compact theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/leadream/vuepress-theme-juuust#readme
 keywords:
-- vuepress
-- vuepress-theme
-- documentation
-- site-generator
+  - vuepress
+  - vuepress-theme
+  - documentation
+  - site-generator
 license: MIT License
-maintainers: null
+maintainers:
+  - email: leadream4@gmail.com
+    username: leadream
 name: vuepress-theme-juuust
 npm: https://www.npmjs.com/package/vuepress-theme-juuust
 publisher:
-  avatar: null
-  email: leadream4@gmail.com
-  name: null
-  url: null
-  username: leadream
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: leadream4@gmail.com
+    username: leadream
 repository: https://github.com/leadream/vuepress-theme-juuust
 score: 0.5390022853686876
 stars: 0

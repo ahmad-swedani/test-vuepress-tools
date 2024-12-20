@@ -1,30 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30490814?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzMwNDkwODE0In0.3zrfzimkPiuqigA53yB9Du2X7kpZ4K-YHO3bT9lhads&v=4
-  email: wukd@live.com
-  name: Stephen Woo
-  url: null
-  username: wukd
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/30490814?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzMwNDkwODE0In0.95pnH0J5VynrZ1GMH0QkYarjPdxZn1YeXrlgiSNJk4c&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wukd@live.com
+    name: Stephen Woo
+    username: wukd
 bugs: https://github.com/wukd/vuepress-dumi/issues
 category: theme
 date: '2022-04-08T01:48:20.616Z'
 deprecated: false
-description: "\U0001F4D6 A dumi style theme for VuePress2."
-downloads: null
+description: 📖 A dumi style theme for VuePress2.
+downloads: ~
 homepage: https://github.com/wukd/vuepress-dumi#readme
 keywords:
-- vuepress-theme
-- dumi
+  - vuepress-theme
+  - dumi
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wukd@live.com
+    username: wukd
 name: vuepress-theme-dumi
 npm: https://www.npmjs.com/package/vuepress-theme-dumi
 publisher:
-  avatar: null
-  email: wukd@live.com
-  name: null
-  url: null
-  username: wukd
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wukd@live.com
+    username: wukd
 repository: https://github.com/wukd/vuepress-dumi
 score: 0.48661881585090355
 stars: 0

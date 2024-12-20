@@ -1,34 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5313610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzUzMTM2MTAifQ.jOJ84vokPTrGLHGmIy5K5_M4iCjJ7fvzZ1H6y4iYOTo&v=4
-  email: alexandre.bulte@data.gouv.fr
-  name: "Alexandre Bult\xE9"
-  url: null
-  username: etalab
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/5313610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzUzMTM2MTAifQ.fzNKwTPygHEygj2uNASU2BJ0jgqF3wr1kEv5IqTEvjw&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: alexandre.bulte@data.gouv.fr
+    name: Alexandre Bulté
 bugs: https://github.com/etalab/vuepress-theme-gouv-fr/issues
 category: theme
 date: '2020-01-31T10:39:04.540Z'
 deprecated: false
 description: VuePress theme - Gouv Fr
-downloads: null
+downloads: ~
 homepage: https://github.com/etalab/vuepress-theme-gouv-fr
 keywords:
-- vuepress
-- theme
-- gouv
-- gouvfr
-- france
-- gouvernement
+  - vuepress
+  - theme
+  - gouv
+  - gouvfr
+  - france
+  - gouvernement
 license: MIT License
-maintainers: null
+maintainers:
+  - email: antoine.augusti@gmail.com
+    username: aaugusti
 name: vuepress-theme-gouv-fr
 npm: https://www.npmjs.com/package/vuepress-theme-gouv-fr
 publisher:
-  avatar: null
-  email: antoine.augusti@gmail.com
-  name: null
-  url: null
-  username: aaugusti
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: antoine.augusti@gmail.com
+    username: aaugusti
 repository: https://github.com/etalab/vuepress-theme-gouv-fr
 score: 0.43808999773082236
 stars: 6

@@ -1,32 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/21354589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzIxMzU0NTg5In0.EfMXLqiuvToK1euDkacAbY7nh-o7RPYiUJnLB_RNyvM&v=4
-  email: null
-  name: wangyonghao
-  url: null
-  username: YongHao0
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/21354589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzIxMzU0NTg5In0.vSu7J_s5wUiUkB0KlODmq-M0dpPEnSKdflN1rer3Cq8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: wangyonghao
 bugs: https://github.com/YongHao0/vuepress/issues
 category: plugin
 date: '2020-09-15T06:32:06.665Z'
 deprecated: false
 description: active-header-links plugin for vuepress
-downloads: null
-homepage: https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-active-header-links#readme
+downloads: ~
+homepage: >-
+  https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-active-header-links#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2914905399@qq.com
+    username: wangyonghao
 name: vuepress-rc-plugin-active-header-links
 npm: https://www.npmjs.com/package/vuepress-rc-plugin-active-header-links
 publisher:
-  avatar: null
-  email: 2914905399@qq.com
-  name: null
-  url: null
-  username: wangyonghao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2914905399@qq.com
+    username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
 score: 0.578921392692298
 stars: 0

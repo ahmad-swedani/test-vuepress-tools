@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.SCXXWhvD6DJ0jXpxnehZfa4I6BYNvl2kGGAwaLaDBZg&v=4
-  email: 782655835@qq.com
-  name: springleo
-  url: null
-  username: lq782655835
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.Kzo9Dz-US61sGaLseDitT2iChDn-U2ShLOGWF1QFHgU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 782655835@qq.com
+    name: springleo
 bugs: https://github.com/lq782655835/vuepress-theme-vuesax/issues
 category: theme
 date: '2020-04-14T12:57:17.103Z'
 deprecated: false
 description: vuepress theme for vuesax
-downloads: null
+downloads: ~
 homepage: https://github.com/lq782655835/vuepress-theme-vuesax#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 18521566707@163.com
+    username: springleo
 name: vuepress-theme-vuesax
 npm: https://www.npmjs.com/package/vuepress-theme-vuesax
 publisher:
-  avatar: null
-  email: 18521566707@163.com
-  name: null
-  url: null
-  username: springleo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 18521566707@163.com
+    username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-vuesax
 score: 0.33186805943255804
 stars: 3

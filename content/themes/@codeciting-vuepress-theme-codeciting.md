@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/53597307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzUzNTk3MzA3In0.S9JL_PJlxMIlMbP5Jb8zQwsqTELXKvJhcnxc0c944pM&v=4
-  email: linjie.gao@tendcloud.com
-  name: Jagger
-  url: null
-  username: codeciting
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/53597307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzUzNTk3MzA3In0.1TDXxyQvtCTANSEbKvT5itBDjYp_UFUu0kepg2QvNcg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: linjie.gao@tendcloud.com
+    name: Jagger
 bugs: https://github.com/codeciting/codeciting-vuepress-plugins/issues
 category: theme
 date: '2020-12-15T03:39:23.264Z'
 deprecated: false
 description: '> TODO: description'
-downloads: null
+downloads: ~
 homepage: https://github.com/codeciting/codeciting-vuepress-plugins#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: ci@codeciting.com
+    username: codecitingci
 name: '@codeciting/vuepress-theme-codeciting'
 npm: https://www.npmjs.com/package/%40codeciting%2Fvuepress-theme-codeciting
 publisher:
-  avatar: null
-  email: ci@codeciting.com
-  name: null
-  url: null
-  username: codecitingci
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ci@codeciting.com
+    username: codecitingci
 repository: https://github.com/codeciting/codeciting-vuepress-plugins
 score: 0.24056656429743645
 stars: 0

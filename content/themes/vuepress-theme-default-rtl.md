@@ -1,36 +1,45 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13087224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzMDAsIm5iZiI6MTczNDY3MTEwMCwicGF0aCI6Ii91LzEzMDg3MjI0In0.D-fKMSwVXqtb_-EH-13es2JqfaiGR9NNW03S3yewsTQ&v=4
-  email: alizadeh118@gmail.com
-  name: Hassan Alizadeh
-  url: https://alizadeh118.ir/
-  username: alizadeh118
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/13087224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzEzMDg3MjI0In0.Gafk3PNs13LkvCrczn585z35T6SfT9_tmwVcpxo5eXc&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: alizadeh118@gmail.com
+    name: Hassan Alizadeh
+    url: https://alizadeh118.ir/
+    username: alizadeh118
 bugs: https://github.com/alizadeh118/vuepress-theme-default-rtl/issues
 category: theme
 date: '2021-11-14T05:05:30.885Z'
 deprecated: false
 description: RTL version for VuePress default theme v1.4.0
-downloads: null
+downloads: ~
 homepage: https://github.com/alizadeh118/vuepress-theme-default-rtl.git#readme
 keywords:
-- vue
-- vuepress
-- theme
-- vuepress-theme
-- rtl
-- right to left
-- persian
-- arabic
+  - vue
+  - vuepress
+  - theme
+  - vuepress-theme
+  - rtl
+  - right to left
+  - persian
+  - arabic
 license: MIT License
-maintainers: null
+maintainers:
+  - email: alizadeh118@gmail.com
+    username: alizadeh118
 name: vuepress-theme-default-rtl
 npm: https://www.npmjs.com/package/vuepress-theme-default-rtl
 publisher:
-  avatar: null
-  email: alizadeh118@gmail.com
-  name: null
-  url: null
-  username: alizadeh118
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: alizadeh118@gmail.com
+    username: alizadeh118
 repository: https://github.com/alizadeh118/vuepress-theme-default-rtl
 score: 0.41950898209547005
 stars: 17

@@ -1,28 +1,34 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/61529623?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzYxNTI5NjIzIn0.OY6Tc57Gxr5_4fnsgmRkE9IwkSNt3JPtzphcSl9Lo08&v=4
-  email: null
-  name: renhj
-  url: null
-  username: JackRay-C
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/61529623?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzYxNTI5NjIzIn0.HARSPx986wW0cuMyAqewZ5vh2r02EVUdqFKFPno5gNA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: renhj
 bugs: https://github.com/JackRay-C/vuepress-theme-note/issues
 category: theme
 date: '2020-05-02T18:13:38.882Z'
 deprecated: false
 description: vuepress theme
-downloads: null
+downloads: ~
 homepage: https://jackray-c.github.io/vuepress-theme-note/
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1761179051@qq.com
+    username: renhj
 name: vuepress-theme-note
 npm: https://www.npmjs.com/package/vuepress-theme-note
 publisher:
-  avatar: null
-  email: 1761179051@qq.com
-  name: null
-  url: null
-  username: renhj
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1761179051@qq.com
+    username: renhj
 repository: https://github.com/JackRay-C/vuepress-theme-note
 score: 0.3601512901363114
 stars: 6

@@ -1,33 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/22659150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzIyNjU5MTUwIn0.jzH31QaMBu1W02lvzWK5qyCMKV_A53GguVHLfOR3RM4&v=4
-  email: ntnyq13@gmail.com
-  name: ntnyq
-  url: null
-  username: ntnyq
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/22659150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzIyNjU5MTUwIn0.ZiIoFoxk5jENaEQhnULNKrR4SvH7HEj7QKyKQilEe_o&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ntnyq13@gmail.com
+    name: ntnyq
+    username: ntnyq
 bugs: https://github.com/ntnyq/vuepress-plugin-iconify/issues
 category: plugin
 date: '2022-05-22T13:52:34.234Z'
 deprecated: false
 description: Using icons more easier in VuePress
-downloads: null
+downloads: ~
 homepage: https://vuepress-plugin-iconify.ntnyq.com
 keywords:
-- vuepress
-- vuepress-plugin
-- iconify
-- icon
-- svg
+  - vuepress
+  - vuepress-plugin
+  - iconify
+  - icon
+  - svg
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ntnyq13@gmail.com
+    username: ntnyq
 name: vuepress-plugin-iconify
 npm: https://www.npmjs.com/package/vuepress-plugin-iconify
 publisher:
-  avatar: null
-  email: ntnyq13@gmail.com
-  name: null
-  url: null
-  username: ntnyq
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ntnyq13@gmail.com
+    username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-iconify
 score: 0.5076148874192048
 stars: 0

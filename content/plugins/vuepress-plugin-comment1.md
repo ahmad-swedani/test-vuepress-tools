@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.NoEtFWW5uOTLQfQuUfCfrLpc1qyuKtRoHaZ64KsrJ2I&v=4
-  email: mister-hope@outlook.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.dw9O9GcESX63yVEZLSuQUtvDuRXO2rMzYfGtw7fuxsQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mister-hope@outlook.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-03T15:58:43.127Z'
 deprecated: false
 description: A simple Comment plugin for vuepress
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-hope.github.io/v1/comment/
 keywords:
-- vuepress-plugin
-- vuepress-blog
-- comment
-- valine
-- vssue
-- page-info
+  - vuepress-plugin
+  - vuepress-blog
+  - comment
+  - valine
+  - vssue
+  - page-info
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: vuepress-plugin-comment1
 npm: https://www.npmjs.com/package/vuepress-plugin-comment1
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.2095164030363057
 stars: 2181

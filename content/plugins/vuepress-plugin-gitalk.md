@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24218764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzI0MjE4NzY0In0.pPWSQn28bELqJl5l_T9NqF7lzKiNDtLJHpDaFrcnwUE&v=4
-  email: null
-  name: JSShou
-  url: null
-  username: xuzhongpeng
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/24218764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzI0MjE4NzY0In0.OsslQWbmdu16-7rT64P49FsVGDRg7vS6B_5jz-9R7oI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: JSShou
 bugs: https://github.com/xuzhongpeng/vuepress-plugin-gitalk/issues
 category: plugin
 date: '2019-06-13T01:42:32.465Z'
 deprecated: false
 description: VuePress plugin for creating Gitalk automation
-downloads: null
+downloads: ~
 homepage: https://github.com/xuzhongpeng/vuepress-plugin-gitalk#readme
 keywords:
-- vuepress
-- plugin
-- gittalk
+  - vuepress
+  - plugin
+  - gittalk
 license: MIT License
-maintainers: null
+maintainers:
+  - email: xuzhongpeng@foxmail.com
+    username: xuzhongpeng
 name: vuepress-plugin-gitalk
 npm: https://www.npmjs.com/package/vuepress-plugin-gitalk
 publisher:
-  avatar: null
-  email: xuzhongpeng@foxmail.com
-  name: null
-  url: null
-  username: xuzhongpeng
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xuzhongpeng@foxmail.com
+    username: xuzhongpeng
 repository: https://github.com/xuzhongpeng/vuepress-plugin-gitalk
 score: 0.21674746584558843
 stars: 2

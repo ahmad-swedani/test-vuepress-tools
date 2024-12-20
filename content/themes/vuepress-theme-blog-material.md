@@ -1,32 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/15522311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzE1NTIyMzExIn0.UYcTYLx7kXp0BSy6L4BaDjs1bPfSuKPq01xizmg50GM&v=4
-  email: lyh543@outlook.com
-  name: lyh543
-  url: https://github.com/lyh543
-  username: lyh543
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/15522311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzE1NTIyMzExIn0.WN9rxshdYEySeKQX44OpcMQreVY8vUkzA0OiyxzfUWs&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: lyh543@outlook.com
+    name: lyh543
+    url: https://github.com/lyh543
+    username: lyh543
 bugs: https://github.com/lyh543/vuepress-theme-blog-material/issues
 category: theme
 date: '2022-05-01T15:09:21.699Z'
 deprecated: false
 description: Material VuePress Blog Theme Powered By Vuetify
-downloads: null
+downloads: ~
 homepage: https://github.com/lyh543/vuepress-theme-blog-material/
 keywords:
-- vue
-- vuepress
-- vuetify
-- material design
+  - vue
+  - vuepress
+  - vuetify
+  - material design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: lyh543@outlook.com
+    username: lyh543
 name: vuepress-theme-blog-material
 npm: https://www.npmjs.com/package/vuepress-theme-blog-material
 publisher:
-  avatar: null
-  email: lyh543@outlook.com
-  name: null
-  url: null
-  username: lyh543
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: lyh543@outlook.com
+    username: lyh543
 repository: https://github.com/lyh543/vuepress-theme-blog-material
 score: 0.5178119591352814
 stars: 5

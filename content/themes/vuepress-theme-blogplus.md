@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26371161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzI2MzcxMTYxIn0.pGoIthYBAtMpnFTO3Vq0wT1VqTBOSXCNW2B_W1cf32Q&v=4
-  email: null
-  name: alexads@foxmail.com>
-  url: null
-  username: Dushusir
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/26371161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI2MzcxMTYxIn0.ATtKW5v_jMDaxhXyUqTQWihj560Oa2arDG-427EbOrU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: alexads@foxmail.com>
 bugs: https://github.com/Dushusir/vuepress-theme-blogplus/issues
 category: theme
 date: '2020-07-01T01:38:04.157Z'
 deprecated: false
 description: Default blog plus theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/Dushusir/vuepress-theme-blogplus#readme
 keywords:
-- vuepress
-- vuepress-theme
-- blog-theme
+  - vuepress
+  - vuepress-theme
+  - blog-theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1414556676@qq.com
+    username: alexads
 name: vuepress-theme-blogplus
 npm: https://www.npmjs.com/package/vuepress-theme-blogplus
 publisher:
-  avatar: null
-  email: 1414556676@qq.com
-  name: null
-  url: null
-  username: alexads
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1414556676@qq.com
+    username: alexads
 repository: https://github.com/Dushusir/vuepress-theme-blogplus
 score: 0.4120806482506515
 stars: 2

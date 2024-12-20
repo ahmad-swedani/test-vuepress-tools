@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/34125411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzM0MTI1NDExIn0.mOmuP1-ocLYk_wquHyNg2_5PAKZsbaXhsJ5aqtMyFpw&v=4
-  email: null
-  name: Romain Lenzotti
-  url: null
-  username: tsedio
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/34125411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4NjAsIm5iZiI6MTczNDY3MjY2MCwicGF0aCI6Ii91LzM0MTI1NDExIn0.gXVSxRYGpooGh6SkS_8g13sMUJvjJ0TrgemO1bpun20&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Romain Lenzotti
 bugs: https://github.com/tsedio/vuepress-theme-tsed/issues
 category: theme
 date: '2022-05-28T08:13:47.123Z'
 deprecated: false
 description: Vuepress theme for tsed.io
-downloads: null
-homepage: https://github.com/tsedio/vuepress-theme-tsed/tree/master/packages/vuepress-theme-tsed
-keywords: null
-license: false
-maintainers: null
+downloads: ~
+homepage: >-
+  https://github.com/tsedio/vuepress-theme-tsed/tree/master/packages/vuepress-theme-tsed
+keywords: ~
+license: ~
+maintainers:
+  - email: rom.lenzotti@gmail.com
+    username: romakita
 name: vuepress-theme-tsed
 npm: https://www.npmjs.com/package/vuepress-theme-tsed
 publisher:
-  avatar: null
-  email: rom.lenzotti@gmail.com
-  name: null
-  url: null
-  username: romakita
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: rom.lenzotti@gmail.com
+    username: romakita
 repository: https://github.com/tsedio/vuepress-theme-tsed
 score: 0.6057670655779925
 stars: 7

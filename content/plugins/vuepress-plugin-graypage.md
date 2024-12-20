@@ -1,38 +1,46 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25240064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzI1MjQwMDY0In0.Lvq3Vw5yP1yiuAuedOaHtMmu_RIA7CuduTJ1izBp4os&v=4
-  email: 2434387555@qq.com
-  name: JoeyBling
-  url: https://zhousiwei.gitee.io
-  username: zhousiwei
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/25240064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI1MjQwMDY0In0.rm09c5AFfeuLE7DdPhlZvK4NZWJ3WlPiYKGbtYcs3oM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    name: JoeyBling
+    url: https://zhousiwei.gitee.io
+    username: zhousiwei
 bugs: https://github.com/JoeyBling/vuepress-plugin-graypage/issues
 category: plugin
 date: '2020-09-29T09:32:46.422Z'
 deprecated: false
-description: "VuePress\u54C0\u60BC\u65E5\u7F51\u7AD9\u53D8\u7070. | Mourning website\
-  \ turns gray plugin for VuePress."
-downloads: null
+description: VuePress哀悼日网站变灰. | Mourning website turns gray plugin for VuePress.
+downloads: ~
 homepage: https://github.com/JoeyBling/vuepress-plugin-graypage
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- gray
-- graypage
-- mourn
-- "\u7070\u8272"
-- "\u54C0\u60BC\u65E5"
-- yilia-plus
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - gray
+  - graypage
+  - mourn
+  - 灰色
+  - 哀悼日
+  - yilia-plus
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2434387555@qq.com
+    username: zhousiwei
 name: vuepress-plugin-graypage
 npm: https://www.npmjs.com/package/vuepress-plugin-graypage
 publisher:
-  avatar: null
-  email: 2434387555@qq.com
-  name: null
-  url: null
-  username: zhousiwei
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-graypage
 score: 0.4693412325839471
 stars: 3

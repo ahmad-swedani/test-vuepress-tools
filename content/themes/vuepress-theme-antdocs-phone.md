@@ -1,34 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.SCXXWhvD6DJ0jXpxnehZfa4I6BYNvl2kGGAwaLaDBZg&v=4
-  email: null
-  name: springleo
-  url: null
-  username: lq782655835
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.Kzo9Dz-US61sGaLseDitT2iChDn-U2ShLOGWF1QFHgU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: springleo
 bugs: https://github.com/lq782655835/vuepress-theme-antdocs/issues
 category: theme
 date: '2020-04-14T11:45:54.969Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/lq782655835/vuepress-theme-antdocs#readme
 keywords:
-- theme
-- vuepress
-- vuepress-theme
-- antd
-- antdocs
-- ant-design
+  - theme
+  - vuepress
+  - vuepress-theme
+  - antd
+  - antdocs
+  - ant-design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 18521566707@163.com
+    username: springleo
 name: vuepress-theme-antdocs-phone
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs-phone
 publisher:
-  avatar: null
-  email: 18521566707@163.com
-  name: null
-  url: null
-  username: springleo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 18521566707@163.com
+    username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-antdocs
 score: 0.17812265169731872
 stars: 1

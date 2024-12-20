@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/31888710?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzMxODg4NzEwIn0.yJzspMADiQOFI0uLkZoG2rjXjue3KTshtI_Zay3Dpjs&v=4
-  email: null
-  name: "\u524D\u7AEF\u6709\u9053"
-  url: null
-  username: qqlcx5
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/31888710?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzMxODg4NzEwIn0.WgJoqAPDEaFJcrBDfNFPfz3pUti6wOfd3WlEzaKhU_k&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: 前端有道
 bugs: https://github.com/qqlcx5/vuepress-plugin-notify/issues
 category: plugin
 date: '2021-05-23T12:33:59.365Z'
 deprecated: false
 description: Notify plugin for vuepress theme.
-downloads: null
+downloads: ~
 homepage: https://github.com/qqlcx5
 keywords:
-- vuepress
-- notify
-- "\u901A\u77E5\u5F39\u51FA\u6846"
-- vuepress-plugin-notify
-license: false
-maintainers: null
+  - vuepress
+  - notify
+  - 通知弹出框
+  - vuepress-plugin-notify
+license: ~
+maintainers:
+  - email: 893917884@qq.com
+    username: qqlcx5
 name: vuepress-plugin-notify
 npm: https://www.npmjs.com/package/vuepress-plugin-notify
 publisher:
-  avatar: null
-  email: 893917884@qq.com
-  name: null
-  url: null
-  username: qqlcx5
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 893917884@qq.com
+    username: qqlcx5
 repository: https://github.com/qqlcx5/vuepress-plugin-notify
 score: 0.4616407045028309
 stars: 0

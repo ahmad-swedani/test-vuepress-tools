@@ -1,31 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
-  email: meteor.lxy@foxmail.com
-  name: meteorlxy
-  url: null
-  username: meteorlxy
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    name: meteorlxy
+    username: meteorlxy
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:46.133Z'
 deprecated: false
 description: VuePress plugin for nprogress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- nprogress
-- plugin
-- vuepress
+  - nprogress
+  - plugin
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
+  - email: 1700011071@pku.edu.cn
+    username: shigma
 name: vuepress-plugin-nprogress
 npm: https://www.npmjs.com/package/vuepress-plugin-nprogress
 publisher:
-  avatar: null
-  email: meteor.lxy@foxmail.com
-  name: null
-  url: null
-  username: meteorlxy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5802151286078958
 stars: 82

@@ -1,33 +1,45 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6147452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzYxNDc0NTIifQ.uU5IiWiAq3I9BSVG8rGXMf9hxh-UtyJlee_iDF4KtUw&v=4
-  email: null
-  name: Axway Appcelerator
-  url: null
-  username: tidev
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/6147452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzYxNDc0NTIifQ.f4tNDdS9hrzXek0iD6sRIks_0u-uYb5pKTecFMW_Upg&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Axway Appcelerator
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: plugin
 date: '2020-10-21T17:20:15.960Z'
 deprecated: false
 description: FontAwesome plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/appcelerator/docs-devkit#readme
 keywords:
-- vuepress
-- fontawesome
-- font
-- awesome
-- icons
-license: false
-maintainers: null
+  - vuepress
+  - fontawesome
+  - font
+  - awesome
+  - icons
+license: ~
+maintainers:
+  - email: tidev@cb1inc.com
+    username: tisdk
+  - email: chris-titanium@cb1inc.com
+    username: titanium-sdk-admin
+  - email: chris@cb1inc.com
+    username: cb1kenobi
+  - email: ewanharris93@gmail.com
+    username: awam
 name: '@titanium-sdk/vuepress-plugin-fontawesome'
 npm: https://www.npmjs.com/package/%40titanium-sdk%2Fvuepress-plugin-fontawesome
 publisher:
-  avatar: null
-  email: npmjs@appcelerator.com
-  name: null
-  url: null
-  username: appcelerator
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: npmjs@appcelerator.com
+    username: appcelerator
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.5932549011551801
 stars: 24

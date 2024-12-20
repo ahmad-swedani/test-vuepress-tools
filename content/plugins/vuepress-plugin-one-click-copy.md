@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17906558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzE3OTA2NTU4In0.sieT0BuBmel7eN7lAOq3-DamfrvrjjKUBtH0WPU17c8&v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/17906558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzE3OTA2NTU4In0.GoLWLxcxDggI1b4Uhf2KAniypsd9sl_SxOm9Oz3hNFs&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/vxhly/vuepress-plugin-one-click-copy/issues
 category: plugin
 date: '2021-09-04T01:52:30.959Z'
 deprecated: false
 description: A vuepress plugin for clipboard-copy
-downloads: null
+downloads: ~
 homepage: https://github.com/vxhly/vuepress-plugin-one-click-copy#readme
 keywords:
-- vuepress
-- plugin
-- clipboard-copy
-- vuepress-one-click-copy
-- copy
-- one-click-copy
+  - vuepress
+  - plugin
+  - clipboard-copy
+  - vuepress-one-click-copy
+  - copy
+  - one-click-copy
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: vuepress-plugin-one-click-copy
 npm: https://www.npmjs.com/package/vuepress-plugin-one-click-copy
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-one-click-copy
 score: 0.5355737714933446
 stars: 11

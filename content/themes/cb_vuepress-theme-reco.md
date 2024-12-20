@@ -1,31 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/38153905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzM4MTUzOTA1In0.6Fq5Ew7pfWknvabuwde2wn0wQ1DUKcUJeZtzZSgtMfs&v=4
-  email: null
-  name: reco_luan
-  url: null
-  username: cdnbye
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/38153905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzM4MTUzOTA1In0.0ixHS1b4mrGIkQxcSBDYDlYA1nOZu6Z6iPGsu5PLj9E&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: reco_luan
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: theme
 date: '2021-09-08T14:26:23.908Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-- vuepress
-- vue
-- theme
+  - vuepress
+  - vue
+  - theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 86755838@qq.com
+    username: snowinszu
 name: cb_vuepress-theme-reco
 npm: https://www.npmjs.com/package/cb_vuepress-theme-reco
 publisher:
-  avatar: null
-  email: 86755838@qq.com
-  name: null
-  url: null
-  username: snowinszu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 86755838@qq.com
+    username: snowinszu
 repository: https://github.com/cdnbye/cb_vuepress-theme-reco
 score: 0.3962376641390435
 stars: 0

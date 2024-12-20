@@ -1,28 +1,34 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24643401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzI0NjQzNDAxIn0.W4VZv7x_Bb1DDmjX7EM8WASrpS26vvFuBXRQb-jeoUc&v=4
-  email: null
-  name: cchao
-  url: null
-  username: cchao123
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/24643401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzI0NjQzNDAxIn0._sLoqA_262P3jJ4Roi7KpeYEfylM11sffiMxbGw26f8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: cchao
 bugs: https://github.com/2020807070/vuepress-theme-sky/issues
 category: theme
 date: '2019-05-16T02:56:55.636Z'
 deprecated: false
-description: "\U0001F680A Simple Theme for Vuepress"
-downloads: null
+description: 🚀A Simple Theme for Vuepress
+downloads: ~
 homepage: https://github.com/2020807070/vuepress-theme-sky#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 2020807070@qq.com
+    username: '2020807070'
 name: vuepress-theme-cchao
 npm: https://www.npmjs.com/package/vuepress-theme-cchao
 publisher:
-  avatar: null
-  email: 2020807070@qq.com
-  name: null
-  url: null
-  username: '2020807070'
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2020807070@qq.com
+    username: '2020807070'
 repository: https://github.com/2020807070/vuepress-theme-sky
 score: 0.46591624620695027
 stars: 28

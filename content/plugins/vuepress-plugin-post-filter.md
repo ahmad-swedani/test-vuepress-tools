@@ -1,32 +1,37 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/41458459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzQxNDU4NDU5In0.6uvnXgUCdNqS-HuMNfjNqyUuHLrTkFFQLXhoi5NGc5M&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/41458459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzQxNDU4NDU5In0.fP-NQD1aY_gWK4rX-R-Q9O-Lo2ueDWdNPcgwNlAijJk&v=4
+  email: ~
+  name: ~
+  url: ~
   username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-post-filter/issues/new
 category: plugin
 date: '2021-02-10T02:29:12.426Z'
 deprecated: false
 description: Post filter plugin for vuepress-next
-downloads: null
+downloads: ~
 homepage: https://github.com/nsznsznjsz/vuepress-plugin-post-filter#readme
 keywords:
-- vuepress-plugin
-- vuepress
-- plugin
-- filter
+  - vuepress-plugin
+  - vuepress
+  - plugin
+  - filter
 license: MIT License
-maintainers: null
+maintainers:
+  - email: nsznsznjsz@outlook.com
+    username: nsznsznjsz
 name: vuepress-plugin-post-filter
 npm: https://www.npmjs.com/package/vuepress-plugin-post-filter
 publisher:
-  avatar: null
-  email: nsznsznjsz@outlook.com
-  name: null
-  url: null
-  username: nsznsznjsz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: nsznsznjsz@outlook.com
+    username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-plugin-post-filter
 score: 0.4558340822741779
 stars: 1

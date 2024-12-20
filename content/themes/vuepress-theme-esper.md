@@ -1,28 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/710763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzcxMDc2MyJ9.hkzdx7fsm_jxo3llIUq8WuRCz8bLbtUWLRrBnl_TQXQ&v=4
-  email: marcosilva.poa.br@gmail.com
-  name: Marco Almeida
-  url: null
-  username: marcoalmeida.dev.br
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/710763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzcxMDc2MyJ9.IEouczkcBYCNsmamnDa5eLHtxWpwu80LzBr6zjIkLcE&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: marcosilva.poa.br@gmail.com
+    name: Marco Almeida
+    username: marcoalmeida.dev.br
 bugs: https://github.com/javayuga/vuepress-theme-esper/issues
 category: theme
 date: '2022-01-23T18:08:53.021Z'
 deprecated: false
 description: A light vuepress theme
-downloads: null
+downloads: ~
 homepage: https://github.com/javayuga/vuepress-theme-esper#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: marcosilva.poa.br@gmail.com
+    username: marcoalmeida.dev.br
 name: vuepress-theme-esper
 npm: https://www.npmjs.com/package/vuepress-theme-esper
 publisher:
-  avatar: null
-  email: marcosilva.poa.br@gmail.com
-  name: null
-  url: null
-  username: marcoalmeida.dev.br
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: marcosilva.poa.br@gmail.com
+    username: marcoalmeida.dev.br
 repository: https://github.com/javayuga/vuepress-theme-esper
 score: 0.581720848540398
 stars: 0

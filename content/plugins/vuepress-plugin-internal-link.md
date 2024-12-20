@@ -1,42 +1,52 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/42290260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzQyMjkwMjYwIn0.0kk8dlWYHSZ15qh4ktssuJwsiQ-z81D4kHGfYX124cg&v=4
-  email: scrisqiu@hotmail.com
-  name: Roderick Qiu
-  url: http://github.com/RoderickQiu
-  username: r-q
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/42290260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzQyMjkwMjYwIn0.xrtx7aaFRAPZ3qQIkrZ6QeUvPySjtOF5x7AGeg-fNv4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: scrisqiu@hotmail.com
+    name: Roderick Qiu
+    url: http://github.com/RoderickQiu
+    username: r-q
 bugs: https://github.com/RoderickQiu/vuepress-plugin-internal-link/issues
 category: plugin
 date: '2020-07-29T06:37:16.822Z'
 deprecated: false
-description: Parse [[internal link]] into normal markdown links to let them be supported
-  in vuepress, which is useful for Wiki writers and researchers.
-downloads: null
+description: >-
+  Parse [[internal link]] into normal markdown links to let them be supported in
+  vuepress, which is useful for Wiki writers and researchers.
+downloads: ~
 homepage: https://github.com/RoderickQiu/vuepress-plugin-internal-link#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- vuepress-plugin
-- internal
-- link
-- note
-- wiki
-- roam
-- glossary
-- generator
-- scris
-- RoderickQiu
+  - documentation
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - internal
+  - link
+  - note
+  - wiki
+  - roam
+  - glossary
+  - generator
+  - scris
+  - RoderickQiu
 license: MIT License
-maintainers: null
+maintainers:
+  - email: scrisqiu@hotmail.com
+    username: r-q
 name: vuepress-plugin-internal-link
 npm: https://www.npmjs.com/package/vuepress-plugin-internal-link
 publisher:
-  avatar: null
-  email: scrisqiu@hotmail.com
-  name: null
-  url: null
-  username: r-q
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: scrisqiu@hotmail.com
+    username: r-q
 repository: https://github.com/RoderickQiu/vuepress-plugin-internal-link
 score: 0.4263324339290322
 stars: 5

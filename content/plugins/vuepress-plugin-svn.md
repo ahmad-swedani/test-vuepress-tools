@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12245095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzEyMjQ1MDk1In0.VM6qwZ0QI9DjP8Mrv63djjgLvOWJs3LjQVt-3c7Emqc&v=4
-  email: null
-  name: linjhon
-  url: null
-  username: linjhon
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/12245095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzEyMjQ1MDk1In0.fDMNE1tFZ8FgxR8aKjPpR7sSq4FrWBQie64FD9U2ogs&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: linjhon
 bugs: https://github.com/linjhon/vuepress-plugin-svn/issues
 category: plugin
 date: '2021-05-17T09:04:21.149Z'
 deprecated: false
 description: svn for vuepress plugin
-downloads: null
+downloads: ~
 homepage: https://github.com/linjhon/vuepress-plugin-svn
 keywords:
-- vuepress-plugin
-- vuepress
-- plugin
-- svn
+  - vuepress-plugin
+  - vuepress
+  - plugin
+  - svn
 license: MIT License
-maintainers: null
+maintainers:
+  - email: linjhon@foxmail.com
+    username: linjhon
 name: vuepress-plugin-svn
 npm: https://www.npmjs.com/package/vuepress-plugin-svn
 publisher:
-  avatar: null
-  email: linjhon@foxmail.com
-  name: null
-  url: null
-  username: linjhon
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: linjhon@foxmail.com
+    username: linjhon
 repository: https://github.com/linjhon/vuepress-plugin-svn
 score: 0.4567814328354708
 stars: 1

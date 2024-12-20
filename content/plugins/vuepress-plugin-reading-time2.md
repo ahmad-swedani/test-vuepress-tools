@@ -1,31 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.NoEtFWW5uOTLQfQuUfCfrLpc1qyuKtRoHaZ64KsrJ2I&v=4
-  email: mister-hope@outlook.com
-  name: Mr.Hope
-  url: https://mrhope.site
-  username: vuepress-theme-hope
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.dw9O9GcESX63yVEZLSuQUtvDuRXO2rMzYfGtw7fuxsQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mister-hope@outlook.com
+    name: Mr.Hope
+    url: https://mrhope.site
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-03-20T18:47:00.639Z'
 deprecated: false
 description: Reading time plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-hope.github.io/v2/reading-time/
 keywords:
-- vuepress-plugin
-- reading time
-- word count
+  - vuepress-plugin
+  - reading time
+  - word count
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: vuepress-plugin-reading-time2
 npm: https://www.npmjs.com/package/vuepress-plugin-reading-time2
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6892421252516117
 stars: 2181

@@ -1,33 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
-  email: 1700011071@pku.edu.cn
-  name: Shigma
-  url: null
-  username: shigma
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1700011071@pku.edu.cn
+    name: Shigma
+    username: shigma
 bugs: https://github.com/vuepress-contrib/vuepress-plugin-migrate/issues
 category: plugin
 date: '2019-03-14T09:27:40.429Z'
 deprecated: false
 description: A VuePress plugin which migrates a website to VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress-contrib/vuepress-plugin-migrate#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- migrate
-- migration
-- website
+  - vuepress
+  - vuepress-plugin
+  - migrate
+  - migration
+  - website
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1700011071@pku.edu.cn
+    username: shigma
 name: vuepress-plugin-migrate
 npm: https://www.npmjs.com/package/vuepress-plugin-migrate
 publisher:
-  avatar: null
-  email: 1700011071@pku.edu.cn
-  name: null
-  url: null
-  username: shigma
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1700011071@pku.edu.cn
+    username: shigma
 repository: https://github.com/vuepress-contrib/vuepress-plugin-migrate
 score: 0.29885227976879497
 stars: 5

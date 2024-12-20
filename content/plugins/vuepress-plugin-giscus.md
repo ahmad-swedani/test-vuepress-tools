@@ -1,33 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29454156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzI5NDU0MTU2In0.ozt4r65TU14q5SGxrV07hya-DeYsY9SZ6lrVcOKSDnc&v=4
-  email: renovamenzxh@gmail.com
-  name: Renovamen
-  url: null
-  username: renovamen
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/29454156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzI5NDU0MTU2In0.Ic056wTQDci_aPF1LIDyrckoXht5m65heebGHgnjlkk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: renovamenzxh@gmail.com
+    name: Renovamen
+    username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-12-12T15:42:00.095Z'
 deprecated: false
 description: A plugin for adding comment system Giscus in VuePress 2.
-downloads: null
-homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/giscus
+downloads: ~
+homepage: >-
+  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/giscus
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- comment
-- giscus
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - comment
+  - giscus
 license: Apache License 2.0
-maintainers: null
+maintainers:
+  - email: renovamenzxh@gmail.com
+    username: renovamen
 name: vuepress-plugin-giscus
 npm: https://www.npmjs.com/package/vuepress-plugin-giscus
 publisher:
-  avatar: null
-  email: renovamenzxh@gmail.com
-  name: null
-  url: null
-  username: renovamen
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: renovamenzxh@gmail.com
+    username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5881888308022486
 stars: 363

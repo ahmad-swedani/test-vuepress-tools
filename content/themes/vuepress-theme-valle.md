@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/4364402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQzNjQ0MDIifQ.XK40HVNS3ZlyFk1YIgBAqcFypyONLYGuhzY5ViAcZHg&v=4
-  email: null
-  name: Joonas Yliaho
-  url: null
-  username: yliaho
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/4364402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQzNjQ0MDIifQ.uFjaBcexrceyPH0hzh2bcsjMGnxHp3au7fCgkwc08L4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Joonas Yliaho
 bugs: https://github.com/yliaho/vuepress-theme-valle/issues
 category: theme
 date: '2018-05-14T09:38:49.683Z'
 deprecated: false
 description: Simple blog theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/yliaho/vuepress-theme-valle#readme
 keywords:
-- static-site
-- blog
-- vue
-- vuepress
+  - static-site
+  - blog
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: joonas.yliaho@gmail.com
+    username: yliaho
 name: vuepress-theme-valle
 npm: https://www.npmjs.com/package/vuepress-theme-valle
 publisher:
-  avatar: null
-  email: joonas.yliaho@gmail.com
-  name: null
-  url: null
-  username: yliah
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: joonas.yliaho@gmail.com
+    username: yliah
 repository: https://github.com/yliaho/vuepress-theme-valle
 score: 0.4326121079516428
 stars: 26

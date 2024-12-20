@@ -1,29 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/33573212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzMzNTczMjEyIn0.stg-9GhulcPcCF7wTZgK1UIiZ4hKHWPtybNPu4SA1fk&v=4
-  email: null
-  name: lxh
-  url: null
-  username: StrivingRabbit
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/33573212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzMzNTczMjEyIn0.1kqiluR0-tSvcbcGuaucMKcJch6VZLyxp--BTQMMtXk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: lxh
 bugs: https://github.com/StrivingRabbit/vuepress-theme-uni-app/issues
 category: theme
 date: '2022-06-16T11:54:20.865Z'
 deprecated: false
 description: uni-app official website theme for vuepress
-downloads: null
+downloads: ~
 homepage: https://github.com/StrivingRabbit/vuepress-theme-uni-app#readme
 keywords:
-- uni-app
-license: false
-maintainers: null
+  - uni-app
+license: ~
+maintainers:
+  - email: 283700113@qq.com
+    username: liuxiaohang
 name: vuepress-theme-uni-app-test
 npm: https://www.npmjs.com/package/vuepress-theme-uni-app-test
 publisher:
-  avatar: null
-  email: 283700113@qq.com
-  name: null
-  url: null
-  username: liuxiaohang
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 283700113@qq.com
+    username: liuxiaohang
 repository: https://github.com/StrivingRabbit/vuepress-theme-uni-app
 score: 0.49499933580734456
 stars: 0

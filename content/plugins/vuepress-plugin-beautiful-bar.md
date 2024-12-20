@@ -1,34 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/31558729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91LzMxNTU4NzI5In0.oll-pB1w7NDL5z6E0qv_WOQlQkEtyhGOeIhJXA1fcVo&v=4
-  email: null
-  name: hugo
-  url: null
-  username: xiaminghu
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/31558729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzMxNTU4NzI5In0.IHOnFEtXUZ9B4knj6Uj0T4t8r29Ug3ejQxnySpGSHpU&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: hugo
 bugs: https://github.com/xiaminghu/vuepress-plugin-beautiful-bar/issues
 category: plugin
 date: '2020-12-22T03:51:11.706Z'
 deprecated: false
 description: a plugin for vuepress to generate navbar and sidebar automatically
-downloads: null
+downloads: ~
 homepage: https://xiaminghu.github.io/project/nodejs/vuepress-plugin-beautiful-bar/
 keywords:
-- vue
-- vuepress
-- plugin
-- nav
-- navbar
-- sidebar
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - plugin
+  - nav
+  - navbar
+  - sidebar
+license: ~
+maintainers:
+  - email: minghuhugo@163.com
+    username: minghuhugo
 name: vuepress-plugin-beautiful-bar
 npm: https://www.npmjs.com/package/vuepress-plugin-beautiful-bar
 publisher:
-  avatar: null
-  email: minghuhugo@163.com
-  name: null
-  url: null
-  username: minghuhugo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: minghuhugo@163.com
+    username: minghuhugo
 repository: https://github.com/xiaminghu/vuepress-plugin-beautiful-bar
 score: 0.642689131152298
 stars: 2

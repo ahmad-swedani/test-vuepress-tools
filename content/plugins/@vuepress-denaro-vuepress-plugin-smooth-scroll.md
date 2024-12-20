@@ -1,35 +1,44 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.8OXBHQpoY7d6CzCf4LOTnBPDLEqPHmoQ15RhIDQTMTo&v=4
-  email: pengchengou@gmail.com
-  name: vxhly
-  url: null
-  username: vxhly
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.rQdKqK_ns40yNuRVnoM-j8LW1mpPXG_co30xZs0oAzY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    name: vxhly
+    username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-10T06:18:28.041Z'
 deprecated: false
-description: "VuePress plugin for smooth scrolling.\u7528\u4E8E\u5E73\u6ED1\u6EDA\u52A8\
-  \u7684 VuePress \u63D2\u4EF6."
-downloads: null
-homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-smooth-scroll#readme
+description: VuePress plugin for smooth scrolling.用于平滑滚动的 VuePress 插件.
+downloads: ~
+homepage: >-
+  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-smooth-scroll#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- theme
-- denaro
-- smooth-scroll
-- "\u5E73\u6ED1\u6EDA\u52A8"
+  - vuepress
+  - vuepress-plugin
+  - theme
+  - denaro
+  - smooth-scroll
+  - 平滑滚动
 license: Other
-maintainers: null
+maintainers:
+  - email: pengchengou@gmail.com
+    username: vxhly
 name: '@vuepress-denaro/vuepress-plugin-smooth-scroll'
-npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-smooth-scroll
+npm: >-
+  https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-smooth-scroll
 publisher:
-  avatar: null
-  email: pengchengou@gmail.com
-  name: null
-  url: null
-  username: vxhly
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: pengchengou@gmail.com
+    username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5104264256325926
 stars: 5

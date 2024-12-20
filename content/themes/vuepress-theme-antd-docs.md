@@ -1,34 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/18214609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzE4MjE0NjA5In0.0R9tkx7AXsHYAJeFRoyJCQJHb-jU-WF6qFe00glE6m0&v=4
-  email: https://github.com/konnga
-  name: konnga
-  url: null
-  username: konnga
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/18214609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzE4MjE0NjA5In0.3YwW2JPPWULUXIn-i0iQ5bgyo1_VMf97TWFgXbm2aW4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: https://github.com/konnga
+    name: konnga
 bugs: https://github.com/konnga/vuepress-theme-antd-docs/issues
 category: theme
 date: '2020-10-12T08:48:37.994Z'
 deprecated: false
 description: vuepress ant design docs
-downloads: null
+downloads: ~
 homepage: https://github.com/konnga/vuepress-theme-antd-docs#readme
 keywords:
-- theme
-- vuepress
-- vuepress-theme
-- antd
-- ant-design
-- antd-docs
+  - theme
+  - vuepress
+  - vuepress-theme
+  - antd
+  - ant-design
+  - antd-docs
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wjc402402@163.com
+    username: konnga
 name: vuepress-theme-antd-docs
 npm: https://www.npmjs.com/package/vuepress-theme-antd-docs
 publisher:
-  avatar: null
-  email: wjc402402@163.com
-  name: null
-  url: null
-  username: konnga
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wjc402402@163.com
+    username: konnga
 repository: https://github.com/konnga/vuepress-theme-antd-docs
 score: 0.28115747135067815
 stars: 1

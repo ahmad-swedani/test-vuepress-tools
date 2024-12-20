@@ -1,31 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29831211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzI5ODMxMjExIn0.Dp9Omj-JuHGsDtNU5-5GeaxsqPqyX-b71om1QtZkgYw&v=4
-  email: gavinliu0606@gmail.com
-  name: Gavin Liu
-  url: https://gavinliu.me
-  username: gavinliu0606
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/29831211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI5ODMxMjExIn0.4BbQ7Qm-sFM77B_hYK-z8w8gmI0GQz-nXFe2YWgJN-g&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: gavinliu0606@gmail.com
+    name: Gavin Liu
+    url: https://gavinliu.me
+    username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: theme
 date: '2022-05-07T12:03:46.448Z'
 deprecated: false
 description: A VuePress theme with a mix of features
-downloads: null
+downloads: ~
 homepage: https://github.com/gavinliu6/vuepress-theme-mix
 keywords:
-- vuepress-theme
-- vuepress
-- vue
+  - vuepress-theme
+  - vuepress
+  - vue
 license: MIT License
-maintainers: null
+maintainers:
+  - email: gavinliu0606@gmail.com
+    username: gavinliu0606
 name: vuepress-theme-mix
 npm: https://www.npmjs.com/package/vuepress-theme-mix
 publisher:
-  avatar: null
-  email: gavinliu0606@gmail.com
-  name: null
-  url: null
-  username: gavinliu0606
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: gavinliu0606@gmail.com
+    username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
 score: 0.5919395312430268
 stars: 53

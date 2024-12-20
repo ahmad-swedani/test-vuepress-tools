@@ -1,28 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/47847334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzMDAsIm5iZiI6MTczNDY3MTEwMCwicGF0aCI6Ii91LzQ3ODQ3MzM0In0.iit74hmehijQgmFvGBM7M1wmJpzm-ZxGrYb0WevBWvs&v=4
-  email: kybetter@163.com
-  name: zhaoliang
-  url: null
-  username: kybetter
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/47847334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzQ3ODQ3MzM0In0.exiAwNW5zbvfBBlCmw4OXs6Ym0sDqDT18AidfmjkfvA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: kybetter@163.com
+    name: zhaoliang
+    username: kybetter
 bugs: https://github.com/xiyun-international/vuepress-theme-xydocs/issues
 category: theme
 date: '2019-04-30T06:30:58.768Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://github.com/xiyun-international/vuepress-theme-xydocs#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: 13522695700@163.com
+    username: changwenxia
+  - email: 17600969088@163.com
+    username: huqq123
+  - email: yuyue19921120@163.com
+    username: iamalisa
+  - email: kybetter@163.com
+    username: kybetter
+  - email: wubaiqing@vip.qq.com
+    username: wubaiqing
 name: '@xiyun/vuepress-theme-xydocs'
 npm: https://www.npmjs.com/package/%40xiyun%2Fvuepress-theme-xydocs
 publisher:
-  avatar: null
-  email: kybetter@163.com
-  name: null
-  url: null
-  username: kybetter
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: kybetter@163.com
+    username: kybetter
 repository: https://github.com/xiyun-international/vuepress-theme-xydocs
 score: 0.3145241650906839
 stars: 0

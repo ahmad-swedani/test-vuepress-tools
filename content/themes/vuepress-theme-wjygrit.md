@@ -1,34 +1,42 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/56510542?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzU2NTEwNTQyIn0.aRUP6ojbDLmHryaFSFYJgReePfIrstwk8eUCJq3hw8Q&v=4
-  email: 1435408225@qq.com
-  name: WJYGRIT
-  url: null
-  username: wjygrit
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/56510542?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzU2NTEwNTQyIn0.9VNzx8PpaQpEIPd6BaN02ilECUYZSEHDRnfw5vX4uzk&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1435408225@qq.com
+    name: WJYGRIT
+    username: wjygrit
 bugs: https://github.com/GRITWJY/WJYGRIT-BLOG/issues
 category: theme
 date: '2022-06-03T12:56:14.177Z'
 deprecated: false
-description: "\u4E00\u4E2A\u57FA\u4E8Evuepress\u7684\u535A\u5BA2\u4E3B\u9898"
-downloads: null
+description: 一个基于vuepress的博客主题
+downloads: ~
 homepage: https://github.com/GRITWJY/WJYGRIT-BLOG#readme
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- theme
-- blog
-license: false
-maintainers: null
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - theme
+  - blog
+license: ~
+maintainers:
+  - email: 1435408225@qq.com
+    username: wjygrit
 name: vuepress-theme-wjygrit
 npm: https://www.npmjs.com/package/vuepress-theme-wjygrit
 publisher:
-  avatar: null
-  email: 1435408225@qq.com
-  name: null
-  url: null
-  username: wjygrit
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1435408225@qq.com
+    username: wjygrit
 repository: https://github.com/GRITWJY/WJYGRIT-BLOG
 score: 0.49823642836614834
 stars: 2

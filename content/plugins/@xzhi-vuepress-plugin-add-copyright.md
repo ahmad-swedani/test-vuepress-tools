@@ -1,38 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25785330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzI1Nzg1MzMwIn0.5Tq2lPrWQEojOev8yhczTGARkF2Qo-xSoLk8J0fda4k&v=4
-  email: null
-  name: Xzhi
-  url: null
-  username: GitHub-Xzhi
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/25785330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzI1Nzg1MzMwIn0.B3HlIDcd3JWt3zB8mQp9eX6eboTw22hbxoa3XyOskx4&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Xzhi
 bugs: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright/issues
 category: plugin
 date: '2021-05-06T17:28:24.661Z'
 deprecated: false
-description: "\u6DFB\u52A0\u81EA\u5B9A\u4E49\u7248\u6743\u7684VuePress\u63D2\u4EF6\
-  \u3002A VuePress plugin which add custom copyright."
-downloads: null
+description: 添加自定义版权的VuePress插件。A VuePress plugin which add custom copyright.
+downloads: ~
 homepage: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- copyright
-- copy
-- markdown
-- "\u7248\u6743"
-- "\u6DFB\u52A0\u7248\u6743"
-- "\u81EA\u5B9A\u4E49\u7248\u6743"
-- "\u81EA\u5B9A\u4E49\u590D\u5236\u884C\u4E3A"
+  - vuepress
+  - vuepress-plugin
+  - copyright
+  - copy
+  - markdown
+  - 版权
+  - 添加版权
+  - 自定义版权
+  - 自定义复制行为
 license: MIT License
-maintainers: null
+maintainers:
+  - email: cx_zhi@qq.com
+    username: xzhi
 name: '@xzhi/vuepress-plugin-add-copyright'
 npm: https://www.npmjs.com/package/%40xzhi%2Fvuepress-plugin-add-copyright
 publisher:
-  avatar: null
-  email: cx_zhi@qq.com
-  name: null
-  url: null
-  username: xzhi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: cx_zhi@qq.com
+    username: xzhi
 repository: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright
 score: 0.47777496805491154
 stars: 1

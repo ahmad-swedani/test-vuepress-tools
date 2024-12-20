@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/58034399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzU4MDM0Mzk5In0.PyTYLO1DfzrzeVv54nyh7ZncrfAfr9iFLczw3rG3FT4&v=4
-  email: null
-  name: Stan Ye
-  url: null
-  username: shuaijs
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/58034399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzU4MDM0Mzk5In0.ajg-woCyLUsOZLrp3cbElDCVB4ZREfAKnwtgSKBAIKw&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Stan Ye
 bugs: https://github.com/stanyejs/vuepress-plugin-gitalk/issues
 category: plugin
 date: '2019-11-23T09:27:04.829Z'
 deprecated: false
 description: stanye's vuepress-plugin-gitalk
-downloads: null
+downloads: ~
 homepage: https://github.com/stanyejs/vuepress-plugin-gitalk#readme
 keywords:
-- stanye
-- vue
-- vuepress
-- gitalk
+  - stanye
+  - vue
+  - vuepress
+  - gitalk
 license: MIT License
-maintainers: null
+maintainers:
+  - email: xiaocooshy@gmail.com
+    username: stanye
 name: '@shuaijs/vuepress-plugin-gitalk'
 npm: https://www.npmjs.com/package/%40shuaijs%2Fvuepress-plugin-gitalk
 publisher:
-  avatar: null
-  email: xiaocooshy@gmail.com
-  name: null
-  url: null
-  username: stanye
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xiaocooshy@gmail.com
+    username: stanye
 repository: https://github.com/stanyejs/vuepress-plugin-gitalk
 score: 0.4540431079385727
 stars: 0

@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/22881872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzIyODgxODcyIn0.O0MCZCRNqaABZormdo6HE0Dr35AgCo-2aZ02sUlZC7Q&v=4
-  email: null
-  name: "\u541B\u60DC"
-  url: null
-  username: xinlei3166
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/22881872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzIyODgxODcyIn0.Vc7CK5eQ5CIzFtRO5A4ZULlfYDKz8taeSRUNdEfV_Jw&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: 君惜
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
 date: '2021-12-15T07:04:32.038Z'
 deprecated: false
 description: vuepress plugin for demoblock
-downloads: null
+downloads: ~
 homepage: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus#readme
 keywords:
-- vuepress2
-- vuepress
-- vue
-- plugin
+  - vuepress2
+  - vuepress
+  - vue
+  - plugin
 license: MIT License
-maintainers: null
+maintainers:
+  - email: xinlei3166@126.com
+    username: xinlei3166
 name: vuepress-plugin-demoblock-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-plus
 publisher:
-  avatar: null
-  email: xinlei3166@126.com
-  name: null
-  url: null
-  username: xinlei3166
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xinlei3166@126.com
+    username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
 score: 0.5171677888446938
 stars: 29

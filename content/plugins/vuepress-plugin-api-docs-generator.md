@@ -1,28 +1,34 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2489210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzI0ODkyMTAifQ.TQFEbQ_yQnU5n8nhcKsujpoS_45G96NtK6V6NvtqVqM&v=4
-  email: null
-  name: evaera
-  url: null
-  username: evaera
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/2489210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzI0ODkyMTAifQ.n04MxTc9o7RNH6bWfTr3-n3angZUgdStaItAoVeocoA&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: evaera
 bugs: https://github.com/evaera/vuepress-plugin-api-docs/issues
 category: plugin
 date: '2020-07-14T03:47:30.727Z'
 deprecated: false
 description: VuePress plugin for generating API reference pages.
-downloads: null
+downloads: ~
 homepage: https://github.com/evaera/vuepress-plugin-api-docs#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: e@eryn.io
+    username: evaera
 name: vuepress-plugin-api-docs-generator
 npm: https://www.npmjs.com/package/vuepress-plugin-api-docs-generator
 publisher:
-  avatar: null
-  email: e@eryn.io
-  name: null
-  url: null
-  username: evaera
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: e@eryn.io
+    username: evaera
 repository: https://github.com/evaera/vuepress-plugin-api-docs
 score: 0.3439111529210184
 stars: 9

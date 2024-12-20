@@ -1,34 +1,43 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8146876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91LzgxNDY4NzYifQ.DPwrS1gl9vfXuvyrwneWtFTw-1q1FHpG4Cga2b3GKD4&v=4
-  email: kawarimidoll+git@gmail.com
-  name: kawarimidoll
-  url: https://github.com/kawarimidoll
-  username: kawarimidoll
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/8146876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzgxNDY4NzYifQ.Lq8kuy8vODQcLMZpRoToX56hFqxQ9ygL7VLK4o7OFag&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: kawarimidoll+git@gmail.com
+    name: kawarimidoll
+    url: https://github.com/kawarimidoll
+    username: kawarimidoll
 bugs: https://github.com/kawarimidoll/vuepress-plugin-tailwind/issues
 category: plugin
 date: '2020-12-13T06:43:39.211Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily
-downloads: null
+downloads: ~
 homepage: https://github.com/kawarimidoll/vuepress-plugin-tailwind#readme
 keywords:
-- vuepress
-- plugin
-- tailwind
-- purgecss
-- style
-- css
+  - vuepress
+  - plugin
+  - tailwind
+  - purgecss
+  - style
+  - css
 license: MIT License
-maintainers: null
+maintainers:
+  - email: kawarimidoll+git@gmail.com
+    username: kawarimidoll
 name: '@kawarimidoll/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40kawarimidoll%2Fvuepress-plugin-tailwind
 publisher:
-  avatar: null
-  email: kawarimidoll+git@gmail.com
-  name: null
-  url: null
-  username: kawarimidoll
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: kawarimidoll+git@gmail.com
+    username: kawarimidoll
 repository: https://github.com/kawarimidoll/vuepress-plugin-tailwind
 score: 0.6206440113294933
 stars: 14

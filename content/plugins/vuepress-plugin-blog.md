@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
-  email: chl814@foxmail.com
-  name: ULIVZ
-  url: null
-  username: vuepress
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chl814@foxmail.com
+    name: ULIVZ
 bugs: https://github.com/ulivz/vuepress-plugin-blog/issues
 category: plugin
 date: '2019-06-03T13:39:08.992Z'
 deprecated: false
 description: Blog plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/ulivz/vuepress-plugin-blog#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 472590061@qq.com
+    username: ulivz
 name: vuepress-plugin-blog
 npm: https://www.npmjs.com/package/vuepress-plugin-blog
 publisher:
-  avatar: null
-  email: 472590061@qq.com
-  name: null
-  url: null
-  username: ulivz
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 472590061@qq.com
+    username: ulivz
 repository: https://github.com/ulivz/vuepress-plugin-blog
 score: 0.35754285398692864
 stars: 181

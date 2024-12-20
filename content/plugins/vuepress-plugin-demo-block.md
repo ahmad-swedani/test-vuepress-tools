@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/9931685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91Lzk5MzE2ODUifQ.G1ifmmIXGNO1U1o4i1MZUyBUoRE1Xtv12Dhx5sL2hUw&v=4
-  email: null
-  name: xiguaxigua
-  url: null
-  username: xiguaxigua
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/9931685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4NjAsIm5iZiI6MTczNDY3MjY2MCwicGF0aCI6Ii91Lzk5MzE2ODUifQ.YE96xUZ5j18uTIHAqjzDK8Pc6C4rzue8zHKuYyyHESY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: xiguaxigua
 bugs: https://github.com/xiguaxigua/vuepress-plugin-demo-block/issues
 category: plugin
 date: '2019-03-28T09:53:26.436Z'
 deprecated: false
 description: demo block for vuepress both support vue and react
-downloads: null
+downloads: ~
 homepage: https://github.com/xiguaxigua/vuepress-plugin-demo-block#readme
 keywords:
-- vuepress-plugin
-- demo-block
+  - vuepress-plugin
+  - demo-block
 license: MIT License
-maintainers: null
+maintainers:
+  - email: quietcoder@163.com
+    username: quietcoder
 name: vuepress-plugin-demo-block
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-block
 publisher:
-  avatar: null
-  email: quietcoder@163.com
-  name: null
-  url: null
-  username: quietcoder
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: quietcoder@163.com
+    username: quietcoder
 repository: https://github.com/xiguaxigua/vuepress-plugin-demo-block
 score: 0.43409285751687654
 stars: 113

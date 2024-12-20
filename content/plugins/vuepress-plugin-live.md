@@ -1,33 +1,39 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29342568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzI5MzQyNTY4In0.uXlwZRRQQE9xbaIf0mh1DIhjzDLjt0YXY3tTGBxckKo&v=4
-  email: null
-  name: ledouxb@gmail.com
-  url: null
-  username: vue-styleguidist
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/29342568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzI5MzQyNTY4In0.uppABnbR38hYzfpUYBqiEdLhE5WxeHfrdh8k0vCyHgY&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: ledouxb@gmail.com
 bugs: https://github.com/vue-styleguidist/vuepress-plugin-live/issues
 category: plugin
 date: '2020-10-11T23:48:03.193Z'
 deprecated: false
 description: Make your markdown code examples come alive
-downloads: null
+downloads: ~
 homepage: http://vuepress-live.surge.sh/
 keywords:
-- vue
-- vuepress
-- vue-live
-- markdown
-- example
+  - vue
+  - vuepress
+  - vue-live
+  - markdown
+  - example
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ledouxb@me.com
+    username: elevatebart
 name: vuepress-plugin-live
 npm: https://www.npmjs.com/package/vuepress-plugin-live
 publisher:
-  avatar: null
-  email: ledouxb@me.com
-  name: null
-  url: null
-  username: elevatebart
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ledouxb@me.com
+    username: elevatebart
 repository: https://github.com/vue-styleguidist/vuepress-plugin-live
 score: 0.5193113845086387
 stars: 38

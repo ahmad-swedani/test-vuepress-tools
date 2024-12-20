@@ -1,35 +1,45 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/228843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzIyODg0MyJ9.Ro7V829_BnJR9fwez0q2Qc_ZR6uUfButWQhU9EYf_yQ&v=4
-  email: null
-  name: null
-  url: null
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/228843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzIyODg0MyJ9.Tlw5_PehsxCxAySfMbKNuzG8jlfprjKTjLgVEe22hsY&v=4
+  email: ~
+  name: ~
+  url: ~
   username: cosmos
 bugs: https://github.com/cosmos/vuepress-theme-cosmos/issues
 category: theme
 date: '2022-01-18T08:28:16.861Z'
 deprecated: false
-description: Theme for VuePress static site generator used by Tendermint and Cosmos
+description: >-
+  Theme for VuePress static site generator used by Tendermint and Cosmos
   projects.
-downloads: null
+downloads: ~
 homepage: https://github.com/cosmos/vuepress-theme-cosmos#readme
 keywords:
-- documentation
-- docs
-- cosmos
-- tendermint
-- vuepress
-- theme
+  - documentation
+  - docs
+  - cosmos
+  - tendermint
+  - vuepress
+  - theme
 license: Other
-maintainers: null
+maintainers:
+  - email: nylira@protonmail.com
+    username: nylira
+  - email: hello@lovincyrus.com
+    username: lovincyrus
+  - email: denis@fadeev.org
+    username: fadeev
 name: vuepress-theme-cosmos
 npm: https://www.npmjs.com/package/vuepress-theme-cosmos
 publisher:
-  avatar: null
-  email: denis@fadeev.org
-  name: null
-  url: null
-  username: fadeev
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: denis@fadeev.org
+    username: fadeev
 repository: https://github.com/cosmos/vuepress-theme-cosmos
 score: 0.5174225790078266
 stars: 16

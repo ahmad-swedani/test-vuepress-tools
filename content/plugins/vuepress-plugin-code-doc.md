@@ -1,35 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/15191056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzE1MTkxMDU2In0.Ew0OKkTfavKh6r15XFFpBbfYkFMk-eiW9JHg2VxCr80&v=4
-  email: null
-  name: jardenliu
-  url: null
-  username: jardenliu
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/15191056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzE1MTkxMDU2In0.Vqv2qyqKxfczqumwFRjpcrlJ0rreJgMn6YSs3s797Kc&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: jardenliu
 bugs: https://github.com/jardenliu/vuepress-plugin-code-doc/issues
 category: plugin
 date: '2020-07-23T03:32:18.037Z'
 deprecated: false
 description: Writing Documents Like Element-ui
-downloads: null
+downloads: ~
 homepage: https://github.com/jardenliu/vuepress-plugin-code-doc#readme
 keywords:
-- vuepress
-- code
-- demo
-- doc
-- element
-- ui
-- components
-license: false
-maintainers: null
+  - vuepress
+  - code
+  - demo
+  - doc
+  - element
+  - ui
+  - components
+license: ~
+maintainers:
+  - email: jarden@qq.com
+    username: jardenliu
 name: vuepress-plugin-code-doc
 npm: https://www.npmjs.com/package/vuepress-plugin-code-doc
 publisher:
-  avatar: null
-  email: jarden@qq.com
-  name: null
-  url: null
-  username: jardenliu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: jarden@qq.com
+    username: jardenliu
 repository: https://github.com/jardenliu/vuepress-plugin-code-doc
 score: 0.46859774115786945
 stars: 1

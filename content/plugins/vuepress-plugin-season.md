@@ -1,29 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/49934348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzQ5OTM0MzQ4In0.y_K7YWGBO2WKQqymXZn_gRLNH7MPUD7dbNwE80tu5Vk&v=4
-  email: null
-  name: hahaxiaowai
-  url: null
-  username: hahaxiaowai
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/49934348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzQ5OTM0MzQ4In0.Kkjs2KEvP5FwtYusVYXGnRSK_BY1M5jFzUT21M1C6MQ&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: hahaxiaowai
 bugs: https://github.com/hahaxiaowai/vuepress-plugin-season/issues
 category: plugin
 date: '2021-12-14T07:03:52.997Z'
 deprecated: false
 description: vuepress plugin season
-downloads: null
+downloads: ~
 homepage: https://github.com/hahaxiaowai/vuepress-plugin-season#readme
 keywords:
-- vuepress
-license: false
-maintainers: null
+  - vuepress
+license: ~
+maintainers:
+  - email: 1062080110@qq.com
+    username: hahaxiaowai
 name: vuepress-plugin-season
 npm: https://www.npmjs.com/package/vuepress-plugin-season
 publisher:
-  avatar: null
-  email: 1062080110@qq.com
-  name: null
-  url: null
-  username: hahaxiaowai
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1062080110@qq.com
+    username: hahaxiaowai
 repository: https://github.com/hahaxiaowai/vuepress-plugin-season
 score: 0.504730539441181
 stars: 0

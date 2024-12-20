@@ -1,28 +1,35 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24715727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzI0NzE1NzI3In0.ffGkocTiPMEeehia99aqe6FgryC46KaIWKQGfoB8cxM&v=4
-  email: ocavue#gmail.com
-  name: ocavue
-  url: null
-  username: ocavue
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/24715727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI0NzE1NzI3In0.F3BjJzf2gb5ZNt22bIU81JgD08rxGm63kRnoUffwW7w&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ocavue#gmail.com
+    name: ocavue
 bugs: https://github.com/ocavue/vuepress-theme-blogue/issues
 category: theme
 date: '2020-12-27T14:17:51.010Z'
 deprecated: false
 description: '> A [VuePress](https://vuepress.vuejs.org/) theme made for blog'
-downloads: null
+downloads: ~
 homepage: https://github.com/ocavue/vuepress-theme-blogue#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ocavue@gmail.com
+    username: ocavue
 name: vuepress-theme-blogue
 npm: https://www.npmjs.com/package/vuepress-theme-blogue
 publisher:
-  avatar: null
-  email: ocavue@gmail.com
-  name: null
-  url: null
-  username: ocavue
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ocavue@gmail.com
+    username: ocavue
 repository: https://github.com/ocavue/vuepress-theme-blogue
 score: 0.42000828700357384
 stars: 12

@@ -1,30 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/31605584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzMxNjA1NTg0In0.T9hJZWLTM8VcyhG_BlMXFWBD87uE26PE0jljQ3pmVkU&v=4
-  email: null
-  name: John Ouellet @labboy0276
-  url: null
-  username: lando
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/31605584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzMxNjA1NTg0In0.iHHCd2jI6qf4ghnOxlr-2Z9ZLYISFjDxp3P402gyTxM&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: John Ouellet @labboy0276
 bugs: https://github.com/lando/vuepress-theme-lando-docs/issues/new/choose/
 category: theme
 date: '2021-11-08T21:21:40.260Z'
 deprecated: false
 description: A VuePress 2 Theme for Lando Doc Based Sites
-downloads: null
+downloads: ~
 homepage: https://github.com/lando/vuepress-theme-lando-docs
 keywords:
-- lando
-- vuepress
+  - lando
+  - vuepress
 license: GNU General Public License v3.0
-maintainers: null
+maintainers:
+  - email: john@lando.dev
+    username: labboy0276
+  - email: mike@lando.dev
+    username: pirog
+  - email: alec@lando.dev
+    username: reynoldsalec
 name: '@lando/vuepress-theme-lando-docs'
 npm: https://www.npmjs.com/package/%40lando%2Fvuepress-theme-lando-docs
 publisher:
-  avatar: null
-  email: mike@lando.dev
-  name: null
-  url: null
-  username: pirog
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: mike@lando.dev
+    username: pirog
 repository: https://github.com/lando/vuepress-theme-lando-docs
 score: 0.49985578473645365
 stars: 9

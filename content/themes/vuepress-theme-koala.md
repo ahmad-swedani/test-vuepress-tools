@@ -1,34 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/19198355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzE5MTk4MzU1In0.-jK1rU9umM4E3gcIgdUNI2Bzz76jgNEbCeL0FWC1Jjk&v=4
-  email: null
-  name: Artiely
-  url: null
-  username: artiely
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/19198355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzE5MTk4MzU1In0.mt5VkB4v38nO-5yZDQe4JqQpRsq-OXNMOc1LUSgX73w&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Artiely
 bugs: https://github.com/artiely/vuepress-theme-koala/issues
 category: theme
 date: '2019-03-28T01:42:55.660Z'
 deprecated: false
 description: blog theme for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/artiely/vuepress-theme-koala
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- theme
-- vuepress-theme
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - theme
+  - vuepress-theme
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1119696785@qq.com
+    username: artiely
 name: vuepress-theme-koala
 npm: https://www.npmjs.com/package/vuepress-theme-koala
 publisher:
-  avatar: null
-  email: 1119696785@qq.com
-  name: null
-  url: null
-  username: artiely
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1119696785@qq.com
+    username: artiely
 repository: https://github.com/artiely/vuepress-theme-koala
 score: 0.2448233804713642
 stars: 4

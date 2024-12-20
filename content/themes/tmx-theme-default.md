@@ -1,32 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
-  email: null
-  name: Evan You
-  url: null
-  username: vuepress
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: theme
 date: '2022-06-09T03:58:53.379Z'
 deprecated: false
 description: Default theme of VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- vuepress-theme
-- vuepress
-- theme
-- default
+  - vuepress-theme
+  - vuepress
+  - theme
+  - default
 license: MIT License
-maintainers: null
+maintainers:
+  - email: lanqiuping135@163.com
+    username: lanlan135
 name: tmx-theme-default
 npm: https://www.npmjs.com/package/tmx-theme-default
 publisher:
-  avatar: null
-  email: lanqiuping135@163.com
-  name: null
-  url: null
-  username: lanlan135
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: lanqiuping135@163.com
+    username: lanlan135
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17930038767983447
 stars: 2389

@@ -1,30 +1,36 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8063914?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzgwNjM5MTQifQ.bh-rfXzxDKFlif8-WUO8r22g69ji3Ixnk5g-ELCRTt4&v=4
-  email: null
-  name: llqgit
-  url: null
-  username: llqgit
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/8063914?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzgwNjM5MTQifQ.N6k_W0nzXqmcL7dLqb6RwJJDeIoIkBsDkIN8H8z7Wn8&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: llqgit
 bugs: https://github.com/llqgit/vuepress-plugin-visit/issues
 category: plugin
 date: '2019-12-24T12:12:52.693Z'
 deprecated: false
 description: vuepress plugin for visit count api
-downloads: null
+downloads: ~
 homepage: https://github.com/llqgit/vuepress-plugin-visit#readme
 keywords:
-- vuepress
-- plugin
-license: false
-maintainers: null
+  - vuepress
+  - plugin
+license: ~
+maintainers:
+  - email: llqggl@gmail.com
+    username: llq
 name: vuepress-plugin-visit
 npm: https://www.npmjs.com/package/vuepress-plugin-visit
 publisher:
-  avatar: null
-  email: llqggl@gmail.com
-  name: null
-  url: null
-  username: llq
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: llqggl@gmail.com
+    username: llq
 repository: https://github.com/llqgit/vuepress-plugin-visit
 score: 0.14943263247215519
 stars: 1

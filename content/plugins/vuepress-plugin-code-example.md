@@ -1,33 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/10718226?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzEwNzE4MjI2In0.H2jv7PFap2FaO4aU-yD5cBgCf-brqSfBp9PW0jJX5pU&v=4
-  email: null
-  name: Tickly
-  url: null
-  username: Tickly
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/10718226?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzEwNzE4MjI2In0.QG27TnyZXACzfXQ23JWfxwj2X1KvDcXvI_sSsrLUwSc&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Tickly
 bugs: https://github.com/Tickly/vuepress-plugin-code-example/issues
 category: plugin
 date: '2021-12-18T05:56:21.718Z'
 deprecated: false
-description: "\u4F60\u603B\u4E0D\u60F3\u4F60\u7684\u793A\u4F8B\u6587\u6863\u8981\u8FD9\
-  \u4E48\u5199\u5427\uFF1F"
-downloads: null
+description: 你总不想你的示例文档要这么写吧？
+downloads: ~
 homepage: https://github.com/Tickly/vuepress-plugin-code-example#readme
 keywords:
-- vuepress
-- plugin
-- code
-- example
-license: false
-maintainers: null
+  - vuepress
+  - plugin
+  - code
+  - example
+license: ~
+maintainers:
+  - email: 807081817@qq.com
+    username: taoguo
 name: vuepress-plugin-code-example
 npm: https://www.npmjs.com/package/vuepress-plugin-code-example
 publisher:
-  avatar: null
-  email: 807081817@qq.com
-  name: null
-  url: null
-  username: taoguo
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 807081817@qq.com
+    username: taoguo
 repository: https://github.com/Tickly/vuepress-plugin-code-example
 score: 0.33900903061652515
 stars: 2

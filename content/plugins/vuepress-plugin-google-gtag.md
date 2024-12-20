@@ -1,33 +1,41 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/15811268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzE1ODExMjY4In0.LRNIaHAGX1H-UGHbZjoyqEv2xv2PjfdJRmBeWXZMDm8&v=4
-  email: scope.wu@gmail.com
-  name: scope.wu
-  url: null
-  username: scopewu
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/15811268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzE1ODExMjY4In0.VTdG5HPv59BDv-sr-LF_rtDtwGYHfzJCKMF7x9-U_Jo&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: scope.wu@gmail.com
+    name: scope.wu
 bugs: https://github.com/scopewu/vuepress/issues
 category: plugin
 date: '2019-06-16T13:45:32.024Z'
 deprecated: false
 description: google global site tag(gtag.js) plugin for vuepress
-downloads: null
-homepage: https://github.com/scopewu/vuepress/tree/master/packages/vuepress-plugin-google-gtag
+downloads: ~
+homepage: >-
+  https://github.com/scopewu/vuepress/tree/master/packages/vuepress-plugin-google-gtag
 keywords:
-- vue
-- vuepress
-- generator
-- google gtag
-- gtag
+  - vue
+  - vuepress
+  - generator
+  - google gtag
+  - gtag
 license: MIT License
-maintainers: null
+maintainers:
+  - email: scopewu@gmail.com
+    username: iiiwwj
 name: vuepress-plugin-google-gtag
 npm: https://www.npmjs.com/package/vuepress-plugin-google-gtag
 publisher:
-  avatar: null
-  email: scopewu@gmail.com
-  name: null
-  url: null
-  username: scopewu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: scopewu@gmail.com
+    username: scopewu
 repository: https://github.com/scopewu/vuepress
 score: 0.45908878045779167
 stars: 2

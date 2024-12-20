@@ -1,30 +1,38 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17905150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzE3OTA1MTUwIn0.70XzB6EEXhttMdssKBqFeVqHg_QQtuIz5hph9ZICBw8&v=4
-  email: ikangxu@outlook.com
-  name: IKangxu
-  url: null
-  username: IKangXu
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/17905150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzE3OTA1MTUwIn0.V3EICyDqhjNA3XABhpp570lXA0XUoyhsUtjUXNSkFLs&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ikangxu@outlook.com
+    name: IKangxu
 bugs: https://github.com/IKangXu/vuepress-theme-ic/issues
 category: theme
 date: '2020-06-03T03:26:33.352Z'
 deprecated: false
-description: ':tada::tada::tada: A note-style vuepress blog theme with simple, clear
-  and practical features for the purpose'
-downloads: null
+description: >-
+  :tada::tada::tada: A note-style vuepress blog theme with simple, clear and
+  practical features for the purpose
+downloads: ~
 homepage: https://github.com/IKangXu/vuepress-theme-ic#readme
 keywords:
-- vuepress
-license: false
-maintainers: null
+  - vuepress
+license: ~
+maintainers:
+  - email: ikangxu@qq.com
+    username: kangxu
 name: vuepress-theme-ic
 npm: https://www.npmjs.com/package/vuepress-theme-ic
 publisher:
-  avatar: null
-  email: ikangxu@qq.com
-  name: null
-  url: null
-  username: kangxu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ikangxu@qq.com
+    username: kangxu
 repository: https://github.com/IKangXu/vuepress-theme-ic
 score: 0.2674472934363531
 stars: 6

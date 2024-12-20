@@ -1,32 +1,40 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/35178455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzM1MTc4NDU1In0.SwF1-bgPsiv-KXkOTBuOY_FyKZ95L0fMxJVbuZ9Wq3E&v=4
-  email: milan@sulc.dev
-  name: f3l1x
-  url: https://f3l1x.io
-  username: f00b4r
+  avatar: >-
+    https://private-avatars.githubusercontent.com/u/35178455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzM1MTc4NDU1In0.q7Gm_pMqPJfISKTWy9y_OzEisBIhcAxLXJrEhoaGGIs&v=4
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: milan@sulc.dev
+    name: f3l1x
+    url: https://f3l1x.io
 bugs: https://github.com/webkitty/vuepress-plugin-smartlook/issues
 category: plugin
 date: '2020-03-23T12:25:40.858Z'
 deprecated: false
 description: Smartlook tracking plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/webkitty/vuepress-plugin-smartlook#readme
 keywords:
-- smartlook
-- tracking
-- vuepress
-- vue
+  - smartlook
+  - tracking
+  - vuepress
+  - vue
 license: MIT License
-maintainers: null
+maintainers:
+  - email: rkfelix@gmail.com
+    username: f3l1x
 name: vuepress-plugin-smartlook
 npm: https://www.npmjs.com/package/vuepress-plugin-smartlook
 publisher:
-  avatar: null
-  email: rkfelix@gmail.com
-  name: null
-  url: null
-  username: f3l1x
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: rkfelix@gmail.com
+    username: f3l1x
 repository: https://github.com/webkitty/vuepress-plugin-smartlook
 score: 0.4664807687528927
 stars: 1
