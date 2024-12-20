@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23612650?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: kai9029
+  avatar: https://private-avatars.githubusercontent.com/u/23612650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzIzNjEyNjUwIn0.cTGOta5dC1v0eSozKk99KQHAHzyZbrsuFc0OParAvg8&v=4
+  email: null
+  name: kai9029
+  url: null
+  username: Kai9026
 bugs: https://github.com/superbiger/vuepress-plugin-tabs/issues
 category: plugin
 date: '2020-02-28T10:27:54.351Z'
 deprecated: false
 description: A fork of vuepress-plugin-tabs with red tabs
-downloads: ~
+downloads: null
 homepage: https://github.com/superbiger/vuepress-plugin-tabs#readme
 keywords:
-  - vuepress-plugin
-  - tabs
-  - component
-  - red
+- vuepress-plugin
+- tabs
+- component
+- red
 license: Other
-maintainers:
-  - email: arklaza_uva@hotmail.com
-    username: kai9029
+maintainers: null
 name: vuepress-plugin-tabs-red
 npm: https://www.npmjs.com/package/vuepress-plugin-tabs-red
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: arklaza_uva@hotmail.com
-    username: kai9029
+  avatar: null
+  email: arklaza_uva@hotmail.com
+  name: null
+  url: null
+  username: kai9029
 repository: https://github.com/Kai9026/vuepress-plugin-tabs
 score: 0.441482670500414
 stars: 0

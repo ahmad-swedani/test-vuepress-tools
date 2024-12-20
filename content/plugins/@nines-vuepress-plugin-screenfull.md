@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: wangjia_1919@163.com
+  avatar: https://private-avatars.githubusercontent.com/u/64388301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1MjAsIm5iZiI6MTczNDY3MDMyMCwicGF0aCI6Ii91LzY0Mzg4MzAxIn0.6tpAOK8PlBVdKbVs3G0Np9kZmnyOJnouR6YZHwfnQMk&v=4
+  email: null
+  name: wangjia_1919@163.com
+  url: null
+  username: nine-theme
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull/issues
 category: plugin
 date: '2020-01-12T16:26:51.205Z'
 deprecated: false
 description: screenfull for vuepress plugin
-downloads: ~
+downloads: null
 homepage: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull#readme
 keywords:
-  - screenfull
-  - vuepress
+- screenfull
+- vuepress
 license: MIT License
-maintainers:
-  - email: wangjia_1919@163.com
-    username: wangjia_1919
+maintainers: null
 name: '@nines/vuepress-plugin-screenfull'
 npm: https://www.npmjs.com/package/%40nines%2Fvuepress-plugin-screenfull
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wangjia_1919@163.com
-    username: wangjia_1919
+  avatar: null
+  email: wangjia_1919@163.com
+  name: null
+  url: null
+  username: wangjia_1919
 repository: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull
 score: 0.4280092309017523
 stars: 0

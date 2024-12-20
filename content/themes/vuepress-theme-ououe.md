@@ -1,42 +1,35 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    name: tolking
-    username: tolking
+  avatar: https://private-avatars.githubusercontent.com/u/23313167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzIzMzEzMTY3In0.Pjd_128qKxRgY_w419_Go6hBri-wCvtVVdwqtRVfCow&v=4
+  email: qw13131wang@gmail.com
+  name: tolking
+  url: null
+  username: tolking
 bugs: https://github.com/tolking/vuepress-theme-ououe/issues
 category: theme
 date: '2020-12-02T06:46:03.476Z'
 deprecated: false
 description: A blog theme for VuePress by tolking
-downloads: ~
+downloads: null
 homepage: https://github.com/tolking/vuepress-theme-ououe
 keywords:
-  - vue
-  - vuepress
-  - blog
-  - blog-theme
-  - vuepress-theme
-  - light-theme
-  - dark-theme
+- vue
+- vuepress
+- blog
+- blog-theme
+- vuepress-theme
+- light-theme
+- dark-theme
 license: MIT License
-maintainers:
-  - email: qw13131wang@gmail.com
-    username: tolking
+maintainers: null
 name: vuepress-theme-ououe
 npm: https://www.npmjs.com/package/vuepress-theme-ououe
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    username: tolking
+  avatar: null
+  email: qw13131wang@gmail.com
+  name: null
+  url: null
+  username: tolking
 repository: https://github.com/tolking/vuepress-theme-ououe
 score: 0.5534438839522795
 stars: 78

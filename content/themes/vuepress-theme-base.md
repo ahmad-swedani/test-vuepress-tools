@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7900180?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Pete Davis
-    url: http://petedavis.dev/
+  avatar: https://private-avatars.githubusercontent.com/u/7900180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzI0MjAsIm5iZiI6MTczNDY3MTIyMCwicGF0aCI6Ii91Lzc5MDAxODAifQ.aw9z-maersQoow_kInnXegbnda9mgP7-zo2fkUg0YzI&v=4
+  email: null
+  name: Pete Davis
+  url: http://petedavis.dev/
+  username: petedavisdev
 bugs: https://github.com/petedavisdev/vuepress-theme-base/issues
 category: theme
 date: '2021-06-24T16:23:18.315Z'
 deprecated: false
 description: If you want to create your own VuePress themes, fork the repo!
-downloads: ~
+downloads: null
 homepage: https://petedavisdev.github.io/vuepress-theme-base
 keywords:
-  - VuePress
-  - Theme
-  - Starter
+- VuePress
+- Theme
+- Starter
 license: MIT License
-maintainers:
-  - email: hello@petedavis.dev
-    username: petedavisdev
+maintainers: null
 name: vuepress-theme-base
 npm: https://www.npmjs.com/package/vuepress-theme-base
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hello@petedavis.dev
-    username: petedavisdev
+  avatar: null
+  email: hello@petedavis.dev
+  name: null
+  url: null
+  username: petedavisdev
 repository: https://github.com/petedavisdev/vuepress-theme-base
 score: 0.3866538371985242
 stars: 1

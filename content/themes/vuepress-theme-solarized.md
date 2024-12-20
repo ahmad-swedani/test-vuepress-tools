@@ -1,39 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25148427?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: darktasevski@gmail.com
-    name: Darko Tasevski
-    username: puritanic
+  avatar: https://private-avatars.githubusercontent.com/u/25148427?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzI1MTQ4NDI3In0.wpDORfg-is_5dtro_vmh4iibnTZ2uPTy7nLN9zeEXSw&v=4
+  email: darktasevski@gmail.com
+  name: Darko Tasevski
+  url: null
+  username: puritanic
 bugs: https://github.com/Puritanic/vuepress-theme-solarized/issues
 category: theme
 date: '2020-04-12T13:25:03.197Z'
 deprecated: false
 description: Solarized theme for Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/Puritanic/vuepress-theme-solarized#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: darktasevski@gmail.com
-    username: puritanic
+maintainers: null
 name: vuepress-theme-solarized
 npm: https://www.npmjs.com/package/vuepress-theme-solarized
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: darktasevski@gmail.com
-    username: puritanic
+  avatar: null
+  email: darktasevski@gmail.com
+  name: null
+  url: null
+  username: puritanic
 repository: https://github.com/Puritanic/vuepress-theme-solarized
 score: 0.3001961415226101
 stars: 4

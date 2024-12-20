@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: wangjia_1919@163.com
+  avatar: https://private-avatars.githubusercontent.com/u/64388301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1MjAsIm5iZiI6MTczNDY3MDMyMCwicGF0aCI6Ii91LzY0Mzg4MzAxIn0.6tpAOK8PlBVdKbVs3G0Np9kZmnyOJnouR6YZHwfnQMk&v=4
+  email: null
+  name: wangjia_1919@163.com
+  url: null
+  username: nine-theme
 bugs: https://github.com/nine-theme/vuepress-plugin-pagation/issues
 category: plugin
 date: '2020-08-13T01:38:10.133Z'
 deprecated: false
 description: pagation plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/nine-theme/vuepress-plugin-pagation#readme
 keywords:
-  - vuepress
-  - pagation
+- vuepress
+- pagation
 license: MIT License
-maintainers:
-  - email: wangjia_1919@163.com
-    username: wangjia_1919
+maintainers: null
 name: '@nines/vuepress-plugin-pagation'
 npm: https://www.npmjs.com/package/%40nines%2Fvuepress-plugin-pagation
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wangjia_1919@163.com
-    username: wangjia_1919
+  avatar: null
+  email: wangjia_1919@163.com
+  name: null
+  url: null
+  username: wangjia_1919
 repository: https://github.com/nine-theme/vuepress-plugin-pagation
 score: 0.43531138414384396
 stars: 0

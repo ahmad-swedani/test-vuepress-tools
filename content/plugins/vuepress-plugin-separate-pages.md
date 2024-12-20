@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4111136?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Azamat Sarsenbayev
+  avatar: https://private-avatars.githubusercontent.com/u/4111136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzQxMTExMzYifQ.o1aeuCudb14TONWM5RZ6TT_eAbI6nlqRXQy9kVdirMA&v=4
+  email: null
+  name: Azamat Sarsenbayev
+  url: null
+  username: azasar
 bugs: https://github.com/azasar/vuepress-plugin-separate-pages/issues
 category: plugin
 date: '2020-10-05T08:12:36.684Z'
 deprecated: false
 description: Shows content of current header by hashtag from location
-downloads: ~
+downloads: null
 homepage: https://github.com/azasar/vuepress-plugin-separate-pages#readme
 keywords:
-  - vuepress
-  - plugin
-  - separate pages
+- vuepress
+- plugin
+- separate pages
 license: MIT License
-maintainers:
-  - email: sarsenbayev.a.s@gmail.com
-    username: azasar
+maintainers: null
 name: vuepress-plugin-separate-pages
 npm: https://www.npmjs.com/package/vuepress-plugin-separate-pages
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sarsenbayev.a.s@gmail.com
-    username: azasar
+  avatar: null
+  email: sarsenbayev.a.s@gmail.com
+  name: null
+  url: null
+  username: azasar
 repository: https://github.com/azasar/vuepress-plugin-separate-pages
 score: 0.4246569762177702
 stars: 1

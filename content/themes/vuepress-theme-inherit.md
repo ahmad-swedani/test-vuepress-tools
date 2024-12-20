@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/22654945?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Yasinchan
+  avatar: https://private-avatars.githubusercontent.com/u/22654945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzIyNjU0OTQ1In0.5YRN6e0U0IyKlX6ega2WWCZ1eAvFM5T6zIfZxe3poHI&v=4
+  email: null
+  name: Yasinchan
+  url: null
+  username: YasinChan
 bugs: https://github.com/YasinChan/vuepress-theme-inherit/issues
 category: theme
 date: '2022-05-14T12:02:41.348Z'
 deprecated: false
 description: vuepress blog theme
-downloads: ~
+downloads: null
 homepage: https://github.com/YasinChan/vuepress-theme-inherit#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: yasinchan2016@gmail.com
-    username: yasinchan
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-inherit
 npm: https://www.npmjs.com/package/vuepress-theme-inherit
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yasinchan2016@gmail.com
-    username: yasinchan
+  avatar: null
+  email: yasinchan2016@gmail.com
+  name: null
+  url: null
+  username: yasinchan
 repository: https://github.com/YasinChan/vuepress-theme-inherit
 score: 0.3442564846122903
 stars: 5

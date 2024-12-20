@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16911353?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Shcant
+  avatar: https://private-avatars.githubusercontent.com/u/16911353?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzE2OTExMzUzIn0.EpSAQbG8gUpJv5zeOqBj6LcrYBcvGJYQda4fgx5oaj4&v=4
+  email: null
+  name: Shcant
+  url: null
+  username: shcant
 bugs: https://github.com/shcant/vuepress-theme-casper/issues
 category: theme
 date: '2019-06-12T14:23:31.678Z'
 deprecated: false
 description: Another Ghosts Casper Theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/shcant/vuepress-theme-casper#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: shuhao.yin@Outlook.com
-    username: shcant
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-another-casper
 npm: https://www.npmjs.com/package/vuepress-theme-another-casper
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shuhao.yin@Outlook.com
-    username: shcant
+  avatar: null
+  email: shuhao.yin@Outlook.com
+  name: null
+  url: null
+  username: shcant
 repository: https://github.com/shcant/vuepress-theme-casper
 score: 0.1494100262025594
 stars: 1

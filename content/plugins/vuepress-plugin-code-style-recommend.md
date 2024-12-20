@@ -1,34 +1,29 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/14368755?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: hxdyj
+  avatar: https://private-avatars.githubusercontent.com/u/14368755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzE0MzY4NzU1In0.AGnwsi0HB4vt-eA-t78QujD5jtvMhTOrJELMN9WG6PA&v=4
+  email: null
+  name: hxdyj
+  url: null
+  username: hxdyj
 bugs: https://github.com/hxdyj/vuepress-plugin-code-style-recommend/issues
 category: plugin
 date: '2021-12-29T04:07:55.224Z'
 deprecated: false
 description: vuepress-plugin-code-style-recommend
-downloads: ~
+downloads: null
 homepage: https://github.com/hxdyj/vuepress-plugin-code-style-recommend#readme
 keywords:
-  - vuepress-plugin-code-style-recommend
-license: ~
-maintainers:
-  - email: 951540966@qq.com
-    username: hxdyj
+- vuepress-plugin-code-style-recommend
+license: false
+maintainers: null
 name: vuepress-plugin-code-style-recommend
 npm: https://www.npmjs.com/package/vuepress-plugin-code-style-recommend
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 951540966@qq.com
-    username: hxdyj
+  avatar: null
+  email: 951540966@qq.com
+  name: null
+  url: null
+  username: hxdyj
 repository: https://github.com/hxdyj/vuepress-plugin-code-style-recommend
 score: 0.4942290519797618
 stars: 0

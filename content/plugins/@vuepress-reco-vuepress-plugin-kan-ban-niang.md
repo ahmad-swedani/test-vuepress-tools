@@ -1,40 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zsw0407@outlook.com
-    name: zsw
-    username: smallsunnyfox
+  avatar: https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.couGd9B-0J81H_26YiZxWOn3cew5ORLJ4nRllz9wOLg&v=4
+  email: zsw0407@outlook.com
+  name: zsw
+  url: null
+  username: smallsunnyfox
 bugs: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang/issues
 category: plugin
 date: '2019-11-29T09:05:52.514Z'
 deprecated: false
 description: Kan-ban-niang plugin for vuepress-theme-reco or other vuepress theme
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress-theme-reco
-  - live2D
-  - vuepress
+- vuepress-theme-reco
+- live2D
+- vuepress
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-kan-ban-niang'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-kan-ban-niang
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zsw0407@outlook.com
-    username: smallsunnyfox
+  avatar: null
+  email: zsw0407@outlook.com
+  name: null
+  url: null
+  username: smallsunnyfox
 repository: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang
 score: 0.3876683644099854
 stars: 25

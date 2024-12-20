@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8998546?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Sun Ziping
+  avatar: https://private-avatars.githubusercontent.com/u/8998546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91Lzg5OTg1NDYifQ.zz6RUk0OlABh1ymN1nH3Zq6oWLLAORaQqPRZTLqRdVs&v=4
+  email: null
+  name: Sun Ziping
+  url: null
+  username: sunziping2016
 bugs: https://github.com/sunziping2016/oak-tree-house/issues
 category: theme
 date: '2020-05-25T06:34:09.624Z'
 deprecated: false
 description: Vuetify VuePress Theme Suitable for Blog
-downloads: ~
-homepage: >-
-  https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%40oak-tree-house/vuepress-theme-vuetify-blog#readme
+downloads: null
+homepage: https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%40oak-tree-house/vuepress-theme-vuetify-blog#readme
 keywords:
-  - blog
-  - vue
-  - vuepress
-  - vuetify
+- blog
+- vue
+- vuepress
+- vuetify
 license: MIT License
-maintainers:
-  - email: sunziping2016@gmail.com
-    username: sunziping2016
+maintainers: null
 name: '@oak-tree-house/vuepress-theme-vuetify-blog'
 npm: https://www.npmjs.com/package/%40oak-tree-house%2Fvuepress-theme-vuetify-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sunziping2016@gmail.com
-    username: sunziping2016
+  avatar: null
+  email: sunziping2016@gmail.com
+  name: null
+  url: null
+  username: sunziping2016
 repository: https://github.com/sunziping2016/oak-tree-house
 score: 0.39244858216571143
 stars: 13

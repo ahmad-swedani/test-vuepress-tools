@@ -1,46 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ULIVZ
+  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.ruCXN6K_M27zuQGrolIAMb1P9409YP9NbHgXZbbDE6I&v=4
+  email: chl814@foxmail.com
+  name: ULIVZ
+  url: null
+  username: vuepress
 bugs: https://github.com/ulivz/vuepress-plugin-blog/issues
 category: plugin
 date: '2021-01-17T13:04:36.544Z'
 deprecated: false
 description: Offical blog plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/ulivz/vuepress-plugin-blog#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-blog'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    username: newsbielt703
+  avatar: null
+  email: newsbielt703@gmail.com
+  name: null
+  url: null
+  username: newsbielt703
 repository: https://github.com/ulivz/vuepress-plugin-blog
 score: 0.4301040671413685
 stars: 181

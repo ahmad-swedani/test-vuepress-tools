@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: busyrat
+  avatar: https://private-avatars.githubusercontent.com/u/20984527?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzIwOTg0NTI3In0.QI4_Ip7ZFt_yIWRQOg5Cmc3sVwJrRp0YcEH_q4j-6u4&v=4
+  email: null
+  name: busyrat
+  url: null
+  username: busyrat
 bugs: https://github.com/busyrat/blog/issues
 category: plugin
 date: '2019-08-20T07:19:01.095Z'
 deprecated: false
-description: iconfont 字体库快速生成文档
-downloads: ~
+description: "iconfont \u5B57\u4F53\u5E93\u5FEB\u901F\u751F\u6210\u6587\u6863"
+downloads: null
 homepage: https://github.com/busyrat/blog#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - iconfont
-  - docs
-license: ~
-maintainers:
-  - email: mcmagni@163.com
-    username: mcmagni
+- vuepress
+- vuepress-plugin
+- iconfont
+- docs
+license: false
+maintainers: null
 name: vuepress-plugin-iconfont-docs
 npm: https://www.npmjs.com/package/vuepress-plugin-iconfont-docs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mcmagni@163.com
-    username: mcmagni
+  avatar: null
+  email: mcmagni@163.com
+  name: null
+  url: null
+  username: mcmagni
 repository: https://github.com/busyrat/blog
 score: 0.17892346060823028
 stars: 0

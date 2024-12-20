@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/39853279?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Yves Wang
+  avatar: https://private-avatars.githubusercontent.com/u/39853279?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzM5ODUzMjc5In0.Ek7bdfmXCRHylXVwEefcO5LUq5O0pzU88fgLgRHAfRM&v=4
+  email: null
+  name: Yves Wang
+  url: null
+  username: YvesCoding
 bugs: https://github.com/YvesCoding/vuepress-theme-vuepress/issues
 category: theme
 date: '2020-08-01T16:02:57.262Z'
 deprecated: false
 description: Allow you to customize scrollbars in Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/YvesCoding/vuepress-theme-vuepress#readme
 keywords:
-  - vue
-  - vuepress
-  - vuescroll
-license: ~
-maintainers:
-  - email: 724003548@qq.com
-    username: wangyi7099
+- vue
+- vuepress
+- vuescroll
+license: false
+maintainers: null
 name: vuepress-theme-vuescroll
 npm: https://www.npmjs.com/package/vuepress-theme-vuescroll
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 724003548@qq.com
-    username: wangyi7099
+  avatar: null
+  email: 724003548@qq.com
+  name: null
+  url: null
+  username: wangyi7099
 repository: https://github.com/YvesCoding/vuepress-theme-vuepress
 score: 0.4242935301304664
 stars: 1

@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/43475371?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stickmyc@163.com
-    name: 子肃
+  avatar: https://private-avatars.githubusercontent.com/u/43475371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzQzNDc1MzcxIn0.c46wCVySciINH0O0eVXArn_otZmq-5KDn05F33Y4phw&v=4
+  email: stickmyc@163.com
+  name: "\u5B50\u8083"
+  url: null
+  username: Yubisaki
 bugs: https://github.com/Yubisaki/vuepress-plugin-pagination/issues
 category: plugin
 date: '2019-02-27T01:30:43.878Z'
 deprecated: false
 description: pagination plugin for vuepress theme yubisaki
-downloads: ~
+downloads: null
 homepage: https://github.com/Yubisaki/vuepress-plugin-pagination#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-license: ~
-maintainers:
-  - email: mail@chavesgu.com
-    username: chavesgu
+- vuepress
+- vuepress-plugin
+license: false
+maintainers: null
 name: '@chavesweb/vuepress-plugin-pagination'
 npm: https://www.npmjs.com/package/%40chavesweb%2Fvuepress-plugin-pagination
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mail@chavesgu.com
-    username: chavesgu
+  avatar: null
+  email: mail@chavesgu.com
+  name: null
+  url: null
+  username: chavesgu
 repository: https://github.com/Yubisaki/vuepress-plugin-pagination
 score: 0.17739345748427607
 stars: 0

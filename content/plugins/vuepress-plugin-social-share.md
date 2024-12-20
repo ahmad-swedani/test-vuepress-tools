@@ -1,45 +1,38 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/22659150?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ntnyq13@gmail.com
-    name: ntnyq
-    username: ntnyq
+  avatar: https://private-avatars.githubusercontent.com/u/22659150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEyODAsIm5iZiI6MTczNDY3MDA4MCwicGF0aCI6Ii91LzIyNjU5MTUwIn0.XZMqv8WY-b0aqMeG9FMatrULsVS4R-PKU6cNCkXMLt4&v=4
+  email: ntnyq13@gmail.com
+  name: ntnyq
+  url: null
+  username: ntnyq
 bugs: https://github.com/ntnyq/vuepress-plugin-social-share/issues
 category: plugin
 date: '2022-05-22T12:28:34.062Z'
 deprecated: false
 description: Social sharing plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://sns.goyfe.com
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - share
-  - social
-  - social-share
-  - sns
-  - facebook
-  - plugin
-  - twitter
-  - weibo
+- vuepress
+- vuepress-plugin
+- share
+- social
+- social-share
+- sns
+- facebook
+- plugin
+- twitter
+- weibo
 license: MIT License
-maintainers:
-  - email: ntnyq13@gmail.com
-    username: ntnyq
+maintainers: null
 name: vuepress-plugin-social-share
 npm: https://www.npmjs.com/package/vuepress-plugin-social-share
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ntnyq13@gmail.com
-    username: ntnyq
+  avatar: null
+  email: ntnyq13@gmail.com
+  name: null
+  url: null
+  username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-social-share
 score: 0.6420260707166252
 stars: 33

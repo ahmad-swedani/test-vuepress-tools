@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/33161749?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: vczyh
+  avatar: https://private-avatars.githubusercontent.com/u/33161749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzMzMTYxNzQ5In0.CEvcDAg3OPWdXk-HMJfzp4-I2yJQWQeASQTbE7l0hME&v=4
+  email: null
+  name: vczyh
+  url: null
+  username: vczyh
 bugs: https://github.com/vczyh/vuepress-theme-something/issues
 category: plugin
 date: '2020-07-30T08:55:47.710Z'
 deprecated: false
 description: dplayer for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vczyh/vuepress-theme-something#readme
 keywords:
-  - vuepress
-  - vuepress theme
-  - vue
-  - blog
-  - valine
+- vuepress
+- vuepress theme
+- vue
+- blog
+- valine
 license: MIT License
-maintainers:
-  - email: 2939531323@qq.com
-    username: vczyh
+maintainers: null
 name: '@vuepress-something/vuepress-plugin-valine'
 npm: https://www.npmjs.com/package/%40vuepress-something%2Fvuepress-plugin-valine
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2939531323@qq.com
-    username: vczyh
+  avatar: null
+  email: 2939531323@qq.com
+  name: null
+  url: null
+  username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.30148927261140124
 stars: 4

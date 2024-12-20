@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49513387?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: upheng
+  avatar: https://private-avatars.githubusercontent.com/u/49513387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzQ5NTEzMzg3In0.1jZegqA-V0fd_FxB6BXpJ1c4DPd3yBMzHUaeHuitYYk&v=4
+  email: null
+  name: upheng
+  url: null
+  username: uphg
 bugs: https://github.com/uphg/vuepress-theme-uphg/issues
 category: theme
 date: '2021-09-23T06:45:10.772Z'
 deprecated: false
 description: Docs theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/uphg/vuepress-theme-uphg
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 1834805770@qq.com
-    username: chennings
+maintainers: null
 name: vuepress-theme-uphg
 npm: https://www.npmjs.com/package/vuepress-theme-uphg
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1834805770@qq.com
-    username: chennings
+  avatar: null
+  email: 1834805770@qq.com
+  name: null
+  url: null
+  username: chennings
 repository: https://github.com/uphg/vuepress-theme-uphg
 score: 0.4800643688143732
 stars: 0

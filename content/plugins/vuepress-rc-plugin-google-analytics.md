@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/21354589?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: wangyonghao
+  avatar: https://private-avatars.githubusercontent.com/u/21354589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzIxMzU0NTg5In0.EfMXLqiuvToK1euDkacAbY7nh-o7RPYiUJnLB_RNyvM&v=4
+  email: null
+  name: wangyonghao
+  url: null
+  username: YongHao0
 bugs: https://github.com/YongHao0/vuepress/issues
 category: plugin
 date: '2020-09-15T06:32:06.671Z'
 deprecated: false
 description: google-analytics plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-google-analytics#readme
+downloads: null
+homepage: https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/plugin-google-analytics#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 2914905399@qq.com
-    username: wangyonghao
+maintainers: null
 name: vuepress-rc-plugin-google-analytics
 npm: https://www.npmjs.com/package/vuepress-rc-plugin-google-analytics
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2914905399@qq.com
-    username: wangyonghao
+  avatar: null
+  email: 2914905399@qq.com
+  name: null
+  url: null
+  username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
 score: 0.5787342258704191
 stars: 0

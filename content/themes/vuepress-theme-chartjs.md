@@ -1,35 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3874900?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/3874900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzM4NzQ5MDAifQ.9mizMx8AYeZaRAu0Zb9XAZqagr4uvSEATBLtcUjPJp8&v=4
+  email: null
+  name: null
+  url: null
   username: simonbrunel
 bugs: https://github.com/simonbrunel/vuepress-theme-chartjs/issues
 category: theme
 date: '2021-03-26T07:21:11.397Z'
 deprecated: false
 description: VuePress theme for projects in the Chart.js organization.
-downloads: ~
+downloads: null
 homepage: https://github.com/simonbrunel/vuepress-theme-chartjs#readme
 keywords:
-  - vuepress
-  - theme
-  - chartjs
+- vuepress
+- theme
+- chartjs
 license: MIT License
-maintainers:
-  - email: s.b.npmjs@abysscorp.org
-    username: simonbrunel
+maintainers: null
 name: vuepress-theme-chartjs
 npm: https://www.npmjs.com/package/vuepress-theme-chartjs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: s.b.npmjs@abysscorp.org
-    username: simonbrunel
+  avatar: null
+  email: s.b.npmjs@abysscorp.org
+  name: null
+  url: null
+  username: simonbrunel
 repository: https://github.com/simonbrunel/vuepress-theme-chartjs
 score: 0.27088752838697305
 stars: 5

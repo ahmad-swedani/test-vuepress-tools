@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5064777?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 16viko@gmail.com
-    name: viko16
-    username: viko16
+  avatar: https://private-avatars.githubusercontent.com/u/5064777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzUwNjQ3NzcifQ.qHDkHdS_N5m5ZejYNA8FZhevi_Hxg-9ttCsaX-gIw5g&v=4
+  email: 16viko@gmail.com
+  name: viko16
+  url: null
+  username: viko16
 bugs: https://github.com/viko16/vuepress-plugin-permalink-pinyin/issues
 category: plugin
 date: '2022-05-03T07:03:15.682Z'
 deprecated: false
 description: A VuePress plugin which convert Chinese title to transliterate permalink.
-downloads: ~
+downloads: null
 homepage: https://github.com/viko16/vuepress-plugin-permalink-pinyin#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - permalink
+- vuepress
+- vuepress-plugin
+- permalink
 license: MIT License
-maintainers:
-  - email: 16viko@gmail.com
-    username: viko16
+maintainers: null
 name: vuepress-plugin-permalink-pinyin
 npm: https://www.npmjs.com/package/vuepress-plugin-permalink-pinyin
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 16viko@gmail.com
-    username: viko16
+  avatar: null
+  email: 16viko@gmail.com
+  name: null
+  url: null
+  username: viko16
 repository: https://github.com/viko16/vuepress-plugin-permalink-pinyin
 score: 0.6514166651618805
 stars: 10

@@ -1,41 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12078744?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: my.t.gnq+dev@gmail.com
-    name: GNQG
-    username: gnqg
+  avatar: https://private-avatars.githubusercontent.com/u/12078744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzEyMDc4NzQ0In0.0jsIlI6PilVWCovZcpJaDzyJBDT9mFkk_v4cml0N8vE&v=4
+  email: my.t.gnq+dev@gmail.com
+  name: GNQG
+  url: null
+  username: gnqg
 bugs: https://github.com/GNQG/vuepress-plugin-remote-url/issues
 category: plugin
 date: '2019-07-24T03:51:50.964Z'
 deprecated: false
 description: A VuePress plugin to handle urls of remote repository
-downloads: ~
+downloads: null
 homepage: https://github.com/GNQG/vuepress-plugin-remote-url
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - plugin
-  - repository
-  - git
-  - mercurial
+- vuepress
+- vuepress-plugin
+- plugin
+- repository
+- git
+- mercurial
 license: MIT License
-maintainers:
-  - email: my.t.gnq+dev@gmail.com
-    username: gnqg
+maintainers: null
 name: vuepress-plugin-remote-url
 npm: https://www.npmjs.com/package/vuepress-plugin-remote-url
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: my.t.gnq+dev@gmail.com
-    username: gnqg
+  avatar: null
+  email: my.t.gnq+dev@gmail.com
+  name: null
+  url: null
+  username: gnqg
 repository: https://github.com/GNQG/vuepress-plugin-remote-url
 score: 0.41056002654456997
 stars: 0

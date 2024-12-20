@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48038769?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Runtus
+  avatar: https://private-avatars.githubusercontent.com/u/48038769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzQ4MDM4NzY5In0.TDLhHqoVkYCWpi2c8Oy04tkcnoh82qSttxKMDrguz7Y&v=4
+  email: null
+  name: Runtus
+  url: null
+  username: Runtus
 bugs: https://github.com/Runtus/vuepress-plugin-runtus-aplayer/issues
 category: plugin
 date: '2021-12-06T07:15:49.043Z'
 deprecated: false
-description: '> 集成了aplayer的vuepress插件'
-downloads: ~
+description: "> \u96C6\u6210\u4E86aplayer\u7684vuepress\u63D2\u4EF6"
+downloads: null
 homepage: https://github.com/Runtus/vuepress-plugin-runtus-aplayer#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: 893119806@qq.com
-    username: runtu_go
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-runtus-aplayer
 npm: https://www.npmjs.com/package/vuepress-plugin-runtus-aplayer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 893119806@qq.com
-    username: runtu_go
+  avatar: null
+  email: 893119806@qq.com
+  name: null
+  url: null
+  username: runtu_go
 repository: https://github.com/Runtus/vuepress-plugin-runtus-aplayer
 score: 0.484287772379564
 stars: 2

@@ -1,40 +1,36 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25076543?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: 随笔川迹 itclancoder 站点:http://itclan.cn/
+  avatar: https://private-avatars.githubusercontent.com/u/25076543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzI1MDc2NTQzIn0.GF8CT5fr0Z4C22DqGeZclEKLbl25qu5GdiiiqoAzxbg&v=4
+  email: null
+  name: "\u968F\u7B14\u5DDD\u8FF9 itclancoder \u7AD9\u70B9:http://itclan.cn/"
+  url: null
+  username: itclanCode
 bugs: https://github.com/itclanCode/vuepress-plugin-readmore/issues
 category: plugin
 date: '2020-11-23T08:32:12.722Z'
 deprecated: false
-description: vuepress-plugin-readmore 阅读更多 文章部分隐藏
-downloads: ~
+description: "vuepress-plugin-readmore \u9605\u8BFB\u66F4\u591A \u6587\u7AE0\u90E8\
+  \u5206\u9690\u85CF"
+downloads: null
 homepage: https://github.com/itclanCode/vuepress-plugin-readmore#readme
 keywords:
-  - vuepress-plugin-readmore
-  - vuepress-plugin
-  - vuepress
-  - readmore
-  - plugin
-  - 阅读更多
-  - 文章隐藏
+- vuepress-plugin-readmore
+- vuepress-plugin
+- vuepress
+- readmore
+- plugin
+- "\u9605\u8BFB\u66F4\u591A"
+- "\u6587\u7AE0\u9690\u85CF"
 license: MIT License
-maintainers:
-  - email: itclancode@163.com
-    username: itclan
+maintainers: null
 name: vuepress-plugin-readmore
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: itclancode@163.com
-    username: itclan
+  avatar: null
+  email: itclancode@163.com
+  name: null
+  url: null
+  username: itclan
 repository: https://github.com/itclanCode/vuepress-plugin-readmore
 score: 0.39033519110449005
 stars: 0

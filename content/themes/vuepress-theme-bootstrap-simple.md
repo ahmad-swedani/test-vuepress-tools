@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/46619411?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Bambusaceae
+  avatar: https://private-avatars.githubusercontent.com/u/46619411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzMDAsIm5iZiI6MTczNDY3MTEwMCwicGF0aCI6Ii91LzQ2NjE5NDExIn0.kGVgBNq3N_-AAY_ht_qIMZu77d1k7ljrVaftF5QXM_c&v=4
+  email: null
+  name: Bambusaceae
+  url: null
+  username: e3c8f1a924
 bugs: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple/issues
 category: theme
 date: '2020-10-24T11:28:05.532Z'
 deprecated: false
 description: A blog theme based on Vuepress.
-downloads: ~
+downloads: null
 homepage: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple#readme
 keywords:
-  - vuepress
-  - bootstrap
+- vuepress
+- bootstrap
 license: MIT License
-maintainers:
-  - email: zhhahhsh@outlook.com
-    username: bambusaceae
+maintainers: null
 name: vuepress-theme-bootstrap-simple
 npm: https://www.npmjs.com/package/vuepress-theme-bootstrap-simple
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhhahhsh@outlook.com
-    username: bambusaceae
+  avatar: null
+  email: zhhahhsh@outlook.com
+  name: null
+  url: null
+  username: bambusaceae
 repository: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple
 score: 0.4832390650634713
 stars: 2
@@ -39,4 +34,3 @@ watchers: 2
 
 ---
 
-undefined

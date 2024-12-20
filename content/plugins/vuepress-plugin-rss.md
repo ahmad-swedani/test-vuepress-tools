@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/29174209?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SangND
+  avatar: https://private-avatars.githubusercontent.com/u/29174209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91LzI5MTc0MjA5In0.BgBZpJyrqYUcvjhagB4b9onU1Tkae_UDZpQM2WQa3N0&v=4
+  email: null
+  name: SangND
+  url: null
+  username: youngtailors
 bugs: https://github.com/dacsang97/vuepress-plugin-rss/issues
 category: plugin
 date: '2018-12-18T07:27:56.463Z'
 deprecated: false
 description: '> RSS Plugin for Vuepress'
-downloads: ~
+downloads: null
 homepage: https://github.com/dacsang97/vuepress-plugin-rss#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: dacsang97@gmail.com
-    username: sangnd
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-rss
 npm: https://www.npmjs.com/package/vuepress-plugin-rss
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dacsang97@gmail.com
-    username: sangnd
+  avatar: null
+  email: dacsang97@gmail.com
+  name: null
+  url: null
+  username: sangnd
 repository: https://github.com/dacsang97/vuepress-plugin-rss
 score: 0.3388517887122735
 stars: 17

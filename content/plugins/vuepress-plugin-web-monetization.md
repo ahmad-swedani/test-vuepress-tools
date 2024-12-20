@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Peter Thaleikis
+  avatar: https://private-avatars.githubusercontent.com/u/8433587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91Lzg0MzM1ODcifQ.mkeMST6aDNW6u23W0GmQ3QzpqcNUGqfJNXarAQ388-0&v=4
+  email: null
+  name: Peter Thaleikis
+  url: null
+  username: spekulatius
 bugs: https://github.com/spekulatius/vuepress-plugin-web-monetization/issues
 category: plugin
 date: '2020-06-12T10:28:45.920Z'
 deprecated: false
 description: Monetize your VuePress site using web-monetization
-downloads: ~
+downloads: null
 homepage: https://peterthaleikis.com
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - plugin
-  - monetization
-  - web-monetization
+- vuepress
+- vuepress-plugin
+- plugin
+- monetization
+- web-monetization
 license: MIT License
-maintainers:
-  - email: peter.thaleikis@gmail.com
-    username: spekulatius
+maintainers: null
 name: vuepress-plugin-web-monetization
 npm: https://www.npmjs.com/package/vuepress-plugin-web-monetization
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: peter.thaleikis@gmail.com
-    username: spekulatius
+  avatar: null
+  email: peter.thaleikis@gmail.com
+  name: null
+  url: null
+  username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-web-monetization
 score: 0.4602263876255699
 stars: 14

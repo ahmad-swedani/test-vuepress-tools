@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/22881872?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: 君惜
+  avatar: https://private-avatars.githubusercontent.com/u/22881872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzIyODgxODcyIn0.O0MCZCRNqaABZormdo6HE0Dr35AgCo-2aZ02sUlZC7Q&v=4
+  email: null
+  name: "\u541B\u60DC"
+  url: null
+  username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-live2d-plus/issues
 category: plugin
 date: '2021-12-08T08:51:34.137Z'
 deprecated: false
 description: vuepress plugin for live2d
-downloads: ~
+downloads: null
 homepage: https://github.com/xinlei3166/vuepress-plugin-live2d-plus#readme
 keywords:
-  - vuepress2
-  - vuepress
-  - live2d
-  - plugin
+- vuepress2
+- vuepress
+- live2d
+- plugin
 license: MIT License
-maintainers:
-  - email: xinlei3166@126.com
-    username: xinlei3166
+maintainers: null
 name: vuepress-plugin-live2d-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-live2d-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xinlei3166@126.com
-    username: xinlei3166
+  avatar: null
+  email: xinlei3166@126.com
+  name: null
+  url: null
+  username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-live2d-plus
 score: 0.269494360891093
 stars: 4

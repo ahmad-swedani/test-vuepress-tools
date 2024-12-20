@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23348287?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: itgou
+  avatar: https://private-avatars.githubusercontent.com/u/23348287?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzIzMzQ4Mjg3In0.HsRnGp1SqiFgziPfPMGAD18wUJ4yroeATmRkbI9P9mk&v=4
+  email: null
+  name: itgou
+  url: null
+  username: itgou
 bugs: https://github.com/itgou/vuepress-plugin-automenu/issues
 category: plugin
 date: '2022-02-17T12:51:16.887Z'
 deprecated: false
 description: '``` vuepress automenu docs ```'
-downloads: ~
+downloads: null
 homepage: https://github.com/itgou/vuepress-plugin-automenu
-keywords: ~
-license: ~
-maintainers:
-  - email: 412300204@qq.com
-    username: itgou
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-automenu
 npm: https://www.npmjs.com/package/vuepress-plugin-automenu
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 412300204@qq.com
-    username: itgou
+  avatar: null
+  email: 412300204@qq.com
+  name: null
+  url: null
+  username: itgou
 repository: https://github.com/itgou/vuepress-plugin-automenu
 score: 0.4977060353409072
 stars: 0

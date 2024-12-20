@@ -1,39 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/38957202?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    name: Billyyyyy3320
-    username: newsbielt703
+  avatar: https://private-avatars.githubusercontent.com/u/38957202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzM4OTU3MjAyIn0.UwZKuBNFsxmUeyzxgdn-WcIDtqSkB8Pbnco5z7nJ3-w&v=4
+  email: newsbielt703@gmail.com
+  name: Billyyyyy3320
+  url: null
+  username: newsbielt703
 bugs: https://github.com/newsbielt703/vuepress-plugin-disqus/issues
 category: plugin
 date: '2019-10-14T15:04:03.039Z'
 deprecated: false
 description: Adding Disqus comments to VuePress
-downloads: ~
+downloads: null
 homepage: https://vuepress-plugin-disqus.netlify.com/
 keywords:
-  - comment
-  - disqus
-  - plugin
-  - vuepress
+- comment
+- disqus
+- plugin
+- vuepress
 license: MIT License
-maintainers:
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
+maintainers: null
 name: vuepress-plugin-disqus-comment
 npm: https://www.npmjs.com/package/vuepress-plugin-disqus-comment
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: newsbielt703@gmail.com
-    username: newsbielt703
+  avatar: null
+  email: newsbielt703@gmail.com
+  name: null
+  url: null
+  username: newsbielt703
 repository: https://github.com/newsbielt703/vuepress-plugin-disqus
 score: 0.3419521352042517
 stars: 0

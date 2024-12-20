@@ -1,43 +1,38 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/66351566?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: MonoLogueChi
+  avatar: https://private-avatars.githubusercontent.com/u/66351566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3MDAsIm5iZiI6MTczNDY3MDUwMCwicGF0aCI6Ii91LzY2MzUxNTY2In0.RMXjYHan_J9yYyDfjCJ8s1ZXYa70WlZrE8-im7-b6Ws&v=4
+  email: null
+  name: MonoLogueChi
+  url: null
+  username: u2sb
 bugs: https://github.com/u2sb/vuepress-plugin-smplayer/issues
 category: plugin
 date: '2022-06-13T08:12:22.316Z'
 deprecated: false
 description: A media player plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/u2sb/vuepress-plugin-smplayer
 keywords:
-  - Vuepress
-  - Media
-  - Meting
-  - Aplayer
-  - Dplayer
-  - Bilibili
-  - Xigua
-  - 西瓜
-  - Video
-  - Audio
+- Vuepress
+- Media
+- Meting
+- Aplayer
+- Dplayer
+- Bilibili
+- Xigua
+- "\u897F\u74DC"
+- Video
+- Audio
 license: Apache License 2.0
-maintainers:
-  - email: xxwhite@foxmail.com
-    username: monologuechi
+maintainers: null
 name: vuepress-plugin-smplayer
 npm: https://www.npmjs.com/package/vuepress-plugin-smplayer
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xxwhite@foxmail.com
-    username: monologuechi
+  avatar: null
+  email: xxwhite@foxmail.com
+  name: null
+  url: null
+  username: monologuechi
 repository: https://github.com/u2sb/vuepress-plugin-smplayer
 score: 0.18228913741374297
 stars: 15

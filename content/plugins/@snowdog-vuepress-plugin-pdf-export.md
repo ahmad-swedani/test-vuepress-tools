@@ -1,42 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1844298?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/1844298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1MjAsIm5iZiI6MTczNDY3MDMyMCwicGF0aCI6Ii91LzE4NDQyOTgifQ.azSehVvH8sb8EH1HgqBf12Lag4N1FVl359eVBfmgSMQ&v=4
+  email: null
+  name: null
+  url: null
   username: SnowdogApps
 bugs: https://github.com/SnowdogApps/vuepress-plugin-pdf-export/issues
 category: plugin
 date: '2020-07-03T09:26:02.207Z'
 deprecated: false
 description: Vuepress plugin for exporting site as PDF
-downloads: ~
+downloads: null
 homepage: https://github.com/SnowdogApps/vuepress-plugin-pdf-export#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: piotr.krusicki@snow.dog
-    username: piotr.krusicki
-  - email: robert.wozniak@snow.dog
-    username: robert.wozniak
-  - email: pawel.kajdasz@snow.dog
-    username: pawel.kajdasz
-  - email: pawel.szafranski@snow.dog
-    username: szafransd
-  - email: anna.karon@snow.dog
-    username: anqasnow
-  - email: igloczek@gmail.com
-    username: igloczek
+maintainers: null
 name: '@snowdog/vuepress-plugin-pdf-export'
 npm: https://www.npmjs.com/package/%40snowdog%2Fvuepress-plugin-pdf-export
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: igloczek@gmail.com
-    username: igloczek
+  avatar: null
+  email: igloczek@gmail.com
+  name: null
+  url: null
+  username: igloczek
 repository: https://github.com/SnowdogApps/vuepress-plugin-pdf-export
 score: 0.36025250089929756
 stars: 29

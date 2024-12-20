@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/41323923?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Zedd
+  avatar: https://private-avatars.githubusercontent.com/u/41323923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzQxMzIzOTIzIn0.8k_DaPCJCAZ-rAMuenByEgXCcOW7_O2_bcAmC1-4QHs&v=4
+  email: null
+  name: Zedd
+  url: null
+  username: neoption
 bugs: https://github.com/neoption/vuepress-theme-api/issues
 category: theme
 date: '2019-04-23T10:07:04.951Z'
 deprecated: false
 description: A api-friendly theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/neoption/vuepress-theme-api#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - api-friendly
-  - documentation
-  - site-generator
+- vuepress
+- vuepress-theme
+- api-friendly
+- documentation
+- site-generator
 license: MIT License
-maintainers:
-  - email: 1018995917@qq.com
-    username: jer0701
+maintainers: null
 name: vuepress-theme-coding-api
 npm: https://www.npmjs.com/package/vuepress-theme-coding-api
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1018995917@qq.com
-    username: jer0701
+  avatar: null
+  email: 1018995917@qq.com
+  name: null
+  url: null
+  username: jer0701
 repository: https://github.com/neoption/vuepress-theme-api
 score: 0.4387014927558628
 stars: 0

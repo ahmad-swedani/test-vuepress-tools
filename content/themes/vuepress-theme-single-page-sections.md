@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/934595?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Peter Tandler
-    url: https://github.com/ptandler
+  avatar: https://private-avatars.githubusercontent.com/u/934595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzkzNDU5NSJ9.RR9Q5WfozczYP-Si9_VAbsjY-lxgGodos8kGsXDOBKQ&v=4
+  email: null
+  name: Peter Tandler
+  url: https://github.com/ptandler
+  username: ptandler
 bugs: https://github.com/ptandler/vuepress-theme-single-page-sections/issues
 category: theme
 date: '2020-06-23T16:26:39.982Z'
 deprecated: false
-description: >-
-  A VuePress theme that extends the default theme by sections to create single
-  page layouts with several sections combined on one page
-downloads: ~
+description: A VuePress theme that extends the default theme by sections to create
+  single page layouts with several sections combined on one page
+downloads: null
 homepage: https://github.com/ptandler/vuepress-theme-single-page-sections#readme
 keywords:
-  - vue
-  - vuepress
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: p.npm@tandlers.de
-    username: ptandler
+maintainers: null
 name: vuepress-theme-single-page-sections
 npm: https://www.npmjs.com/package/vuepress-theme-single-page-sections
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: p.npm@tandlers.de
-    username: ptandler
+  avatar: null
+  email: p.npm@tandlers.de
+  name: null
+  url: null
+  username: ptandler
 repository: https://github.com/ptandler/vuepress-theme-single-page-sections
 score: 0.5069912460577968
 stars: 2

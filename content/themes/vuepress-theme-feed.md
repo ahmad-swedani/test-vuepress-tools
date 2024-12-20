@@ -1,32 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19400528?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/19400528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzE5NDAwNTI4In0.Wd_diAxHzL-c1fg_DYYBCRmTuZYq6OCGuhTg4iD6rfc&v=4
+  email: null
+  name: null
+  url: null
   username: xieyx
 bugs: https://github.com/xieyx/vuepress-theme-feed/issues
 category: theme
 date: '2020-05-27T12:05:28.348Z'
 deprecated: false
 description: theme feed for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/xieyx/vuepress-theme-feed#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: xieyanxin93@gmail.com
-    username: xieyx
+maintainers: null
 name: vuepress-theme-feed
 npm: https://www.npmjs.com/package/vuepress-theme-feed
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xieyanxin93@gmail.com
-    username: xieyx
+  avatar: null
+  email: xieyanxin93@gmail.com
+  name: null
+  url: null
+  username: xieyx
 repository: https://github.com/xieyx/vuepress-theme-feed
 score: 0.33893518843493464
 stars: 2

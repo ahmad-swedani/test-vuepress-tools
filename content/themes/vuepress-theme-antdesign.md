@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20733943?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: whu-luojian
+  avatar: https://private-avatars.githubusercontent.com/u/20733943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzIwNzMzOTQzIn0.U1BK4oY74biXtmKZarBSQk6UoirOP1rIkH7hQSgvgd8&v=4
+  email: null
+  name: whu-luojian
+  url: null
+  username: whu-luojian
 bugs: https://github.com/whu-luojian/vuepress-theme-antdesign/issues
 category: theme
 date: '2020-05-21T14:38:30.787Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/whu-luojian/vuepress-theme-antdesign
 keywords:
-  - theme
-  - vuepress
-  - vuepress-theme
-  - antd
-  - ant-design
-license: ~
-maintainers:
-  - email: 1499596970@qq.com
-    username: whu-luojian
+- theme
+- vuepress
+- vuepress-theme
+- antd
+- ant-design
+license: false
+maintainers: null
 name: vuepress-theme-antdesign
 npm: https://www.npmjs.com/package/vuepress-theme-antdesign
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1499596970@qq.com
-    username: whu-luojian
+  avatar: null
+  email: 1499596970@qq.com
+  name: null
+  url: null
+  username: whu-luojian
 repository: https://github.com/whu-luojian/vuepress-theme-antdesign
 score: 0.28974575118890933
 stars: 4

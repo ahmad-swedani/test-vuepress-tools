@@ -1,35 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7794717?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: npm@heimbu.ch
-    name: Alexander Heimbuch
-    username: alexander-heimbuch
+  avatar: https://private-avatars.githubusercontent.com/u/7794717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91Lzc3OTQ3MTcifQ.tm1kHH08dO8OJXYNQfqu026mwXYi0W4odKSWdhj2-pY&v=4
+  email: npm@heimbu.ch
+  name: Alexander Heimbuch
+  url: null
+  username: alexander-heimbuch
 bugs: https://github.com/alexander-heimbuch/vuepress-theme-millidocs/issues
 category: theme
 date: '2019-02-02T06:52:05.813Z'
 deprecated: false
 description: Vuepress documentation theme based on Milligram
-downloads: ~
+downloads: null
 homepage: https://github.com/alexander-heimbuch/vuepress-theme-millidocs#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: npm@heimbu.ch
-    username: alexander-heimbuch
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-millidocs
 npm: https://www.npmjs.com/package/vuepress-theme-millidocs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: npm@heimbu.ch
-    username: alexander-heimbuch
+  avatar: null
+  email: npm@heimbu.ch
+  name: null
+  url: null
+  username: alexander-heimbuch
 repository: https://github.com/alexander-heimbuch/vuepress-theme-millidocs
 score: 0.3888807191750261
 stars: 0

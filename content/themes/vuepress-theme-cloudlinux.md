@@ -1,30 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6078720?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/6078720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzYwNzg3MjAifQ.DzGDqcim2F_4RmMRHWylvahaaPWeMhr_m1Ne-rUKi04&v=4
+  email: null
+  name: null
+  url: null
   username: npm
 bugs: https://github.com/npm/security-holder/issues
 category: theme
 date: '2021-11-29T15:26:11.031Z'
 deprecated: false
 description: security holding package
-downloads: ~
+downloads: null
 homepage: https://github.com/npm/security-holder#readme
-keywords: ~
-license: ~
-maintainers: ~
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-cloudlinux
 npm: https://www.npmjs.com/package/vuepress-theme-cloudlinux
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: npm@npmjs.com
-    username: npm
+  avatar: null
+  email: npm@npmjs.com
+  name: null
+  url: null
+  username: npm
 repository: https://github.com/npm/security-holder
 score: 0.118419785288133
 stars: 157

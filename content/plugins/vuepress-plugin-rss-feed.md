@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36102904?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: bougie.liu@qq.com
-    name: Bougie
-    url: https://www.bougieblog.cn
+  avatar: https://private-avatars.githubusercontent.com/u/36102904?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzM2MTAyOTA0In0.l93U5H0LHdODcFtIDWNwjeo2uOP8qiQ9f6zcLcgkPdk&v=4
+  email: bougie.liu@qq.com
+  name: Bougie
+  url: https://www.bougieblog.cn
+  username: bougieL
 bugs: https://github.com/bougieL/vuepress-plugin-rss/issues
 category: plugin
 date: '2022-01-10T07:43:24.178Z'
 deprecated: false
-description: >-
-  Generate `rss.xml` file with `content:encoded` for rss client pretty preview.
-  Reference https://www.bougieblog.cn/rss.xml for example.
-downloads: ~
+description: Generate `rss.xml` file with `content:encoded` for rss client pretty
+  preview. Reference https://www.bougieblog.cn/rss.xml for example.
+downloads: null
 homepage: https://github.com/bougieL/vuepress-plugin-rss
 keywords:
-  - vuepress
-  - plugin
-  - rss
-  - feed
+- vuepress
+- plugin
+- rss
+- feed
 license: MIT License
-maintainers:
-  - email: 1742070326@qq.com
-    username: bougie
+maintainers: null
 name: vuepress-plugin-rss-feed
 npm: https://www.npmjs.com/package/vuepress-plugin-rss-feed
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1742070326@qq.com
-    username: bougie
+  avatar: null
+  email: 1742070326@qq.com
+  name: null
+  url: null
+  username: bougie
 repository: https://github.com/bougieL/vuepress-plugin-rss
 score: 0.38531069169429566
 stars: 3

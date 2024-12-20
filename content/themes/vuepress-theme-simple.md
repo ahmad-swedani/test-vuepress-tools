@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5064777?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 16viko@gmail.com
-    name: viko16
-    username: viko16
+  avatar: https://private-avatars.githubusercontent.com/u/5064777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzUwNjQ3NzcifQ.qHDkHdS_N5m5ZejYNA8FZhevi_Hxg-9ttCsaX-gIw5g&v=4
+  email: 16viko@gmail.com
+  name: viko16
+  url: null
+  username: viko16
 bugs: https://github.com/viko16/vuepress-theme-simple/issues
 category: theme
 date: '2020-12-15T06:46:01.384Z'
 deprecated: false
-description: ✏️ Very Simple Blog Theme for VuePress
-downloads: ~
+description: "\u270F\uFE0F Very Simple Blog Theme for VuePress"
+downloads: null
 homepage: https://github.com/viko16/vuepress-theme-simple#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - blog-theme
+- vuepress
+- vuepress-theme
+- blog-theme
 license: MIT License
-maintainers:
-  - email: 16viko@gmail.com
-    username: viko16
+maintainers: null
 name: vuepress-theme-simple
 npm: https://www.npmjs.com/package/vuepress-theme-simple
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 16viko@gmail.com
-    username: viko16
+  avatar: null
+  email: 16viko@gmail.com
+  name: null
+  url: null
+  username: viko16
 repository: https://github.com/viko16/vuepress-theme-simple
 score: 0.46742707946654793
 stars: 93

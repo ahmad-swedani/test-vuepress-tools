@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/15625370?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: 半个橙子
+  avatar: https://private-avatars.githubusercontent.com/u/15625370?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzE1NjI1MzcwIn0.RRbNy546NKXQTxJyXPRHE7rMmYsXdeAP408-piYs3Q0&v=4
+  email: null
+  name: "\u534A\u4E2A\u6A59\u5B50"
+  url: null
+  username: ZjBlog
 bugs: https://github.com/ZjBlog/vuepress-theme-zjblog/issues
 category: theme
 date: '2019-06-06T02:53:30.557Z'
 deprecated: false
 description: vuepress-theme
-downloads: ~
+downloads: null
 homepage: https://github.com/ZjBlog/vuepress-theme-zjblog#README.md
 keywords:
-  - vuepress
-  - theme
-  - vuepress-theme
+- vuepress
+- theme
+- vuepress-theme
 license: Apache License 2.0
-maintainers:
-  - email: 13552960783@163.com
-    username: zhangjuntracy
+maintainers: null
 name: vuepress-theme-bgcz
 npm: https://www.npmjs.com/package/vuepress-theme-bgcz
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 13552960783@163.com
-    username: zhangjuntracy
+  avatar: null
+  email: 13552960783@163.com
+  name: null
+  url: null
+  username: zhangjuntracy
 repository: https://github.com/ZjBlog/vuepress-theme-zjblog
 score: 0.43977801514574977
 stars: 3

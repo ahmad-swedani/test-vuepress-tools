@@ -1,37 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10876646?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/10876646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzEwODc2NjQ2In0.2VrqKXGSS-m3GXLWc9W7C2XocgHU412dwhDtHIGmHTo&v=4
+  email: null
+  name: null
+  url: null
   username: h69
-bugs: ~
+bugs: null
 category: theme
 date: '2020-12-25T09:26:11.977Z'
 deprecated: false
 description: VuePress theme.
-downloads: ~
+downloads: null
 homepage: https://github.com/h69/vuepress-theme-x#readme
 keywords:
-  - vuepress
-  - theme
-  - vuepress-theme
-  - x
-  - blog
+- vuepress
+- theme
+- vuepress-theme
+- x
+- blog
 license: MIT License
-maintainers:
-  - email: adamearth@qq.com
-    username: adamearth
+maintainers: null
 name: vuepress-theme-x
 npm: https://www.npmjs.com/package/vuepress-theme-x
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: adamearth@qq.com
-    username: adamearth
+  avatar: null
+  email: adamearth@qq.com
+  name: null
+  url: null
+  username: adamearth
 repository: https://github.com/h69/vuepress-theme-x
 score: 0.4806026008479518
 stars: 0

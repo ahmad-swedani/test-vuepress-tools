@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/30490814?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: zhoudaxia5683@163.com
+  avatar: https://private-avatars.githubusercontent.com/u/30490814?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzI0ODAsIm5iZiI6MTczNDY3MTI4MCwicGF0aCI6Ii91LzMwNDkwODE0In0.QM7KlD83dsgQNOaK21k2snX4WrUbxVpzDw2XOF-LluM&v=4
+  email: null
+  name: zhoudaxia5683@163.com
+  url: null
+  username: wukd
 bugs: https://github.com/wukd/vuepress-dumi/issues
 category: theme
 date: '2022-06-12T15:04:55.786Z'
 deprecated: false
-description: 📖 A dumi style theme for VuePress2.
-downloads: ~
+description: "\U0001F4D6 A dumi style theme for VuePress2."
+downloads: null
 homepage: https://github.com/wukd/vuepress-dumi#readme
 keywords:
-  - vuepress-theme
-  - dumi
+- vuepress-theme
+- dumi
 license: MIT License
-maintainers:
-  - email: zhoudaxia5683@163.com
-    username: xiaozhou
+maintainers: null
 name: vuepress-theme-dumi2
 npm: https://www.npmjs.com/package/vuepress-theme-dumi2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhoudaxia5683@163.com
-    username: xiaozhou
+  avatar: null
+  email: zhoudaxia5683@163.com
+  name: null
+  url: null
+  username: xiaozhou
 repository: https://github.com/wukd/vuepress-dumi
 score: 0.15785108020878477
 stars: 0

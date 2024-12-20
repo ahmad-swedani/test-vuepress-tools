@@ -1,42 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/11927113?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 99299684@qq.com
-    name: mrcode
-    username: zhuqiang
+  avatar: https://private-avatars.githubusercontent.com/u/11927113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91LzExOTI3MTEzIn0.sQnjsy6HCEsZF4RM1HXnVtDWDlupbAN4vMUbnP-GjV8&v=4
+  email: 99299684@qq.com
+  name: mrcode
+  url: null
+  username: zhuqiang
 bugs: https://github.com/zq99299/vuepress-plugin/issues
 category: plugin
 date: '2020-04-27T02:46:37.807Z'
 deprecated: false
 description: baidu tongji analytics plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/zq99299/vuepress-plugin/blob/master/vuepress-plugin-baidu-tongji-analytics/README.md
+downloads: null
+homepage: https://github.com/zq99299/vuepress-plugin/blob/master/vuepress-plugin-baidu-tongji-analytics/README.md
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
-  - baidu tongji analytics
-  - 百度统计
+- documentation
+- generator
+- vue
+- vuepress
+- baidu tongji analytics
+- "\u767E\u5EA6\u7EDF\u8BA1"
 license: MIT License
-maintainers:
-  - email: 99299684@qq.com
-    username: zhuqiang
+maintainers: null
 name: vuepress-plugin-baidu-tongji-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-tongji-analytics
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 99299684@qq.com
-    username: zhuqiang
+  avatar: null
+  email: 99299684@qq.com
+  name: null
+  url: null
+  username: zhuqiang
 repository: https://github.com/zq99299/vuepress-plugin
 score: 0.5482160002599727
 stars: 13

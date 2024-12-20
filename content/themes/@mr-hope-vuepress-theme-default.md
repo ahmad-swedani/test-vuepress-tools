@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  avatar: https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.NoEtFWW5uOTLQfQuUfCfrLpc1qyuKtRoHaZ64KsrJ2I&v=4
+  email: null
+  name: Evan You
+  url: null
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/hope-runtime/issues
 category: theme
 date: '2021-10-31T06:53:16.754Z'
 deprecated: false
 description: Default theme for VuePress
-downloads: ~
-homepage: >-
-  https://github.com/vuepress-theme-hope/hope-runtime/blob/main/packages/vuepress-theme-default#readme
+downloads: null
+homepage: https://github.com/vuepress-theme-hope/hope-runtime/blob/main/packages/vuepress-theme-default#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-theme-default'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-theme-default
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/hope-runtime
 score: 0.5952333621333226
 stars: 1

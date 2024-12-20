@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/18205362?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: nyh
+  avatar: https://private-avatars.githubusercontent.com/u/18205362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzNjAsIm5iZiI6MTczNDY3MTE2MCwicGF0aCI6Ii91LzE4MjA1MzYyIn0.BKhPItj12PCBIBWP_NDNAeN-SwRw4VLjJkukZVtIyQc&v=4
+  email: null
+  name: nyh
+  url: null
+  username: meteorlxy
 bugs: https://github.com/meteorlxy/vuepress-theme-meteorlxy/issues
 category: theme
 date: '2020-01-11T17:40:15.040Z'
 deprecated: false
 description: vuepress blog theme - meteorlxy
-downloads: ~
+downloads: null
 homepage: https://github.com/meteorlxy/vuepress-theme-meteorlxy
 keywords:
-  - blog
-  - theme
-  - vuepress
+- blog
+- theme
+- vuepress
 license: MIT License
-maintainers:
-  - email: lucky72nyh@gmail.com
-    username: nyh
+maintainers: null
 name: vuepress-theme-meteorlxy-nyh
 npm: https://www.npmjs.com/package/vuepress-theme-meteorlxy-nyh
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lucky72nyh@gmail.com
-    username: nyh
+  avatar: null
+  email: lucky72nyh@gmail.com
+  name: null
+  url: null
+  username: nyh
 repository: https://github.com/meteorlxy/vuepress-theme-meteorlxy
 score: 0.18927458754026788
 stars: 371

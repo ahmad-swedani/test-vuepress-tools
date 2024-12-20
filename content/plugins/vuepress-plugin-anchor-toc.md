@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/51355349?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sven@ocular-d.tech
-    name: ocular-d
-    url: https://ocular-d.tech
-    username: ocular-d
+  avatar: https://private-avatars.githubusercontent.com/u/51355349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzUxMzU1MzQ5In0.5w_PIxLCrFCO6vh-y_-zoDPpjIPYH-l6GMh3I27G8Js&v=4
+  email: sven@ocular-d.tech
+  name: ocular-d
+  url: https://ocular-d.tech
+  username: ocular-d
 bugs: https://github.com/ocular-d/vuepress-plugin-anchor-toc/issues
 category: plugin
 date: '2020-11-05T08:55:28.673Z'
 deprecated: false
 description: Right-anchor TOC plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/ocular-d/vuepress-plugin-anchor-toc#readme
 keywords:
-  - vuepress
-  - right
-  - anchor
-  - toc
+- vuepress
+- right
+- anchor
+- toc
 license: MIT License
-maintainers:
-  - email: sven@ocular-d.tech
-    username: ocular-d
+maintainers: null
 name: vuepress-plugin-anchor-toc
 npm: https://www.npmjs.com/package/vuepress-plugin-anchor-toc
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sven@ocular-d.tech
-    username: ocular-d
+  avatar: null
+  email: sven@ocular-d.tech
+  name: null
+  url: null
+  username: ocular-d
 repository: https://github.com/ocular-d/vuepress-plugin-anchor-toc
 score: 0.4328141899576259
 stars: 3

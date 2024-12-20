@@ -1,41 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/96685951?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  avatar: https://private-avatars.githubusercontent.com/u/96685951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91Lzk2Njg1OTUxIn0.3rbrjHPjGGYSJJrc9U4MA2jh5774TRPx1CTUfSY0N9k&v=4
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: vuepress-star
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugin
 date: '2021-12-21T15:52:49.657Z'
 deprecated: false
 description: VuePress plugin - cnzz-analytics
-downloads: ~
+downloads: null
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - umeng
-  - cnzz
-  - analytics
+- vuepress-plugin
+- vuepress
+- plugin
+- umeng
+- cnzz
+- analytics
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-plugin-cnzz-analytics'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-cnzz-analytics
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5564992642399251
 stars: 1

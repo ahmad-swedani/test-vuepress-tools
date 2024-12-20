@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6310131?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: springleo
+  avatar: https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.SCXXWhvD6DJ0jXpxnehZfa4I6BYNvl2kGGAwaLaDBZg&v=4
+  email: null
+  name: springleo
+  url: null
+  username: lq782655835
 bugs: https://github.com/lq782655835/vuepress-plugin-element-ui/issues
 category: plugin
 date: '2020-04-20T12:22:11.050Z'
 deprecated: false
 description: vuepress plugin to extend elementui base on markdown-it-container
-downloads: ~
+downloads: null
 homepage: https://github.com/lq782655835/vuepress-plugin-element-ui#readme
 keywords:
-  - vuepress
-  - element-ui
-  - elementui
-  - vuepress plugin
-  - plugin
-license: ~
-maintainers:
-  - email: 18521566707@163.com
-    username: springleo
+- vuepress
+- element-ui
+- elementui
+- vuepress plugin
+- plugin
+license: false
+maintainers: null
 name: vuepress-plugin-element-ui
 npm: https://www.npmjs.com/package/vuepress-plugin-element-ui
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 18521566707@163.com
-    username: springleo
+  avatar: null
+  email: 18521566707@163.com
+  name: null
+  url: null
+  username: springleo
 repository: https://github.com/lq782655835/vuepress-plugin-element-ui
 score: 0.3717782074719612
 stars: 20

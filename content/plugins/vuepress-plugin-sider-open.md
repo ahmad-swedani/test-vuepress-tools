@@ -1,37 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/39508895?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: boses
+  avatar: https://private-avatars.githubusercontent.com/u/39508895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzM5NTA4ODk1In0.oDd_7-9y9L7L3AGDNyARLjpDGeeFzDmtHXxJZy6ZEso&v=4
+  email: null
+  name: boses
+  url: null
+  username: bosens-China
 bugs: https://github.com/bosens-China/Typescript-manual/issues
 category: plugin
 date: '2020-01-11T11:08:03.676Z'
 deprecated: false
-description: Vuepress menu expand and collapse plug-in;vuePress菜单展开收起插件
-downloads: ~
+description: "Vuepress menu expand and collapse plug-in;vuePress\u83DC\u5355\u5C55\
+  \u5F00\u6536\u8D77\u63D2\u4EF6"
+downloads: null
 homepage: https://github.com/bosens-China/Typescript-manual#readme
 keywords:
-  - vuePress
-  - plugins
-  - sider
-  - open
+- vuePress
+- plugins
+- sider
+- open
 license: MIT License
-maintainers:
-  - email: 1123598783@qq.com
-    username: cs-xy
+maintainers: null
 name: vuepress-plugin-sider-open
 npm: https://www.npmjs.com/package/vuepress-plugin-sider-open
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1123598783@qq.com
-    username: boses
+  avatar: null
+  email: 1123598783@qq.com
+  name: null
+  url: null
+  username: boses
 repository: https://github.com/bosens-China/Typescript-manual
 score: 0.17827373250740955
 stars: 52

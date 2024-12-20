@@ -1,40 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Peter Thaleikis
-    url: https://www.peterthaleikis.com
+  avatar: https://private-avatars.githubusercontent.com/u/8433587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91Lzg0MzM1ODcifQ.mkeMST6aDNW6u23W0GmQ3QzpqcNUGqfJNXarAQ388-0&v=4
+  email: null
+  name: Peter Thaleikis
+  url: https://www.peterthaleikis.com
+  username: spekulatius
 bugs: https://github.com/spekulatius/vuepress-plugin-plausible/issues
 category: plugin
 date: '2022-04-27T15:47:12.814Z'
 deprecated: false
 description: Plausible.io Analytics plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/spekulatius/vuepress-plugin-plausible
 keywords:
-  - vue
-  - vuepress
-  - plugin
-  - vuepress-plugin
-  - analytics
-  - plausible
+- vue
+- vuepress
+- plugin
+- vuepress-plugin
+- analytics
+- plausible
 license: MIT License
-maintainers:
-  - email: peter.thaleikis@gmail.com
-    username: spekulatius
+maintainers: null
 name: vuepress-plugin-plausible
 npm: https://www.npmjs.com/package/vuepress-plugin-plausible
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: peter.thaleikis@gmail.com
-    username: spekulatius
+  avatar: null
+  email: peter.thaleikis@gmail.com
+  name: null
+  url: null
+  username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-plausible
 score: 0.49264041364470457
 stars: 4

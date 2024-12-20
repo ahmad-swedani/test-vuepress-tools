@@ -1,37 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3347800?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/3347800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzMzNDc4MDAifQ.Crmsv-bRVSewr2eB4N16Wv5FI_AZJugIawe9w3M1C7E&v=4
+  email: null
+  name: null
+  url: null
   username: bprinty
 bugs: https://github.com/bprinty/vuepress-plugin-autodoc/issues
 category: plugin
 date: '2020-04-18T12:15:43.806Z'
 deprecated: false
 description: Automatic Code Documentation for VuePress
-downloads: ~
+downloads: null
 homepage: http://bprinty.github.io/vuepress-plugin-autodoc
 keywords:
-  - vuepress
-  - autodoc
-  - api
-  - jsdoc
-  - documentation
+- vuepress
+- autodoc
+- api
+- jsdoc
+- documentation
 license: MIT License
-maintainers:
-  - email: bprinty@gmail.com
-    username: bprinty
+maintainers: null
 name: vuepress-plugin-autodoc
 npm: https://www.npmjs.com/package/vuepress-plugin-autodoc
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: bprinty@gmail.com
-    username: bprinty
+  avatar: null
+  email: bprinty@gmail.com
+  name: null
+  url: null
+  username: bprinty
 repository: https://github.com/bprinty/vuepress-plugin-autodoc
 score: 0.42681503417890343
 stars: 3

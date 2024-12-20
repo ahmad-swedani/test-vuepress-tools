@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/11868477?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: allenforuse@gmail.com
-    name: allen
-    username: justforuse
+  avatar: https://private-avatars.githubusercontent.com/u/11868477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0MDAsIm5iZiI6MTczNDY3MDIwMCwicGF0aCI6Ii91LzExODY4NDc3In0.-FBEH6JATLsa27jmJGbmKj6XwGdXtpOKVRldj6N7kzs&v=4
+  email: allenforuse@gmail.com
+  name: allen
+  url: null
+  username: justforuse
 bugs: https://github.com/justforuse/vuepress-plugin-markdown-define/issues
 category: plugin
 date: '2022-06-06T09:38:14.358Z'
 deprecated: false
 description: define variables in markdown file for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/justforuse/vuepress-plugin-markdown-define#readme
 keywords:
-  - vuepress
-  - plugin
-  - vue
+- vuepress
+- plugin
+- vue
 license: MIT License
-maintainers:
-  - email: allenforuse@gmail.com
-    username: justforuse
+maintainers: null
 name: vuepress-plugin-markdown-define
 npm: https://www.npmjs.com/package/vuepress-plugin-markdown-define
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: allenforuse@gmail.com
-    username: justforuse
+  avatar: null
+  email: allenforuse@gmail.com
+  name: null
+  url: null
+  username: justforuse
 repository: https://github.com/justforuse/vuepress-plugin-markdown-define
 score: 0.5124280859404462
 stars: 1

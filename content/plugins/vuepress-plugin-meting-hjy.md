@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SigureMo
+  avatar: https://private-avatars.githubusercontent.com/u/65664118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzY1NjY0MTE4In0.rHL2UI-TXfojsUa-Pk2Ff7mx-nRxWhxoo1Rt29uYNds&v=4
+  email: null
+  name: SigureMo
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-meting/issues
 category: plugin
 date: '2022-03-27T14:45:09.623Z'
 deprecated: false
 description: A simple plugin connect APlayer, Meting and VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-meting#readme
 keywords:
-  - vuepress
-  - plugin
-  - meting
-  - aplayer
+- vuepress
+- plugin
+- meting
+- aplayer
 license: MIT License
-maintainers:
-  - email: 2145909595@qq.com
-    username: cschero101
+maintainers: null
 name: vuepress-plugin-meting-hjy
 npm: https://www.npmjs.com/package/vuepress-plugin-meting-hjy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2145909595@qq.com
-    username: cschero101
+  avatar: null
+  email: 2145909595@qq.com
+  name: null
+  url: null
+  username: cschero101
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.1576956601889007
 stars: 33

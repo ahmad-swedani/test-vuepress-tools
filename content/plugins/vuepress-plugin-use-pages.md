@@ -1,35 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/85702?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: monsat
+  avatar: https://private-avatars.githubusercontent.com/u/85702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0MDAsIm5iZiI6MTczNDY3MDIwMCwicGF0aCI6Ii91Lzg1NzAyIn0.oQRaPv6mCR0id38Xj6kABtC6sHzvlakgGdNu96cArlE&v=4
+  email: null
+  name: monsat
+  url: null
+  username: monsat
 bugs: https://github.com/monsat/vuepress-plugin-use-pages/issues
 category: plugin
 date: '2022-06-19T01:35:46.192Z'
 deprecated: false
 description: Vue Press 2 plugin - use pages
-downloads: ~
+downloads: null
 homepage: https://github.com/monsat/vuepress-plugin-use-pages#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-license: ~
-maintainers:
-  - email: tanaka.kohji@gmail.com
-    username: mon_sat
+- vuepress-plugin
+- vuepress
+license: false
+maintainers: null
 name: vuepress-plugin-use-pages
 npm: https://www.npmjs.com/package/vuepress-plugin-use-pages
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tanaka.kohji@gmail.com
-    username: mon_sat
+  avatar: null
+  email: tanaka.kohji@gmail.com
+  name: null
+  url: null
+  username: mon_sat
 repository: https://github.com/monsat/vuepress-plugin-use-pages
 score: 0.5153291433037472
 stars: 6

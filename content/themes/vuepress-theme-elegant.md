@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8637758?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: myjxinyuan@gmail.com
-    name: maoyuanjun
+  avatar: https://private-avatars.githubusercontent.com/u/8637758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91Lzg2Mzc3NTgifQ.BSF0GBR8AdbX_ymnbAb5xpr_Eu3EYBD4IF8DoE4uMhk&v=4
+  email: myjxinyuan@gmail.com
+  name: maoyuanjun
+  url: null
+  username: maoyuanjun
 bugs: https://github.com/maoyuanjun/vuepress-theme-elegant/issues
 category: theme
 date: '2019-09-18T15:52:16.213Z'
 deprecated: false
 description: vuepress elegant theme
-downloads: ~
+downloads: null
 homepage: https://github.com/maoyuanjun/vuepress-theme-elegant#readme
 keywords:
-  - vuepress
-  - theme
-  - elegant
+- vuepress
+- theme
+- elegant
 license: MIT License
-maintainers:
-  - email: maoyuanjun201@gmail.com
-    username: maoyuanjun201
+maintainers: null
 name: vuepress-theme-elegant
 npm: https://www.npmjs.com/package/vuepress-theme-elegant
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: maoyuanjun201@gmail.com
-    username: maoyuanjun201
+  avatar: null
+  email: maoyuanjun201@gmail.com
+  name: null
+  url: null
+  username: maoyuanjun201
 repository: https://github.com/maoyuanjun/vuepress-theme-elegant
 score: 0.3615575301355845
 stars: 0

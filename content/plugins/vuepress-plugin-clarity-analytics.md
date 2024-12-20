@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/62365720?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: roiding
+  avatar: https://private-avatars.githubusercontent.com/u/62365720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91LzYyMzY1NzIwIn0.f6T-QnrnphvWWqfp38XDiKBNuRWAV9ydKmCjrxOS57s&v=4
+  email: null
+  name: roiding
+  url: null
+  username: roiding
 bugs: https://github.com/roiding/plugin-clarity-analytics/issues
 category: plugin
 date: '2022-06-16T08:53:18.855Z'
 deprecated: false
 description: VuePress plugin - clarity-analytics
-downloads: ~
+downloads: null
 homepage: https://github.com/roiding
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - clarity
-  - analytics
-license: ~
-maintainers:
-  - email: dingran@ran-ding.ga
-    username: roiding
+- vuepress-plugin
+- vuepress
+- plugin
+- clarity
+- analytics
+license: false
+maintainers: null
 name: vuepress-plugin-clarity-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-clarity-analytics
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dingran@ran-ding.ga
-    username: roiding
+  avatar: null
+  email: dingran@ran-ding.ga
+  name: null
+  url: null
+  username: roiding
 repository: https://github.com/roiding/plugin-clarity-analytics
 score: 0.48203811321329243
 stars: 0
@@ -42,4 +37,3 @@ watchers: 0
 
 ---
 
-undefined

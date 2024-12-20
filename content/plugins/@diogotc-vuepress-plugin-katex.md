@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7467891?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: me@diogotc.com
-    name: Diogo Correia
-    username: diogotc
+  avatar: https://private-avatars.githubusercontent.com/u/7467891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxMjAsIm5iZiI6MTczNDY3MDkyMCwicGF0aCI6Ii91Lzc0Njc4OTEifQ.uttY9hVh_nDCL4bYWrlm1NawtcJuKC3CFkFcbZ0NJeY&v=4
+  email: me@diogotc.com
+  name: Diogo Correia
+  url: null
+  username: diogotc
 bugs: https://github.com/diogotcorreia/vuepress-plugin-katex/issues
 category: plugin
 date: '2021-04-10T19:05:06.857Z'
 deprecated: false
 description: KateX plugin for Vuepress (Fork by Diogo Correia)
-downloads: ~
+downloads: null
 homepage: https://github.com/diogotcorreia/vuepress-plugin-katex#readme
 keywords:
-  - vuepress
-  - katex
-  - markdown
-license: ~
-maintainers:
-  - email: me@diogotc.com
-    username: diogotc
+- vuepress
+- katex
+- markdown
+license: false
+maintainers: null
 name: '@diogotc/vuepress-plugin-katex'
 npm: https://www.npmjs.com/package/%40diogotc%2Fvuepress-plugin-katex
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: me@diogotc.com
-    username: diogotc
+  avatar: null
+  email: me@diogotc.com
+  name: null
+  url: null
+  username: diogotc
 repository: https://github.com/diogotcorreia/vuepress-plugin-katex
 score: 0.36546176608341485
 stars: 0

@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12009244?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: ldy
+  avatar: https://private-avatars.githubusercontent.com/u/12009244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4MjAsIm5iZiI6MTczNDY3MDYyMCwicGF0aCI6Ii91LzEyMDA5MjQ0In0.YwpKKKd02Dh1ES9ziq46dSiQVg0JnO4JMxiX9CJOLPc&v=4
+  email: null
+  name: ldy
+  url: null
+  username: gitldy1013
 bugs: https://github.com/gitldy1013/vuepress-theme-ldy/issues
 category: theme
 date: '2019-11-14T07:56:48.878Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: 13691363167@163.com
-    username: dongyang_liu
+maintainers: null
 name: vuepress-theme-reco-ldy
 npm: https://www.npmjs.com/package/vuepress-theme-reco-ldy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 13691363167@163.com
-    username: dongyang_liu
+  avatar: null
+  email: 13691363167@163.com
+  name: null
+  url: null
+  username: dongyang_liu
 repository: https://github.com/gitldy1013/vuepress-theme-ldy
 score: 0.47423889631000127
 stars: 2

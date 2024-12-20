@@ -1,44 +1,38 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  avatar: https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.0M9G4CJfu-xi4rweavooYnFypHySZvRwdEKh-vre_MM&v=4
+  email: null
+  name: Evan You
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2021-04-18T06:54:16.924Z'
 deprecated: false
 description: VuePress theme for official Vue projects
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: jmguoyucheng@126.com
-    username: qdyucn
+maintainers: null
 name: '@yucn/theme-vue'
 npm: https://www.npmjs.com/package/%40yucn%2Ftheme-vue
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jmguoyucheng@126.com
-    username: qdyucn
+  avatar: null
+  email: jmguoyucheng@126.com
+  name: null
+  url: null
+  username: qdyucn
 repository: https://github.com/vuejs/vuepress
 score: 0.1066013783726828
-stars: 22619
+stars: 22618
 unstable: false
 version: 1.8.2
-watchers: 22619
+watchers: 22618
 
 ---
 

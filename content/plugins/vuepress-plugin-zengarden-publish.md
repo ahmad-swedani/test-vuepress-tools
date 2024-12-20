@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thomas@venturini.codes
-    name: Thomas Venturini
-    username: tjventurini
+  avatar: https://private-avatars.githubusercontent.com/u/4708070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzQ3MDgwNzAifQ.8Q43wXLAb2jL2WvhO7U8Pxhh9qMtW1At26jwwjumOq8&v=4
+  email: thomas@venturini.codes
+  name: Thomas Venturini
+  url: null
+  username: tjventurini
 bugs: https://github.com/tjventurini/vuepress-plugin-zengarden-publish/issues
 category: plugin
 date: '2020-05-05T16:30:07.794Z'
 deprecated: false
 description: Adds a publish flag to all pages.
-downloads: ~
+downloads: null
 homepage: https://github.com/tjventurini/vuepress-plugin-zengarden-publish#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - zengarden
+- vuepress
+- vuepress-plugin
+- zengarden
 license: MIT License
-maintainers:
-  - email: thomas@venturini.codes
-    username: tjventurini
+maintainers: null
 name: vuepress-plugin-zengarden-publish
 npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-publish
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thomas@venturini.codes
-    username: tjventurini
+  avatar: null
+  email: thomas@venturini.codes
+  name: null
+  url: null
+  username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-publish
 score: 0.45321791158097824
 stars: 1

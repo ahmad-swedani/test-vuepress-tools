@@ -1,37 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6712767?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hwenleung@gmail.com
-    name: hwen
-    username: hwen
+  avatar: https://private-avatars.githubusercontent.com/u/6712767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzY3MTI3NjcifQ.jUCAvl69fQc4WrnFTA1m06jBX5BnDWD5yA_t_xCrpQM&v=4
+  email: hwenleung@gmail.com
+  name: hwen
+  url: null
+  username: hwen
 bugs: https://github.com/hwen/vuepress-theme-one/issues
 category: theme
 date: '2018-09-27T03:15:50.581Z'
 deprecated: false
 description: vuepress theme
-downloads: ~
+downloads: null
 homepage: https://github.com/hwen/vuepress-theme-one
 keywords:
-  - vuepress-theme
-  - vuepress-theme-one
-license: ~
-maintainers:
-  - email: hwenleung@gmail.com
-    username: hwen
+- vuepress-theme
+- vuepress-theme-one
+license: false
+maintainers: null
 name: vuepress-theme-one
 npm: https://www.npmjs.com/package/vuepress-theme-one
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hwenleung@gmail.com
-    username: hwen
+  avatar: null
+  email: hwenleung@gmail.com
+  name: null
+  url: null
+  username: hwen
 repository: https://github.com/hwen/vuepress-theme-one
 score: 0.433069950585266
 stars: 0

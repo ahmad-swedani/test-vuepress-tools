@@ -1,35 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/33430560?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/33430560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzMzNDMwNTYwIn0.h3jdOPCltkV8jcufqB1VI-8S5E_iWKIDyYE7fqa9Qqc&v=4
+  email: null
+  name: null
+  url: null
   username: Aphorica
 bugs: https://github.com/Aphorica/vuepress-plugin-netlifycms/issues
 category: plugin
 date: '2020-04-10T19:49:52.431Z'
 deprecated: false
 description: add netlifycms headertag to main page
-downloads: ~
+downloads: null
 homepage: https://github.com/Aphorica/vuepress-plugin-netlifycms#readme
 keywords:
-  - vue
-  - vuepress
-  - generator
-license: ~
-maintainers:
-  - email: gbergeraph@gmail.com
-    username: rickbsgu
+- vue
+- vuepress
+- generator
+license: false
+maintainers: null
 name: '@aphorica/vuepress-plugin-netlifycms'
 npm: https://www.npmjs.com/package/%40aphorica%2Fvuepress-plugin-netlifycms
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gbergeraph@gmail.com
-    username: rickbsgu
+  avatar: null
+  email: gbergeraph@gmail.com
+  name: null
+  url: null
+  username: rickbsgu
 repository: https://github.com/Aphorica/vuepress-plugin-netlifycms
 score: 0.3564660156102619
 stars: 0

@@ -1,40 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4928316?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hi@teners.me
-    name: Sergey Sokolov
+  avatar: https://private-avatars.githubusercontent.com/u/4928316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzQ5MjgzMTYifQ.yRPlYC_v_57cZQYEjDmJxFXevNuv3-1RMX1OpixPyTA&v=4
+  email: hi@teners.me
+  name: Sergey Sokolov
+  url: null
+  username: teners
 bugs: https://github.com/teners/vuepress-plugin-metrika
 category: plugin
 date: '2021-07-20T15:09:02.964Z'
 deprecated: false
 description: Yandex Metrika plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/teners/vuepress-plugin-metrika#readme
 keywords:
-  - vuepress
-  - plugin
-  - yandex
-  - metrika
-  - яндекс
-  - метрика
+- vuepress
+- plugin
+- yandex
+- metrika
+- "\u044F\u043D\u0434\u0435\u043A\u0441"
+- "\u043C\u0435\u0442\u0440\u0438\u043A\u0430"
 license: MIT License
-maintainers:
-  - email: dmemory7@ya.ru
-    username: teners
+maintainers: null
 name: vuepress-plugin-metrika
 npm: https://www.npmjs.com/package/vuepress-plugin-metrika
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dmemory7@ya.ru
-    username: teners
+  avatar: null
+  email: dmemory7@ya.ru
+  name: null
+  url: null
+  username: teners
 repository: https://github.com/teners/vuepress-plugin-metrika
 score: 0.40947803875075506
 stars: 3

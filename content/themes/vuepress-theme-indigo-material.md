@@ -1,39 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35592403?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1962421071@qq.com
-    name: zhhlwd
-    username: zhhlwd
+  avatar: https://private-avatars.githubusercontent.com/u/35592403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzM1NTkyNDAzIn0.p2or3gtiDQzemMqLJp2_omuxv_lw34isR-7aV8eAY6s&v=4
+  email: 1962421071@qq.com
+  name: zhhlwd
+  url: null
+  username: zhhlwd
 bugs: https://github.com/zhhlwd/vuepress-theme-indigo-material/issues
 category: theme
 date: '2019-07-05T01:03:22.759Z'
 deprecated: false
 description: Material Design theme for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/zhhlwd/vuepress-theme-indigo-material#readme
 keywords:
-  - vue
-  - vuepress
-  - theme
-  - material design
+- vue
+- vuepress
+- theme
+- material design
 license: MIT License
-maintainers:
-  - email: 1962421071@qq.com
-    username: zhhlwd
+maintainers: null
 name: vuepress-theme-indigo-material
 npm: https://www.npmjs.com/package/vuepress-theme-indigo-material
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1962421071@qq.com
-    username: zhhlwd
+  avatar: null
+  email: 1962421071@qq.com
+  name: null
+  url: null
+  username: zhhlwd
 repository: https://github.com/zhhlwd/vuepress-theme-indigo-material
 score: 0.393332180430814
 stars: 281

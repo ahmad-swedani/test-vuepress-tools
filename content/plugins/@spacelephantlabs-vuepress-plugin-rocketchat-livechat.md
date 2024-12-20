@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/45766545?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: developers@spacelephant.org
-    name: Space Elephant SAS
+  avatar: https://private-avatars.githubusercontent.com/u/45766545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzQ1NzY2NTQ1In0.Am_GY-KDffGCwsSfEMivK6wLCtvn4lq0Rx47WDclx7g&v=4
+  email: developers@spacelephant.org
+  name: Space Elephant SAS
+  url: null
+  username: spacelephantlabs
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat/issues
 category: plugin
 date: '2021-04-23T20:01:11.167Z'
 deprecated: false
 description: Rocket.chat Livechat plugin for vuepress >= 1.0
-downloads: ~
+downloads: null
 homepage: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat/
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - rocket.chat
+- documentation
+- vue
+- vuepress
+- generator
+- rocket.chat
 license: MIT License
-maintainers:
-  - email: dev@dlecan.com
-    username: dlecan
+maintainers: null
 name: '@spacelephantlabs/vuepress-plugin-rocketchat-livechat'
-npm: >-
-  https://www.npmjs.com/package/%40spacelephantlabs%2Fvuepress-plugin-rocketchat-livechat
+npm: https://www.npmjs.com/package/%40spacelephantlabs%2Fvuepress-plugin-rocketchat-livechat
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: developers@spacelephant.org
-    username: spacelephantbot
+  avatar: null
+  email: developers@spacelephant.org
+  name: null
+  url: null
+  username: spacelephantbot
 repository: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat
 score: 0.38305984206944
 stars: 0

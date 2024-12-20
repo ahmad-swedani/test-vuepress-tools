@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/65864058?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Marton Lederer
+  avatar: https://private-avatars.githubusercontent.com/u/65864058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzY1ODY0MDU4In0.CnMUyP8T3Fna-3le2ZODOHVHq6I9Dky7nz4qr4mpyjU&v=4
+  email: null
+  name: Marton Lederer
+  url: null
+  username: nestdotland
 bugs: https://github.com/nestdotland/docs/issues
 category: theme
 date: '2020-07-08T16:30:13.181Z'
 deprecated: false
 description: The nest.land theme for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/nestdotland/docs#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: martondeveloper@gmail.com
-    username: martondev
+maintainers: null
 name: vuepress-theme-nest
 npm: https://www.npmjs.com/package/vuepress-theme-nest
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: martondeveloper@gmail.com
-    username: martondev
+  avatar: null
+  email: martondeveloper@gmail.com
+  name: null
+  url: null
+  username: martondev
 repository: https://github.com/nestdotland/docs
 score: 0.1780937927724266
 stars: 6

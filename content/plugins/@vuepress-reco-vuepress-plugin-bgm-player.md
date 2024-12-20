@@ -1,41 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zsw0407@outlook.com
-    name: zsw
-    username: smallsunnyfox
+  avatar: https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.couGd9B-0J81H_26YiZxWOn3cew5ORLJ4nRllz9wOLg&v=4
+  email: zsw0407@outlook.com
+  name: zsw
+  url: null
+  username: smallsunnyfox
 bugs: https://github.com/vuepress-reco/vuepress-plugin-bgm-player/issues
 category: plugin
 date: '2021-09-09T11:14:00.254Z'
 deprecated: false
 description: bgm player plugin for vuepress themes
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com/views/plugins/bgmPlayer.html
 keywords:
-  - vuepress-theme-reco
-  - bgm player
-  - vuepress
-  - music player
+- vuepress-theme-reco
+- bgm player
+- vuepress
+- music player
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-bgm-player'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-bgm-player
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zsw0407@outlook.com
-    username: smallsunnyfox
+  avatar: null
+  email: zsw0407@outlook.com
+  name: null
+  url: null
+  username: smallsunnyfox
 repository: https://github.com/vuepress-reco/vuepress-plugin-bgm-player
 score: 0.38290210302325334
 stars: 23

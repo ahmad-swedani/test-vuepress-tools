@@ -1,32 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4020037?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/4020037?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzNjAsIm5iZiI6MTczNDY3MTE2MCwicGF0aCI6Ii91LzQwMjAwMzcifQ.lHQzXXkSXMrzS-JAr884OEP2NsVggynjJma8-isYDJo&v=4
+  email: null
+  name: null
+  url: null
   username: lupas
 bugs: https://github.com/lupas/vuepress-theme-carbon/issues
 category: theme
 date: '2020-04-20T22:30:06.299Z'
 deprecated: false
 description: Vuepress default theme with support for Carbon Ads.
-downloads: ~
+downloads: null
 homepage: https://github.com/lupas/vuepress-theme-carbon#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: pascal@luther.ch
-    username: lupas
+maintainers: null
 name: vuepress-theme-carbon
 npm: https://www.npmjs.com/package/vuepress-theme-carbon
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pascal@luther.ch
-    username: lupas
+  avatar: null
+  email: pascal@luther.ch
+  name: null
+  url: null
+  username: lupas
 repository: https://github.com/lupas/vuepress-theme-carbon
 score: 0.4628514741899553
 stars: 7

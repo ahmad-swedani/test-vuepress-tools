@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10135110?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: andy@5ff.de
-    name: Andreas Fischer
-    username: fischermaen
+  avatar: https://private-avatars.githubusercontent.com/u/10135110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzEwMTM1MTEwIn0.75WcktWt2Dhe1GClBKcEJESpXZm6fironM7jVm5Hhpc&v=4
+  email: andy@5ff.de
+  name: Andreas Fischer
+  url: null
+  username: fischermaen
 bugs: https://github.com/Fischermaen/vuepress-plugin-contributors/issues
 category: plugin
 date: '2020-06-02T14:50:23.558Z'
 deprecated: false
-description: >-
-  Display a list of all contributors ordered descending by number of
-  contributions, showing avatar, username and number of commits.
-downloads: ~
+description: Display a list of all contributors ordered descending by number of contributions,
+  showing avatar, username and number of commits.
+downloads: null
 homepage: https://github.com/Fischermaen/vuepress-plugin-contributors#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - contributors
-license: ~
-maintainers:
-  - email: andy@5ff.de
-    username: fischermaen
+- vuepress
+- vuepress-plugin
+- contributors
+license: false
+maintainers: null
 name: vuepress-plugin-contributors
 npm: https://www.npmjs.com/package/vuepress-plugin-contributors
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: andy@5ff.de
-    username: fischermaen
+  avatar: null
+  email: andy@5ff.de
+  name: null
+  url: null
+  username: fischermaen
 repository: https://github.com/Fischermaen/vuepress-plugin-contributors
 score: 0.46042911991548974
 stars: 1

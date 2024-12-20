@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23148342?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stwangcq@163.com
-    name: wst
-    username: wangshiting
+  avatar: https://private-avatars.githubusercontent.com/u/23148342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE1ODAsIm5iZiI6MTczNDY3MDM4MCwicGF0aCI6Ii91LzIzMTQ4MzQyIn0.YLr5hqnc26TltOrsB5G3oof6Go_UcogWy8GIIoSQZHE&v=4
+  email: stwangcq@163.com
+  name: wst
+  url: null
+  username: wangshiting
 bugs: https://github.com/laobg/vuepress-plugin-dline/issues
 category: plugin
 date: '2021-03-01T08:46:53.097Z'
 deprecated: false
 description: vuepress-theme-plugin
-downloads: ~
+downloads: null
 homepage: https://github.com/laobg/vuepress-plugin-dline#readme
 keywords:
-  - vuepress
-  - theme
-  - background
+- vuepress
+- theme
+- background
 license: Apache License 2.0
-maintainers:
-  - email: stwangcq@163.com
-    username: wangshiting
+maintainers: null
 name: vuepress-plugin-dline
 npm: https://www.npmjs.com/package/vuepress-plugin-dline
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stwangcq@163.com
-    username: wangshiting
+  avatar: null
+  email: stwangcq@163.com
+  name: null
+  url: null
+  username: wangshiting
 repository: https://github.com/laobg/vuepress-plugin-dline
 score: 0.4517373454781761
 stars: 1

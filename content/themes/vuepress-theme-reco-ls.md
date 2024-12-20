@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: reco_luan
+  avatar: https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.couGd9B-0J81H_26YiZxWOn3cew5ORLJ4nRllz9wOLg&v=4
+  email: null
+  name: reco_luan
+  url: null
+  username: vuepress-reco
 bugs: https://github.com/WangUni/vuepress-theme-reco-ls
 category: theme
 date: '2021-06-28T08:58:34.602Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: yanzu.uni@foxmail.com
-    username: wangyanzu
+maintainers: null
 name: vuepress-theme-reco-ls
 npm: https://www.npmjs.com/package/vuepress-theme-reco-ls
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yanzu.uni@foxmail.com
-    username: wangyanzu
+  avatar: null
+  email: yanzu.uni@foxmail.com
+  name: null
+  url: null
+  username: wangyanzu
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.2070853936367637
 stars: 603

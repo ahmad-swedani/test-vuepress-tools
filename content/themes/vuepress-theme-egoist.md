@@ -1,44 +1,38 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ULIVZ
+  avatar: https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIyNDAsIm5iZiI6MTczNDY3MTA0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.0M9G4CJfu-xi4rweavooYnFypHySZvRwdEKh-vre_MM&v=4
+  email: chl814@foxmail.com
+  name: ULIVZ
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2018-11-12T02:33:27.202Z'
 deprecated: false
 description: theme-blog-example for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: vuepress-theme-egoist
 npm: https://www.npmjs.com/package/vuepress-theme-egoist
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.17909381628771387
-stars: 22619
+stars: 22618
 unstable: false
 version: 1.4.2
-watchers: 22619
+watchers: 22618
 
 ---
 

@@ -1,32 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6063358?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/6063358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzYwNjMzNTgifQ.VrDAjHU6DCag1uJDW11OZQRcy6_7taoVjufbAJyE4iA&v=4
+  email: null
+  name: null
+  url: null
   username: xxholly32
 bugs: https://github.com/xxholly32/vuepress-plugin-code-box/issues
 category: plugin
 date: '2020-05-09T12:30:57.657Z'
 deprecated: false
 description: code box for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/xxholly32/vuepress-plugin-code-box#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: xxholly32@163.com
-    username: xiangxiao
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-code-box
 npm: https://www.npmjs.com/package/vuepress-plugin-code-box
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xxholly32@163.com
-    username: xiangxiao
+  avatar: null
+  email: xxholly32@163.com
+  name: null
+  url: null
+  username: xiangxiao
 repository: https://github.com/xxholly32/vuepress-plugin-code-box
 score: 0.29077295662106467
 stars: 2

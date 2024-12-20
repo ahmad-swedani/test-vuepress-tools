@@ -1,37 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6147452?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Axway Appcelerator
+  avatar: https://private-avatars.githubusercontent.com/u/6147452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE3NjAsIm5iZiI6MTczNDY3MDU2MCwicGF0aCI6Ii91LzYxNDc0NTIifQ.uU5IiWiAq3I9BSVG8rGXMf9hxh-UtyJlee_iDF4KtUw&v=4
+  email: null
+  name: Axway Appcelerator
+  url: null
+  username: tidev
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: theme
 date: '2022-05-23T15:15:48.043Z'
 deprecated: false
 description: VuePress theme for Titanium projects
-downloads: ~
+downloads: null
 homepage: https://github.com/appcelerator/docs-devkit#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: chris@cb1inc.com
-    username: cb1kenobi
-  - email: ewanharris93@gmail.com
-    username: awam
-  - email: tidev@cb1inc.com
-    username: tisdk
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-titanium
 npm: https://www.npmjs.com/package/vuepress-theme-titanium
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chris@cb1inc.com
-    username: cb1kenobi
+  avatar: null
+  email: chris@cb1inc.com
+  name: null
+  url: null
+  username: cb1kenobi
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.5055258079672408
 stars: 24

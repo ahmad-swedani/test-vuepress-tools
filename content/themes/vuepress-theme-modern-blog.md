@@ -1,43 +1,35 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36268825?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    name: Ahmad Mostafa
-    url: https://ahmadmostafa.com
-    username: z3bya
+  avatar: https://private-avatars.githubusercontent.com/u/36268825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIxODAsIm5iZiI6MTczNDY3MDk4MCwicGF0aCI6Ii91LzM2MjY4ODI1In0.rYLaMwOaUXMnUc8CEjwPd9KYzRvD8OegIdnJ7lrOzzI&v=4
+  email: zoaby.am@gmail.com
+  name: Ahmad Mostafa
+  url: https://ahmadmostafa.com
+  username: z3bya
 bugs: https://github.com/z3by/vuepress-theme-modern-blog/issues
 category: theme
 date: '2020-05-22T09:29:09.243Z'
 deprecated: false
 description: Modern blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/z3by/vuepress-theme-modern-blog#readme
 keywords:
-  - vue
-  - vuepress
-  - blog
-  - vuepress-theme
-  - vuepress-blog
-  - vuepress-theme-blog
-  - vuepress-theme-modern-blog
+- vue
+- vuepress
+- blog
+- vuepress-theme
+- vuepress-blog
+- vuepress-theme-blog
+- vuepress-theme-modern-blog
 license: MIT License
-maintainers:
-  - email: zoaby.am@gmail.com
-    username: z3bya
+maintainers: null
 name: vuepress-theme-modern-blog
 npm: https://www.npmjs.com/package/vuepress-theme-modern-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    username: z3bya
+  avatar: null
+  email: zoaby.am@gmail.com
+  name: null
+  url: null
+  username: z3bya
 repository: https://github.com/z3by/vuepress-theme-modern-blog
 score: 0.3751821855546244
 stars: 102

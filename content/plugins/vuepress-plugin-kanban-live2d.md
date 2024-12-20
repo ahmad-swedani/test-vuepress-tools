@@ -1,36 +1,29 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93028958?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1278441339@qq.com
-    name: ccy
-    username: francissaber
+  avatar: https://private-avatars.githubusercontent.com/u/93028958?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwNjAsIm5iZiI6MTczNDY3MDg2MCwicGF0aCI6Ii91LzkzMDI4OTU4In0.YCeqb9VSET87tBm3pDeoqs5O8OCdq8SXs2TFhyOBsZQ&v=4
+  email: 1278441339@qq.com
+  name: ccy
+  url: null
+  username: francissaber
 bugs: https://github.com/FrancisSaber/vuepress-plugin-kanban-live2d/issues
 category: plugin
 date: '2022-03-09T14:45:51.323Z'
 deprecated: false
-description: vuepress 看板娘插件，支持moc3.0
-downloads: ~
+description: "vuepress \u770B\u677F\u5A18\u63D2\u4EF6\uFF0C\u652F\u6301moc3.0"
+downloads: null
 homepage: https://github.com/FrancisSaber/vuepress-plugin-kanban-live2d#readme
 keywords:
-  - vuepress-plugin
-license: ~
-maintainers:
-  - email: 1278441339@qq.com
-    username: francissaber
+- vuepress-plugin
+license: false
+maintainers: null
 name: vuepress-plugin-kanban-live2d
 npm: https://www.npmjs.com/package/vuepress-plugin-kanban-live2d
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1278441339@qq.com
-    username: francissaber
+  avatar: null
+  email: 1278441339@qq.com
+  name: null
+  url: null
+  username: francissaber
 repository: https://github.com/FrancisSaber/vuepress-plugin-kanban-live2d
 score: 0.18059007433624055
 stars: 0
@@ -40,4 +33,3 @@ watchers: 0
 
 ---
 
-undefined

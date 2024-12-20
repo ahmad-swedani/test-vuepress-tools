@@ -1,42 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3100992?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jscherbe@gmail.com
-    name: Joseph Scherben
-    username: jscherbe
+  avatar: https://private-avatars.githubusercontent.com/u/3100992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE0NjAsIm5iZiI6MTczNDY3MDI2MCwicGF0aCI6Ii91LzMxMDA5OTIifQ.lbYPkQFRXgIWMKk2Jpv6nYVKZ3Xl8E8nN5DBntHX4uo&v=4
+  email: jscherbe@gmail.com
+  name: Joseph Scherben
+  url: null
+  username: jscherbe
 bugs: https://github.com/Jscherbe/vuepress-plugin-default-theme-auto-nav/issues
 category: plugin
 date: '2022-05-12T02:15:05.664Z'
 deprecated: false
-description: >-
-  This plugin fills in the navbar and or sidebar links based on all page's paths
-  (default theme)
-downloads: ~
+description: This plugin fills in the navbar and or sidebar links based on all page's
+  paths (default theme)
+downloads: null
 homepage: https://github.com/Jscherbe/vuepress-plugin-default-theme-auto-nav#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - sidebar
-  - navbar
-  - dynamic links
+- vuepress
+- vuepress-plugin
+- sidebar
+- navbar
+- dynamic links
 license: MIT License
-maintainers:
-  - email: jscherbe@gmail.com
-    username: jscherbe
+maintainers: null
 name: '@ulu/vuepress-plugin-auto-nav'
 npm: https://www.npmjs.com/package/%40ulu%2Fvuepress-plugin-auto-nav
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: jscherbe@gmail.com
-    username: jscherbe
+  avatar: null
+  email: jscherbe@gmail.com
+  name: null
+  url: null
+  username: jscherbe
 repository: https://github.com/Jscherbe/vuepress-plugin-default-theme-auto-nav
 score: 0.5111229566239934
 stars: 0

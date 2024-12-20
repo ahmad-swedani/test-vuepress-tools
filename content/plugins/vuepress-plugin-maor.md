@@ -1,32 +1,28 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/22772830?v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://private-avatars.githubusercontent.com/u/22772830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIzNjAsIm5iZiI6MTczNDY3MTE2MCwicGF0aCI6Ii91LzIyNzcyODMwIn0.NUjP_DKmWputgFwd8y5jYco718PRuKQM9X0_4ak3GYs&v=4
+  email: null
+  name: null
+  url: null
   username: QiShaoXuan
 bugs: https://github.com/QiShaoXuan/vuepress-plugin-cat/issues
 category: plugin
 date: '2022-04-03T18:45:39.026Z'
 deprecated: false
 description: '## How to use'
-downloads: ~
+downloads: null
 homepage: https://github.com/QiShaoXuan/vuepress-plugin-cat#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: 1440797327@qq.com
-    username: lblog
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-maor
 npm: https://www.npmjs.com/package/vuepress-plugin-maor
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1440797327@qq.com
-    username: lblog
+  avatar: null
+  email: 1440797327@qq.com
+  name: null
+  url: null
+  username: lblog
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
 score: 0.06026038908107664
 stars: 181

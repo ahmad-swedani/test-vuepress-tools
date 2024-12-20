@@ -1,41 +1,34 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    name: tolking
-    username: tolking
+  avatar: https://private-avatars.githubusercontent.com/u/23313167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzEzNDAsIm5iZiI6MTczNDY3MDE0MCwicGF0aCI6Ii91LzIzMzEzMTY3In0.dlv5WFgSujadCOJCNCSgXujrECAzVCactTfK1Zwm9sA&v=4
+  email: qw13131wang@gmail.com
+  name: tolking
+  url: null
+  username: tolking
 bugs: https://github.com/tolking/vuepress-plugin-img-lazy/issues
 category: plugin
 date: '2020-07-09T12:03:53.952Z'
 deprecated: false
 description: a vuepress plugin to better supporting image lazy loading
-downloads: ~
+downloads: null
 homepage: https://github.com/tolking/vuepress-plugin-img-lazy
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - lazy-loading
-  - img
-  - lazy
-  - data-src
+- vuepress
+- vuepress-plugin
+- lazy-loading
+- img
+- lazy
+- data-src
 license: MIT License
-maintainers:
-  - email: qw13131wang@gmail.com
-    username: tolking
+maintainers: null
 name: vuepress-plugin-img-lazy
 npm: https://www.npmjs.com/package/vuepress-plugin-img-lazy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    username: tolking
+  avatar: null
+  email: qw13131wang@gmail.com
+  name: null
+  url: null
+  username: tolking
 repository: https://github.com/tolking/vuepress-plugin-img-lazy
 score: 0.541276887251579
 stars: 22

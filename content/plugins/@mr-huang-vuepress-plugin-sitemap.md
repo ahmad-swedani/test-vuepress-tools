@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/24950299?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: mr-huang
+  avatar: https://private-avatars.githubusercontent.com/u/24950299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE2NDAsIm5iZiI6MTczNDY3MDQ0MCwicGF0aCI6Ii91LzI0OTUwMjk5In0.-4kakmxIc26FHtyBqaeBnl3P12UTqOdHGAh4kDZ67Gs&v=4
+  email: null
+  name: mr-huang
+  url: null
+  username: CavinHuang
 bugs: https://github.com/cavinHuang/vuepress-theme-weasel/issues
 category: plugin
 date: '2022-05-18T09:56:04.301Z'
 deprecated: false
 description: weasel theme
-downloads: ~
+downloads: null
 homepage: https://github.com/cavinHuang/vuepress-theme-weasel#readme
 keywords:
-  - vue3
-  - weasel
-  - vuepress plugin
-  - vuepress
-license: ~
-maintainers:
-  - email: sujinw@qq.com
-    username: sujinw
+- vue3
+- weasel
+- vuepress plugin
+- vuepress
+license: false
+maintainers: null
 name: '@mr-huang/vuepress-plugin-sitemap'
 npm: https://www.npmjs.com/package/%40mr-huang%2Fvuepress-plugin-sitemap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sujinw@qq.com
-    username: sujinw
+  avatar: null
+  email: sujinw@qq.com
+  name: null
+  url: null
+  username: sujinw
 repository: https://github.com/cavinHuang/vuepress-theme-weasel
 score: 0.15019534565041753
 stars: 0
@@ -41,4 +36,3 @@ watchers: 0
 
 ---
 
-undefined

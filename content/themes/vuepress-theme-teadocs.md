@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7500988?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Zhi Bing
+  avatar: https://private-avatars.githubusercontent.com/u/7500988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE5NDAsIm5iZiI6MTczNDY3MDc0MCwicGF0aCI6Ii91Lzc1MDA5ODgifQ.sL1qRcgRbOu11l99B7jLCsXFFZavxZ6jojY4rHTixOY&v=4
+  email: null
+  name: Zhi Bing
+  url: null
+  username: lisniuse
 bugs: https://github.com/lisniuse/vuepress-theme-teadocs/issues
 category: theme
 date: '2020-04-25T11:12:11.708Z'
 deprecated: false
 description: Teadocs theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/lisniuse/vuepress-theme-teadocs#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - documentation
-  - site-generator
+- vuepress
+- vuepress-theme
+- documentation
+- site-generator
 license: Other
-maintainers:
-  - email: 17560235@qq.com
-    username: lisniuse
+maintainers: null
 name: vuepress-theme-teadocs
 npm: https://www.npmjs.com/package/vuepress-theme-teadocs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 17560235@qq.com
-    username: lisniuse
+  avatar: null
+  email: 17560235@qq.com
+  name: null
+  url: null
+  username: lisniuse
 repository: https://github.com/lisniuse/vuepress-theme-teadocs
 score: 0.2678470687146841
 stars: 2

@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36895023?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: vitelabs
+  avatar: https://private-avatars.githubusercontent.com/u/36895023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzE4ODAsIm5iZiI6MTczNDY3MDY4MCwicGF0aCI6Ii91LzM2ODk1MDIzIn0.uZKo4yQaDUN4wi__XnaPd_Lha2Pc36FBWTVKxYn3OYE&v=4
+  email: null
+  name: vitelabs
+  url: null
+  username: vitelabs
 bugs: https://github.com/vitelabs/vuepress-plugin-mathjax/issues
 category: plugin
 date: '2021-02-10T03:53:29.330Z'
 deprecated: false
-description: >-
-  > A mathjax render plugin for vuepress. It will render mathjax in server,
-  without import some extra files in client.
-downloads: ~
+description: '> A mathjax render plugin for vuepress. It will render mathjax in server,
+  without import some extra files in client.'
+downloads: null
 homepage: https://github.com/vitelabs/vuepress-plugin-mathjax#readme
 keywords:
-  - vuepress
-  - plugin
-  - vue
-  - vite
-license: ~
-maintainers:
-  - email: charles@vite.org
-    username: charles_liu
-  - email: allen@vite.org
-    username: allenliuxt
+- vuepress
+- plugin
+- vue
+- vite
+license: false
+maintainers: null
 name: '@vite/vuepress-plugin-mathjax'
 npm: https://www.npmjs.com/package/%40vite%2Fvuepress-plugin-mathjax
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lingyong1992@foxmail.com
-    username: soliury
+  avatar: null
+  email: lingyong1992@foxmail.com
+  name: null
+  url: null
+  username: soliury
 repository: https://github.com/vitelabs/vuepress-plugin-mathjax
 score: 0.46049940132335376
 stars: 5

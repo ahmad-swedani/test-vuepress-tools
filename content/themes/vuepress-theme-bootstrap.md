@@ -1,37 +1,30 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36023898?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ekoeryanto@gmail.com
-    name: Eko Eryanto
-    username: ekoeryanto
+  avatar: https://private-avatars.githubusercontent.com/u/36023898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzIwMDAsIm5iZiI6MTczNDY3MDgwMCwicGF0aCI6Ii91LzM2MDIzODk4In0.y-GEHzTLP159SXWxoPece5ZSseYDKFuwEccVKARGTAM&v=4
+  email: ekoeryanto@gmail.com
+  name: Eko Eryanto
+  url: null
+  username: ekoeryanto
 bugs: https://github.com/ekoeryanto/vuepress-theme-bootstrap/issues
 category: theme
 date: '2018-09-21T04:31:42.835Z'
 deprecated: false
 description: Bootstrap theme for Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/ekoeryanto/vuepress-theme-bootstrap#readme
 keywords:
-  - bootstrap
-  - vuepress
-license: ~
-maintainers:
-  - email: ekoeryanto@gmail.com
-    username: ekoeryanto
+- bootstrap
+- vuepress
+license: false
+maintainers: null
 name: vuepress-theme-bootstrap
 npm: https://www.npmjs.com/package/vuepress-theme-bootstrap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ekoeryanto@gmail.com
-    username: ekoeryanto
+  avatar: null
+  email: ekoeryanto@gmail.com
+  name: null
+  url: null
+  username: ekoeryanto
 repository: https://github.com/ekoeryanto/vuepress-theme-bootstrap
 score: 0.4056064450376202
 stars: 0
