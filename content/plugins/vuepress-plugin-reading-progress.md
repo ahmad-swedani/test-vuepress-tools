@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/23313167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzIzMzEzMTY3In0.ppO2rmSNPREQx21L1P3tYAzUy_7lTihDk6IkiZ3LaF4&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    name: tolking
-    username: tolking
+  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
+  email: qw13131wang@gmail.com
+  name: tolking
+  url: null
+  username: tolking
 bugs: https://github.com/tolking/vuepress-plugin-reading-progress/issues
 category: plugin
 date: '2020-07-05T04:30:46.303Z'
 deprecated: false
 description: A reading progress bar plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/tolking/vuepress-plugin-reading-progress
 keywords:
-  - vuepress
-  - plugin
-  - reading-progress
-  - reading
-  - progress
+- vuepress
+- plugin
+- reading-progress
+- reading
+- progress
 license: MIT License
-maintainers:
-  - email: qw13131wang@gmail.com
-    username: tolking
+maintainers: null
 name: vuepress-plugin-reading-progress
 npm: https://www.npmjs.com/package/vuepress-plugin-reading-progress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: qw13131wang@gmail.com
-    username: tolking
+  avatar: null
+  email: qw13131wang@gmail.com
+  name: null
+  url: null
+  username: tolking
 repository: https://github.com/tolking/vuepress-plugin-reading-progress
 score: 0.4778646952071611
 stars: 27

@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/43475371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzQzNDc1MzcxIn0.OUdE-_vXk_KEY4V5hHRVrBXyFVCJrvgZVynhGoQCDic&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stickmyc@163.com
-    name: 子肃
-    username: wuwaki
+  avatar: https://avatars.githubusercontent.com/u/43475371?v=4
+  email: stickmyc@163.com
+  name: "\u5B50\u8083"
+  url: null
+  username: wuwaki
 bugs: https://github.com/Bloss/vuepress-theme-yubisaki/issues
 category: theme
 date: '2019-04-04T03:55:48.104Z'
 deprecated: false
 description: vuepress-theme
-downloads: ~
+downloads: null
 homepage: https://github.com/Bloss/vuepress-theme-yubisaki/blob/master/README.md
 keywords:
-  - vuepress
-  - theme
-  - vuepress-theme
+- vuepress
+- theme
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: stickmyc@163.com
-    username: wuwaki
+maintainers: null
 name: vuepress-theme-yubisaki
 npm: https://www.npmjs.com/package/vuepress-theme-yubisaki
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: stickmyc@163.com
-    username: wuwaki
+  avatar: null
+  email: stickmyc@163.com
+  name: null
+  url: null
+  username: wuwaki
 repository: https://github.com/Bloss/vuepress-theme-yubisaki
 score: 0.504756024353817
 stars: 194

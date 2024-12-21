@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: keyu98@qq.com
-    name: keyu
-    username: kylezhao
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: keyu98@qq.com
+  name: keyu
+  url: null
+  username: kylezhao
 bugs: https://github.com/vuepress/vuepress-plugin-table-of-contents/issues
 category: plugin
 date: '2020-10-20T13:01:10.717Z'
 deprecated: false
 description: Table of contents plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress/vuepress-plugin-table-of-contents#readme
 keywords:
-  - vuepress
-  - plugin
-  - table-of-contents
-  - toc
+- vuepress
+- plugin
+- table-of-contents
+- toc
 license: MIT License
-maintainers:
-  - email: keyu98@qq.com
-    username: kylezhao
+maintainers: null
 name: vuepress-plugin-table-of-contents-custom-tgit
 npm: https://www.npmjs.com/package/vuepress-plugin-table-of-contents-custom-tgit
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: keyu98@qq.com
-    username: kylezhao
+  avatar: null
+  email: keyu98@qq.com
+  name: null
+  url: null
+  username: kylezhao
 repository: https://github.com/vuepress/vuepress-plugin-table-of-contents
 score: 0.17958669819835055
 stars: 0

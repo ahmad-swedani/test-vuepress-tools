@@ -1,39 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: pragdave
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: null
+  name: pragdave
+  url: null
+  username: vuepress
 bugs: https://github.com/pragdave/vuepress-plugin-highlightjs/issues
 category: plugin
 date: '2022-01-31T23:59:30.455Z'
 deprecated: false
 description: VuePress plugin - highlightjs
-downloads: ~
+downloads: null
 homepage: https://github.com/pragdave/vuepress-plugin-highlightjs
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - highlightjs
-  - highlight
+- vuepress-plugin
+- vuepress
+- plugin
+- highlightjs
+- highlight
 license: MIT License
-maintainers:
-  - email: dave@pragdave.me
-    username: pragdave
+maintainers: null
 name: vuepress-plugin-highlightjs
 npm: https://www.npmjs.com/package/vuepress-plugin-highlightjs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dave@pragdave.me
-    username: pragdave
+  avatar: null
+  email: dave@pragdave.me
+  name: null
+  url: null
+  username: pragdave
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17857743938807544
 stars: 2389

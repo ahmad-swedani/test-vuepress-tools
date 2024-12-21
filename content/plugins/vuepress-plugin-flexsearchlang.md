@@ -1,41 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/30567891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzMjAsIm5iZiI6MTczNDY3MjEyMCwicGF0aCI6Ii91LzMwNTY3ODkxIn0.y60I5_0zKSLv556KSzc09bQ958y4ZM3SK6w4OyFbU0k&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    name: z3by
+  avatar: https://avatars.githubusercontent.com/u/30567891?v=4
+  email: zoaby.am@gmail.com
+  name: z3by
+  url: null
+  username: Vanekru
 bugs: https://github.com/Vanekru/vuepress-plugin-flexsearch/issues
 category: plugin
 date: '2020-04-23T10:49:29.414Z'
 deprecated: false
 description: Next-Generation full text search library for Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/z3by/vuepress-plugin-flexsearch#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - search
-  - vuepress-plugin
+- documentation
+- vue
+- vuepress
+- generator
+- search
+- vuepress-plugin
 license: MIT License
-maintainers:
-  - email: iroslov@gmail.com
-    username: vanekru
+maintainers: null
 name: vuepress-plugin-flexsearchlang
 npm: https://www.npmjs.com/package/vuepress-plugin-flexsearchlang
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: iroslov@gmail.com
-    username: vanekru
+  avatar: null
+  email: iroslov@gmail.com
+  name: null
+  url: null
+  username: vanekru
 repository: https://github.com/Vanekru/vuepress-plugin-flexsearch
 score: 0.1505592694344921
 stars: 0

@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/30599141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzMwNTk5MTQxIn0.ox50S0aNRnlMUhX3UvhM_6nKX8tx6uwP6RSDa4kjxKs&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: dmoosocool
+  avatar: https://avatars.githubusercontent.com/u/30599141?v=4
+  email: null
+  name: dmoosocool
+  url: null
+  username: dmoosocool
 bugs: https://github.com/dmoosocool/vuepress-theme-docs/issues
 category: theme
 date: '2022-01-20T09:14:16.810Z'
 deprecated: false
 description: A mobile ui framework theme for vuepress. Inspired by TaroUI.
-downloads: ~
+downloads: null
 homepage: https://github.com/dmoosocool/vuepress-theme-docs#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - mobile-ui-document
-  - site-generation
-license: ~
-maintainers:
-  - email: DmooSoCool@gmail.com
-    username: dmoosocool
-  - email: 970710823@qq.com
-    username: wucanghai
+- vuepress
+- vuepress-theme
+- mobile-ui-document
+- site-generation
+license: false
+maintainers: null
 name: vuepress-theme-docs
 npm: https://www.npmjs.com/package/vuepress-theme-docs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 970710823@qq.com
-    username: wucanghai
+  avatar: null
+  email: 970710823@qq.com
+  name: null
+  url: null
+  username: wucanghai
 repository: https://github.com/dmoosocool/vuepress-theme-docs
 score: 0.5015635965828665
 stars: 1

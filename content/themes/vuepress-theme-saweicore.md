@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/62002212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMwODAsIm5iZiI6MTczNDY3MTg4MCwicGF0aCI6Ii91LzYyMDAyMjEyIn0._qp8o81PXF66GM8RWEyBJzdPSlDnt0NQ5Xz5d42vg2c&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Saweima
+  avatar: https://avatars.githubusercontent.com/u/62002212?v=4
+  email: null
+  name: Saweima
+  url: null
+  username: saweima12
 bugs: https://github.com/saweima12/vuepress-theme-saweicore/issues
 category: theme
 date: '2020-08-31T14:55:56.422Z'
 deprecated: false
 description: Custom theme for saweima's blog.
-downloads: ~
+downloads: null
 homepage: https://github.com/saweima12/vuepress-theme-saweicore#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - blog
+- vuepress
+- vuepress-theme
+- blog
 license: MIT License
-maintainers:
-  - email: saweima12@gmail.com
-    username: saweima12
+maintainers: null
 name: vuepress-theme-saweicore
 npm: https://www.npmjs.com/package/vuepress-theme-saweicore
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: saweima12@gmail.com
-    username: saweima12
+  avatar: null
+  email: saweima12@gmail.com
+  name: null
+  url: null
+  username: saweima12
 repository: https://github.com/saweima12/vuepress-theme-saweicore
 score: 0.47595847347563536
 stars: 1

@@ -1,36 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/710763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzcxMDc2MyJ9.IEouczkcBYCNsmamnDa5eLHtxWpwu80LzBr6zjIkLcE&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: marcosilva.poa.br@gmail.com
-    name: Marco Almeida
-    username: marcoalmeida.dev.br
+  avatar: https://avatars.githubusercontent.com/u/710763?v=4
+  email: marcosilva.poa.br@gmail.com
+  name: Marco Almeida
+  url: null
+  username: marcoalmeida.dev.br
 bugs: https://github.com/javayuga/vuepress-theme-esper/issues
 category: theme
 date: '2022-01-23T18:08:53.021Z'
 deprecated: false
 description: A light vuepress theme
-downloads: ~
+downloads: null
 homepage: https://github.com/javayuga/vuepress-theme-esper#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: marcosilva.poa.br@gmail.com
-    username: marcoalmeida.dev.br
+maintainers: null
 name: vuepress-theme-esper
 npm: https://www.npmjs.com/package/vuepress-theme-esper
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: marcosilva.poa.br@gmail.com
-    username: marcoalmeida.dev.br
+  avatar: null
+  email: marcosilva.poa.br@gmail.com
+  name: null
+  url: null
+  username: marcoalmeida.dev.br
 repository: https://github.com/javayuga/vuepress-theme-esper
 score: 0.581720848540398
 stars: 0

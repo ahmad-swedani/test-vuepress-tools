@@ -1,44 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/37400982?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzM3NDAwOTgyIn0.2GrDwZY2tnX71HC38mj0lgAg6GJz0NUPZ4o6wTsC2ow&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: j80304xz@gmail.com
-    name: SidStraw
-    url: https://sidstraw.dev/
-    username: sidstraw
+  avatar: https://avatars.githubusercontent.com/u/37400982?v=4
+  email: j80304xz@gmail.com
+  name: SidStraw
+  url: https://sidstraw.dev/
+  username: sidstraw
 bugs: https://github.com/SidStraw/vuepress-theme-sidstraw-blog/issues
 category: theme
 date: '2020-06-01T12:30:03.582Z'
 deprecated: false
 description: SidStraw's blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/SidStraw/vuepress-theme-sidstraw-blog#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - vuepress-blog
-  - vuepress
-  - vue
-  - vuepress-theme-blog
-  - vuepress-theme-sidstraw-blog
+- vuepress
+- vuepress-theme
+- vuepress-blog
+- vuepress
+- vue
+- vuepress-theme-blog
+- vuepress-theme-sidstraw-blog
 license: MIT License
-maintainers:
-  - email: j80304xz@gmail.com
-    username: sidstraw
+maintainers: null
 name: vuepress-theme-sidstraw-blog
 npm: https://www.npmjs.com/package/vuepress-theme-sidstraw-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: j80304xz@gmail.com
-    username: sidstraw
+  avatar: null
+  email: j80304xz@gmail.com
+  name: null
+  url: null
+  username: sidstraw
 repository: https://github.com/SidStraw/vuepress-theme-sidstraw-blog
 score: 0.39106296307967425
 stars: 0

@@ -1,36 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/85702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91Lzg1NzAyIn0.ZOskIZOcnjXwWQr3ifloyDHKgzHdM0vAthp4RTEwLyA&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: monsat
+  avatar: https://avatars.githubusercontent.com/u/85702?v=4
+  email: null
+  name: monsat
+  url: null
+  username: monsat
 bugs: https://github.com/monsat/vuepress-plugin-netabare-switch/issues
 category: plugin
 date: '2022-06-19T01:21:50.871Z'
 deprecated: false
-description: VuePress v2 Plugin - netabare switch （ネタバレ・スイッチ）
-downloads: ~
+description: "VuePress v2 Plugin - netabare switch \uFF08\u30CD\u30BF\u30D0\u30EC\u30FB\
+  \u30B9\u30A4\u30C3\u30C1\uFF09"
+downloads: null
 homepage: https://github.com/monsat/vuepress-plugin-netabare-switch#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-license: ~
-maintainers:
-  - email: tanaka.kohji@gmail.com
-    username: mon_sat
+- vuepress-plugin
+- vuepress
+license: false
+maintainers: null
 name: vuepress-plugin-netabare-switch
 npm: https://www.npmjs.com/package/vuepress-plugin-netabare-switch
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tanaka.kohji@gmail.com
-    username: mon_sat
+  avatar: null
+  email: tanaka.kohji@gmail.com
+  name: null
+  url: null
+  username: mon_sat
 repository: https://github.com/monsat/vuepress-plugin-netabare-switch
 score: 0.5141865830729774
 stars: 0

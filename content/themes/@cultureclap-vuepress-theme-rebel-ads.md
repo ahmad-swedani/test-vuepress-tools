@@ -1,38 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/49349349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzQ5MzQ5MzQ5In0.Lgt-GS2DG5xaCzoIPUON6K-vk9Cc-cgTOQqODltDw3s&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Culture Clap
+  avatar: https://avatars.githubusercontent.com/u/49349349?v=4
+  email: null
+  name: Culture Clap
+  url: null
+  username: rebelcoding
 bugs: https://github.com/rebelcoding/vuepress-theme-rebel-ads/issues
 category: theme
 date: '2020-05-05T06:34:55.271Z'
 deprecated: false
-description: Modification of VuePress theme for official Vue projects to include ad space
-downloads: ~
+description: Modification of VuePress theme for official Vue projects to include ad
+  space
+downloads: null
 homepage: https://github.com/rebelcoding/vuepress-theme-rebel-ads.git
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
-license: ~
-maintainers:
-  - email: canin@dreamfreely.org
-    username: cultureclap
+- documentation
+- generator
+- vue
+- vuepress
+license: false
+maintainers: null
 name: '@cultureclap/vuepress-theme-rebel-ads'
 npm: https://www.npmjs.com/package/%40cultureclap%2Fvuepress-theme-rebel-ads
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: canin@dreamfreely.org
-    username: cultureclap
+  avatar: null
+  email: canin@dreamfreely.org
+  name: null
+  url: null
+  username: cultureclap
 repository: https://github.com/rebelcoding/vuepress-theme-rebel-ads
 score: 0.3295343346736278
 stars: 0

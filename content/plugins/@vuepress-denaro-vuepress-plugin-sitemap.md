@@ -1,43 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.rQdKqK_ns40yNuRVnoM-j8LW1mpPXG_co30xZs0oAzY&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    name: vxhly
-    username: vxhly
+  avatar: https://avatars.githubusercontent.com/u/85858775?v=4
+  email: pengchengou@gmail.com
+  name: vxhly
+  url: null
+  username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-06T06:09:32.456Z'
 deprecated: false
-description: Generate sitemap when packaging documentation.在打包文档时生成站点 sitemap.
-downloads: ~
-homepage: >-
-  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-sitemap#readme
+description: "Generate sitemap when packaging documentation.\u5728\u6253\u5305\u6587\
+  \u6863\u65F6\u751F\u6210\u7AD9\u70B9 sitemap."
+downloads: null
+homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-sitemap#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - theme
-  - denaro
-  - sitemap
-  - sitemap xml
+- vuepress
+- vuepress-plugin
+- theme
+- denaro
+- sitemap
+- sitemap xml
 license: Other
-maintainers:
-  - email: pengchengou@gmail.com
-    username: vxhly
+maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-sitemap'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-sitemap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    username: vxhly
+  avatar: null
+  email: pengchengou@gmail.com
+  name: null
+  url: null
+  username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5086506420283015
 stars: 5

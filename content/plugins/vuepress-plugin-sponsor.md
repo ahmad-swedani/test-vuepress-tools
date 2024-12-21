@@ -1,38 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/43605758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzQzNjA1NzU4In0.isp7WMJFvntrzUh1czHJ0meofRG_zzeSNQkyIV4MUEU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan1241900094@gmail.com
-    name: yokefellow
-    username: yokefellow
+  avatar: https://avatars.githubusercontent.com/u/43605758?v=4
+  email: yuan1241900094@gmail.com
+  name: yokefellow
+  url: null
+  username: yokefellow
 bugs: https://github.com/yokefellow/vuepress-plugin-sponsor/issues
 category: plugin
 date: '2020-08-18T11:22:30.617Z'
 deprecated: false
 description: Sponsor plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://yokefellow.github.io
 keywords:
-  - sponsor
-  - vuepress
+- sponsor
+- vuepress
 license: MIT License
-maintainers:
-  - email: yuan1241900094@gmail.com
-    username: yokefellow
+maintainers: null
 name: vuepress-plugin-sponsor
 npm: https://www.npmjs.com/package/vuepress-plugin-sponsor
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yuan1241900094@gmail.com
-    username: yokefellow
+  avatar: null
+  email: yuan1241900094@gmail.com
+  name: null
+  url: null
+  username: yokefellow
 repository: https://github.com/yokefellow/vuepress-plugin-sponsor
 score: 0.3248083236958829
 stars: 10

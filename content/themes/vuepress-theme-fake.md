@@ -1,43 +1,37 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.bhJukbXLbaUY4rj8QMcnMVlVspkqcT0B-52924jMOvc&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: reco_luan
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
+  email: null
+  name: reco_luan
+  url: null
+  username: vuepress-reco
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: theme
 date: '2019-11-13T03:42:47.506Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: 1024151886@qq.com
-    username: hu1024151886
+maintainers: null
 name: vuepress-theme-fake
 npm: https://www.npmjs.com/package/vuepress-theme-fake
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1024151886@qq.com
-    username: hu1024151886
+  avatar: null
+  email: 1024151886@qq.com
+  name: null
+  url: null
+  username: hu1024151886
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.2082423732259309
-stars: 603
+stars: 606
 unstable: false
 version: 1.0.9-alpha.9
-watchers: 603
+watchers: 606
 
 ---
 

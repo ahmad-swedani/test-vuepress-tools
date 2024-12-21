@@ -1,34 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/5051300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzUwNTEzMDAifQ.7Zp5SI9BY9osxEZxaCwGA3ijnDBewFQ4kbgSxZCwRZE&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: rikumi
+  avatar: https://avatars.githubusercontent.com/u/5051300?v=4
+  email: null
+  name: rikumi
+  url: null
+  username: rikumi
 bugs: https://github.com/rikumi/vuepress-theme-journal/issues
 category: theme
 date: '2020-08-13T13:44:18.666Z'
 deprecated: false
 description: Journal theme ported from Hexo
-downloads: ~
+downloads: null
 homepage: https://github.com/rikumi/vuepress-theme-journal#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: vhyme@live.cn
-    username: rikumi
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-journal
 npm: https://www.npmjs.com/package/vuepress-theme-journal
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: vhyme@live.cn
-    username: rikumi
+  avatar: null
+  email: vhyme@live.cn
+  name: null
+  url: null
+  username: rikumi
 repository: https://github.com/rikumi/vuepress-theme-journal
 score: 0.45250987385977814
 stars: 8

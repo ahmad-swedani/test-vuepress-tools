@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/41323923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzQxMzIzOTIzIn0.nhEEZBT4PelU_mx1stRNWZ33Qw8lBxP9Qr2_UV2WD5U&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: caikeal@qq.com
-    name: caikeal
+  avatar: https://avatars.githubusercontent.com/u/41323923?v=4
+  email: caikeal@qq.com
+  name: caikeal
+  url: null
+  username: neoption
 bugs: https://github.com/neoption/vuepress-theme-api/issues
 category: theme
 date: '2019-04-01T15:07:07.363Z'
 deprecated: false
 description: A api-friendly theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/neoption/vuepress-theme-api#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - api-friendly
-  - documentation
-  - site-generator
+- vuepress
+- vuepress-theme
+- api-friendly
+- documentation
+- site-generator
 license: MIT License
-maintainers:
-  - email: 546487590@qq.com
-    username: caikeal
+maintainers: null
 name: vuepress-theme-feie-api
 npm: https://www.npmjs.com/package/vuepress-theme-feie-api
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 546487590@qq.com
-    username: caikeal
+  avatar: null
+  email: 546487590@qq.com
+  name: null
+  url: null
+  username: caikeal
 repository: https://github.com/neoption/vuepress-theme-api
 score: 0.4692901143466468
 stars: 0

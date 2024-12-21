@@ -1,34 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/69201983?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzY5MjAxOTgzIn0.islEoCLqISXqdaU8rSwOH6u14qdw33xFpqPUAuVBEZk&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: daylily
+  avatar: https://avatars.githubusercontent.com/u/69201983?v=4
+  email: null
+  name: daylily
+  url: null
+  username: re-xyr
 bugs: https://github.com/re-xyr/vuepress-theme-chronicle/issues
 category: theme
 date: '2021-07-05T05:33:03.590Z'
 deprecated: false
 description: A typographic theme for vuepress.
-downloads: ~
+downloads: null
 homepage: https://github.com/re-xyr/vuepress-theme-chronicle#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: xy.r@outlook.com
-    username: daylily
+maintainers: null
 name: vuepress-theme-chronicle
 npm: https://www.npmjs.com/package/vuepress-theme-chronicle
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xy.r@outlook.com
-    username: daylily
+  avatar: null
+  email: xy.r@outlook.com
+  name: null
+  url: null
+  username: daylily
 repository: https://github.com/re-xyr/vuepress-theme-chronicle
 score: 0.46881146797678097
 stars: 5

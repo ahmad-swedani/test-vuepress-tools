@@ -1,45 +1,37 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/29407286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzI5NDA3Mjg2In0.w6wNNfwoOss1trO6pES1vkmVLjO--Rl83CfyZ0tcj1k&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: amy@askcreative.space
-    name: Amy
-    username: askcreative
+  avatar: https://avatars.githubusercontent.com/u/29407286?v=4
+  email: amy@askcreative.space
+  name: Amy
+  url: null
+  username: askcreative
 bugs: https://github.com/askcreative/saber-theme-vuepress/issues
 category: theme
 date: '2019-04-14T14:06:58.986Z'
 deprecated: false
 description: Vuepress default theme for saber.js.
-downloads: ~
+downloads: null
 homepage: https://github.com/askcreative/saber-theme-vuepress#readme
 keywords:
-  - saber
-  - saber-theme
-  - vuepress
-  - theme
-  - egoist
-  - minimal
-  - clean
-  - simple
-  - askcreative
+- saber
+- saber-theme
+- vuepress
+- theme
+- egoist
+- minimal
+- clean
+- simple
+- askcreative
 license: MIT License
-maintainers:
-  - email: amy@askcreative.space
-    username: askcreative
+maintainers: null
 name: saber-theme-vuepress
 npm: https://www.npmjs.com/package/saber-theme-vuepress
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: amy@askcreative.space
-    username: askcreative
+  avatar: null
+  email: amy@askcreative.space
+  name: null
+  url: null
+  username: askcreative
 repository: https://github.com/askcreative/saber-theme-vuepress
 score: 0.4490540953815937
 stars: 6

@@ -1,41 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/52195988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzUyMTk1OTg4In0.UJlIBrkw48wgvo23KrgfSsWSbKETHrnWGK-rcr-Mf-A&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Du Fajun
+  avatar: https://avatars.githubusercontent.com/u/52195988?v=4
+  email: null
+  name: Du Fajun
+  url: null
+  username: xiaoxiaofei2016
 bugs: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs/issues
 category: theme
 date: '2020-07-27T11:57:56.778Z'
 deprecated: false
 description: An element-ui style theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs#readme
 keywords:
-  - theme
-  - vuepress
-  - vuepress-theme
-  - elementUI
-  - elementuidocs
-  - element-ui
-  - sass
-license: ~
-maintainers:
-  - email: 2695647975@qq.com
-    username: dufajun
+- theme
+- vuepress
+- vuepress-theme
+- elementUI
+- elementuidocs
+- element-ui
+- sass
+license: false
+maintainers: null
 name: vuepress-theme-elementuidocs
 npm: https://www.npmjs.com/package/vuepress-theme-elementuidocs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2695647975@qq.com
-    username: dufajun
+  avatar: null
+  email: 2695647975@qq.com
+  name: null
+  url: null
+  username: dufajun
 repository: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs
 score: 0.26581149055124714
 stars: 3

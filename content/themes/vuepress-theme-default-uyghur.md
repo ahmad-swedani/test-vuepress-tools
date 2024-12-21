@@ -1,43 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/5896572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzU4OTY1NzIifQ.5zWMYLjYRl43A8wOV9_xBvhQooHhDpNYKkcvaeAPZxo&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: yantaq@bilig.biz
-    name: Ilham Tahir
-    url: https://www.ilhamtahir.com/
+  avatar: https://avatars.githubusercontent.com/u/5896572?v=4
+  email: yantaq@bilig.biz
+  name: Ilham Tahir
+  url: https://www.ilhamtahir.com/
+  username: IlhamTahir
 bugs: https://github.com/IlhamTahir/vuepress-theme-default-uyghur/issues
 category: theme
 date: '2021-05-31T00:15:26.524Z'
 deprecated: false
 description: Uyghur language supported version for VuePress default theme v1.4.0
-downloads: ~
+downloads: null
 homepage: https://github.com/IlhamTahir/vuepress-theme-default-uyghur.git#readme
 keywords:
-  - vue
-  - vuepress
-  - theme
-  - vuepress-theme
-  - rtl
-  - right to left
-  - uyghur
+- vue
+- vuepress
+- theme
+- vuepress-theme
+- rtl
+- right to left
+- uyghur
 license: MIT License
-maintainers:
-  - email: aesoftxp@gmail.com
-    username: ilhamtahir
+maintainers: null
 name: vuepress-theme-default-uyghur
 npm: https://www.npmjs.com/package/vuepress-theme-default-uyghur
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: aesoftxp@gmail.com
-    username: ilhamtahir
+  avatar: null
+  email: aesoftxp@gmail.com
+  name: null
+  url: null
+  username: ilhamtahir
 repository: https://github.com/IlhamTahir/vuepress-theme-default-uyghur
 score: 0.4993453783310279
 stars: 2

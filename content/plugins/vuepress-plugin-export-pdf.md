@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/13484877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzEzNDg0ODc3In0.YGj-HJ2b-tfHEXmkFHi-9T82QrMzHpZ9PrQZfj2nw4E&v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/13484877?v=4
+  email: null
+  name: null
+  url: null
   username: eamiear
 bugs: https://github.com/eamiear/vuepress-plugin-export-pdf/issues
 category: plugin
 date: '2020-11-24T01:43:32.591Z'
 deprecated: false
 description: export pdf
-downloads: ~
+downloads: null
 homepage: https://github.com/eamiear/vuepress-plugin-export-pdf#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: justcall_me_k@163.com
-    username: eamiear
+keywords: null
+license: false
+maintainers: null
 name: vuepress-plugin-export-pdf
 npm: https://www.npmjs.com/package/vuepress-plugin-export-pdf
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: justcall_me_k@163.com
-    username: eamiear
+  avatar: null
+  email: justcall_me_k@163.com
+  name: null
+  url: null
+  username: eamiear
 repository: https://github.com/eamiear/vuepress-plugin-export-pdf
 score: 0.4462282684526643
 stars: 0

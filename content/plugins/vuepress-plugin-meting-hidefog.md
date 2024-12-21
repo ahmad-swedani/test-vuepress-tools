@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/65664118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzY1NjY0MTE4In0.qGdVC2lem9ao6l6UlE_XKygF2C6kN6wLJoRJD6mQnH8&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: SigureMo
+  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
+  email: null
+  name: SigureMo
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-meting/issues
 category: plugin
 date: '2021-09-25T09:40:03.351Z'
 deprecated: false
 description: backup
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-meting#readme
 keywords:
-  - vuepress
-  - plugin
-  - meting
-  - aplayer
+- vuepress
+- plugin
+- meting
+- aplayer
 license: MIT License
-maintainers:
-  - email: 173012724@qq.com
-    username: ww1724
+maintainers: null
 name: vuepress-plugin-meting-hidefog
 npm: https://www.npmjs.com/package/vuepress-plugin-meting-hidefog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 173012724@qq.com
-    username: ww1724
+  avatar: null
+  email: 173012724@qq.com
+  name: null
+  url: null
+  username: ww1724
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.156928739065684
 stars: 33

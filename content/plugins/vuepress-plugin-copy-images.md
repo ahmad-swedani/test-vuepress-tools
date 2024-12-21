@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/56751617?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzU2NzUxNjE3In0.-ZPoQmqbHYI7URAdXaqqBo7Sy9KWtjCwE3aLvBqPSTU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wyw.s@foxmail.com
-    name: wywei
-    username: wywei
+  avatar: https://avatars.githubusercontent.com/u/56751617?v=4
+  email: wyw.s@foxmail.com
+  name: wywei
+  url: null
+  username: wywei
 bugs: https://github.com/wyw-s/vuepress-plugin-copy-images/issues
 category: plugin
 date: '2021-05-22T12:27:08.490Z'
 deprecated: false
 description: A vuepress plugin for auto copy imags
-downloads: ~
+downloads: null
 homepage: https://github.com/wyw-s/vuepress-plugin-copy-images
 keywords:
-  - vuepress
-  - copy
-  - images
-  - copy-images
-license: ~
-maintainers:
-  - email: wyw.s@foxmail.com
-    username: wywei
+- vuepress
+- copy
+- images
+- copy-images
+license: false
+maintainers: null
 name: vuepress-plugin-copy-images
 npm: https://www.npmjs.com/package/vuepress-plugin-copy-images
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wyw.s@foxmail.com
-    username: wywei
+  avatar: null
+  email: wyw.s@foxmail.com
+  name: null
+  url: null
+  username: wywei
 repository: https://github.com/wyw-s/vuepress-plugin-copy-images
 score: 0.453751911088371
 stars: 2

@@ -1,45 +1,37 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.dw9O9GcESX63yVEZLSuQUtvDuRXO2rMzYfGtw7fuxsQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:41:53.484Z'
 deprecated: false
 description: Last update time plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/git/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - git
+- vuepress-plugin
+- vuepress
+- git
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: '@mr-hope/vuepress-plugin-git'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-git
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.21365649737852982
-stars: 2181
+stars: 2182
 unstable: false
 version: 1.30.0
-watchers: 2181
+watchers: 2182
 
 ---
 

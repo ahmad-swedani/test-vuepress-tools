@@ -1,45 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/85858775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91Lzg1ODU4Nzc1In0.rQdKqK_ns40yNuRVnoM-j8LW1mpPXG_co30xZs0oAzY&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    name: vxhly
-    username: vxhly
+  avatar: https://avatars.githubusercontent.com/u/85858775?v=4
+  email: pengchengou@gmail.com
+  name: vxhly
+  url: null
+  username: vxhly
 bugs: https://github.com/denaro-org/vuepress-theme-denaro/issues
 category: plugin
 date: '2022-06-01T09:58:04.455Z'
 deprecated: false
-description: >-
-  Preview vue component effects on your vuepress site.在你的 vuepress 站点上预览 vue
-  组件效果.
-downloads: ~
-homepage: >-
-  https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-vue-preview#readme
+description: "Preview vue component effects on your vuepress site.\u5728\u4F60\u7684\
+  \ vuepress \u7AD9\u70B9\u4E0A\u9884\u89C8 vue \u7EC4\u4EF6\u6548\u679C."
+downloads: null
+homepage: https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/@vuepress-denaro/plugin-vue-preview#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - theme
-  - denaro
-  - vue-preview
-  - vue 组件预览
+- vuepress
+- vuepress-plugin
+- theme
+- denaro
+- vue-preview
+- "vue \u7EC4\u4EF6\u9884\u89C8"
 license: Other
-maintainers:
-  - email: pengchengou@gmail.com
-    username: vxhly
+maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-vue-preview'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-vue-preview
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    username: vxhly
+  avatar: null
+  email: pengchengou@gmail.com
+  name: null
+  url: null
+  username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5116716124022431
 stars: 5

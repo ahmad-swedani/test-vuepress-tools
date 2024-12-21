@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/16745751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzE2NzQ1NzUxIn0._zJhkXL0A3BslfR0gFPDxJArN1-ex11VGz9b-E5osX8&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:15.913Z'
 deprecated: false
 description: The Plugin for VuePres 2, Support Can-I-Use feature
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
 keywords:
-  - VuePress
-  - plugin
-  - vuepress-plugin
-  - can-i-use
-  - caniuse
+- VuePress
+- plugin
+- vuepress-plugin
+- can-i-use
+- caniuse
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-caniuse'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-caniuse
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5039656222491855
 stars: 153

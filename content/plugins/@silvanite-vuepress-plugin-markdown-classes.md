@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/4539223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzQ1MzkyMjMifQ.IgsuGr_GMsXwoCfWtk52I1TUjJIe64m89PYflFGfaB8&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: m2de@outlook.com
-    name: Marco Mark
-    username: m2de
+  avatar: https://avatars.githubusercontent.com/u/4539223?v=4
+  email: m2de@outlook.com
+  name: Marco Mark
+  url: null
+  username: m2de
 bugs: https://github.com/silvanite/vuepress-plugin-markdown-classes/issues
 category: plugin
 date: '2019-06-27T09:58:58.509Z'
 deprecated: false
 description: Add class names to markdown generated html in VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/silvanite/vuepress-plugin-markdown-classes#readme
 keywords:
-  - vuepress
-  - plugin
-  - markdown
-license: ~
-maintainers:
-  - email: m2de@outlook.com
-    username: m2de
+- vuepress
+- plugin
+- markdown
+license: false
+maintainers: null
 name: '@silvanite/vuepress-plugin-markdown-classes'
 npm: https://www.npmjs.com/package/%40silvanite%2Fvuepress-plugin-markdown-classes
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: m2de@outlook.com
-    username: m2de
+  avatar: null
+  email: m2de@outlook.com
+  name: null
+  url: null
+  username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-markdown-classes
 score: 0.47070654741147944
 stars: 4

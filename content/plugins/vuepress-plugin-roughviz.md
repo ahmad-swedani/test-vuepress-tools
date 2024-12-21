@@ -1,42 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/29454156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzI5NDU0MTU2In0.Ic056wTQDci_aPF1LIDyrckoXht5m65heebGHgnjlkk&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  avatar: https://avatars.githubusercontent.com/u/29454156?v=4
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-08-18T02:15:09.247Z'
 deprecated: false
 description: A plugin for adding roughViz.js to VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/Renovamen/vuepress-theme-gungnir#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - rough-viz
-  - roughviz
-  - roughviz.js
+- vue
+- vuepress
+- vuepress-plugin
+- rough-viz
+- roughviz
+- roughviz.js
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: vuepress-plugin-roughviz
 npm: https://www.npmjs.com/package/vuepress-plugin-roughviz
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.15015297023262644
 stars: 363

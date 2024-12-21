@@ -1,39 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/5326684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzUzMjY2ODQifQ.vboZcduEvkdy_q65JD1BkcLcFftbsLyjJy95FGcmOJw&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: i@sylingd.com
-    name: ShuangYa
+  avatar: https://avatars.githubusercontent.com/u/5326684?v=4
+  email: i@sylingd.com
+  name: ShuangYa
+  url: null
+  username: sylingd
 bugs: https://github.com/sylingd/vuepress-copy-via-link/issues
 category: plugin
 date: '2019-05-18T06:57:50.623Z'
 deprecated: false
 description: Copy text in vuepress via links
-downloads: ~
+downloads: null
 homepage: https://github.com/sylingd/vuepress-copy-via-link
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: 896640547@qq.com
-    username: shuangya
+maintainers: null
 name: vuepress-plugin-copy-via-link
 npm: https://www.npmjs.com/package/vuepress-plugin-copy-via-link
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 896640547@qq.com
-    username: shuangya
+  avatar: null
+  email: 896640547@qq.com
+  name: null
+  url: null
+  username: shuangya
 repository: https://github.com/sylingd/vuepress-copy-via-link
 score: 0.55690174509835
 stars: 1

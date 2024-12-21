@@ -1,35 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ulivz
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: chl814@foxmail.com
+  name: ulivz
+  url: null
+  username: vuepress
 bugs: https://github.com/ulivz/vuepress-theme-blog/issues
 category: theme
 date: '2019-12-17T11:00:59.701Z'
 deprecated: false
 description: Default blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/ulivz/vuepress-theme-blog#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: himself6565@gmail.com
-    username: himself65
+maintainers: null
 name: vuepress-theme-blog-enhance
 npm: https://www.npmjs.com/package/vuepress-theme-blog-enhance
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: himself6565@gmail.com
-    username: himself65
+  avatar: null
+  email: himself6565@gmail.com
+  name: null
+  url: null
+  username: himself65
 repository: https://github.com/ulivz/vuepress-theme-blog
 score: 0.4059164883066166
 stars: 209

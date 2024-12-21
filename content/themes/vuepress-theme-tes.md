@@ -1,44 +1,36 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/73457150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzczNDU3MTUwIn0.zKBPGVxCG_tHDp7NjkzEYSLkTwFZYsGjuede4avFruI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ktquez@gmail.com
-    name: Alan Ktquez
-    url: https://ktquez.com/
+  avatar: https://avatars.githubusercontent.com/u/73457150?v=4
+  email: ktquez@gmail.com
+  name: Alan Ktquez
+  url: https://ktquez.com/
+  username: firewone
 bugs: https://github.com/firewone/vuepress-theme-ktquez/issues
 category: theme
 date: '2022-01-29T13:52:11.667Z'
 deprecated: false
 description: A blog theme for VuePress by Ktquez
-downloads: ~
+downloads: null
 homepage: https://github.com/firewone/vuepress-theme-ktquez#readme
 keywords:
-  - vuepress
-  - theme
-  - ktquez
-  - vuejs
-  - static
-  - jekyll
-  - documentation
-  - blog
+- vuepress
+- theme
+- ktquez
+- vuejs
+- static
+- jekyll
+- documentation
+- blog
 license: MIT License
-maintainers:
-  - email: venomserl1@gmail.com
-    username: venomserl1
+maintainers: null
 name: vuepress-theme-tes
 npm: https://www.npmjs.com/package/vuepress-theme-tes
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: venomserl1@gmail.com
-    username: venomserl1
+  avatar: null
+  email: venomserl1@gmail.com
+  name: null
+  url: null
+  username: venomserl1
 repository: https://github.com/firewone/vuepress-theme-ktquez
 score: 0.15063586798658007
 stars: 0

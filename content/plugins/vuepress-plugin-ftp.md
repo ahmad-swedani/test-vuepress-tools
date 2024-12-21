@@ -1,38 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/79316040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzMjAsIm5iZiI6MTczNDY3MjEyMCwicGF0aCI6Ii91Lzc5MzE2MDQwIn0.8MNEaKxMk7Kk1NnJ8WRvgwGiCsacxwFDQIG_JKHHtTk&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zenghp2015@gmail.com
-    name: Zero2015
-    username: zenghp
+  avatar: https://avatars.githubusercontent.com/u/79316040?v=4
+  email: zenghp2015@gmail.com
+  name: Zero2015
+  url: null
+  username: zenghp
 bugs: https://github.com/Zero2015/vuepress-plugin-ftp/issues
 category: plugin
 date: '2021-04-30T16:40:26.876Z'
 deprecated: false
 description: ftp plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/Zero2015/vuepress-plugin-ftp
 keywords:
-  - vue
-  - vuepress
-license: ~
-maintainers:
-  - email: zenghp2015@gmail.com
-    username: zenghp
+- vue
+- vuepress
+license: false
+maintainers: null
 name: vuepress-plugin-ftp
 npm: https://www.npmjs.com/package/vuepress-plugin-ftp
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zenghp2015@gmail.com
-    username: zenghp
+  avatar: null
+  email: zenghp2015@gmail.com
+  name: null
+  url: null
+  username: zenghp
 repository: https://github.com/Zero2015/vuepress-plugin-ftp
 score: 0.4327427419692768
 stars: 1

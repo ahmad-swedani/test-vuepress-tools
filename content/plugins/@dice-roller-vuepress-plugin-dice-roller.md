@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/85532421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzMjAsIm5iZiI6MTczNDY3MjEyMCwicGF0aCI6Ii91Lzg1NTMyNDIxIn0.OQAA0sXjGKey1zRxhmg4J1wJXuPwKX3DREHnjbB-2Yc&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: info@greenimp.co.uk
-    name: GreenImp Media
-    url: http://greenimp.co.uk
+  avatar: https://avatars.githubusercontent.com/u/85532421?v=4
+  email: info@greenimp.co.uk
+  name: GreenImp Media
+  url: http://greenimp.co.uk
+  username: dice-roller
 bugs: https://github.com/dice-roller/vuepress-plugin/issues
 category: plugin
 date: '2021-11-26T22:57:51.362Z'
 deprecated: false
 description: Plugin for VuePress that allows rolling dice
-downloads: ~
+downloads: null
 homepage: https://github.com/dice-roller/vuepress-plugin
 keywords:
-  - vuepress
-  - dice
-  - roll
+- vuepress
+- dice
+- roll
 license: MIT License
-maintainers:
-  - email: lee@greenimp.co.uk
-    username: greenimp
+maintainers: null
 name: '@dice-roller/vuepress-plugin-dice-roller'
 npm: https://www.npmjs.com/package/%40dice-roller%2Fvuepress-plugin-dice-roller
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lee@greenimp.co.uk
-    username: greenimp
+  avatar: null
+  email: lee@greenimp.co.uk
+  name: null
+  url: null
+  username: greenimp
 repository: https://github.com/dice-roller/vuepress-plugin
 score: 0.3583240560253957
 stars: 0

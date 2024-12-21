@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/8622362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91Lzg2MjIzNjIifQ.5vbjrTCofjk10_FYPkXg2evOUaZHdfDTfmtFXuZwWnQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: imsqrtthree@gmail.com
-    name: sqrtthree
+  avatar: https://avatars.githubusercontent.com/u/8622362?v=4
+  email: imsqrtthree@gmail.com
+  name: sqrtthree
+  url: null
+  username: linhe0x0
 bugs: https://github.com/sqrthree/vuepress-theme-api/issues
 category: theme
 date: '2021-06-11T05:11:58.309Z'
 deprecated: false
 description: A api-friendly theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/sqrthree/vuepress-theme-api#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - api-friendly
-  - documentation
-  - site-generator
+- vuepress
+- vuepress-theme
+- api-friendly
+- documentation
+- site-generator
 license: MIT License
-maintainers:
-  - email: sqrtthree@foxmail.com
-    username: sqrtthree
+maintainers: null
 name: vuepress-theme-api
 npm: https://www.npmjs.com/package/vuepress-theme-api
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sqrtthree@foxmail.com
-    username: sqrtthree
+  avatar: null
+  email: sqrtthree@foxmail.com
+  name: null
+  url: null
+  username: sqrtthree
 repository: https://github.com/sqrthree/vuepress-theme-api
 score: 0.5707860195283492
 stars: 352

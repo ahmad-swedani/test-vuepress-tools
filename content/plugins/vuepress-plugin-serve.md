@@ -1,43 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.8NpMOThz5hSJe65CndG0R5Owv3KvA706qdcbxX92LSI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1700011071@pku.edu.cn
-    name: Shigma
-    username: shigma
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  email: 1700011071@pku.edu.cn
+  name: Shigma
+  url: null
+  username: shigma
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:46.563Z'
 deprecated: false
 description: VuePress plugin to serve generated files
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - server
-  - plugin
-  - static
-  - build
-  - vuepress
+- server
+- plugin
+- static
+- build
+- vuepress
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: 1700011071@pku.edu.cn
-    username: shigma
+maintainers: null
 name: vuepress-plugin-serve
 npm: https://www.npmjs.com/package/vuepress-plugin-serve
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5636796156233652
 stars: 82

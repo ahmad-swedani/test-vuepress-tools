@@ -1,40 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/8417241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91Lzg0MTcyNDEifQ.3qxUUgWrXECKc62XrKGhoX6n-icQZp8_J_ewdxQmEZU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: renzhsh
+  avatar: https://avatars.githubusercontent.com/u/8417241?v=4
+  email: null
+  name: renzhsh
+  url: null
+  username: renzhsh
 bugs: https://github.com/renzhsh/vuepress-mindmap/issues
 category: plugin
 date: '2021-06-14T08:51:40.292Z'
 deprecated: false
 description: a plugin to render mindmap for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/renzhsh/vuepress-mindmap#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - markmap
-  - mindmap
-  - markdown
+- vue
+- vuepress
+- vuepress-plugin
+- markmap
+- mindmap
+- markdown
 license: MIT License
-maintainers:
-  - email: renzhsh@126.com
-    username: renzhsh
+maintainers: null
 name: vuepress-plugin-mindmap
 npm: https://www.npmjs.com/package/vuepress-plugin-mindmap
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renzhsh@126.com
-    username: renzhsh
+  avatar: null
+  email: renzhsh@126.com
+  name: null
+  url: null
+  username: renzhsh
 repository: https://github.com/renzhsh/vuepress-mindmap
 score: 0.46116559067393725
 stars: 5

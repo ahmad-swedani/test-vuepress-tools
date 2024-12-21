@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/38303418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzM4MzAzNDE4In0.0MUp4k_IE9ex_x6hHtSi_5MVP_AvIbnI9Z113HResRg&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: shadowfish07
+  avatar: https://avatars.githubusercontent.com/u/38303418?v=4
+  email: null
+  name: shadowfish07
+  url: null
+  username: shadowfish07
 bugs: https://github.com/shadowfish07/vuepress-theme-recoX/issues
 category: theme
 date: '2022-04-30T08:56:45.776Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme based on vuepress-theme-reco
-downloads: ~
+downloads: null
 homepage: https://github.com/shadowfish07/vuepress-theme-recoX#readme
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: shadowfish@foxmail.com
-    username: shadowfish07
+maintainers: null
 name: vuepress-theme-recox
 npm: https://www.npmjs.com/package/vuepress-theme-recox
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shadowfish@foxmail.com
-    username: shadowfish07
+  avatar: null
+  email: shadowfish@foxmail.com
+  name: null
+  url: null
+  username: shadowfish07
 repository: https://github.com/shadowfish07/vuepress-theme-recoX
 score: 0.49930203539692286
 stars: 0

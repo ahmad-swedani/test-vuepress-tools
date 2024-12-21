@@ -1,41 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/4360663?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzMjAsIm5iZiI6MTczNDY3MjEyMCwicGF0aCI6Ii91LzQzNjA2NjMifQ.0ONNOIr3uzs3XjbdtUrAjknrfwb48bIkkN6RMqSB9_w&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: ttskch
+  avatar: https://avatars.githubusercontent.com/u/4360663?v=4
+  email: null
+  name: ttskch
+  url: null
+  username: ttskch
 bugs: https://github.com/ttskch/vuepress-theme-blog-vuetify/issues
 category: theme
 date: '2020-12-14T12:14:39.753Z'
 deprecated: false
-description: >-
-  The world's most simple, beautiful and customizable 2 columns VuePress blog
-  theme built with Vuetify
-downloads: ~
+description: The world's most simple, beautiful and customizable 2 columns VuePress
+  blog theme built with Vuetify
+downloads: null
 homepage: https://github.com/ttskch/vuepress-theme-blog-vuetify#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-theme
-  - blog
-  - blog-theme
+- vue
+- vuepress
+- vuepress-theme
+- blog
+- blog-theme
 license: MIT License
-maintainers:
-  - email: ttskch@gmail.com
-    username: ttskch
+maintainers: null
 name: vuepress-theme-blog-vuetify
 npm: https://www.npmjs.com/package/vuepress-theme-blog-vuetify
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ttskch@gmail.com
-    username: ttskch
+  avatar: null
+  email: ttskch@gmail.com
+  name: null
+  url: null
+  username: ttskch
 repository: https://github.com/ttskch/vuepress-theme-blog-vuetify
 score: 0.5290306143248007
 stars: 37

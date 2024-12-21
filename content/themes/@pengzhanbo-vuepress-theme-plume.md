@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/16745751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzE2NzQ1NzUxIn0._zJhkXL0A3BslfR0gFPDxJArN1-ex11VGz9b-E5osX8&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: pengzhanbo
+  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
+  email: null
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: theme
 date: '2022-03-13T18:14:51.157Z'
 deprecated: false
 description: blog theme by vuepress2.x
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume
 keywords:
-  - vuepress-next
-  - vuepress
-  - vuepress-theme
+- vuepress-next
+- vuepress
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@pengzhanbo/vuepress-theme-plume'
 npm: https://www.npmjs.com/package/%40pengzhanbo%2Fvuepress-theme-plume
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.49780437276537615
 stars: 153

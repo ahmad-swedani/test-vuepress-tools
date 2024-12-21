@@ -1,42 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/29454156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzI5NDU0MTU2In0.Ic056wTQDci_aPF1LIDyrckoXht5m65heebGHgnjlkk&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    name: Renovamen
-    username: renovamen
+  avatar: https://avatars.githubusercontent.com/u/29454156?v=4
+  email: renovamenzxh@gmail.com
+  name: Renovamen
+  url: null
+  username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
 date: '2021-08-26T06:19:25.642Z'
 deprecated: false
 description: A plugin for adding Chart.js to VuePress.
-downloads: ~
-homepage: >-
-  https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart
+downloads: null
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - chart
-  - chartjs
+- vue
+- vuepress
+- vuepress-plugin
+- chart
+- chartjs
 license: Apache License 2.0
-maintainers:
-  - email: renovamenzxh@gmail.com
-    username: renovamen
+maintainers: null
 name: vuepress-plugin-chart
 npm: https://www.npmjs.com/package/vuepress-plugin-chart
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: renovamenzxh@gmail.com
-    username: renovamen
+  avatar: null
+  email: renovamenzxh@gmail.com
+  name: null
+  url: null
+  username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.512703969438796
 stars: 363

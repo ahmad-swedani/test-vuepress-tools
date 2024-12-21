@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/17905150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzE3OTA1MTUwIn0.dtt8XcAThJ1A0hEMlhG_AdRLa2n0g4CjFYQqYKxhPqI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ikangxu@qq.com
-    name: IKangXu
-    username: kangxu
+  avatar: https://avatars.githubusercontent.com/u/17905150?v=4
+  email: ikangxu@qq.com
+  name: IKangXu
+  url: null
+  username: kangxu
 bugs: https://github.com/IKangXu/vuepress-plugin-share/issues
 category: plugin
 date: '2019-11-28T01:37:19.911Z'
 deprecated: false
 description: share plugin for vuepress-theme-reco or other vuepress theme
-downloads: ~
+downloads: null
 homepage: https://github.com/IKangXu?tab=repositories
 keywords:
-  - vuepress-theme-reco
-  - vuepress
-  - share
+- vuepress-theme-reco
+- vuepress
+- share
 license: MIT License
-maintainers:
-  - email: ikangxu@qq.com
-    username: kangxu
+maintainers: null
 name: '@ikangxu/vuepress-plugin-share'
 npm: https://www.npmjs.com/package/%40ikangxu%2Fvuepress-plugin-share
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ikangxu@qq.com
-    username: kangxu
+  avatar: null
+  email: ikangxu@qq.com
+  name: null
+  url: null
+  username: kangxu
 repository: https://github.com/IKangXu/vuepress-plugin-share
 score: 0.14899373725035625
 stars: 1

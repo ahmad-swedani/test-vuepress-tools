@@ -1,36 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/8456743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91Lzg0NTY3NDMifQ.MlQwRZsM_QKVpY8mh2CJLIrXMWR3WobgIr99Rm5VPDE&v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/8456743?v=4
+  email: null
+  name: null
+  url: null
   username: InteractionDesignFoundation
 bugs: https://github.com/InteractionDesignFoundation/vuepress-theme-ixdf/issues
 category: theme
 date: '2020-11-25T08:33:51.954Z'
 deprecated: false
 description: Custom vuepress theme for IxDF projects.
-downloads: ~
+downloads: null
 homepage: https://github.com/InteractionDesignFoundation/vuepress-theme-ixdf#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: web.lapateen@gmail.com
-    username: lptn
-  - email: development@interaction-design.org
-    username: ixdf
+keywords: null
+license: false
+maintainers: null
 name: '@interaction_design_foundation/vuepress-theme-ixdf'
-npm: >-
-  https://www.npmjs.com/package/%40interaction_design_foundation%2Fvuepress-theme-ixdf
+npm: https://www.npmjs.com/package/%40interaction_design_foundation%2Fvuepress-theme-ixdf
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hasan@team.interaction-design.org
-    username: hasan.ixdf
+  avatar: null
+  email: hasan@team.interaction-design.org
+  name: null
+  url: null
+  username: hasan.ixdf
 repository: https://github.com/InteractionDesignFoundation/vuepress-theme-ixdf
 score: 0.45066244109772213
 stars: 0

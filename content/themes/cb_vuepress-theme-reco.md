@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/38153905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzM4MTUzOTA1In0.0ixHS1b4mrGIkQxcSBDYDlYA1nOZu6Z6iPGsu5PLj9E&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: reco_luan
+  avatar: https://avatars.githubusercontent.com/u/38153905?v=4
+  email: null
+  name: reco_luan
+  url: null
+  username: cdnbye
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: theme
 date: '2021-09-08T14:26:23.908Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: 86755838@qq.com
-    username: snowinszu
+maintainers: null
 name: cb_vuepress-theme-reco
 npm: https://www.npmjs.com/package/cb_vuepress-theme-reco
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 86755838@qq.com
-    username: snowinszu
+  avatar: null
+  email: 86755838@qq.com
+  name: null
+  url: null
+  username: snowinszu
 repository: https://github.com/cdnbye/cb_vuepress-theme-reco
 score: 0.3962376641390435
 stars: 0

@@ -1,44 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/36268825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzM2MjY4ODI1In0.VrTJd64YK_vXV5fnFgGRIcGQkxEZtelI7OAKhyX62us&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    name: Ahmad Mostafa
-    url: https://ahmadmostafa.com
-    username: z3bya
+  avatar: https://avatars.githubusercontent.com/u/36268825?v=4
+  email: zoaby.am@gmail.com
+  name: Ahmad Mostafa
+  url: https://ahmadmostafa.com
+  username: z3bya
 bugs: https://github.com/z3by/vuepress-theme-medium/issues
 category: theme
 date: '2019-12-26T07:24:37.420Z'
 deprecated: false
 description: Medium-Like blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/z3by/vuepress-theme-medium#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - vuepress-blog
-  - vuepress
-  - vue
-  - vuepress-theme-blog
-  - vuepress-theme-medium
+- vuepress
+- vuepress-theme
+- vuepress-blog
+- vuepress
+- vue
+- vuepress-theme-blog
+- vuepress-theme-medium
 license: MIT License
-maintainers:
-  - email: zoaby.am@gmail.com
-    username: z3bya
+maintainers: null
 name: vuepress-theme-medium
 npm: https://www.npmjs.com/package/vuepress-theme-medium
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    username: z3bya
+  avatar: null
+  email: zoaby.am@gmail.com
+  name: null
+  url: null
+  username: z3bya
 repository: https://github.com/z3by/vuepress-theme-medium
 score: 0.32629697055821166
 stars: 17

@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/18205362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzE4MjA1MzYyIn0.n3couRADVBaCuL_C6BgDQURtspb8bxlAlBDqRGJmU4M&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    name: meteorlxy
-    username: meteorlxy
+  avatar: https://avatars.githubusercontent.com/u/18205362?v=4
+  email: meteor.lxy@foxmail.com
+  name: meteorlxy
+  url: null
+  username: meteorlxy
 bugs: https://github.com/meteorlxy/vssue/issues
 category: plugin
 date: '2021-04-23T10:11:37.899Z'
 deprecated: false
 description: Vuepress plugin for vssue
-downloads: ~
+downloads: null
 homepage: https://vssue.js.org
 keywords:
-  - comment
-  - issue
-  - vue
+- comment
+- issue
+- vue
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vssue/vuepress-plugin-vssue'
 npm: https://www.npmjs.com/package/%40vssue%2Fvuepress-plugin-vssue
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/meteorlxy/vssue
 score: 0.5641060198752776
 stars: 779

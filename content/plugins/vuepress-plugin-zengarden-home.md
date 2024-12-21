@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/4708070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzQ3MDgwNzAifQ.K03uA1WUyJz6top5ggdI6bjpdtLlvjdSkDmRw3-_eRU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thomas@venturini.codes
-    name: Thomas Venturini
-    username: tjventurini
+  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
+  email: thomas@venturini.codes
+  name: Thomas Venturini
+  url: null
+  username: tjventurini
 bugs: https://github.com/tjventurini/vuepress-plugin-zengarden-home/issues
 category: plugin
 date: '2020-05-05T16:53:21.304Z'
 deprecated: false
 description: Creates a homepage for your VuePress site.
-downloads: ~
+downloads: null
 homepage: https://github.com/tjventurini/vuepress-plugin-zengarden-home#readme
 keywords:
-  - vuepress
-  - vuepress
-  - plugin
-  - zengarden
+- vuepress
+- vuepress
+- plugin
+- zengarden
 license: MIT License
-maintainers:
-  - email: thomas@venturini.codes
-    username: tjventurini
+maintainers: null
 name: vuepress-plugin-zengarden-home
 npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-home
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thomas@venturini.codes
-    username: tjventurini
+  avatar: null
+  email: thomas@venturini.codes
+  name: null
+  url: null
+  username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-home
 score: 0.45001697249635164
 stars: 1

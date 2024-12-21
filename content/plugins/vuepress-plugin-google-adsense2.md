@@ -1,40 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/21698973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzIxNjk4OTczIn0.KRriZKo4cw44p_ZvDMOM5t0mW2dSwGMJ3oGMv-E2dsY&v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/21698973?v=4
+  email: null
+  name: null
+  url: null
   username: John60676
 bugs: https://github.com/John60676/vuepress-plugin-google-adsense2/issues
 category: plugin
 date: '2021-03-29T09:37:43.147Z'
 deprecated: false
 description: VuePress 2 plugin - google-adsense
-downloads: ~
+downloads: null
 homepage: https://github.com/John60676/vuepress-plugin-google-adsense2#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - vuepress 2
-  - vuepress-next
-  - plugin
-  - google
-  - adsense
+- vuepress-plugin
+- vuepress
+- vuepress 2
+- vuepress-next
+- plugin
+- google
+- adsense
 license: MIT License
-maintainers:
-  - email: john60676@qq.com
-    username: john60676
+maintainers: null
 name: vuepress-plugin-google-adsense2
 npm: https://www.npmjs.com/package/vuepress-plugin-google-adsense2
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: john60676@qq.com
-    username: john60676
+  avatar: null
+  email: john60676@qq.com
+  name: null
+  url: null
+  username: john60676
 repository: https://github.com/John60676/vuepress-plugin-google-adsense2
 score: 0.4867786688549197
 stars: 7

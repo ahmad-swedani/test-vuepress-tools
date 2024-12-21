@@ -1,39 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/629055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzYyOTA1NSJ9.cDgYLQyO3uend2pnCfxt8XWEBO65Z4QgcsAXwHzN2LI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kevincobain2000@gmail.com
-    name: kevincobain2000
-    username: kevincobain2000
+  avatar: https://avatars.githubusercontent.com/u/629055?v=4
+  email: kevincobain2000@gmail.com
+  name: kevincobain2000
+  url: null
+  username: kevincobain2000
 bugs: https://github.com/kevincobain2000/vuepress-theme-monokai/issues
 category: theme
 date: '2019-09-23T06:55:56.877Z'
 deprecated: false
 description: Monokai Theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/kevincobain2000/vuepress-theme-monokai#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - monokai-theme
+- vuepress
+- vuepress-theme
+- monokai-theme
 license: MIT License
-maintainers:
-  - email: kevincobain2000@gmail.com
-    username: kevincobain2000
+maintainers: null
 name: vuepress-theme-monokai
 npm: https://www.npmjs.com/package/vuepress-theme-monokai
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kevincobain2000@gmail.com
-    username: kevincobain2000
+  avatar: null
+  email: kevincobain2000@gmail.com
+  name: null
+  url: null
+  username: kevincobain2000
 repository: https://github.com/kevincobain2000/vuepress-theme-monokai
 score: 0.45897849792748113
 stars: 1

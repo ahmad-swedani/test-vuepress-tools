@@ -1,40 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/14358159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzE0MzU4MTU5In0.S_b92MJB1G1RRrLBBSZFKkvwlOtUJUbE9n0z9iXdWHI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: evildoer_laura@hotmail.com
-    name: evildoerX
-    username: evildoer_laura
+  avatar: https://avatars.githubusercontent.com/u/14358159?v=4
+  email: evildoer_laura@hotmail.com
+  name: evildoerX
+  url: null
+  username: evildoer_laura
 bugs: https://github.com/evildoerX/vuepress-theme-idg/issues
 category: theme
 date: '2019-07-30T13:11:38.966Z'
 deprecated: false
-description: >-
-  A idg theme that has integrated some vue components, charts via charts, and
-  markdown based diagrams plantuml and mermaid.
-downloads: ~
+description: A idg theme that has integrated some vue components, charts via charts,
+  and markdown based diagrams plantuml and mermaid.
+downloads: null
 homepage: https://github.com/evildoerX/vuepress-theme-idg#readme
 keywords:
-  - vue
-  - vuepress
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: evildoer_laura@hotmail.com
-    username: evildoer_laura
+maintainers: null
 name: vuepress-theme-idg
 npm: https://www.npmjs.com/package/vuepress-theme-idg
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: evildoer_laura@hotmail.com
-    username: evildoer_laura
+  avatar: null
+  email: evildoer_laura@hotmail.com
+  name: null
+  url: null
+  username: evildoer_laura
 repository: https://github.com/evildoerX/vuepress-theme-idg
 score: 0.2843235751075547
 stars: 0

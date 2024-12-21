@@ -1,41 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/20399793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4NjAsIm5iZiI6MTczNDY3MjY2MCwicGF0aCI6Ii91LzIwMzk5NzkzIn0.Q7yWzkvfd_tQbgb3QOoT8Iuu_tl9OGh8irA_B6ve3sg&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: alphawq@foxmail.com
-    name: Aphasia
-    url: https://github.com/alphawq
-    username: alphawq
+  avatar: https://avatars.githubusercontent.com/u/20399793?v=4
+  email: alphawq@foxmail.com
+  name: Aphasia
+  url: https://github.com/alphawq
+  username: alphawq
 bugs: https://github.com/alphawq/vuepress-plugin-posts-encrypt/issues
 category: plugin
 date: '2022-02-28T13:17:03.051Z'
 deprecated: false
-description: English | [简体中文](./README.zh-cn.md)
-downloads: ~
+description: "English | [\u7B80\u4F53\u4E2D\u6587](./README.zh-cn.md)"
+downloads: null
 homepage: https://github.com/alphawq/vuepress-plugin-posts-encrypt#readme
 keywords:
-  - vuepress-plugin
-  - posts-encrypt
-  - vuepress-plugin
-  - vuepress-plugin-posts-encrypt
+- vuepress-plugin
+- posts-encrypt
+- vuepress-plugin
+- vuepress-plugin-posts-encrypt
 license: MIT License
-maintainers:
-  - email: alphawq@foxmail.com
-    username: alphawq
+maintainers: null
 name: vuepress-plugin-posts-encrypt
 npm: https://www.npmjs.com/package/vuepress-plugin-posts-encrypt
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: alphawq@foxmail.com
-    username: alphawq
+  avatar: null
+  email: alphawq@foxmail.com
+  name: null
+  url: null
+  username: alphawq
 repository: https://github.com/alphawq/vuepress-plugin-posts-encrypt
 score: 0.5784732763582252
 stars: 36

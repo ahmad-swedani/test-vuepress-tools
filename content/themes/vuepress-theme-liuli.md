@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/25994733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzI1OTk0NzMzIn0.GW4bJhoJIWq5fqi_gdaHlUdyibErm4-akk7o9CliwJY&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: dong550293874@163.com
-    name: liulixin
+  avatar: https://avatars.githubusercontent.com/u/25994733?v=4
+  email: dong550293874@163.com
+  name: liulixin
+  url: null
+  username: liulxin
 bugs: https://github.com/liulxin/vuepress-theme-liuli/issues
 category: theme
 date: '2020-01-09T10:00:26.818Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme
-downloads: ~
+downloads: null
 homepage: https://github.com/liulxin/vuepress-theme-liuli#readme
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: 550293874@qq.com
-    username: dongwudi
+maintainers: null
 name: vuepress-theme-liuli
 npm: https://www.npmjs.com/package/vuepress-theme-liuli
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 550293874@qq.com
-    username: dongwudi
+  avatar: null
+  email: 550293874@qq.com
+  name: null
+  url: null
+  username: dongwudi
 repository: https://github.com/liulxin/vuepress-theme-liuli
 score: 0.5032311307067704
 stars: 0

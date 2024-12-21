@@ -1,45 +1,38 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.e32TQyjoOtNVy5O3Ic6kO6NMwcT1dSwWKddNO7OIy0g&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ULIVZ
+  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
+  email: chl814@foxmail.com
+  name: ULIVZ
+  url: null
+  username: vuejs
 bugs: https://github.com/ulivz/vuepress-plugin-flowchart
 category: plugin
 date: '2021-12-16T09:25:52.826Z'
 deprecated: false
 description: Rapid flowchart development plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: vuepress-plugin-flowchart
 npm: https://www.npmjs.com/package/vuepress-plugin-flowchart
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.18793163155498094
-stars: 22618
+stars: 22616
 unstable: false
 version: 1.5.0
-watchers: 22618
+watchers: 22616
 
 ---
 

@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/16188742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4NjAsIm5iZiI6MTczNDY3MjY2MCwicGF0aCI6Ii91LzE2MTg4NzQyIn0.6KAOtY10cqlsHXiLrzkVK-XaXgxGJKq-ZcZjx3JTBg4&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ynublow@gmail.com
-    name: LinFeng1997
-    username: blow
+  avatar: https://avatars.githubusercontent.com/u/16188742?v=4
+  email: ynublow@gmail.com
+  name: LinFeng1997
+  url: null
+  username: blow
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2019-01-22T15:02:47.463Z'
 deprecated: false
 description: export-site plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/LinFeng1997/vuepress-plugin-export-site#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: ynublow@gmail.com
-    username: blow
+maintainers: null
 name: vuepress-plugin-export-site
 npm: https://www.npmjs.com/package/vuepress-plugin-export-site
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ynublow@gmail.com
-    username: blow
+  avatar: null
+  email: ynublow@gmail.com
+  name: null
+  url: null
+  username: blow
 repository: https://github.com/LinFeng1997/vuepress-plugin-export-site
 score: 0.416118630775141
 stars: 3

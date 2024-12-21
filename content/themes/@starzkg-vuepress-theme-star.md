@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/96685951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91Lzk2Njg1OTUxIn0.d-up_axsJ5VarBlINnMFIkSEftOCSNj_KOhIbLQ95ZE&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@shentuzhigang.cn
-    name: Starzkg
-    url: https://shentuzhigang.cn
+  avatar: https://avatars.githubusercontent.com/u/96685951?v=4
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: vuepress-star
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: theme
 date: '2021-11-28T12:05:22.250Z'
 deprecated: false
 description: A theme of VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
-  - vuepress-theme
-  - vuepress
-  - theme
-  - default
+- vuepress-theme
+- vuepress
+- theme
+- default
 license: MIT License
-maintainers:
-  - email: shentuzhigang@qq.com
-    username: starzkg
+maintainers: null
 name: '@starzkg/vuepress-theme-star'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-theme-star
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: shentuzhigang@qq.com
-    username: starzkg
+  avatar: null
+  email: shentuzhigang@qq.com
+  name: null
+  url: null
+  username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.5587987083113504
 stars: 1

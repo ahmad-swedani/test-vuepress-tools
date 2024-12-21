@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/27291717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI3MjkxNzE3In0.gqHrpLJV3luz60iZVjs1_G5mMpXxYcruZ6Q4idiIZnc&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: znicholasbrown
+  avatar: https://avatars.githubusercontent.com/u/27291717?v=4
+  email: null
+  name: znicholasbrown
+  url: null
+  username: znicholasbrown
 bugs: https://github.com/znicholasbrown/vuepress-plugin-selected-text-popup/issues
 category: plugin
 date: '2019-12-06T04:27:10.151Z'
 deprecated: false
 description: A global plugin for Vuepress that creates a popup on selecting text!
-downloads: ~
+downloads: null
 homepage: https://github.com/znicholasbrown/vuepress-plugin-selected-text-popup#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - selected-text
+- vuepress
+- vuepress-plugin
+- selected-text
 license: MIT License
-maintainers:
-  - email: znicholasbrown@gmail.com
-    username: znicholasbrown
+maintainers: null
 name: vuepress-plugin-selected-text-popup
 npm: https://www.npmjs.com/package/vuepress-plugin-selected-text-popup
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: znicholasbrown@gmail.com
-    username: znicholasbrown
+  avatar: null
+  email: znicholasbrown@gmail.com
+  name: null
+  url: null
+  username: znicholasbrown
 repository: https://github.com/znicholasbrown/vuepress-plugin-selected-text-popup
 score: 0.31962938912251526
 stars: 1

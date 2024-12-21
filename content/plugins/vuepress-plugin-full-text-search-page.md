@@ -1,40 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/16508807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzE2NTA4ODA3In0.hWlaK8WEbGzrHRpF0W8wLh2FOTxdt6qUiI76qaXIV00&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Yosuke Ota
+  avatar: https://avatars.githubusercontent.com/u/16508807?v=4
+  email: null
+  name: Yosuke Ota
+  url: null
+  username: ota-meshi
 bugs: https://github.com/ota-meshi/vuepress2-plugin-full-text-search/issues
 category: plugin
 date: '2022-05-15T06:05:42.617Z'
 deprecated: false
-description: >-
-  Fork of vuepress2-plugin-full-text-search. VuePress v2 plugin that adds
+description: Fork of vuepress2-plugin-full-text-search. VuePress v2 plugin that adds
   full-text search box.
-downloads: ~
+downloads: null
 homepage: https://github.com/ota-meshi/vuepress2-plugin-full-text-search#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - full-text-search
-  - vuepress-next
+- vuepress
+- vuepress-plugin
+- full-text-search
+- vuepress-next
 license: MIT License
-maintainers:
-  - email: rigobertomauriciomartinez@gmail.com
-    username: moudev
+maintainers: null
 name: vuepress-plugin-full-text-search-page
 npm: https://www.npmjs.com/package/vuepress-plugin-full-text-search-page
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: rigobertomauriciomartinez@gmail.com
-    username: moudev
+  avatar: null
+  email: rigobertomauriciomartinez@gmail.com
+  name: null
+  url: null
+  username: moudev
 repository: https://github.com/ota-meshi/vuepress2-plugin-full-text-search
 score: 0.1596377870234294
 stars: 34

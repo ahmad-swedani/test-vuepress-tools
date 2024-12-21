@@ -1,38 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/10270930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQxNjAsIm5iZiI6MTczNDY3Mjk2MCwicGF0aCI6Ii91LzEwMjcwOTMwIn0.YATTwSl4TyoT2Dp_yhIHhqX4LfaPnt1Mtmq29OAE7Cc&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: me@tcw.im
-    name: staugur
-    username: staugur
+  avatar: https://avatars.githubusercontent.com/u/10270930?v=4
+  email: me@tcw.im
+  name: staugur
+  url: null
+  username: staugur
 bugs: https://github.com/staugur/vuepress-plugin-utterances/issues
 category: plugin
 date: '2020-11-04T09:04:19.224Z'
 deprecated: false
 description: A simple comments plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/staugur/vuepress-plugin-utterances
 keywords:
-  - comments
-  - vuepress
+- comments
+- vuepress
 license: BSD 3-Clause "New" or "Revised" License
-maintainers:
-  - email: me@tcw.im
-    username: staugur
+maintainers: null
 name: '@saintic/vuepress-plugin-utterances'
 npm: https://www.npmjs.com/package/%40saintic%2Fvuepress-plugin-utterances
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: me@tcw.im
-    username: staugur
+  avatar: null
+  email: me@tcw.im
+  name: null
+  url: null
+  username: staugur
 repository: https://github.com/staugur/vuepress-plugin-utterances
 score: 0.25294493309321453
 stars: 4

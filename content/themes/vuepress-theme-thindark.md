@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/7500988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91Lzc1MDA5ODgifQ.GyvBahitPW2ojrFyOfK9Upi6GiINLcPgDPvM4BPlCrQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Zhi Bing
+  avatar: https://avatars.githubusercontent.com/u/7500988?v=4
+  email: null
+  name: Zhi Bing
+  url: null
+  username: lisniuse
 bugs: https://github.com/lisniuse/vuepress-theme-thindark/issues
 category: theme
 date: '2019-07-11T09:32:11.506Z'
 deprecated: false
 description: A dark theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://github.com/lisniuse/vuepress-theme-thindark#readme
 keywords:
-  - vuepress
-  - vuepress-theme
-  - documentation
-  - site-generator
+- vuepress
+- vuepress-theme
+- documentation
+- site-generator
 license: MIT License
-maintainers:
-  - email: 17560235@qq.com
-    username: lisniuse
+maintainers: null
 name: vuepress-theme-thindark
 npm: https://www.npmjs.com/package/vuepress-theme-thindark
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 17560235@qq.com
-    username: lisniuse
+  avatar: null
+  email: 17560235@qq.com
+  name: null
+  url: null
+  username: lisniuse
 repository: https://github.com/lisniuse/vuepress-theme-thindark
 score: 0.43261119695085304
 stars: 25

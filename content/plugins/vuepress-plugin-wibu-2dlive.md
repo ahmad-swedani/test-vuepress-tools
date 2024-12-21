@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/71591953?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzcxNTkxOTUzIn0.9tw5GhhHUWh3udBeUQ2X-wi6Uai3dqMg-einE-g6mAw&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Minh Thắng
+  avatar: https://avatars.githubusercontent.com/u/71591953?v=4
+  email: null
+  name: "Minh Th\u1EAFng"
+  url: null
+  username: thangved
 bugs: https://github.com/thangved/wibu-2dlive/issues
 category: plugin
 date: '2021-09-21T12:28:02.406Z'
 deprecated: false
-description: Một số model wibu cho vuepress của bạn.
-downloads: ~
+description: "M\u1ED9t s\u1ED1 model wibu cho vuepress c\u1EE7a b\u1EA1n."
+downloads: null
 homepage: https://github.com/thangved/wibu-2dlive
 keywords:
-  - wibu2dlive
-  - vuepress@next
+- wibu2dlive
+- vuepress@next
 license: MIT License
-maintainers:
-  - email: thangcreation@gmail.com
-    username: thangved
+maintainers: null
 name: vuepress-plugin-wibu-2dlive
 npm: https://www.npmjs.com/package/vuepress-plugin-wibu-2dlive
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: thangcreation@gmail.com
-    username: thangved
+  avatar: null
+  email: thangcreation@gmail.com
+  name: null
+  url: null
+  username: thangved
 repository: https://github.com/thangved/wibu-2dlive
 score: 0.4575995472911399
 stars: 2

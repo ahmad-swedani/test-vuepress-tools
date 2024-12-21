@@ -1,40 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/2795323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzI3OTUzMjMifQ.arV--chxXQds23Olm0jEqbX894Q1W0-xYBU_BThqosw&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gray@tacck.net
-    name: Kihara, Takuya
-    url: https://www.tacck.net/
-    username: tacck
+  avatar: https://avatars.githubusercontent.com/u/2795323?v=4
+  email: gray@tacck.net
+  name: Kihara, Takuya
+  url: https://www.tacck.net/
+  username: tacck
 bugs: https://github.com/tacck/vuepress-plugin-sidebar/issues
 category: plugin
 date: '2020-05-27T05:30:49.601Z'
 deprecated: false
 description: Generate sidebar menu for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/tacck/vuepress-plugin-sidebar#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - sidebar
+- vuepress
+- vuepress-plugin
+- sidebar
 license: MIT License
-maintainers:
-  - email: gray@tacck.net
-    username: tacck
+maintainers: null
 name: vuepress-plugin-sidebar
 npm: https://www.npmjs.com/package/vuepress-plugin-sidebar
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gray@tacck.net
-    username: tacck
+  avatar: null
+  email: gray@tacck.net
+  name: null
+  url: null
+  username: tacck
 repository: https://github.com/tacck/vuepress-plugin-sidebar
 score: 0.44421958504654946
 stars: 4

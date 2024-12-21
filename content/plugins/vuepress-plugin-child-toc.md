@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/2064609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzIwNjQ2MDkifQ.5MZGhKb-lT4bEfp4PF_UI9--DgpCfoRbr1eX5nhtdUk&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Ludovic Dehon
+  avatar: https://avatars.githubusercontent.com/u/2064609?v=4
+  email: null
+  name: Ludovic Dehon
+  url: null
+  username: tchiotludo
 bugs: https://github.com/tchiotludo/vuepress-plugin-child-toc/issues
 category: plugin
 date: '2020-11-09T20:52:07.230Z'
 deprecated: false
 description: Vuepress plugin to add a global Table of Contents component
-downloads: ~
+downloads: null
 homepage: https://github.com/tchiotludo/vuepress-plugin-child-toc#readme
 keywords:
-  - vuepress
-  - toc
+- vuepress
+- toc
 license: MIT License
-maintainers:
-  - email: tchiot.ludo@gmail.com
-    username: tchiotludo
+maintainers: null
 name: vuepress-plugin-child-toc
 npm: https://www.npmjs.com/package/vuepress-plugin-child-toc
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: tchiot.ludo@gmail.com
-    username: tchiotludo
+  avatar: null
+  email: tchiot.ludo@gmail.com
+  name: null
+  url: null
+  username: tchiotludo
 repository: https://github.com/tchiotludo/vuepress-plugin-child-toc
 score: 0.2919818028148877
 stars: 3

@@ -1,45 +1,39 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/4360663?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzMjAsIm5iZiI6MTczNDY3MjEyMCwicGF0aCI6Ii91LzQzNjA2NjMifQ.0ONNOIr3uzs3XjbdtUrAjknrfwb48bIkkN6RMqSB9_w&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: ttskch@gmail.com
+  avatar: https://avatars.githubusercontent.com/u/4360663?v=4
+  email: null
+  name: ttskch@gmail.com
+  url: null
+  username: ttskch
 bugs: https://github.com/ttskch/vuepress-plugin-redirect-frontmatter/issues
 category: plugin
 date: '2020-05-12T05:12:19.219Z'
 deprecated: false
 description: VuePress plugin to handle redirection via frontmatter
-downloads: ~
+downloads: null
 homepage: https://github.com/ttskch/vuepress-plugin-redirect-frontmatter#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-plugin
-  - redirect
-  - frontmatter
+- vue
+- vuepress
+- vuepress-plugin
+- redirect
+- frontmatter
 license: MIT License
-maintainers:
-  - email: ttskch@gmail.com
-    username: ttskch
+maintainers: null
 name: vuepress-plugin-redirect-frontmatter
 npm: https://www.npmjs.com/package/vuepress-plugin-redirect-frontmatter
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ttskch@gmail.com
-    username: ttskch
+  avatar: null
+  email: ttskch@gmail.com
+  name: null
+  url: null
+  username: ttskch
 repository: https://github.com/ttskch/vuepress-plugin-redirect-frontmatter
 score: 0.2846907338885969
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 

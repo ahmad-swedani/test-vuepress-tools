@@ -1,33 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/48038769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzQ4MDM4NzY5In0.TJP1WI8iZxrC-H6fUMYdcEEpb15DwgQjbW_spNLzBJ8&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Runtus
+  avatar: https://avatars.githubusercontent.com/u/48038769?v=4
+  email: null
+  name: Runtus
+  url: null
+  username: Runtus
 bugs: https://github.com/Runtus/vuepress-theme-runtu/issues
 category: theme
 date: '2021-12-05T09:04:50.110Z'
 deprecated: false
-downloads: ~
+description: null
+downloads: null
 homepage: https://github.com/Runtus/vuepress-theme-runtu#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: 893119806@qq.com
-    username: runtu_go
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-runtu
 npm: https://www.npmjs.com/package/vuepress-theme-runtu
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 893119806@qq.com
-    username: runtu_go
+  avatar: null
+  email: 893119806@qq.com
+  name: null
+  url: null
+  username: runtu_go
 repository: https://github.com/Runtus/vuepress-theme-runtu
 score: 0.5123520647134566
 stars: 0

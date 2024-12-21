@@ -1,37 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/10338381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzMjAsIm5iZiI6MTczNDY3MjEyMCwicGF0aCI6Ii91LzEwMzM4MzgxIn0.KVQrYYOjf3e7T0FyKJHhQiDMxgryxa0yScb0EHSxcBw&v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/10338381?v=4
+  email: null
+  name: null
+  url: null
   username: levi9311
 bugs: https://github.com/levi9311/vuepress-theme-cosmos/issues
 category: theme
 date: '2020-05-21T06:24:27.154Z'
 deprecated: false
 description: Theme for VuePress static site generator used by interchain projects.
-downloads: ~
+downloads: null
 homepage: https://github.com/levi9311/vuepress-theme-cosmos#readme
 keywords:
-  - documentation
-  - docs
-  - vuepress
-  - theme
+- documentation
+- docs
+- vuepress
+- theme
 license: Other
-maintainers:
-  - email: 790890362@qq.com
-    username: levi_xia
+maintainers: null
 name: vuepress-theme-cosmos-levi
 npm: https://www.npmjs.com/package/vuepress-theme-cosmos-levi
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 790890362@qq.com
-    username: levi_xia
+  avatar: null
+  email: 790890362@qq.com
+  name: null
+  url: null
+  username: levi_xia
 repository: https://github.com/levi9311/vuepress-theme-cosmos
 score: 0.43802691646062814
 stars: 0

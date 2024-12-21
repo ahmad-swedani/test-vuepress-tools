@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/20850932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzIwODUwOTMyIn0.B5_W7ktX1MJLIFt85Xdun46RX5S8wunR4LbqoTqDKqA&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: zhangximufeng
+  avatar: https://avatars.githubusercontent.com/u/20850932?v=4
+  email: null
+  name: zhangximufeng
+  url: null
+  username: zhangximufeng
 bugs: https://github.com/zhangximufeng/vuepress-theme-mufeng/issues
 category: theme
 date: '2018-09-11T14:50:10.318Z'
 deprecated: false
 description: vuepress-theme
-downloads: ~
+downloads: null
 homepage: https://github.com/zhangximufeng/vuepress-theme-mufeng/blob/master/README.md
 keywords:
-  - vuepress
-  - theme
-  - vuepress-theme
+- vuepress
+- theme
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: zhangximufeng@gmail.com
-    username: zhangximufeng
+maintainers: null
 name: vuepress-theme-mufeng
 npm: https://www.npmjs.com/package/vuepress-theme-mufeng
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangximufeng@gmail.com
-    username: zhangximufeng
+  avatar: null
+  email: zhangximufeng@gmail.com
+  name: null
+  url: null
+  username: zhangximufeng
 repository: https://github.com/zhangximufeng/vuepress-theme-mufeng
 score: 0.4516380423287344
 stars: 14

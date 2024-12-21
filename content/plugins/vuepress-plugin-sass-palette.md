@@ -1,45 +1,37 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.dw9O9GcESX63yVEZLSuQUtvDuRXO2rMzYfGtw7fuxsQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
 date: '2022-02-22T11:50:48.904Z'
 deprecated: false
 description: A common palette plugin for vuepress themes and plugins
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v2/sass-palette/
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - palette
+- vuepress-plugin
+- vuepress
+- palette
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-sass-palette
 npm: https://www.npmjs.com/package/vuepress-plugin-sass-palette
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6871030273938918
-stars: 2181
+stars: 2182
 unstable: false
 version: 2.0.0-alpha.33
-watchers: 2181
+watchers: 2182
 
 ---
 

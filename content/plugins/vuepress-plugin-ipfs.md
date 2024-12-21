@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/106938?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzEwNjkzOCJ9.8AHgK1NztUh8Zooryt2GFsVMHwJoKA-wFK1Il2W-Fws&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: '@cwaring'
+  avatar: https://avatars.githubusercontent.com/u/106938?v=4
+  email: null
+  name: '@cwaring'
+  url: null
+  username: cwaring
 bugs: https://github.com/cwaring/vuepress-plugin-ipfs/issues
 category: plugin
 date: '2020-05-21T15:52:08.531Z'
 deprecated: false
 description: Host a VuePress project on IPFS
-downloads: ~
+downloads: null
 homepage: https://github.com/cwaring/vuepress-plugin-ipfs#readme
 keywords:
-  - ipfs
-  - vuepress
-  - plugin
+- ipfs
+- vuepress
+- plugin
 license: MIT License
-maintainers:
-  - email: chris@wwaves.co
-    username: cwaring
+maintainers: null
 name: vuepress-plugin-ipfs
 npm: https://www.npmjs.com/package/vuepress-plugin-ipfs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chris@wwaves.co
-    username: cwaring
+  avatar: null
+  email: chris@wwaves.co
+  name: null
+  url: null
+  username: cwaring
 repository: https://github.com/cwaring/vuepress-plugin-ipfs
 score: 0.34041454173665187
 stars: 14

@@ -1,42 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/29831211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI5ODMxMjExIn0.4BbQ7Qm-sFM77B_hYK-z8w8gmI0GQz-nXFe2YWgJN-g&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gavinliu0606@gmail.com
-    name: Gavin Liu
-    url: https://gavinliu.me
-    username: gavinliu0606
+  avatar: https://avatars.githubusercontent.com/u/29831211?v=4
+  email: gavinliu0606@gmail.com
+  name: Gavin Liu
+  url: https://gavinliu.me
+  username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: theme
 date: '2022-05-07T12:03:45.419Z'
 deprecated: false
 description: VuePress theme mix plugin - back top
-downloads: ~
+downloads: null
 homepage: https://github.com/gavinliu6/vuepress-theme-mix
 keywords:
-  - vuepress-theme-mix
-  - vuepress-plugin
-  - vuepress
-  - plugin
-  - back-top
+- vuepress-theme-mix
+- vuepress-plugin
+- vuepress
+- plugin
+- back-top
 license: MIT License
-maintainers:
-  - email: gavinliu0606@gmail.com
-    username: gavinliu0606
+maintainers: null
 name: '@vuepress-theme-mix/vuepress-plugin-back-top'
 npm: https://www.npmjs.com/package/%40vuepress-theme-mix%2Fvuepress-plugin-back-top
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: gavinliu0606@gmail.com
-    username: gavinliu0606
+  avatar: null
+  email: gavinliu0606@gmail.com
+  name: null
+  url: null
+  username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
 score: 0.5909860054425466
 stars: 53

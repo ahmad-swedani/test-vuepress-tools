@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/66351566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzY2MzUxNTY2In0.hc1iDSi94dHa52S7SXMoPdIBOJkNUheAbdrVIB3ZmbM&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: MonoLogueChi
+  avatar: https://avatars.githubusercontent.com/u/66351566?v=4
+  email: null
+  name: MonoLogueChi
+  url: null
+  username: u2sb
 bugs: https://github.com/u2sb/vuepress-plugin-vssue-global/issues
 category: plugin
 date: '2022-06-17T02:11:18.634Z'
 deprecated: false
 description: A comments player plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/u2sb/vuepress-plugin-vssue-global
 keywords:
-  - Vuepress
-  - Vuepress-plugin
-  - Vssue
-  - Comments
+- Vuepress
+- Vuepress-plugin
+- Vssue
+- Comments
 license: Apache License 2.0
-maintainers:
-  - email: xxwhite@foxmail.com
-    username: monologuechi
+maintainers: null
 name: vuepress-plugin-vssue-global
 npm: https://www.npmjs.com/package/vuepress-plugin-vssue-global
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xxwhite@foxmail.com
-    username: monologuechi
+  avatar: null
+  email: xxwhite@foxmail.com
+  name: null
+  url: null
+  username: monologuechi
 repository: https://github.com/u2sb/vuepress-plugin-vssue-global
 score: 0.4894413867869486
 stars: 4

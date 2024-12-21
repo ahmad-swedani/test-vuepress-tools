@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/65664118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzY1NjY0MTE4In0.qGdVC2lem9ao6l6UlE_XKygF2C6kN6wLJoRJD6mQnH8&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Nyakku Shigure
+  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
+  email: null
+  name: Nyakku Shigure
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-ribbon/issues
 category: plugin
 date: '2022-05-21T09:54:28.903Z'
 deprecated: false
 description: Add a beautiful ribbon to your vuepress!
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-ribbon#readme
 keywords:
-  - vuepress
-  - plugin
-  - ribbon
+- vuepress
+- plugin
+- ribbon
 license: MIT License
-maintainers:
-  - email: sigure.qaq@gmail.com
-    username: sigure_mo
+maintainers: null
 name: vuepress-plugin-ribbon
 npm: https://www.npmjs.com/package/vuepress-plugin-ribbon
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure.qaq@gmail.com
-    username: sigure_mo
+  avatar: null
+  email: sigure.qaq@gmail.com
+  name: null
+  url: null
+  username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-ribbon
 score: 0.563017188575462
 stars: 13

@@ -1,47 +1,37 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.bhJukbXLbaUY4rj8QMcnMVlVspkqcT0B-52924jMOvc&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    name: reco_luan
-    username: reco_luan
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
+  email: recoluan@outlook.com
+  name: reco_luan
+  url: null
+  username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
 category: plugin
 date: '2021-09-16T15:44:29.312Z'
 deprecated: false
 description: A simple blog plugin for vuepress-theme-reco.
-downloads: ~
+downloads: null
 homepage: https://github.com/recoluan/vuepress-theme-reco-next#readme
 keywords:
-  - vuepress-plugin
-  - vuepress
-  - blog
+- vuepress-plugin
+- vuepress
+- blog
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-page'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-page
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.5971231324615086
-stars: 603
+stars: 606
 unstable: false
 version: 2.0.1-alpha.0
-watchers: 603
+watchers: 606
 
 ---
 

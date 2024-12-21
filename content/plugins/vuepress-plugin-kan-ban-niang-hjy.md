@@ -1,38 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.bhJukbXLbaUY4rj8QMcnMVlVspkqcT0B-52924jMOvc&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zsw0407@outlook.com
-    name: zsw
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
+  email: zsw0407@outlook.com
+  name: zsw
+  url: null
+  username: vuepress-reco
 bugs: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang/issues
 category: plugin
 date: '2022-03-28T10:17:27.841Z'
 deprecated: false
 description: Kan-ban-niang plugin for vuepress-theme-reco or other vuepress theme
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress-theme-reco
-  - live2D
-  - vuepress
+- vuepress-theme-reco
+- live2D
+- vuepress
 license: MIT License
-maintainers:
-  - email: 2145909595@qq.com
-    username: cschero101
+maintainers: null
 name: vuepress-plugin-kan-ban-niang-hjy
 npm: https://www.npmjs.com/package/vuepress-plugin-kan-ban-niang-hjy
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2145909595@qq.com
-    username: cschero101
+  avatar: null
+  email: 2145909595@qq.com
+  name: null
+  url: null
+  username: cschero101
 repository: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang
 score: 0.21027313198252295
 stars: 25

@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/1378986?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzEzNzg5ODYifQ.qs-K_hT2FXFSVKJOhH626gMBBCRCjGGEw_r2E1GA_bI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: d0whc3r
+  avatar: https://avatars.githubusercontent.com/u/1378986?v=4
+  email: null
+  name: d0whc3r
+  url: null
+  username: d0whc3r
 bugs: https://github.com/d0whc3r/vuepress-plugin-demo-block/issues
 category: plugin
 date: '2019-04-15T17:21:43.291Z'
 deprecated: false
 description: demo block for vuepress both support vue and react
-downloads: ~
+downloads: null
 homepage: https://d0whc3r.github.io/vuepress-plugin-demo-block/
 keywords:
-  - vuepress-plugin
-  - demo-block
+- vuepress-plugin
+- demo-block
 license: MIT License
-maintainers:
-  - email: d0whc3r@gmail.com
-    username: d0whc3r
+maintainers: null
 name: '@d0whc3r/vuepress-plugin-demo-block'
 npm: https://www.npmjs.com/package/%40d0whc3r%2Fvuepress-plugin-demo-block
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: d0whc3r@gmail.com
-    username: d0whc3r
+  avatar: null
+  email: d0whc3r@gmail.com
+  name: null
+  url: null
+  username: d0whc3r
 repository: https://github.com/d0whc3r/vuepress-plugin-demo-block
 score: 0.3819717577555557
 stars: 3

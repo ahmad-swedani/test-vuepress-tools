@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/43326199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzQzMzI2MTk5In0.yKbcnyDoBPwhNE7JOp0CjKoMyyEPZzKzafXeNgAgC5s&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Vincent Hy
+  avatar: https://avatars.githubusercontent.com/u/43326199?v=4
+  email: null
+  name: Vincent Hy
+  url: null
+  username: Wiensss
 bugs: https://github.com/Veminem/vuepress-theme-oneN/issues
 category: theme
 date: '2019-10-18T19:22:58.594Z'
 deprecated: false
 description: A vuepress theme for oneN
-downloads: ~
+downloads: null
 homepage: https://github.com/Veminem/vuepress-theme-oneN#readme
 keywords:
-  - vue
-  - vuepress
-  - vuepress-theme
+- vue
+- vuepress
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: Veminem@outlook.com
-    username: vincent-hy
+maintainers: null
 name: vuepress-theme-onen
 npm: https://www.npmjs.com/package/vuepress-theme-onen
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: Veminem@outlook.com
-    username: vincent-hy
+  avatar: null
+  email: Veminem@outlook.com
+  name: null
+  url: null
+  username: vincent-hy
 repository: https://github.com/Veminem/vuepress-theme-oneN
 score: 0.3546303591043429
 stars: 52

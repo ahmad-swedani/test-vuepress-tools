@@ -1,43 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/11006857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzExMDA2ODU3In0.iPMiaaCcl5H9e4Sqwdnej2nXJrQhGhlIZO7Oj-Isvag&v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/11006857?v=4
+  email: null
+  name: null
+  url: null
   username: factorial-io
 bugs: https://github.com/factorial-io/vuepress-theme/issues
 category: theme
 date: '2019-09-27T12:43:51.506Z'
 deprecated: false
 description: '> Vuepress theme with the factorial colors'
-downloads: ~
+downloads: null
 homepage: https://github.com/factorial-io/vuepress-theme#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: dennis@factorial.io
-    username: dnnsjrng
-  - email: hello@factorial.io
-    username: mmatull
-  - email: milan@factorial.io
-    username: mlnmln
-  - email: mail@mgrossklaus.de
-    username: mgrsskls
-  - email: andrewbeng89@gmail.com
-    username: andrewbeng89
-  - email: kris@factorial.io
-    username: krisimmig
+keywords: null
+license: false
+maintainers: null
 name: '@factorial/vuepress-theme'
 npm: https://www.npmjs.com/package/%40factorial%2Fvuepress-theme
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: milan@factorial.io
-    username: mlnmln
+  avatar: null
+  email: milan@factorial.io
+  name: null
+  url: null
+  username: mlnmln
 repository: https://github.com/factorial-io/vuepress-theme
 score: 0.2920146715686202
 stars: 0

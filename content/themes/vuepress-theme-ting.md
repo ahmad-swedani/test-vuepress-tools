@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/29857880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzI5ODU3ODgwIn0.hZuKo7-PgQ3waPHpXjeA3qJPBSwC3n7a8KB-nfbfF40&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 924471303@qq.com
-    name: chenyating
-    url: https://www.yating.world/
-    username: chenyating
+  avatar: https://avatars.githubusercontent.com/u/29857880?v=4
+  email: 924471303@qq.com
+  name: chenyating
+  url: https://www.yating.world/
+  username: chenyating
 bugs: https://github.com/Chenyating/vuepress-theme-ting/issues
 category: theme
 date: '2022-01-25T02:32:37.020Z'
 deprecated: false
-description: 小清新看板娘主题,small fresh vuepress theme vuepress theme Ting
-downloads: ~
+description: "\u5C0F\u6E05\u65B0\u770B\u677F\u5A18\u4E3B\u9898,small fresh vuepress\
+  \ theme vuepress theme Ting"
+downloads: null
 homepage: https://www.yating.world/
 keywords:
-  - vuepress
-  - vuepressjs
-  - Theme
-  - vuepress-Theme
-license: ~
-maintainers:
-  - email: 924471303@qq.com
-    username: chenyating
+- vuepress
+- vuepressjs
+- Theme
+- vuepress-Theme
+license: false
+maintainers: null
 name: vuepress-theme-ting
 npm: https://www.npmjs.com/package/vuepress-theme-ting
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 924471303@qq.com
-    username: chenyating
+  avatar: null
+  email: 924471303@qq.com
+  name: null
+  url: null
+  username: chenyating
 repository: https://github.com/Chenyating/vuepress-theme-ting
 score: 0.5334661726414435
 stars: 120

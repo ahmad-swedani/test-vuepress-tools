@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/24218764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzI0MjE4NzY0In0.OsslQWbmdu16-7rT64P49FsVGDRg7vS6B_5jz-9R7oI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: JSShou
+  avatar: https://avatars.githubusercontent.com/u/24218764?v=4
+  email: null
+  name: JSShou
+  url: null
+  username: xuzhongpeng
 bugs: https://github.com/xuzhongpeng/vuepress-theme-reform/issues
 category: theme
 date: '2020-08-02T08:12:32.023Z'
 deprecated: false
 description: a theme for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/xuzhongpeng/vuepress-theme-reform#readme
 keywords:
-  - vuepress
-  - theme
-  - gittalk
-license: ~
-maintainers:
-  - email: xuzhongpeng@foxmail.com
-    username: xuzhongpeng
+- vuepress
+- theme
+- gittalk
+license: false
+maintainers: null
 name: vuepress-theme-reform
 npm: https://www.npmjs.com/package/vuepress-theme-reform
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xuzhongpeng@foxmail.com
-    username: xuzhongpeng
+  avatar: null
+  email: xuzhongpeng@foxmail.com
+  name: null
+  url: null
+  username: xuzhongpeng
 repository: https://github.com/xuzhongpeng/vuepress-theme-reform
 score: 0.4668307698551355
 stars: 22

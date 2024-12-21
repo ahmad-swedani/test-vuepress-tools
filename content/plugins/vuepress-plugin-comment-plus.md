@@ -1,41 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/33414148?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzMzNDE0MTQ4In0.UOi_UimWgUNPgyRkz1tkdp6oo6WirOj48KXTfvXGFyg&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: dongyuanxin
+  avatar: https://avatars.githubusercontent.com/u/33414148?v=4
+  email: null
+  name: dongyuanxin
+  url: null
+  username: SivanLaai
 bugs: https://github.com/SivanLaai/vuepress-plugin-comment-plus/issues
 category: plugin
 date: '2021-08-03T11:37:11.514Z'
 deprecated: false
 description: Comment plugin in vuepress, such as Gitalk, Valine...
-downloads: ~
+downloads: null
 homepage: https://github.com/SivanLaai/vuepress-plugin-comment-plus#readme
 keywords:
-  - vuepress
-  - comment
-  - plugin
-  - vue
-  - gitalk
-  - valine
-  - waline
-license: ~
-maintainers:
-  - email: lyhhap@163.com
-    username: sivanlaai
+- vuepress
+- comment
+- plugin
+- vue
+- gitalk
+- valine
+- waline
+license: false
+maintainers: null
 name: vuepress-plugin-comment-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-comment-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: lyhhap@163.com
-    username: sivanlaai
+  avatar: null
+  email: lyhhap@163.com
+  name: null
+  url: null
+  username: sivanlaai
 repository: https://github.com/SivanLaai/vuepress-plugin-comment-plus
 score: 0.36990647761474593
 stars: 11

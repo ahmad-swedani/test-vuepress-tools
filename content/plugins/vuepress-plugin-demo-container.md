@@ -1,40 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/27751088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQxMDAsIm5iZiI6MTczNDY3MjkwMCwicGF0aCI6Ii91LzI3NzUxMDg4In0.9rlFcmn6I60f_DQKP1TygIvBzH7QqX9yTpjDi1gBK10&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: JianhuiChen
+  avatar: https://avatars.githubusercontent.com/u/27751088?v=4
+  email: null
+  name: JianhuiChen
+  url: null
+  username: calebman
 bugs: https://github.com/calebman/vuepress-plugin-demo-container/issues
 category: plugin
 date: '2020-08-19T01:22:56.923Z'
 deprecated: false
 description: Vuepress plugin for demo block.
-downloads: ~
+downloads: null
 homepage: https://github.com/calebman/vuepress-plugin-demo-container#readme
 keywords:
-  - documentation
-  - plugin
-  - vue
-  - vuepress
-  - demo
-  - block
+- documentation
+- plugin
+- vue
+- vuepress
+- demo
+- block
 license: MIT License
-maintainers:
-  - email: chenjianhui0428@gmail.com
-    username: chenjianhui0428
+maintainers: null
 name: vuepress-plugin-demo-container
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-container
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chenjianhui0428@gmail.com
-    username: chenjianhui0428
+  avatar: null
+  email: chenjianhui0428@gmail.com
+  name: null
+  url: null
+  username: chenjianhui0428
 repository: https://github.com/calebman/vuepress-plugin-demo-container
 score: 0.33023069453808185
 stars: 117

@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/12521383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzEyNTIxMzgzIn0.PJf_oG0fO21158MEBfoIJHjZwlMUwJBfwybYiK8LHmo&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: mizuka.wu@outlook.com
+  avatar: https://avatars.githubusercontent.com/u/12521383?v=4
+  email: null
+  name: mizuka.wu@outlook.com
+  url: null
+  username: mizuka-wu
 bugs: https://github.com/mizuka-wu/vuepress-plugin-pixi-live2d-display/issues
 category: plugin
 date: '2021-07-02T07:58:46.874Z'
 deprecated: false
 description: use live2d in vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/mizuka-wu/vuepress-plugin-pixi-live2d-display#readme
 keywords:
-  - vuepress
-  - live2d
+- vuepress
+- live2d
 license: MIT License
-maintainers:
-  - email: mizuka.wu@outlook.com
-    username: mizuka
+maintainers: null
 name: vuepress-plugin-pixi-live2d-display
 npm: https://www.npmjs.com/package/vuepress-plugin-pixi-live2d-display
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mizuka.wu@outlook.com
-    username: mizuka
+  avatar: null
+  email: mizuka.wu@outlook.com
+  name: null
+  url: null
+  username: mizuka
 repository: https://github.com/mizuka-wu/vuepress-plugin-pixi-live2d-display
 score: 0.506109689609744
 stars: 2

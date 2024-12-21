@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/44715859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzQ0NzE1ODU5In0.2qrBbs6ECsTPEMn1_0xfEevLy6JRfqkZIkFwQFZJeao&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Zenfection
+  avatar: https://avatars.githubusercontent.com/u/44715859?v=4
+  email: null
+  name: Zenfection
+  url: null
+  username: Zenfection
 bugs: https://github.com/zenfection/vuepress-plugin-zenlive2d-cat/issues
 category: plugin
 date: '2021-09-01T12:30:42.514Z'
 deprecated: false
 description: Add cat live2d and change model with Theme
-downloads: ~
+downloads: null
 homepage: http://github.com/zenfection/vuepress-plugin-zenlive2d-cat
 keywords:
-  - zenlive2d
-  - vuepress@next
-  - live2d-cat-model
+- zenlive2d
+- vuepress@next
+- live2d-cat-model
 license: MIT License
-maintainers:
-  - email: kietgolx65234@gmail.com
-    username: kietgolx65234
+maintainers: null
 name: vuepress-plugin-zenlive2d-cat
 npm: https://www.npmjs.com/package/vuepress-plugin-zenlive2d-cat
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kietgolx65234@gmail.com
-    username: kietgolx65234
+  avatar: null
+  email: kietgolx65234@gmail.com
+  name: null
+  url: null
+  username: kietgolx65234
 repository: https://github.com/zenfection/vuepress-plugin-zenlive2d-cat
 score: 0.4882801095996378
 stars: 0

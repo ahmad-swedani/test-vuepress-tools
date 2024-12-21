@@ -1,41 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/13920863?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzEzOTIwODYzIn0.8ckQUa09BJ-zvFKLc7xIguqgxEV7F6FQ0cfg0yOX9gI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: cjSound
+  avatar: https://avatars.githubusercontent.com/u/13920863?v=4
+  email: null
+  name: cjSound
+  url: null
+  username: cjSound
 bugs: https://github.com/cjSound/vuepress-plugin-demo-container-vue3/issues
 category: plugin
 date: '2022-01-20T13:42:45.392Z'
 deprecated: false
 description: Vuepress2 plugin for demo block.
-downloads: ~
+downloads: null
 homepage: https://github.com/cjSound/vuepress-plugin-demo-container-vue3#readme
 keywords:
-  - documentation
-  - plugin
-  - vue
-  - vuepress
-  - vuepress2
-  - demo
-  - block
-license: ~
-maintainers:
-  - email: 876304802@qq.com
-    username: dlsound
+- documentation
+- plugin
+- vue
+- vuepress
+- vuepress2
+- demo
+- block
+license: false
+maintainers: null
 name: vuepress-plugin-demo-container-vue3
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-container-vue3
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 876304802@qq.com
-    username: dlsound
+  avatar: null
+  email: 876304802@qq.com
+  name: null
+  url: null
+  username: dlsound
 repository: https://github.com/cjSound/vuepress-plugin-demo-container-vue3
 score: 0.5895092582475896
 stars: 14

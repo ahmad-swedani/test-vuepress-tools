@@ -1,39 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/24877853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM3NDAsIm5iZiI6MTczNDY3MjU0MCwicGF0aCI6Ii91LzI0ODc3ODUzIn0.JGcgG-dIXWI0aQbu2vD5-8MbLKmxcJtxXQCus-4oYCQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: xujian
+  avatar: https://avatars.githubusercontent.com/u/24877853?v=4
+  email: null
+  name: xujian
+  url: null
+  username: sunnyxujian
 bugs: https://github.com/sunnyxujian/vuepress-plugin-girls-frontline/issues
 category: plugin
 date: '2022-06-15T05:45:21.810Z'
 deprecated: false
 description: girls frontline plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/sunnyxujian/vuepress-plugin-girls-frontline
 keywords:
-  - vuepress
-  - plugin
-  - girls
-  - models
-  - lsp
+- vuepress
+- plugin
+- girls
+- models
+- lsp
 license: MIT License
-maintainers:
-  - email: 1227971544@qq.com
-    username: microjan
+maintainers: null
 name: vuepress-plugin-girls-frontline
 npm: https://www.npmjs.com/package/vuepress-plugin-girls-frontline
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1227971544@qq.com
-    username: microjan
+  avatar: null
+  email: 1227971544@qq.com
+  name: null
+  url: null
+  username: microjan
 repository: https://github.com/sunnyxujian/vuepress-plugin-girls-frontline
 score: 0.5205330539423751
 stars: 0

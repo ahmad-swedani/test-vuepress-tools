@@ -1,47 +1,39 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/35005637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzM1MDA1NjM3In0.Za2r3NO7od0WrRsIabq721maOlcaJVmNoM_ao8Rv068&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: https://github.com/2214962083
-    name: yangjinming
+  avatar: https://avatars.githubusercontent.com/u/35005637?v=4
+  email: https://github.com/2214962083
+  name: yangjinming
+  url: null
+  username: '2214962083'
 bugs: https://github.com/2214962083/vue-superman/issues
 category: plugin
 date: '2022-05-26T06:04:24.221Z'
 deprecated: false
-description: >-
-  It is a vuepress plugin based on vue-playground, which supports rapid writing
-  of demos of real-time editing, real-time compilation, and real-time preview.
-downloads: ~
+description: It is a vuepress plugin based on vue-playground, which supports rapid
+  writing of demos of real-time editing, real-time compilation, and real-time preview.
+downloads: null
 homepage: https://github.com/2214962083/vue-superman#readme
 keywords:
-  - vuepress-plugin-sandbox
-  - vue
-  - vuepress
-  - vue-playground
-  - codesandbox
-  - playground
-  - sandbox
-  - vue-superman
-  - component
-  - utils
+- vuepress-plugin-sandbox
+- vue
+- vuepress
+- vue-playground
+- codesandbox
+- playground
+- sandbox
+- vue-superman
+- component
+- utils
 license: MIT License
-maintainers:
-  - email: 2214962083@qq.com
-    username: guhuatai
+maintainers: null
 name: vuepress-plugin-sandbox
 npm: https://www.npmjs.com/package/vuepress-plugin-sandbox
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 2214962083@qq.com
-    username: guhuatai
+  avatar: null
+  email: 2214962083@qq.com
+  name: null
+  url: null
+  username: guhuatai
 repository: https://github.com/2214962083/vue-superman
 score: 0.5253772325160156
 stars: 33

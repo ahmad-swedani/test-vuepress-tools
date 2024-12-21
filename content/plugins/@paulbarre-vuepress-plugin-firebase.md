@@ -1,42 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/19966190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5MjAsIm5iZiI6MTczNDY3MjcyMCwicGF0aCI6Ii91LzE5OTY2MTkwIn0.15eJrg6zeQ0gfSOeqfZUIUm9DVzaA_V4yl5yhxQsDoY&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: contact@paulbarre.co
-    name: Paul Barré
-    username: paulbarre
+  avatar: https://avatars.githubusercontent.com/u/19966190?v=4
+  email: contact@paulbarre.co
+  name: "Paul Barr\xE9"
+  url: null
+  username: paulbarre
 bugs: https://github.com/paulbarre/vuepress-plugin-firebase/issues
 category: plugin
 date: '2019-11-08T09:29:03.196Z'
 deprecated: false
 description: Vuepress plugin to easily setup Firebase API
-downloads: ~
+downloads: null
 homepage: https://github.com/paulbarre/vuepress-plugin-firebase#readme
 keywords:
-  - vue
-  - vuepress
-  - firebase
-  - firestore
-  - api
-  - plugin
+- vue
+- vuepress
+- firebase
+- firestore
+- api
+- plugin
 license: GNU General Public License v3.0
-maintainers:
-  - email: contact@paulbarre.co
-    username: paulbarre
+maintainers: null
 name: '@paulbarre/vuepress-plugin-firebase'
 npm: https://www.npmjs.com/package/%40paulbarre%2Fvuepress-plugin-firebase
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: contact@paulbarre.co
-    username: paulbarre
+  avatar: null
+  email: contact@paulbarre.co
+  name: null
+  url: null
+  username: paulbarre
 repository: https://github.com/paulbarre/vuepress-plugin-firebase
 score: 0.4206473411518313
 stars: 0

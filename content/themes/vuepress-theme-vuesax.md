@@ -1,35 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.Kzo9Dz-US61sGaLseDitT2iChDn-U2ShLOGWF1QFHgU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 782655835@qq.com
-    name: springleo
+  avatar: https://avatars.githubusercontent.com/u/6310131?v=4
+  email: 782655835@qq.com
+  name: springleo
+  url: null
+  username: lq782655835
 bugs: https://github.com/lq782655835/vuepress-theme-vuesax/issues
 category: theme
 date: '2020-04-14T12:57:17.103Z'
 deprecated: false
 description: vuepress theme for vuesax
-downloads: ~
+downloads: null
 homepage: https://github.com/lq782655835/vuepress-theme-vuesax#readme
-keywords: ~
-license: ~
-maintainers:
-  - email: 18521566707@163.com
-    username: springleo
+keywords: null
+license: false
+maintainers: null
 name: vuepress-theme-vuesax
 npm: https://www.npmjs.com/package/vuepress-theme-vuesax
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 18521566707@163.com
-    username: springleo
+  avatar: null
+  email: 18521566707@163.com
+  name: null
+  url: null
+  username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-vuesax
 score: 0.33186805943255804
 stars: 3

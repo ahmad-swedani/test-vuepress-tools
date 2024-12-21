@@ -1,36 +1,30 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/34713301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM0NDAsIm5iZiI6MTczNDY3MjI0MCwicGF0aCI6Ii91LzM0NzEzMzAxIn0.Ia7wCXXVzWoukYeRLLZSRajMS8xQniJ5cj723h3hrhE&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: coolyang
+  avatar: https://avatars.githubusercontent.com/u/34713301?v=4
+  email: null
+  name: coolyang
+  url: null
+  username: yyyanghj
 bugs: https://github.com/Coolyang1996/vuepress-theme-eugeo/issues
 category: theme
 date: '2019-04-20T08:46:36.155Z'
 deprecated: false
 description: A theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/Coolyang1996/vuepress-theme-eugeo#readme
 keywords:
-  - VuePress
-  - Theme
+- VuePress
+- Theme
 license: MIT License
-maintainers:
-  - email: 504575307@qq.com
-    username: yanghongjian
+maintainers: null
 name: vuepress-theme-eugeo
 npm: https://www.npmjs.com/package/vuepress-theme-eugeo
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 504575307@qq.com
-    username: coolyang
+  avatar: null
+  email: 504575307@qq.com
+  name: null
+  url: null
+  username: coolyang
 repository: https://github.com/Coolyang1996/vuepress-theme-eugeo
 score: 0.46749507138237634
 stars: 5

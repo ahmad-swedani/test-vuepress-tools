@@ -1,43 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/45432837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzQ1NDMyODM3In0.VzaxTyH75k3ONMmfy02SNbYxdw36S7iVZH9Dg8EeL5U&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: robin@rdc.pt
-    name: Robin Huiser
-    url: https://www.rdc.pt
+  avatar: https://avatars.githubusercontent.com/u/45432837?v=4
+  email: robin@rdc.pt
+  name: Robin Huiser
+  url: https://www.rdc.pt
+  username: rdc-lda
 bugs: https://github.com/rdc-lda/vuepress-theme-rdc-blog/issues
 category: theme
 date: '2020-06-18T16:23:59.376Z'
 deprecated: false
 description: RDC blog theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/rdc-lda/vuepress-theme-rdc-blog#readme
 keywords:
-  - vue
-  - vuepress
-  - blog
-  - vuepress-theme
-  - vuepress-blog
-  - vuepress-theme-blog
-  - vuepress-theme-rdc-blog
+- vue
+- vuepress
+- blog
+- vuepress-theme
+- vuepress-blog
+- vuepress-theme-blog
+- vuepress-theme-rdc-blog
 license: MIT License
-maintainers:
-  - email: robin.huiser@rdc.pt
-    username: robinhuiser
+maintainers: null
 name: vuepress-theme-rdc-blog
 npm: https://www.npmjs.com/package/vuepress-theme-rdc-blog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: robin.huiser@rdc.pt
-    username: robinhuiser
+  avatar: null
+  email: robin.huiser@rdc.pt
+  name: null
+  url: null
+  username: robinhuiser
 repository: https://github.com/rdc-lda/vuepress-theme-rdc-blog
 score: 0.45346012205048664
 stars: 0

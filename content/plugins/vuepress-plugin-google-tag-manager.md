@@ -1,40 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/15069983?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzE1MDY5OTgzIn0.gX6iX1YhguKWyYPBGgMEoj1qx2_yp6W-BlImpzhS5PE&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: omerbuyukcelik@gmail.com
-    name: Ömer Büyükçelik
-    username: bykclk
+  avatar: https://avatars.githubusercontent.com/u/15069983?v=4
+  email: omerbuyukcelik@gmail.com
+  name: "\xD6mer B\xFCy\xFCk\xE7elik"
+  url: null
+  username: bykclk
 bugs: https://github.com/bykclk/vuepress-plugin-google-tag-manager/issues
 category: plugin
 date: '2020-12-06T10:15:51.320Z'
 deprecated: false
 description: vuepress-plugin-google-tag-manager plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/bykclk/vuepress-plugin-google-tag-manager#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-license: ~
-maintainers:
-  - email: omerbuyukcelik@gmail.com
-    username: bykclk
+- documentation
+- vue
+- vuepress
+- generator
+license: false
+maintainers: null
 name: vuepress-plugin-google-tag-manager
 npm: https://www.npmjs.com/package/vuepress-plugin-google-tag-manager
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: omerbuyukcelik@gmail.com
-    username: bykclk
+  avatar: null
+  email: omerbuyukcelik@gmail.com
+  name: null
+  url: null
+  username: bykclk
 repository: https://github.com/bykclk/vuepress-plugin-google-tag-manager
 score: 0.3248130564201722
 stars: 7

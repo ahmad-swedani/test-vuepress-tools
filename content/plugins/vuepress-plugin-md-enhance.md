@@ -1,55 +1,47 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.dw9O9GcESX63yVEZLSuQUtvDuRXO2rMzYfGtw7fuxsQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugin
 date: '2022-06-02T17:42:50.817Z'
 deprecated: false
 description: Markdown enhancement for vuepress
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/md-enhance/
 keywords:
-  - vuepress-plugin
-  - markdown
-  - align
-  - superscript
-  - subscript
-  - footnote
-  - flowchart
-  - tex
-  - latex
-  - katex
-  - mark
-  - presentation
-  - reveal.js
+- vuepress-plugin
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- latex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: vuepress-plugin-md-enhance
 npm: https://www.npmjs.com/package/vuepress-plugin-md-enhance
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6521263648841097
-stars: 2181
+stars: 2182
 unstable: false
 version: 1.30.0
-watchers: 2181
+watchers: 2182
 
 ---
 

@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/27852774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMwODAsIm5iZiI6MTczNDY3MTg4MCwicGF0aCI6Ii91LzI3ODUyNzc0In0.vT8ppfi0kovgM-AZfFJ0Ya7WeYBTTjxIeAvvZl6WprM&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: destiny
+  avatar: https://avatars.githubusercontent.com/u/27852774?v=4
+  email: null
+  name: destiny
+  url: null
+  username: destinytaoer
 bugs: https://github.com/destinytaoer/vuepress-theme-tomato/issues
 category: theme
 date: '2019-08-26T10:15:24.763Z'
 deprecated: false
-description: Vuepress 的一款博客主题
-downloads: ~
+description: "Vuepress \u7684\u4E00\u6B3E\u535A\u5BA2\u4E3B\u9898"
+downloads: null
 homepage: https://github.com/destinytaoer/vuepress-theme-tomato#readme
 keywords:
-  - vue
-  - blog
-  - vuepress
-  - theme
+- vue
+- blog
+- vuepress
+- theme
 license: MIT License
-maintainers:
-  - email: 1848765519@qq.com
-    username: destinytaoer
+maintainers: null
 name: vuepress-theme-tomato
 npm: https://www.npmjs.com/package/vuepress-theme-tomato
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1848765519@qq.com
-    username: destinytaoer
+  avatar: null
+  email: 1848765519@qq.com
+  name: null
+  url: null
+  username: destinytaoer
 repository: https://github.com/destinytaoer/vuepress-theme-tomato
 score: 0.48608620355375093
 stars: 4

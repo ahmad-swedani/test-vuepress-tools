@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/72927208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2MjAsIm5iZiI6MTczNDY3MjQyMCwicGF0aCI6Ii91LzcyOTI3MjA4In0.8NxI_hu0JSfQ7zddyKdY35gLDEgfUUMrlMzKRMwmtfQ&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: alexliu518@gmail.com
+  avatar: https://avatars.githubusercontent.com/u/72927208?v=4
+  email: null
+  name: alexliu518@gmail.com
+  url: null
+  username: openHacking
 bugs: https://github.com/openHacking/vuepress-plugin-qrcode/issues
 category: plugin
 date: '2021-02-15T13:07:38.503Z'
 deprecated: false
 description: vuepress plugin qrcode
-downloads: ~
+downloads: null
 homepage: https://github.com/openHacking/vuepress-plugin-qrcode
 keywords:
-  - qrcode
-  - plugin
-  - vuepress
+- qrcode
+- plugin
+- vuepress
 license: MIT License
-maintainers:
-  - email: alexliu518@gmail.com
-    username: openhacking
+maintainers: null
 name: vuepress-plugin-qrcode
 npm: https://www.npmjs.com/package/vuepress-plugin-qrcode
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: alexliu518@gmail.com
-    username: openhacking
+  avatar: null
+  email: alexliu518@gmail.com
+  name: null
+  url: null
+  username: openhacking
 repository: https://github.com/openHacking/vuepress-plugin-qrcode
 score: 0.4568805314861627
 stars: 6

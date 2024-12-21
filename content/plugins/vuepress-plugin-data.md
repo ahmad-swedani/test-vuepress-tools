@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/123952?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzEyMzk1MiJ9.nv8j2AojovUSeIhVd5jadVD9HrjpoTenh9Q_JaYpNmI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Paul Salaets
+  avatar: https://avatars.githubusercontent.com/u/123952?v=4
+  email: null
+  name: Paul Salaets
+  url: null
+  username: psalaets
 bugs: https://github.com/psalaets/vuepress-plugin-data/issues
 category: plugin
 date: '2020-04-30T22:39:02.186Z'
 deprecated: false
 description: Inject external data into a VuePress site
-downloads: ~
+downloads: null
 homepage: https://github.com/psalaets/vuepress-plugin-data
 keywords:
-  - vuepress
-  - plugin
-  - data
+- vuepress
+- plugin
+- data
 license: MIT License
-maintainers:
-  - email: psalaets@gmail.com
-    username: psalaets
+maintainers: null
 name: vuepress-plugin-data
 npm: https://www.npmjs.com/package/vuepress-plugin-data
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: psalaets@gmail.com
-    username: psalaets
+  avatar: null
+  email: psalaets@gmail.com
+  name: null
+  url: null
+  username: psalaets
 repository: https://github.com/psalaets/vuepress-plugin-data
 score: 0.6058039543995751
 stars: 0

@@ -1,35 +1,29 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/28615338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM2ODAsIm5iZiI6MTczNDY3MjQ4MCwicGF0aCI6Ii91LzI4NjE1MzM4In0.WIPUvGI4aqsOCTQy1mkWN96l0V5fIXaudAgj1IwgCQU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: libra
+  avatar: https://avatars.githubusercontent.com/u/28615338?v=4
+  email: null
+  name: libra
+  url: null
+  username: Libra11-zz
 bugs: https://github.com/Libra11/vuepress-theme-libra/issues
 category: theme
 date: '2021-01-07T03:47:18.975Z'
 deprecated: false
 description: a vuepress blog template
-downloads: ~
+downloads: null
 homepage: https://github.com/Libra11/vuepress-theme-libra#readme
 keywords:
-  - vuepress
-license: ~
-maintainers:
-  - email: libra085925@gmail.com
-    username: libra121
+- vuepress
+license: false
+maintainers: null
 name: vuepress-theme-libra
 npm: https://www.npmjs.com/package/vuepress-theme-libra
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: libra085925@gmail.com
-    username: libra121
+  avatar: null
+  email: libra085925@gmail.com
+  name: null
+  url: null
+  username: libra121
 repository: https://github.com/Libra11/vuepress-theme-libra
 score: 0.17895709896879225
 stars: 31

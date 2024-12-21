@@ -1,40 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/38198082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzM4MTk4MDgyIn0.zVVjnS9YuRYMv4ulEbH3MT_5gQtjlJG0ZmmQS0vfKRo&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Alejandro
+  avatar: https://avatars.githubusercontent.com/u/38198082?v=4
+  email: null
+  name: Alejandro
+  url: null
+  username: realwds
 bugs: https://github.com/realwds/vuepress-theme-realwds/issues
 category: theme
 date: '2021-06-10T08:11:07.683Z'
 deprecated: false
 description: A unique design theme for VuePress.
-downloads: ~
+downloads: null
 homepage: https://realwds.github.io/vuepress-realwds-demo
 keywords:
-  - theme
-  - plugin
-  - vuepress
-  - vuepress-theme
-  - realwds
-  - vuepress-theme-realwds
+- theme
+- plugin
+- vuepress
+- vuepress-theme
+- realwds
+- vuepress-theme-realwds
 license: MIT License
-maintainers:
-  - email: wds@disnot.com
-    username: realwds
+maintainers: null
 name: vuepress-theme-realwds
 npm: https://www.npmjs.com/package/vuepress-theme-realwds
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wds@disnot.com
-    username: realwds
+  avatar: null
+  email: wds@disnot.com
+  name: null
+  url: null
+  username: realwds
 repository: https://github.com/realwds/vuepress-theme-realwds
 score: 0.46513466531513614
 stars: 1

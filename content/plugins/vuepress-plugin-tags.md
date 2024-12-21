@@ -1,43 +1,34 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/11927113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzQwNDAsIm5iZiI6MTczNDY3Mjg0MCwicGF0aCI6Ii91LzExOTI3MTEzIn0.OMjXWBDdakxXUUko58gq9hunbzq-3PAWG1rM_DMvYos&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 99299684@qq.com
-    name: mrcode
-    username: zhuqiang
+  avatar: https://avatars.githubusercontent.com/u/11927113?v=4
+  email: 99299684@qq.com
+  name: mrcode
+  url: null
+  username: zhuqiang
 bugs: https://github.com/zq99299/vuepress-plugin/issues
 category: plugin
 date: '2021-01-29T06:15:51.222Z'
 deprecated: false
 description: tags plugin for vuepress
-downloads: ~
-homepage: >-
-  https://github.com/zq99299/vuepress-plugin/blob/master/vuepress-plugin-tags/README.md
+downloads: null
+homepage: https://github.com/zq99299/vuepress-plugin/blob/master/vuepress-plugin-tags/README.md
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
-  - tags
-  - tag
+- documentation
+- generator
+- vue
+- vuepress
+- tags
+- tag
 license: MIT License
-maintainers:
-  - email: 99299684@qq.com
-    username: zhuqiang
+maintainers: null
 name: vuepress-plugin-tags
 npm: https://www.npmjs.com/package/vuepress-plugin-tags
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 99299684@qq.com
-    username: zhuqiang
+  avatar: null
+  email: 99299684@qq.com
+  name: null
+  url: null
+  username: zhuqiang
 repository: https://github.com/zq99299/vuepress-plugin
 score: 0.5248375632017683
 stars: 13

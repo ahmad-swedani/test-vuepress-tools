@@ -1,45 +1,38 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMxNDAsIm5iZiI6MTczNDY3MTk0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.BvbADjVAfEVJ06dRnhjr_UNtgEH7IbHYbH2eXsUnLPA&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
+  email: null
+  name: Evan You
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2020-09-08T07:21:01.623Z'
 deprecated: false
 description: VuePress theme for official Vue projects
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
+- documentation
+- generator
+- vue
+- vuepress
 license: MIT License
-maintainers:
-  - email: 252959493@qq.com
-    username: greper
+maintainers: null
 name: '@docmirror/theme-vue'
 npm: https://www.npmjs.com/package/%40docmirror%2Ftheme-vue
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 252959493@qq.com
-    username: greper
+  avatar: null
+  email: 252959493@qq.com
+  name: null
+  url: null
+  username: greper
 repository: https://github.com/vuejs/vuepress
 score: 0.07066652673276805
-stars: 22618
+stars: 22616
 unstable: false
 version: 1.5.3
-watchers: 22618
+watchers: 22616
 
 ---
 

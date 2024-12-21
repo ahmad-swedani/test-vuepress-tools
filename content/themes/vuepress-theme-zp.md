@@ -1,38 +1,32 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/30975538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzMwOTc1NTM4In0.A9hIOXKvXiHePkOuXRVVL1-MSo-zzQsICz90DvxYLPI&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: zhaopan
+  avatar: https://avatars.githubusercontent.com/u/30975538?v=4
+  email: null
+  name: zhaopan
+  url: null
+  username: zhaopan-pan
 bugs: https://github.com/zhaopande/vuepress-theme-zp/issues
 category: theme
 date: '2021-09-05T14:53:17.024Z'
 deprecated: false
 description: vuepress'theme
-downloads: ~
+downloads: null
 homepage: https://github.com/zhaopande/vuepress-theme-zp/blob/master/README.md
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-license: ~
-maintainers:
-  - email: zhaopanhw@foxmail.com
-    username: zhaopan
+- documentation
+- vue
+- vuepress
+- generator
+license: false
+maintainers: null
 name: vuepress-theme-zp
 npm: https://www.npmjs.com/package/vuepress-theme-zp
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhaopanhw@foxmail.com
-    username: zhaopan
+  avatar: null
+  email: zhaopanhw@foxmail.com
+  name: null
+  url: null
+  username: zhaopan
 repository: https://github.com/zhaopande/vuepress-theme-zp
 score: 0.40902453475501055
 stars: 0

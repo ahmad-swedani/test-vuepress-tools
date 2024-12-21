@@ -1,42 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/36268825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM5ODAsIm5iZiI6MTczNDY3Mjc4MCwicGF0aCI6Ii91LzM2MjY4ODI1In0.VrTJd64YK_vXV5fnFgGRIcGQkxEZtelI7OAKhyX62us&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    name: Ahmad Mostafa
-    url: https://github.com/z3by
-    username: z3bya
+  avatar: https://avatars.githubusercontent.com/u/36268825?v=4
+  email: zoaby.am@gmail.com
+  name: Ahmad Mostafa
+  url: https://github.com/z3by
+  username: z3bya
 bugs: https://github.com/z3by/vuepress-plugin-flexsearch/issues
 category: plugin
 date: '2021-09-30T05:50:38.420Z'
 deprecated: false
 description: Next-Generation full text search library for Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/z3by/vuepress-plugin-flexsearch#readme
 keywords:
-  - vuepress-plugin-flexsearch
-  - vuepress-search
-  - search
-  - vuepress-plugin
-  - vuepress
+- vuepress-plugin-flexsearch
+- vuepress-search
+- search
+- vuepress-plugin
+- vuepress
 license: MIT License
-maintainers:
-  - email: zoaby.am@gmail.com
-    username: z3bya
+maintainers: null
 name: vuepress-plugin-flexsearch
 npm: https://www.npmjs.com/package/vuepress-plugin-flexsearch
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zoaby.am@gmail.com
-    username: z3bya
+  avatar: null
+  email: zoaby.am@gmail.com
+  name: null
+  url: null
+  username: z3bya
 repository: https://github.com/z3by/vuepress-plugin-flexsearch
 score: 0.4941800163563485
 stars: 42

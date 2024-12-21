@@ -1,41 +1,33 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/17906558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMzODAsIm5iZiI6MTczNDY3MjE4MCwicGF0aCI6Ii91LzE3OTA2NTU4In0.GoLWLxcxDggI1b4Uhf2KAniypsd9sl_SxOm9Oz3hNFs&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    name: vxhly
-    username: vxhly
+  avatar: https://avatars.githubusercontent.com/u/17906558?v=4
+  email: pengchengou@gmail.com
+  name: vxhly
+  url: null
+  username: vxhly
 bugs: https://github.com/vxhly/vuepress-plugin-nest/issues
 category: plugin
 date: '2020-03-16T09:31:39.574Z'
 deprecated: false
 description: A vuepress plugin for canvas-nest.js
-downloads: ~
+downloads: null
 homepage: https://github.com/vxhly/vuepress-plugin-nest#readme
 keywords:
-  - vuepress
-  - plugin
-  - canvas-nest
-  - vuepress-nest
-  - nest
+- vuepress
+- plugin
+- canvas-nest
+- vuepress-nest
+- nest
 license: Other
-maintainers:
-  - email: pengchengou@gmail.com
-    username: vxhly
+maintainers: null
 name: vuepress-plugin-nest
 npm: https://www.npmjs.com/package/vuepress-plugin-nest
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: pengchengou@gmail.com
-    username: vxhly
+  avatar: null
+  email: pengchengou@gmail.com
+  name: null
+  url: null
+  username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-nest
 score: 0.4954279342059135
 stars: 6

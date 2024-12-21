@@ -1,40 +1,35 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/20726419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1MDAsIm5iZiI6MTczNDY3MjMwMCwicGF0aCI6Ii91LzIwNzI2NDE5In0.JzSRevLaktLP0id-34VniQfFkrgmqzfA2pEuADf_RCs&v=4
-  email: ~
-  name: ~
-  url: ~
+  avatar: https://avatars.githubusercontent.com/u/20726419?v=4
+  email: null
+  name: null
+  url: null
   username: sogud
 bugs: https://github.com/sogud/vuepress-theme-minimalism/issues
 category: theme
 date: '2022-05-23T14:31:45.703Z'
 deprecated: false
 description: theme for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/sogud/vuepress-theme-minimalism#readme
 keywords:
-  - vuepress-theme
-  - vue
-  - vuepress
-  - theme
-  - hexo
-  - blog
-  - markdown
+- vuepress-theme
+- vue
+- vuepress
+- theme
+- hexo
+- blog
+- markdown
 license: MIT License
-maintainers:
-  - email: github.sogud@outlook.com
-    username: sogud
+maintainers: null
 name: vuepress-theme-minimalism
 npm: https://www.npmjs.com/package/vuepress-theme-minimalism
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: github.sogud@outlook.com
-    username: sogud
+  avatar: null
+  email: github.sogud@outlook.com
+  name: null
+  url: null
+  username: sogud
 repository: https://github.com/sogud/vuepress-theme-minimalism
 score: 0.6077701762478156
 stars: 19

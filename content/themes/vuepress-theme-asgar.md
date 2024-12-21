@@ -1,36 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/1278794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyMDAsIm5iZiI6MTczNDY3MjAwMCwicGF0aCI6Ii91LzEyNzg3OTQifQ.18qdIrN3wqdq5-A_oX8XDJ2ghWeerNQFnNYAiLVYj3I&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hello@stefancosma.xyz
-    name: Stefan Cosma
-    username: stefanbc
+  avatar: https://avatars.githubusercontent.com/u/1278794?v=4
+  email: hello@stefancosma.xyz
+  name: Stefan Cosma
+  url: null
+  username: stefanbc
 bugs: https://github.com/stefanbc/vuepress-theme-asgar/issues
 category: theme
 date: '2021-09-02T10:50:26.660Z'
 deprecated: false
 description: Asgar Ghost theme ported to VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/stefanbc/vuepress-theme-asgar#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: hello@stefancosma.xyz
-    username: stefanbc
+maintainers: null
 name: vuepress-theme-asgar
 npm: https://www.npmjs.com/package/vuepress-theme-asgar
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: hello@stefancosma.xyz
-    username: stefanbc
+  avatar: null
+  email: hello@stefancosma.xyz
+  name: null
+  url: null
+  username: stefanbc
 repository: https://github.com/stefanbc/vuepress-theme-asgar
 score: 0.5162195441764912
 stars: 0

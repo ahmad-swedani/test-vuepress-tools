@@ -1,37 +1,31 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/5706431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM1NjAsIm5iZiI6MTczNDY3MjM2MCwicGF0aCI6Ii91LzU3MDY0MzEifQ.MIpvuN1unqUyQw6uOeOLdJcfKZndIWnSI9QZEacj3m0&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: nakorndev
+  avatar: https://avatars.githubusercontent.com/u/5706431?v=4
+  email: null
+  name: nakorndev
+  url: null
+  username: nakorndev
 bugs: https://github.com/nakorndev/vuepress-theme-bulma/issues
 category: theme
 date: '2019-08-09T07:50:50.234Z'
 deprecated: false
 description: A pure Bulma.css theme for VuePress
-downloads: ~
+downloads: null
 homepage: https://github.com/nakorndev/vuepress-theme-bulma#readme
 keywords:
-  - vuepress
-  - theme
-  - vuepress-theme
+- vuepress
+- theme
+- vuepress-theme
 license: MIT License
-maintainers:
-  - email: nakorndev@gmail.com
-    username: nakorndev
+maintainers: null
 name: vuepress-theme-bulma
 npm: https://www.npmjs.com/package/vuepress-theme-bulma
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nakorndev@gmail.com
-    username: nakorndev
+  avatar: null
+  email: nakorndev@gmail.com
+  name: null
+  url: null
+  username: nakorndev
 repository: https://github.com/nakorndev/vuepress-theme-bulma
 score: 0.3263409494947077
 stars: 68

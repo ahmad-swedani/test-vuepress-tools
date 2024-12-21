@@ -1,34 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/8385448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzgzODU0NDgifQ.1sKAkwmUlfevU4YxDTolEosoTbCk4Js9yK0uzcRSuSU&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: HighCWu
+  avatar: https://avatars.githubusercontent.com/u/8385448?v=4
+  email: null
+  name: HighCWu
+  url: null
+  username: HighCWu
 bugs: https://github.com/HighCWu/vuepress-plugin-dynamic-page/issues
 category: plugin
 date: '2020-04-06T09:47:29.041Z'
 deprecated: false
 description: make your static vuepress site dynamic
-downloads: ~
+downloads: null
 homepage: https://github.com/HighCWu/vuepress-plugin-dynamic-page#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: HighCWu@163.com
-    username: highcwu
+maintainers: null
 name: vuepress-plugin-dynamic-page
 npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-page
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: HighCWu@163.com
-    username: highcwu
+  avatar: null
+  email: HighCWu@163.com
+  name: null
+  url: null
+  username: highcwu
 repository: https://github.com/HighCWu/vuepress-plugin-dynamic-page
 score: 0.4386680993350969
 stars: 0

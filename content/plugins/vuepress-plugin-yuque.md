@@ -1,37 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/23133919?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzM4MDAsIm5iZiI6MTczNDY3MjYwMCwicGF0aCI6Ii91LzIzMTMzOTE5In0.K5WFiIl8wV-BVCrkMUMCwSRMC8hiqUOxPjyfrRIRMdY&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ulivz
+  avatar: https://avatars.githubusercontent.com/u/23133919?v=4
+  email: chl814@foxmail.com
+  name: ulivz
+  url: null
+  username: ulivz
 bugs: https://github.com/ulivz/vuepress-plugin-yuque/issues
 category: plugin
 date: '2020-01-15T06:59:05.988Z'
 deprecated: false
 description: 'I: Yuque Repo, O: VuePress Site!'
-downloads: ~
+downloads: null
 homepage: https://github.com/ulivz/vuepress-plugin-yuque#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: fychinesepjj@outlook.com
-    username: fychinesepjj
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: vuepress-plugin-yuque
 npm: https://www.npmjs.com/package/vuepress-plugin-yuque
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: fychinesepjj@outlook.com
-    username: fychinesepjj
+  avatar: null
+  email: fychinesepjj@outlook.com
+  name: null
+  url: null
+  username: fychinesepjj
 repository: https://github.com/ulivz/vuepress-plugin-yuque
 score: 0.4234133050045503
 stars: 304

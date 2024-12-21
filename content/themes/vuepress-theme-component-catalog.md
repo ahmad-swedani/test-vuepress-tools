@@ -1,35 +1,28 @@
 ---
 author:
-  avatar: >-
-    https://private-avatars.githubusercontent.com/u/16383815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzMyNjAsIm5iZiI6MTczNDY3MjA2MCwicGF0aCI6Ii91LzE2MzgzODE1In0.QJnagQJ1ntv2V2JKSKIkIP-ywgpceWm24-tS9KiUk6g&v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: make.app.ts@gmail.com
-    name: mya-ake
-    username: mya-ake
+  avatar: https://avatars.githubusercontent.com/u/16383815?v=4
+  email: make.app.ts@gmail.com
+  name: mya-ake
+  url: null
+  username: mya-ake
 bugs: https://github.com/mya-ake/vuepress-theme-component-catalog/issues
 category: theme
 date: '2019-01-29T18:57:56.311Z'
 deprecated: false
-downloads: ~
+description: null
+downloads: null
 homepage: https://github.com/mya-ake/vuepress-theme-component-catalog#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: make.app.ts@gmail.com
-    username: mya-ake
+maintainers: null
 name: vuepress-theme-component-catalog
 npm: https://www.npmjs.com/package/vuepress-theme-component-catalog
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: make.app.ts@gmail.com
-    username: mya-ake
+  avatar: null
+  email: make.app.ts@gmail.com
+  name: null
+  url: null
+  username: mya-ake
 repository: https://github.com/mya-ake/vuepress-theme-component-catalog
 score: 0.40866955789034776
 stars: 1
