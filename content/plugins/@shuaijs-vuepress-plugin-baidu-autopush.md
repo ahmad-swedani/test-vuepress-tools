@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/58034399?v=4
-  email: null
-  name: Stan Ye
-  url: null
-  username: shuaijs
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Stan Ye
 bugs: https://github.com/shuaijs/vuepress-plugin-baidu-autopush/issues
 category: plugin
 date: '2019-12-06T03:13:28.598Z'
 deprecated: false
 description: stanye's vuepress-plugin-baidu-autopush
-downloads: null
+downloads: ~
 homepage: https://github.com/shuaijs/vuepress-plugin-baidu-autopush#readme
 keywords:
-- stanye
-- vue
-- vuepress
-- baidu-autopush
+  - stanye
+  - vue
+  - vuepress
+  - baidu-autopush
 license: MIT License
-maintainers: null
+maintainers:
+  - email: xiaocooshy@gmail.com
+    username: stanye
 name: '@shuaijs/vuepress-plugin-baidu-autopush'
 npm: https://www.npmjs.com/package/%40shuaijs%2Fvuepress-plugin-baidu-autopush
 publisher:
-  avatar: null
-  email: xiaocooshy@gmail.com
-  name: null
-  url: null
-  username: stanye
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xiaocooshy@gmail.com
+    username: stanye
 repository: https://github.com/shuaijs/vuepress-plugin-baidu-autopush
 score: 0.45306613431674814
 stars: 0
