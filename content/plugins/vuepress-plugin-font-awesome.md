@@ -1,35 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48642166?v=4
-  email: hi@yue.dev
-  name: Justin Wang
-  url: null
-  username: hiyue
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: hi@yue.dev
+    name: Justin Wang
+    username: hiyue
 bugs: https://github.com/HiYue/vuepress-component-font-awesome/issues
 category: plugin
 date: '2019-07-25T01:50:14.048Z'
 deprecated: false
 description: Use font awesome icon in the Vuepress markdown file directly
-downloads: null
+downloads: ~
 homepage: https://github.com/HiYue/vuepress-component-font-awesome#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- Font Awesome icons components
-- vue
-- vuepress
-- Font Awesome icons components for vuepress
-- font awesome icons
-license: false
-maintainers: null
+  - vuepress
+  - vuepress-plugin
+  - Font Awesome icons components
+  - vue
+  - vuepress
+  - Font Awesome icons components for vuepress
+  - font awesome icons
+license: ~
+maintainers:
+  - email: hi@yue.dev
+    username: hiyue
 name: vuepress-plugin-font-awesome
 npm: https://www.npmjs.com/package/vuepress-plugin-font-awesome
 publisher:
-  avatar: null
-  email: hi@yue.dev
-  name: null
-  url: null
-  username: hiyue
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: hi@yue.dev
+    username: hiyue
 repository: https://github.com/HiYue/vuepress-component-font-awesome
 score: 0.27084151945307255
 stars: 6

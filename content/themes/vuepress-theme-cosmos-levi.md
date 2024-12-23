@@ -1,32 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10338381?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: levi9311
 bugs: https://github.com/levi9311/vuepress-theme-cosmos/issues
 category: theme
 date: '2020-05-21T06:24:27.154Z'
 deprecated: false
 description: Theme for VuePress static site generator used by interchain projects.
-downloads: null
+downloads: ~
 homepage: https://github.com/levi9311/vuepress-theme-cosmos#readme
 keywords:
-- documentation
-- docs
-- vuepress
-- theme
+  - documentation
+  - docs
+  - vuepress
+  - theme
 license: Other
-maintainers: null
+maintainers:
+  - email: 790890362@qq.com
+    username: levi_xia
 name: vuepress-theme-cosmos-levi
 npm: https://www.npmjs.com/package/vuepress-theme-cosmos-levi
 publisher:
-  avatar: null
-  email: 790890362@qq.com
-  name: null
-  url: null
-  username: levi_xia
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 790890362@qq.com
+    username: levi_xia
 repository: https://github.com/levi9311/vuepress-theme-cosmos
 score: 0.43802691646062814
 stars: 0
