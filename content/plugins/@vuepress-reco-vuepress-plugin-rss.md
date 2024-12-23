@@ -1,40 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    name: reco_luan
-    username: reco_luan
+  email: recoluan@outlook.com
+  name: reco_luan
+  url: null
+  username: reco_luan
 bugs: https://github.com/vuepress-reco/vuepress-plugin-rss/issues
 category: plugin
 date: '2020-07-10T05:33:54.763Z'
 deprecated: false
 description: RSS plugin only for vuepress-theme-reco.
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress-theme-reco
-  - rss
-  - vuepress
+- vuepress-theme-reco
+- rss
+- vuepress
 license: MIT License
-maintainers:
-  - email: recoluan@outlook.com
-    username: reco_luan
-  - email: zsw0407@outlook.com
-    username: smallsunnyfox
+maintainers: null
 name: '@vuepress-reco/vuepress-plugin-rss'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-rss
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: recoluan@outlook.com
-    username: reco_luan
+  avatar: null
+  email: recoluan@outlook.com
+  name: null
+  url: null
+  username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-rss
 score: 0.47602605588101476
 stars: 2
