@@ -1,46 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:15.913Z'
 deprecated: false
 description: The Plugin for VuePres 2, Support Can-I-Use feature
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
 keywords:
-  - VuePress
-  - plugin
-  - vuepress-plugin
-  - can-i-use
-  - caniuse
+- VuePress
+- plugin
+- vuepress-plugin
+- can-i-use
+- caniuse
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-caniuse'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-caniuse
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5039656222491855
-stars: 157
+stars: 158
 unstable: true
 version: 1.0.0-beta.36
-watchers: 157
+watchers: 158
 
 ---
 
@@ -83,7 +76,7 @@ watchers: 157
 - 📠 markdown 增强，支持 代码块分组、提示容器、任务列表、数学公式、代码演示、文件树 等
 - 📚 嵌入代码演示，支持 CodePen, JSFiddle, CodeSandbox 等
 - 📊 嵌入图表，支持 chart.js，Echarts，Mermaid，flowchart
-- 🎛 资源嵌入，支持 PDF, bilibili视频，youtube视频等
+- 🎛 资源嵌入，支持 PDF, bilibili视频，youtube视频、本地视频、音频等
 - 🪞 支持全站水印、部分内容水印
 
 ## [使用文档](https://theme-plume.vuejs.press)
@@ -93,6 +86,8 @@ QQ 交流群：[792882761](https://qm.qq.com/q/O3HNy4rxYc)
 ## 案例
 
 - [我的个人博客](https://pengzhanbo.cn/)
+
+查看 [更多案例](https://theme-plume.vuejs.press/demos/)
 
 ### 注意
 
