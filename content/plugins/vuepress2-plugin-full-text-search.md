@@ -1,43 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16508807?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Yosuke Ota
+  email: null
+  name: Yosuke Ota
+  url: null
+  username: ota-meshi
 bugs: https://github.com/ota-meshi/vuepress2-plugin-full-text-search/issues
 category: plugin
 date: '2022-05-16T07:46:31.436Z'
 deprecated: false
 description: VuePress v2 plugin that adds full-text search box.
-downloads: ~
+downloads: null
 homepage: https://github.com/ota-meshi/vuepress2-plugin-full-text-search#readme
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - full-text-search
-  - vuepress-next
+- vuepress
+- vuepress-plugin
+- full-text-search
+- vuepress-next
 license: MIT License
-maintainers:
-  - email: otameshiyo23@gmail.com
-    username: ota-meshi
+maintainers: null
 name: vuepress2-plugin-full-text-search
 npm: https://www.npmjs.com/package/vuepress2-plugin-full-text-search
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: otameshiyo23@gmail.com
-    username: ota-meshi
+  avatar: null
+  email: otameshiyo23@gmail.com
+  name: null
+  url: null
+  username: ota-meshi
 repository: https://github.com/ota-meshi/vuepress2-plugin-full-text-search
 score: 0.5971838623235373
-stars: 34
+stars: 33
 unstable: true
 version: 0.2.0
-watchers: 34
+watchers: 33
 
 ---
 
