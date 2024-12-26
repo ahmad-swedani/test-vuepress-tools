@@ -1,34 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/237165?v=4
-  email: efrane@meanderingsoul.com
-  name: Stefan "eFrane" Graupner
-  url: null
-  username: eFrane
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: efrane@meanderingsoul.com
+    name: Stefan "eFrane" Graupner
 bugs: https://github.com/eFrane/vuepress-plugin-mermaidjs/issues
 category: plugin
 date: '2022-03-27T08:51:54.584Z'
 deprecated: false
 description: A Vuepress plugin providing easy MermaidJS diagramming
-downloads: null
+downloads: ~
 homepage: http://vuepress-plugin-mermaidjs.efrane.com/
 keywords:
-- documentation
-- vue
-- vuepress
-- mermaid
-- diagrams
-- plugin
-license: false
-maintainers: null
+  - documentation
+  - vue
+  - vuepress
+  - mermaid
+  - diagrams
+  - plugin
+license: ~
+maintainers:
+  - email: stefan.graupner@gmail.com
+    username: efrane
 name: vuepress-plugin-mermaidjs
 npm: https://www.npmjs.com/package/vuepress-plugin-mermaidjs
 publisher:
-  avatar: null
-  email: stefan.graupner@gmail.com
-  name: null
-  url: null
-  username: efrane
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: stefan.graupner@gmail.com
+    username: efrane
 repository: https://github.com/eFrane/vuepress-plugin-mermaidjs
 score: 0.6654616959559225
 stars: 74
