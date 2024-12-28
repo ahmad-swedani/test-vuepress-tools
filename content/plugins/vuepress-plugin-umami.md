@@ -1,34 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8433587?v=4
-  email: null
-  name: Peter Thaleikis
-  url: https://www.peterthaleikis.com
-  username: spekulatius
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Peter Thaleikis
+    url: https://www.peterthaleikis.com
 bugs: https://github.com/spekulatius/vuepress-plugin-umami/issues
 category: plugin
 date: '2020-08-31T11:47:24.361Z'
 deprecated: false
 description: Umami Analytics plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://github.com/spekulatius/vuepress-plugin-umami
 keywords:
-- vue
-- vuepress
-- plugin
-- vuepress-plugin
-- analytics
-- umami
+  - vue
+  - vuepress
+  - plugin
+  - vuepress-plugin
+  - analytics
+  - umami
 license: MIT License
-maintainers: null
+maintainers:
+  - email: peter.thaleikis@gmail.com
+    username: spekulatius
 name: vuepress-plugin-umami
 npm: https://www.npmjs.com/package/vuepress-plugin-umami
 publisher:
-  avatar: null
-  email: peter.thaleikis@gmail.com
-  name: null
-  url: null
-  username: spekulatius
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: peter.thaleikis@gmail.com
+    username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-umami
 score: 0.43755313540202895
 stars: 6
