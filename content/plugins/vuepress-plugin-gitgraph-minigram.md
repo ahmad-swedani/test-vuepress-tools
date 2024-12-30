@@ -1,31 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1549175?v=4
-  email: null
-  name: Shinichiro MORI
-  url: null
-  username: smori1983
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Shinichiro MORI
 bugs: https://github.com/smori1983/vuepress-plugin-gitgraph-minigram/issues
 category: plugin
 date: '2022-06-11T05:38:41.471Z'
 deprecated: false
-description: VuePress plugin for [gitgraph-minigram](https://www.npmjs.com/package/gitgraph-minigram).
-downloads: null
+description: >-
+  VuePress plugin for
+  [gitgraph-minigram](https://www.npmjs.com/package/gitgraph-minigram).
+downloads: ~
 homepage: https://github.com/smori1983/vuepress-plugin-gitgraph-minigram#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- gitgraph
+  - vuepress
+  - vuepress-plugin
+  - gitgraph
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shinichiro.mori.1983@gmail.com
+    username: smori1983
 name: vuepress-plugin-gitgraph-minigram
 npm: https://www.npmjs.com/package/vuepress-plugin-gitgraph-minigram
 publisher:
-  avatar: null
-  email: shinichiro.mori.1983@gmail.com
-  name: null
-  url: null
-  username: smori1983
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shinichiro.mori.1983@gmail.com
+    username: smori1983
 repository: https://github.com/smori1983/vuepress-plugin-gitgraph-minigram
 score: 0.4793350137021566
 stars: 1
