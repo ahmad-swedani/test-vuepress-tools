@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/54167020?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: reco_luan
+  email: null
+  name: reco_luan
+  url: null
+  username: vuepress-reco
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: theme
 date: '2019-11-13T03:42:47.506Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
-  - vuepress
-  - vue
-  - theme
+- vuepress
+- vue
+- theme
 license: MIT License
-maintainers:
-  - email: 1024151886@qq.com
-    username: hu1024151886
+maintainers: null
 name: vuepress-theme-fake
 npm: https://www.npmjs.com/package/vuepress-theme-fake
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 1024151886@qq.com
-    username: hu1024151886
+  avatar: null
+  email: 1024151886@qq.com
+  name: null
+  url: null
+  username: hu1024151886
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.2082423732259309
 stars: 611
