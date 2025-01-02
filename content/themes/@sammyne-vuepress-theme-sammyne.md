@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16666661?v=4
-  email: null
-  name: sammyne
-  url: null
-  username: sammyne
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: sammyne
 bugs: https://github.com/sammyne/vuepress-theme-sammyne/issues
 category: theme
 date: '2019-07-13T09:28:43.265Z'
 deprecated: false
 description: A vuepress theme for blog https://sammyne.github.io/.
-downloads: null
+downloads: ~
 homepage: https://github.com/sammyne/vuepress-theme-sammyne#readme
 keywords:
-- vuepress
-- theme
-- vue
+  - vuepress
+  - theme
+  - vue
 license: ISC License
-maintainers: null
+maintainers:
+  - email: xiangminli@alumni.sjtu.edu.cn
+    username: sammyne
 name: '@sammyne/vuepress-theme-sammyne'
 npm: https://www.npmjs.com/package/%40sammyne%2Fvuepress-theme-sammyne
 publisher:
-  avatar: null
-  email: xiangminli@alumni.sjtu.edu.cn
-  name: null
-  url: null
-  username: sammyne
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: xiangminli@alumni.sjtu.edu.cn
+    username: sammyne
 repository: https://github.com/sammyne/vuepress-theme-sammyne
 score: 0.31129281208774273
 stars: 1
