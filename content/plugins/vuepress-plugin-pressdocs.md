@@ -1,28 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/237165?v=4
-  email: efrane@meanderingsoul.com
-  name: eFrane
-  url: null
-  username: eFrane
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: efrane@meanderingsoul.com
+    name: eFrane
 bugs: https://github.com/eFrane/pressdocs/issues
 category: plugin
 date: '2021-02-01T16:19:02.595Z'
 deprecated: false
 description: A Vuepress Plugin for Code Documentation
-downloads: null
+downloads: ~
 homepage: https://github.com/eFrane/pressdocs#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: stefan.graupner@gmail.com
+    username: efrane
 name: vuepress-plugin-pressdocs
 npm: https://www.npmjs.com/package/vuepress-plugin-pressdocs
 publisher:
-  avatar: null
-  email: stefan.graupner@gmail.com
-  name: null
-  url: null
-  username: efrane
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: stefan.graupner@gmail.com
+    username: efrane
 repository: https://github.com/eFrane/pressdocs
 score: 0.5373707229882863
 stars: 0
