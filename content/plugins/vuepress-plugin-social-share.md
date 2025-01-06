@@ -1,45 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22659150?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ntnyq13@gmail.com
-    name: ntnyq
-    username: ntnyq
+  email: ntnyq13@gmail.com
+  name: ntnyq
+  url: null
+  username: ntnyq
 bugs: https://github.com/ntnyq/vuepress-plugin-social-share/issues
 category: plugin
 date: '2022-05-22T12:28:34.062Z'
 deprecated: false
 description: Social sharing plugin for VuePress
-downloads: ~
+downloads: null
 homepage: https://sns.goyfe.com
 keywords:
-  - vuepress
-  - vuepress-plugin
-  - share
-  - social
-  - social-share
-  - sns
-  - facebook
-  - plugin
-  - twitter
-  - weibo
+- vuepress
+- vuepress-plugin
+- share
+- social
+- social-share
+- sns
+- facebook
+- plugin
+- twitter
+- weibo
 license: MIT License
-maintainers:
-  - email: ntnyq13@gmail.com
-    username: ntnyq
+maintainers: null
 name: vuepress-plugin-social-share
 npm: https://www.npmjs.com/package/vuepress-plugin-social-share
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ntnyq13@gmail.com
-    username: ntnyq
+  avatar: null
+  email: ntnyq13@gmail.com
+  name: null
+  url: null
+  username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-social-share
 score: 0.6420260707166252
 stars: 34
@@ -58,7 +51,7 @@ watchers: 34
 
 :mega: Social sharing plugin for [VuePress](https://v2.vuepress.vuejs.org)
 
-:book: [Online demo and Docs](https://social-share.ntnyq.com)
+:book: [Online docs and examples](https://social-share.ntnyq.com)
 
 If you are upgrading this plugin to v2, See [Migration guide from v1](https://social-share.ntnyq.com/guide/#migration-from-v1).
 
