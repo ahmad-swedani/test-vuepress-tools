@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/10540493?v=4
-  email: null
-  name: tortorse
-  url: null
-  username: tortorse
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: tortorse
 bugs: https://github.com/tortorse/vuepress-plugin-tabs/issues
 category: plugin
 date: '2020-08-07T03:26:03.259Z'
 deprecated: false
 description: Vuepress plugin - Tabs Container for Vuepress without SASS
-downloads: null
+downloads: ~
 homepage: https://github.com/tortorse/vuepress-plugin-tabs#readme
 keywords:
-- vuepress-plugin
-- tabs
-- component
+  - vuepress-plugin
+  - tabs
+  - component
 license: Other
-maintainers: null
+maintainers:
+  - email: tortorse@gmail.com
+    username: tortorse
 name: vuepress-plugin-element-tabs-less
 npm: https://www.npmjs.com/package/vuepress-plugin-element-tabs-less
 publisher:
-  avatar: null
-  email: tortorse@gmail.com
-  name: null
-  url: null
-  username: tortorse
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: tortorse@gmail.com
+    username: tortorse
 repository: https://github.com/tortorse/vuepress-plugin-tabs
 score: 0.4585976027293285
 stars: 0
