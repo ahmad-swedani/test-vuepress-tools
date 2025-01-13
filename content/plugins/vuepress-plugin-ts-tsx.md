@@ -1,28 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/24647774?v=4
-  email: null
-  name: Tsz Lam
-  url: null
-  username: tlyau62
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Tsz Lam
 bugs: https://github.com/tlyau62/vuepress-plugin-ts-tsx/issues
 category: plugin
 date: '2021-10-18T09:00:24.909Z'
 deprecated: false
 description: A vuepress plugin that enable ts and tsx support.
-downloads: null
+downloads: ~
 homepage: https://github.com/tlyau62/vuepress-plugin-ts-tsx#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: yaurfu@gmail.com
+    username: tlyau62
 name: vuepress-plugin-ts-tsx
 npm: https://www.npmjs.com/package/vuepress-plugin-ts-tsx
 publisher:
-  avatar: null
-  email: yaurfu@gmail.com
-  name: null
-  url: null
-  username: tlyau62
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: yaurfu@gmail.com
+    username: tlyau62
 repository: https://github.com/tlyau62/vuepress-plugin-ts-tsx
 score: 0.5303019217887961
 stars: 0
