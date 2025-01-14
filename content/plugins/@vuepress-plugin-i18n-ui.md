@@ -1,55 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  email: null
+  name: Evan You
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugin
 date: '2018-09-26T17:48:12.230Z'
 deprecated: false
 description: i18n-ui plugin for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/vuejs/vuepress#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
+- documentation
+- vue
+- vuepress
+- generator
 license: MIT License
-maintainers:
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: florent.giraud.16@gmail.com
-    username: feltron
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: 472590061@qq.com
-    username: ulivz
+maintainers: null
 name: '@vuepress/plugin-i18n-ui'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-i18n-ui
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 472590061@qq.com
-    username: ulivz
+  avatar: null
+  email: 472590061@qq.com
+  name: null
+  url: null
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.15123940907217276
-stars: 22643
+stars: 22642
 unstable: true
 version: 1.0.0-alpha.0
-watchers: 22643
+watchers: 22642
 
 ---
 
