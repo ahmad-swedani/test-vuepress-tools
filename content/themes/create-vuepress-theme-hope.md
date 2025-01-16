@@ -1,44 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mister-hope@outlook.com
-    name: Mr.Hope
-    url: https://mrhope.site
+  email: mister-hope@outlook.com
+  name: Mr.Hope
+  url: https://mrhope.site
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: theme
 date: '2022-06-02T17:42:39.385Z'
 deprecated: false
 description: VuePress Theme Hope create shortcut
-downloads: ~
+downloads: null
 homepage: https://vuepress-theme-hope.github.io/v1/
 keywords:
-  - create
-  - vuepress
-  - vuepress-theme-hope
+- create
+- vuepress
+- vuepress-theme-hope
 license: MIT License
-maintainers:
-  - email: zhangbowang1998@gmail.com
-    username: mister-hope
+maintainers: null
 name: create-vuepress-theme-hope
 npm: https://www.npmjs.com/package/create-vuepress-theme-hope
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: zhangbowang1998@gmail.com
-    username: mister-hope
+  avatar: null
+  email: zhangbowang1998@gmail.com
+  name: null
+  url: null
+  username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6546137155045746
-stars: 2212
+stars: 2215
 unstable: false
 version: 1.30.0
-watchers: 2212
+watchers: 2215
 
 ---
 
@@ -75,10 +68,6 @@ A VuePress theme with tons of features✨
 ## [English Docs](https://theme-hope.vuejs.press/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
-
-## Special Sponsor
-
-[![Grey Software](https://vuepress-theme-hope.github.io/grey-software.svg)](https://grey.software/)
 
 ## Contact
 
