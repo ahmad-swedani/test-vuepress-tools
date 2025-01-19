@@ -1,54 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: meteorlxy
+  email: null
+  name: meteorlxy
+  url: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2020-12-01T02:25:31.280Z'
 deprecated: false
 description: VuePress plugin - docsearch
-downloads: ~
+downloads: null
 homepage: https://github.com/vuepress
 keywords:
-  - vuepress
-  - plugin
-  - docsearch
-  - search
-  - algolia
+- vuepress
+- plugin
+- docsearch
+- search
+- algolia
 license: MIT License
-maintainers:
-  - email: 472590061@qq.com
-    username: ulivz
-  - email: yyx990803@gmail.com
-    username: yyx990803
-  - email: newsbielt703@gmail.com
-    username: newsbielt703
-  - email: ben@bencodezen.io
-    username: bencodezen
-  - email: abgrallkefran@gmail.com
-    username: kefranabg
-  - email: meteor.lxy@foxmail.com
-    username: meteorlxy
+maintainers: null
 name: '@vuepress/plugin-docsearch'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-docsearch
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: meteor.lxy@foxmail.com
-    username: meteorlxy
+  avatar: null
+  email: meteor.lxy@foxmail.com
+  name: null
+  url: null
+  username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6445562772805036
-stars: 2424
+stars: 2425
 unstable: false
 version: 2.0.0-alpha.1
-watchers: 2424
+watchers: 2425
 
 ---
 

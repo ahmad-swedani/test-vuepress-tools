@@ -1,40 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/23133919?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: chl814@foxmail.com
-    name: ulivz
+  email: chl814@foxmail.com
+  name: ulivz
+  url: null
+  username: ulivz
 bugs: https://github.com/ulivz/vuepress-plugin-check-md/issues
 category: plugin
 date: '2020-11-22T01:25:51.184Z'
 deprecated: false
 description: checks dead links of markdown
-downloads: ~
+downloads: null
 homepage: https://github.com/ulivz/vuepress-plugin-check-md#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: starlight36@163.com
-    username: starlight36
+maintainers: null
 name: '@starlight36/vuepress-plugin-check-md'
 npm: https://www.npmjs.com/package/%40starlight36%2Fvuepress-plugin-check-md
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: starlight36@163.com
-    username: starlight36
+  avatar: null
+  email: starlight36@163.com
+  name: null
+  url: null
+  username: starlight36
 repository: https://github.com/ulivz/vuepress-plugin-check-md
 score: 0.05368982440851702
-stars: 25
+stars: 24
 unstable: true
 version: 0.0.3
-watchers: 25
+watchers: 24
 
 ---
 

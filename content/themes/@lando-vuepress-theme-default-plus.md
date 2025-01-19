@@ -1,42 +1,33 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/31605584?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: John Ouellet @labboy0276
+  email: null
+  name: John Ouellet @labboy0276
+  url: null
+  username: lando
 bugs: https://github.com/lando/vuepress-theme-default-plus/issues/new/choose/
 category: theme
 date: '2022-05-06T13:14:36.647Z'
 deprecated: false
 description: A VuePress 2 Theme that extends the default theme with some more power.
-downloads: ~
+downloads: null
 homepage: https://github.com/lando/vuepress-theme-default-plus
 keywords:
-  - lando
-  - vuepress
-  - vuepress2
-  - vuepress2-theme
-  - vuepress2-plugin
+- lando
+- vuepress
+- vuepress2
+- vuepress2-theme
+- vuepress2-plugin
 license: GNU General Public License v3.0
-maintainers:
-  - email: john@lando.dev
-    username: labboy0276
-  - email: mike@lando.dev
-    username: pirog
-  - email: alec@lando.dev
-    username: reynoldsalec
+maintainers: null
 name: '@lando/vuepress-theme-default-plus'
 npm: https://www.npmjs.com/package/%40lando%2Fvuepress-theme-default-plus
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: mike@lando.dev
-    username: pirog
+  avatar: null
+  email: mike@lando.dev
+  name: null
+  url: null
+  username: pirog
 repository: https://github.com/lando/vuepress-theme-default-plus
 score: 0.5130974368136776
 stars: 9
