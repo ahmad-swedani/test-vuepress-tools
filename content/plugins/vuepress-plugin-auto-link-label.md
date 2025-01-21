@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1549175?v=4
-  email: null
-  name: Shinichiro MORI
-  url: null
-  username: smori1983
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Shinichiro MORI
 bugs: https://github.com/smori1983/vuepress-plugin-auto-link-label/issues
 category: plugin
 date: '2022-01-29T04:04:47.598Z'
 deprecated: false
 description: VuePress plugin to replace link label.
-downloads: null
+downloads: ~
 homepage: https://github.com/smori1983/vuepress-plugin-auto-link-label#readme
 keywords:
-- vuepress
-- vuepress-plugin
-- markdown-it
+  - vuepress
+  - vuepress-plugin
+  - markdown-it
 license: MIT License
-maintainers: null
+maintainers:
+  - email: shinichiro.mori.1983@gmail.com
+    username: smori1983
 name: vuepress-plugin-auto-link-label
 npm: https://www.npmjs.com/package/vuepress-plugin-auto-link-label
 publisher:
-  avatar: null
-  email: shinichiro.mori.1983@gmail.com
-  name: null
-  url: null
-  username: smori1983
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: shinichiro.mori.1983@gmail.com
+    username: smori1983
 repository: https://github.com/smori1983/vuepress-plugin-auto-link-label
 score: 0.4942089051617393
 stars: 0
