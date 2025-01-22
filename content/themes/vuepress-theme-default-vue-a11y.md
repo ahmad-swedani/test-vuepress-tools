@@ -1,28 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/38933658?v=4
-  email: ktquez@gmail.com
-  name: Alan Ktquez
-  url: https://github.com/ktquez
-  username: ktquez
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ktquez@gmail.com
+    name: Alan Ktquez
+    url: https://github.com/ktquez
+    username: ktquez
 bugs: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y/issues
 category: theme
 date: '2020-07-01T19:31:49.061Z'
 deprecated: false
 description: Vuepress theme for vue-a11y documentation
-downloads: null
+downloads: ~
 homepage: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: kevin.deisz@gmail.com
+    username: kddeisz
+  - email: ktquez@gmail.com
+    username: ktquez
+  - email: marialamardo@outlook.com
+    username: mlama007
 name: vuepress-theme-default-vue-a11y
 npm: https://www.npmjs.com/package/vuepress-theme-default-vue-a11y
 publisher:
-  avatar: null
-  email: ktquez@gmail.com
-  name: null
-  url: null
-  username: ktquez
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ktquez@gmail.com
+    username: ktquez
 repository: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y
 score: 0.42661946236714865
 stars: 6
