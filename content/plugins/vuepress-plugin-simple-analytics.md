@@ -1,36 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/42113132?v=4
-  email: null
-  name: Simple Analytics
-  url: null
-  username: simpleanalytics
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Simple Analytics
 bugs: https://github.com/simpleanalytics/vuepress-plugin/issues
 category: plugin
 date: '2020-04-11T15:06:40.432Z'
 deprecated: false
 description: Script to collect analytics for Simple Analytics
-downloads: null
+downloads: ~
 homepage: https://simpleanalytics.com/
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- plugin
-- simple analytics
-- simple-analytics
-- simpleanalytics
-- analytics
-license: false
-maintainers: null
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - plugin
+  - simple analytics
+  - simple-analytics
+  - simpleanalytics
+  - analytics
+license: ~
+maintainers:
+  - email: npm.19301@simpleanalytics.io
+    username: simpleanalytics
 name: vuepress-plugin-simple-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-simple-analytics
 publisher:
-  avatar: null
-  email: npm.19301@simpleanalytics.io
-  name: null
-  url: null
-  username: simpleanalytics
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: npm.19301@simpleanalytics.io
+    username: simpleanalytics
 repository: https://github.com/simpleanalytics/vuepress-plugin
 score: 0.3653668122224366
 stars: 2
