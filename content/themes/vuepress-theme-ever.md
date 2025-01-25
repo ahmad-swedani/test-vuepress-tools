@@ -1,45 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6128107?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Evan You
+  email: null
+  name: Evan You
+  url: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: theme
 date: '2021-07-06T08:38:50.628Z'
 deprecated: false
 description: uepress-theme-docs theme for VuePress
-downloads: ~
-homepage: >-
-  https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-default#readme
+downloads: null
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-default#readme
 keywords:
-  - documentation
-  - generator
-  - vue
-  - vuepress
-  - uepress-theme-ever
+- documentation
+- generator
+- vue
+- vuepress
+- uepress-theme-ever
 license: MIT License
-maintainers:
-  - email: xunzhaotech@aliyun.com
-    username: ly15811762431
+maintainers: null
 name: vuepress-theme-ever
 npm: https://www.npmjs.com/package/vuepress-theme-ever
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xunzhaotech@aliyun.com
-    username: xunzhaotech
+  avatar: null
+  email: xunzhaotech@aliyun.com
+  name: null
+  url: null
+  username: xunzhaotech
 repository: https://github.com/vuejs/vuepress
 score: 0.1489594099636329
-stars: 22652
+stars: 22651
 unstable: true
 version: 0.0.1
-watchers: 22652
+watchers: 22651
 
 ---
 
