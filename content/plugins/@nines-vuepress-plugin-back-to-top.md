@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/64388301?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: wangjia_1919@163.com
+  email: null
+  name: wangjia_1919@163.com
+  url: null
+  username: nine-theme
 bugs: https://github.com/nine-theme/vuepress-plugin-back-to-top/issues
 category: plugin
 date: '2020-08-13T01:38:36.301Z'
 deprecated: false
 description: vuepress back to top plugin
-downloads: ~
+downloads: null
 homepage: https://github.com/nine-theme/vuepress-plugin-back-to-top#readme
 keywords:
-  - vue
-  - vuepress
-  - back-to-top
+- vue
+- vuepress
+- back-to-top
 license: MIT License
-maintainers:
-  - email: wangjia_1919@163.com
-    username: wangjia_1919
+maintainers: null
 name: '@nines/vuepress-plugin-back-to-top'
 npm: https://www.npmjs.com/package/%40nines%2Fvuepress-plugin-back-to-top
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: wangjia_1919@163.com
-    username: wangjia_1919
+  avatar: null
+  email: wangjia_1919@163.com
+  name: null
+  url: null
+  username: wangjia_1919
 repository: https://github.com/nine-theme/vuepress-plugin-back-to-top
 score: 0.43669546359852857
 stars: 0
