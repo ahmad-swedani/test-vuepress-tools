@@ -1,29 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/87758778?v=4
-  email: aibayanyu@qq.com
-  name: aibayanyu
-  url: https://www.28yanyu.cn
-  username: aibayanyu
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: aibayanyu@qq.com
+    name: aibayanyu
+    url: https://www.28yanyu.cn
+    username: aibayanyu
 bugs: https://github.com/yanyu-fe/vuepress-plugins/issues
 category: plugin
 date: '2022-05-31T15:14:17.040Z'
 deprecated: false
-description: "vuepress@v2\u4EE3\u7801\u5B9E\u73B0\u4EE3\u7801\u5757demo\u5C55\u793A"
-downloads: null
+description: vuepress@v2代码实现代码块demo展示
+downloads: ~
 homepage: https://github.com/yanyu-fe/vuepress-plugins#readme
 keywords:
-- vuepress-plugin
-license: false
-maintainers: null
+  - vuepress-plugin
+license: ~
+maintainers:
+  - email: aibayanyu@qq.com
+    username: aibayanyu
 name: '@yanyu-fe/vuepress-plugin-code-block'
 npm: https://www.npmjs.com/package/%40yanyu-fe%2Fvuepress-plugin-code-block
 publisher:
-  avatar: null
-  email: aibayanyu@qq.com
-  name: null
-  url: null
-  username: aibayanyu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: aibayanyu@qq.com
+    username: aibayanyu
 repository: https://github.com/yanyu-fe/vuepress-plugins
 score: 0.5749802150971681
 stars: 22
