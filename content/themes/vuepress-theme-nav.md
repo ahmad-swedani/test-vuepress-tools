@@ -1,35 +1,30 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/42461471?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: nav
+  email: null
+  name: nav
+  url: null
+  username: zeroNav
 bugs: https://github.com/zeroNav/vuepress-theme-nav/issues
 category: theme
 date: '2018-09-07T06:59:30.215Z'
 deprecated: false
 description: Vuepress theme - nav
-downloads: ~
+downloads: null
 homepage: https://github.com/zeroNav/vuepress-theme-nav
 keywords:
-  - vuepress
-  - theme
+- vuepress
+- theme
 license: MIT License
-maintainers:
-  - email: nooldey@gmail.com
-    username: nooldey
+maintainers: null
 name: vuepress-theme-nav
 npm: https://www.npmjs.com/package/vuepress-theme-nav
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: nooldey@gmail.com
-    username: nooldey
+  avatar: null
+  email: nooldey@gmail.com
+  name: null
+  url: null
+  username: nooldey
 repository: https://github.com/zeroNav/vuepress-theme-nav
 score: 0.3858915182254239
 stars: 0
