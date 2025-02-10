@@ -1,34 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/24715727?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ocavue#gmail.com
-    name: ocavue
+  email: ocavue#gmail.com
+  name: ocavue
+  url: null
+  username: ocavue
 bugs: https://github.com/ocavue/vuepress-theme-blogue/issues
 category: theme
 date: '2020-12-27T14:17:51.010Z'
 deprecated: false
 description: '> A [VuePress](https://vuepress.vuejs.org/) theme made for blog'
-downloads: ~
+downloads: null
 homepage: https://github.com/ocavue/vuepress-theme-blogue#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: ocavue@gmail.com
-    username: ocavue
+maintainers: null
 name: vuepress-theme-blogue
 npm: https://www.npmjs.com/package/vuepress-theme-blogue
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: ocavue@gmail.com
-    username: ocavue
+  avatar: null
+  email: ocavue@gmail.com
+  name: null
+  url: null
+  username: ocavue
 repository: https://github.com/ocavue/vuepress-theme-blogue
 score: 0.42000828700357384
 stars: 12
