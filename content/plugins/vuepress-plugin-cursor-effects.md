@@ -1,37 +1,32 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: Nyakku Shigure
+  email: null
+  name: Nyakku Shigure
+  url: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-cursor-effects/issues
 category: plugin
 date: '2022-05-21T09:54:40.613Z'
 deprecated: false
 description: Add a cute click effect to your mouse in your vuepress!
-downloads: ~
+downloads: null
 homepage: https://github.com/moefyit/vuepress-plugin-cursor-effects#readme
 keywords:
-  - vuepress
-  - plugin
-  - cursor
-  - effects
+- vuepress
+- plugin
+- cursor
+- effects
 license: MIT License
-maintainers:
-  - email: sigure.qaq@gmail.com
-    username: sigure_mo
+maintainers: null
 name: vuepress-plugin-cursor-effects
 npm: https://www.npmjs.com/package/vuepress-plugin-cursor-effects
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: sigure.qaq@gmail.com
-    username: sigure_mo
+  avatar: null
+  email: sigure.qaq@gmail.com
+  name: null
+  url: null
+  username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-cursor-effects
 score: 0.5673242622989161
 stars: 23
@@ -53,8 +48,8 @@ watchers: 23
    <a href="https://github.com/moefyit/vuepress-plugin-cursor-effects/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-cursor-effects?style=flat-square"></a>
 </p>
 
--  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  Live demo: [notev](https://nyakku.moe/)
+- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+- Live demo: [notev](https://nyakku.moe/)
 
 > Want to use it outside of VuePress1.x? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
 
@@ -93,4 +88,4 @@ module.exports = {
 
 ## Thanks
 
--  [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/cursor-effects.js)
+- [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/cursor-effects.js)
