@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/62002212?v=4
-  email: null
-  name: Saweima
-  url: null
-  username: saweima12
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Saweima
 bugs: https://github.com/saweima12/vuepress-theme-saweicore/issues
 category: theme
 date: '2020-08-31T14:55:56.422Z'
 deprecated: false
 description: Custom theme for saweima's blog.
-downloads: null
+downloads: ~
 homepage: https://github.com/saweima12/vuepress-theme-saweicore#readme
 keywords:
-- vuepress
-- vuepress-theme
-- blog
+  - vuepress
+  - vuepress-theme
+  - blog
 license: MIT License
-maintainers: null
+maintainers:
+  - email: saweima12@gmail.com
+    username: saweima12
 name: vuepress-theme-saweicore
 npm: https://www.npmjs.com/package/vuepress-theme-saweicore
 publisher:
-  avatar: null
-  email: saweima12@gmail.com
-  name: null
-  url: null
-  username: saweima12
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: saweima12@gmail.com
+    username: saweima12
 repository: https://github.com/saweima12/vuepress-theme-saweicore
 score: 0.47595847347563536
 stars: 1

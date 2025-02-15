@@ -1,31 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/3874900?v=4
-  email: null
-  name: null
-  url: null
+  email: ~
+  name: ~
+  url: ~
   username: simonbrunel
 bugs: https://github.com/simonbrunel/vuepress-theme-chartjs/issues
 category: theme
 date: '2021-03-26T07:21:11.397Z'
 deprecated: false
 description: VuePress theme for projects in the Chart.js organization.
-downloads: null
+downloads: ~
 homepage: https://github.com/simonbrunel/vuepress-theme-chartjs#readme
 keywords:
-- vuepress
-- theme
-- chartjs
+  - vuepress
+  - theme
+  - chartjs
 license: MIT License
-maintainers: null
+maintainers:
+  - email: s.b.npmjs@abysscorp.org
+    username: simonbrunel
 name: vuepress-theme-chartjs
 npm: https://www.npmjs.com/package/vuepress-theme-chartjs
 publisher:
-  avatar: null
-  email: s.b.npmjs@abysscorp.org
-  name: null
-  url: null
-  username: simonbrunel
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: s.b.npmjs@abysscorp.org
+    username: simonbrunel
 repository: https://github.com/simonbrunel/vuepress-theme-chartjs
 score: 0.27088752838697305
 stars: 5
