@@ -1,30 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19325842?v=4
-  email: null
-  name: yanjun0501
-  url: null
-  username: yanjun0501
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: yanjun0501
 bugs: https://github.com/yanjun0501/vuepress-plugin-live2d/issues
 category: plugin
 date: '2019-10-12T03:55:26.140Z'
 deprecated: false
 description: A vuepress plugin for live2d~
-downloads: null
+downloads: ~
 homepage: https://github.com/yanjun0501/vuepres-plugin-live2d
 keywords:
-- vuepress
-- live2d
-license: false
-maintainers: null
+  - vuepress
+  - live2d
+license: ~
+maintainers:
+  - email: i@yanjun-forever.cn
+    username: yanjun0501
 name: vuepress-plugin-live2d
 npm: https://www.npmjs.com/package/vuepress-plugin-live2d
 publisher:
-  avatar: null
-  email: i@yanjun-forever.cn
-  name: null
-  url: null
-  username: yanjun0501
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: i@yanjun-forever.cn
+    username: yanjun0501
 repository: https://github.com/yanjun0501/vuepress-plugin-live2d
 score: 0.3727230778995135
 stars: 20
