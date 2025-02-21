@@ -1,46 +1,41 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5212214?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: gaoyi
-    url: Evan
+  email: null
+  name: gaoyi
+  url: Evan
+  username: xugaoyi
 bugs: https://github.com/xugaoyi/vuepress-theme-vdoing/issues
 category: theme
 date: '2022-06-03T12:41:05.578Z'
 deprecated: false
-description: Vdoing theme for VuePress. 一个基于VuePress的知识管理兼博客主题。
-downloads: ~
+description: "Vdoing theme for VuePress. \u4E00\u4E2A\u57FA\u4E8EVuePress\u7684\u77E5\
+  \u8BC6\u7BA1\u7406\u517C\u535A\u5BA2\u4E3B\u9898\u3002"
+downloads: null
 homepage: https://github.com/xugaoyi/vuepress-theme-vdoing#readme
 keywords:
-  - documentation
-  - vue
-  - vuepress
-  - generator
-  - theme
-  - blog
+- documentation
+- vue
+- vuepress
+- generator
+- theme
+- blog
 license: MIT License
-maintainers:
-  - email: 894072666@qq.com
-    username: evan_xu
+maintainers: null
 name: vuepress-theme-vdoing
 npm: https://www.npmjs.com/package/vuepress-theme-vdoing
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 894072666@qq.com
-    username: evan_xu
+  avatar: null
+  email: 894072666@qq.com
+  name: null
+  url: null
+  username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.6281538221875261
-stars: 4670
+stars: 4671
 unstable: false
 version: 1.12.3
-watchers: 4670
+watchers: 4671
 
 ---
 
