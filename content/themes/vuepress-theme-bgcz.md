@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/15625370?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: 半个橙子
+  email: null
+  name: "\u534A\u4E2A\u6A59\u5B50"
+  url: null
+  username: ZjBlog
 bugs: https://github.com/ZjBlog/vuepress-theme-zjblog/issues
 category: theme
 date: '2019-06-06T02:53:30.557Z'
 deprecated: false
 description: vuepress-theme
-downloads: ~
+downloads: null
 homepage: https://github.com/ZjBlog/vuepress-theme-zjblog#README.md
 keywords:
-  - vuepress
-  - theme
-  - vuepress-theme
+- vuepress
+- theme
+- vuepress-theme
 license: Apache License 2.0
-maintainers:
-  - email: 13552960783@163.com
-    username: zhangjuntracy
+maintainers: null
 name: vuepress-theme-bgcz
 npm: https://www.npmjs.com/package/vuepress-theme-bgcz
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: 13552960783@163.com
-    username: zhangjuntracy
+  avatar: null
+  email: 13552960783@163.com
+  name: null
+  url: null
+  username: zhangjuntracy
 repository: https://github.com/ZjBlog/vuepress-theme-zjblog
 score: 0.43977801514574977
 stars: 3
