@@ -1,31 +1,36 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22881872?v=4
-  email: null
-  name: "\u541B\u60DC"
-  url: null
-  username: xinlei3166
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: 君惜
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
 date: '2021-08-17T10:31:38.774Z'
 deprecated: false
 description: vuepress plugin for demoblock
-downloads: null
+downloads: ~
 homepage: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus#readme
 keywords:
-- vuepress
-- vue
-- plugin
+  - vuepress
+  - vue
+  - plugin
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 877824709@qq.com
+    username: cunzaizhuyi
 name: vuepress-plugin-demoblock-next
 npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-next
 publisher:
-  avatar: null
-  email: 877824709@qq.com
-  name: null
-  url: null
-  username: cunzaizhuyi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 877824709@qq.com
+    username: cunzaizhuyi
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
 score: 0.1894778586750976
 stars: 29
