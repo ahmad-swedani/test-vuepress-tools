@@ -1,28 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/2225278?v=4
-  email: ahmader@gmail.com
-  name: ahmader
-  url: null
-  username: ahmader
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ahmader@gmail.com
+    name: ahmader
+    username: ahmader
 bugs: https://github.com/ahmader/vuepress-theme/issues
 category: theme
 date: '2020-09-14T21:37:16.946Z'
 deprecated: false
-description: null
-downloads: null
+downloads: ~
 homepage: https://github.com/ahmader/vuepress-theme#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: ahmader@gmail.com
+    username: ahmader
 name: ahmader-vuepress-theme
 npm: https://www.npmjs.com/package/ahmader-vuepress-theme
 publisher:
-  avatar: null
-  email: ahmader@gmail.com
-  name: null
-  url: null
-  username: ahmader
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ahmader@gmail.com
+    username: ahmader
 repository: https://github.com/ahmader/vuepress-theme
 score: 0.31774962344543617
 stars: 0
