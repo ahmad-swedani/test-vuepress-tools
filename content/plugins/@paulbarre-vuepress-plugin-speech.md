@@ -1,38 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/19966190?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: contact@paulbarre.co
-    name: Paul Barré
-    username: paulbarre
+  email: contact@paulbarre.co
+  name: "Paul Barr\xE9"
+  url: null
+  username: paulbarre
 bugs: https://github.com/paulbarre/vuepress-plugin-speech/issues
 category: plugin
 date: '2020-05-06T15:03:27.696Z'
 deprecated: false
 description: VuePress plugin for Web Speech API
-downloads: ~
+downloads: null
 homepage: https://github.com/paulbarre/vuepress-plugin-speech#readme
 keywords:
-  - vuepress
-  - plugin
-  - web speech
+- vuepress
+- plugin
+- web speech
 license: GNU General Public License v3.0
-maintainers:
-  - email: contact@paulbarre.co
-    username: paulbarre
+maintainers: null
 name: '@paulbarre/vuepress-plugin-speech'
 npm: https://www.npmjs.com/package/%40paulbarre%2Fvuepress-plugin-speech
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: contact@paulbarre.co
-    username: paulbarre
+  avatar: null
+  email: contact@paulbarre.co
+  name: null
+  url: null
+  username: paulbarre
 repository: https://github.com/paulbarre/vuepress-plugin-speech
 score: 0.45011855501224884
 stars: 1
