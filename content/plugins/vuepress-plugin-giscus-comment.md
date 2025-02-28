@@ -1,44 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/13284800?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: debe3721@gmail.com
-    name: PresentKim
-    username: presentkim
+  email: debe3721@gmail.com
+  name: PresentKim
+  url: null
+  username: presentkim
 bugs: https://github.com/PresentKim/vuepress-plugin-giscus-comment/issues
 category: plugin
 date: '2022-03-25T03:15:33.177Z'
 deprecated: false
-description: >-
-  [![npm](https://img.shields.io/npm/v/vuepress-plugin-giscus-comment.svg)](https://www.npmjs.com/package/vuepress-plugin-giscus-comment)
-  [![GitHub
-  license](https://img.shields.io/github/license/PresentKim/vuepress-plugin-giscus-comment.svg)](https://github
-downloads: ~
+description: '[![npm](https://img.shields.io/npm/v/vuepress-plugin-giscus-comment.svg)](https://www.npmjs.com/package/vuepress-plugin-giscus-comment)
+  [![GitHub license](https://img.shields.io/github/license/PresentKim/vuepress-plugin-giscus-comment.svg)](https://github'
+downloads: null
 homepage: https://github.com/PresentKim/vuepress-plugin-giscus-comment#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: debe3721@gmail.com
-    username: presentkim
+maintainers: null
 name: vuepress-plugin-giscus-comment
 npm: https://www.npmjs.com/package/vuepress-plugin-giscus-comment
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: debe3721@gmail.com
-    username: presentkim
+  avatar: null
+  email: debe3721@gmail.com
+  name: null
+  url: null
+  username: presentkim
 repository: https://github.com/PresentKim/vuepress-plugin-giscus-comment
 score: 0.5436716130593746
-stars: 2
+stars: 3
 unstable: false
 version: 2.0.0
-watchers: 2
+watchers: 3
 
 ---
 
