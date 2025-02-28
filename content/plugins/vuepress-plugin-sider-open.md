@@ -1,33 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/39508895?v=4
-  email: null
-  name: boses
-  url: null
-  username: bosens-China
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: boses
 bugs: https://github.com/bosens-China/Typescript-manual/issues
 category: plugin
 date: '2020-01-11T11:08:03.676Z'
 deprecated: false
-description: "Vuepress menu expand and collapse plug-in;vuePress\u83DC\u5355\u5C55\
-  \u5F00\u6536\u8D77\u63D2\u4EF6"
-downloads: null
+description: Vuepress menu expand and collapse plug-in;vuePress菜单展开收起插件
+downloads: ~
 homepage: https://github.com/bosens-China/Typescript-manual#readme
 keywords:
-- vuePress
-- plugins
-- sider
-- open
+  - vuePress
+  - plugins
+  - sider
+  - open
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 1123598783@qq.com
+    username: cs-xy
 name: vuepress-plugin-sider-open
 npm: https://www.npmjs.com/package/vuepress-plugin-sider-open
 publisher:
-  avatar: null
-  email: 1123598783@qq.com
-  name: null
-  url: null
-  username: boses
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 1123598783@qq.com
+    username: boses
 repository: https://github.com/bosens-China/Typescript-manual
 score: 0.17827373250740955
 stars: 53
