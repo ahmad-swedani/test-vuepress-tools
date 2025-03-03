@@ -1,35 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/29454156?v=4
-  email: renovamenzxh@gmail.com
-  name: Renovamen
-  url: null
-  username: renovamen
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: renovamenzxh@gmail.com
+    name: Renovamen
+    username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: theme
 date: '2021-11-22T16:26:40.506Z'
 deprecated: false
 description: Gungnir is a blog theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-gungnir.vercel.app
 keywords:
-- vuepress
-- blog
-- theme
-- katex
-- chartjs
-- mermaid
-- roughviz
+  - vuepress
+  - blog
+  - theme
+  - katex
+  - chartjs
+  - mermaid
+  - roughviz
 license: Apache License 2.0
-maintainers: null
+maintainers:
+  - email: renovamenzxh@gmail.com
+    username: renovamen
 name: vuepress-theme-gungnir
 npm: https://www.npmjs.com/package/vuepress-theme-gungnir
 publisher:
-  avatar: null
-  email: renovamenzxh@gmail.com
-  name: null
-  url: null
-  username: renovamen
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: renovamenzxh@gmail.com
+    username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5424095713465957
 stars: 369
