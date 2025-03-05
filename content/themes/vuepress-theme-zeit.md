@@ -1,28 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/11304944?v=4
-  email: lambdas.dev@gmail.com
-  name: unix
-  url: null
-  username: unix
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: lambdas.dev@gmail.com
+    name: unix
 bugs: https://github.com/unix/vuepress-theme-zeit/issues
 category: theme
 date: '2019-07-03T01:22:03.198Z'
 deprecated: false
 description: '> a vuepress theme for zeit design'
-downloads: null
+downloads: ~
 homepage: https://github.com/unix/vuepress-theme-zeit#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: unix.bio@gmail.com
+    username: echo_unix
 name: vuepress-theme-zeit
 npm: https://www.npmjs.com/package/vuepress-theme-zeit
 publisher:
-  avatar: null
-  email: lambdas.dev@gmail.com
-  name: null
-  url: null
-  username: wittbulter
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: lambdas.dev@gmail.com
+    username: wittbulter
 repository: https://github.com/unix/vuepress-theme-zeit
 score: 0.3246837375114149
 stars: 6
