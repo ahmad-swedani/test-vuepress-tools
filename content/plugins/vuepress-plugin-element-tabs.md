@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/118353356?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: superbiger
+  email: null
+  name: superbiger
+  url: null
+  username: superbiger
 bugs: https://github.com/superbiger/vuepress-plugin-tabs/issues
 category: plugin
 date: '2020-01-01T21:19:16.930Z'
 deprecated: false
 description: Vuepress plugin - Tabs Container for Vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/superbiger/vuepress-plugin-tabs#readme
 keywords:
-  - vuepress-plugin
-  - tabs
-  - component
+- vuepress-plugin
+- tabs
+- component
 license: Other
-maintainers:
-  - email: superbiger@qq.com
-    username: sbiger
+maintainers: null
 name: vuepress-plugin-element-tabs
 npm: https://www.npmjs.com/package/vuepress-plugin-element-tabs
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: superbiger@qq.com
-    username: sbiger
+  avatar: null
+  email: superbiger@qq.com
+  name: null
+  url: null
+  username: sbiger
 repository: https://github.com/superbiger/vuepress-plugin-tabs
 score: 0.342414682482598
 stars: 1
