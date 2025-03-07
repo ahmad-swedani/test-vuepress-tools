@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: null
-  name: Evan You
-  url: null
-  username: vuepress-theme-hope
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/vuepress-theme-hope/hope-runtime/issues
 category: theme
 date: '2021-10-31T06:53:16.754Z'
 deprecated: false
 description: Default theme for VuePress
-downloads: null
-homepage: https://github.com/vuepress-theme-hope/hope-runtime/blob/main/packages/vuepress-theme-default#readme
+downloads: ~
+homepage: >-
+  https://github.com/vuepress-theme-hope/hope-runtime/blob/main/packages/vuepress-theme-default#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: zhangbowang1998@gmail.com
+    username: mister-hope
 name: '@mr-hope/vuepress-theme-default'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-theme-default
 publisher:
-  avatar: null
-  email: zhangbowang1998@gmail.com
-  name: null
-  url: null
-  username: mister-hope
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: zhangbowang1998@gmail.com
+    username: mister-hope
 repository: https://github.com/vuepress-theme-hope/hope-runtime
 score: 0.5952333621333226
 stars: 1
