@@ -1,42 +1,34 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/16745751?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    name: pengzhanbo
-    username: pengzhanbo
+  email: volodymyr@foxmail.com
+  name: pengzhanbo
+  url: null
+  username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugin
 date: '2022-05-17T21:45:20.120Z'
 deprecated: false
 description: The Plugin for VuePres 2, Support Netlify Functions
-downloads: ~
+downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
 keywords:
-  - VuePress
-  - vuepress plugin
-  - netlify
-  - netlify functions
-  - netlifyFunctions
-  - vuepress-plugin-plugin-netlify-functions
+- VuePress
+- vuepress plugin
+- netlify
+- netlify functions
+- netlifyFunctions
+- vuepress-plugin-plugin-netlify-functions
 license: MIT License
-maintainers:
-  - email: volodymyr@foxmail.com
-    username: pengzhanbo
+maintainers: null
 name: '@vuepress-plume/vuepress-plugin-netlify-functions'
-npm: >-
-  https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-netlify-functions
+npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-netlify-functions
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: volodymyr@foxmail.com
-    username: pengzhanbo
+  avatar: null
+  email: volodymyr@foxmail.com
+  name: null
+  url: null
+  username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.501360072968948
 stars: 202
@@ -47,8 +39,9 @@ watchers: 202
 ---
 
 <h1 align="center">vuepress-theme-plume</h1>
+
 <p align="center">
-<img src="https://theme-plume.vuejs.press/plume.svg" width="200px" alt="plume">
+  <img src="https://theme-plume.vuejs.press/plume.svg" width="200px" alt="plume">
 </p>
 
 <p align="center">
@@ -64,7 +57,10 @@ watchers: 202
   <a href="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume" >
   <img src="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume/graph/badge.svg?token=W6KYBX7WO5" alt="codecov"/>
   </a>
+</p>
 
+<p align="center">
+中文 | <a href="/readme_en.md">English</a>
 </p>
 
 一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
