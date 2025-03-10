@@ -1,28 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/6147452?v=4
-  email: null
-  name: Axway Appcelerator
-  url: null
-  username: tidev
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Axway Appcelerator
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: theme
 date: '2022-05-23T15:15:48.043Z'
 deprecated: false
 description: VuePress theme for Titanium projects
-downloads: null
+downloads: ~
 homepage: https://github.com/appcelerator/docs-devkit#readme
-keywords: null
-license: false
-maintainers: null
+keywords: ~
+license: ~
+maintainers:
+  - email: chris@cb1inc.com
+    username: cb1kenobi
+  - email: ewanharris93@gmail.com
+    username: awam
+  - email: tidev@cb1inc.com
+    username: tisdk
 name: vuepress-theme-titanium
 npm: https://www.npmjs.com/package/vuepress-theme-titanium
 publisher:
-  avatar: null
-  email: chris@cb1inc.com
-  name: null
-  url: null
-  username: cb1kenobi
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: chris@cb1inc.com
+    username: cb1kenobi
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.5055258079672408
 stars: 24
