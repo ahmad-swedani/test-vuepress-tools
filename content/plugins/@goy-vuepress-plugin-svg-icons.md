@@ -1,33 +1,40 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/22659150?v=4
-  email: ntnyq13@gmail.com
-  name: ntnyq
-  url: null
-  username: ntnyq
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ntnyq13@gmail.com
+    name: ntnyq
+    username: ntnyq
 bugs: https://github.com/ntnyq/vuepress-plugin-svg-icons/issues
 category: plugin
 date: '2022-05-24T11:07:56.120Z'
 deprecated: false
 description: SVG sprite icon plugin for VuePress
-downloads: null
+downloads: ~
 homepage: https://vp-icon.goyfe.com
 keywords:
-- vuepress-plugin
-- vuepress
-- svg-sprite-icon
-- svg-sprite
-- icon
+  - vuepress-plugin
+  - vuepress
+  - svg-sprite-icon
+  - svg-sprite
+  - icon
 license: MIT License
-maintainers: null
+maintainers:
+  - email: ntnyq13@gmail.com
+    username: ntnyq
 name: '@goy/vuepress-plugin-svg-icons'
 npm: https://www.npmjs.com/package/%40goy%2Fvuepress-plugin-svg-icons
 publisher:
-  avatar: null
-  email: ntnyq13@gmail.com
-  name: null
-  url: null
-  username: ntnyq
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: ntnyq13@gmail.com
+    username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-svg-icons
 score: 0.5770954397610635
 stars: 20
