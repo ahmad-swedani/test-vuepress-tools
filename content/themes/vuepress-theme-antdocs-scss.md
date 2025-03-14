@@ -1,34 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/49757965?v=4
-  email: null
-  name: Feng L.H.
-  url: null
-  username: zpfz
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Feng L.H.
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
 category: theme
 date: '2020-07-03T04:28:50.636Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/zpfz/vuepress-theme-antdocs#readme
 keywords:
-- theme
-- vuepress
-- vuepress-theme
-- antd
-- antdocs
-- ant-design
+  - theme
+  - vuepress
+  - vuepress-theme
+  - antd
+  - antdocs
+  - ant-design
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 173581251@qq.com
+    username: wenfangcao
 name: vuepress-theme-antdocs-scss
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs-scss
 publisher:
-  avatar: null
-  email: 173581251@qq.com
-  name: null
-  url: null
-  username: wenfangcao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 173581251@qq.com
+    username: wenfangcao
 repository: https://github.com/zpfz/vuepress-theme-antdocs
 score: 0.1500572226069477
 stars: 219
