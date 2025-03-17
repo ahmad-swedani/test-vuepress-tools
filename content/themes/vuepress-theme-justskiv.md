@@ -1,33 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/781362?v=4
-  email: tuzov.n@gmail.com
-  name: JustSkiv
-  url: null
-  username: JustSkiv
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: tuzov.n@gmail.com
+    name: JustSkiv
 bugs: https://github.com/JustSkiv/vuepress-theme-justskiv/issues
 category: theme
 date: '2022-02-18T12:00:40.754Z'
 deprecated: false
 description: A flat and clean Blog Theme for VuePress site
-downloads: null
+downloads: ~
 homepage: https://github.com/JustSkiv/vuepress-theme-justskiv/
 keywords:
-- vuepress-theme-blog
-- vuepress-theme
-- blog-theme
-- vue
-- vuepress
+  - vuepress-theme-blog
+  - vuepress-theme
+  - blog-theme
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: just.skiv@gmail.com
+    username: justskiv
 name: vuepress-theme-justskiv
 npm: https://www.npmjs.com/package/vuepress-theme-justskiv
 publisher:
-  avatar: null
-  email: just.skiv@gmail.com
-  name: null
-  url: null
-  username: justskiv
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: just.skiv@gmail.com
+    username: justskiv
 repository: https://github.com/JustSkiv/vuepress-theme-justskiv
 score: 0.5028981881637643
 stars: 0

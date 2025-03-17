@@ -1,35 +1,43 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/25240064?v=4
-  email: 2434387555@qq.com
-  name: JoeyBling
-  url: https://zhousiwei.gitee.io
-  username: zhousiwei
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    name: JoeyBling
+    url: https://zhousiwei.gitee.io
+    username: zhousiwei
 bugs: https://github.com/JoeyBling/vuepress-plugin-helper-live2d/issues
 category: plugin
 date: '2020-05-25T03:25:04.763Z'
 deprecated: false
-description: "VuePress\u96C6\u6210Live2D\u770B\u677F\u5A18. Live2D plugin for VuePress."
-downloads: null
+description: VuePress集成Live2D看板娘. Live2D plugin for VuePress.
+downloads: ~
 homepage: https://github.com/JoeyBling/vuepress-plugin-helper-live2d
 keywords:
-- vue
-- vuepress
-- vuepress-plugin
-- helper-live2d
-- live2d
-- "\u770B\u677F\u5A18"
-- yilia-plus
+  - vue
+  - vuepress
+  - vuepress-plugin
+  - helper-live2d
+  - live2d
+  - 看板娘
+  - yilia-plus
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2434387555@qq.com
+    username: zhousiwei
 name: vuepress-plugin-helper-live2d
 npm: https://www.npmjs.com/package/vuepress-plugin-helper-live2d
 publisher:
-  avatar: null
-  email: 2434387555@qq.com
-  name: null
-  url: null
-  username: zhousiwei
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2434387555@qq.com
+    username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-helper-live2d
 score: 0.3905962477407292
 stars: 44
