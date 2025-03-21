@@ -1,35 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/17166940?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: phshy0607@outlook.com
-    name: Hao Peng
-    username: phshy0607
+  email: phshy0607@outlook.com
+  name: Hao Peng
+  url: null
+  username: phshy0607
 bugs: https://github.com/phshy0607/vuepress-theme-light/issues
 category: theme
 date: '2019-10-30T07:06:22.915Z'
 deprecated: false
 description: a light vuepress theme
-downloads: ~
+downloads: null
 homepage: https://github.com/phshy0607/vuepress-theme-light#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: phshy0607@outlook.com
-    username: phshy0607
+maintainers: null
 name: vuepress-theme-light
 npm: https://www.npmjs.com/package/vuepress-theme-light
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: phshy0607@outlook.com
-    username: phshy0607
+  avatar: null
+  email: phshy0607@outlook.com
+  name: null
+  url: null
+  username: phshy0607
 repository: https://github.com/phshy0607/vuepress-theme-light
 score: 0.4532092059934117
 stars: 1
