@@ -1,31 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/7115690?v=4
-  email: purocean@gmail.com
-  name: purocean
-  url: null
-  username: purocean
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: purocean@gmail.com
+    name: purocean
 bugs: https://github.com/purocean/vuepress-plugin-html-applet/issues
 category: plugin
 date: '2022-04-09T10:02:15.167Z'
 deprecated: false
 description: a vuepress plugin to embed html applet
-downloads: null
+downloads: ~
 homepage: https://github.com/purocean/vuepress-plugin-html-applet
 keywords:
-- vuepress
-- vuepress-plugin
-- iframe
+  - vuepress
+  - vuepress-plugin
+  - iframe
 license: MIT License
-maintainers: null
+maintainers:
+  - email: purocean@outlook.com
+    username: purocean
 name: vuepress-plugin-html-applet
 npm: https://www.npmjs.com/package/vuepress-plugin-html-applet
 publisher:
-  avatar: null
-  email: purocean@outlook.com
-  name: null
-  url: null
-  username: purocean
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: purocean@outlook.com
+    username: purocean
 repository: https://github.com/purocean/vuepress-plugin-html-applet
 score: 0.36848086383137657
 stars: 1
