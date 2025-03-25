@@ -1,35 +1,28 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/8146876?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kawarimidoll+git@gmail.com
-    name: kawarimidoll
-    username: kawarimidoll
+  email: kawarimidoll+git@gmail.com
+  name: kawarimidoll
+  url: null
+  username: kawarimidoll
 bugs: https://github.com/kawarimidoll/vuepress-theme-blog-kawarimidoll/issues
 category: theme
 date: '2021-04-04T02:36:12.106Z'
 deprecated: false
 description: This is my blog theme.
-downloads: ~
+downloads: null
 homepage: https://github.com/kawarimidoll/vuepress-theme-blog-kawarimidoll#readme
-keywords: ~
+keywords: null
 license: MIT License
-maintainers:
-  - email: kawarimidoll+git@gmail.com
-    username: kawarimidoll
+maintainers: null
 name: vuepress-theme-blog-kawarimidoll
 npm: https://www.npmjs.com/package/vuepress-theme-blog-kawarimidoll
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: kawarimidoll+git@gmail.com
-    username: kawarimidoll
+  avatar: null
+  email: kawarimidoll+git@gmail.com
+  name: null
+  url: null
+  username: kawarimidoll
 repository: https://github.com/kawarimidoll/vuepress-theme-blog-kawarimidoll
 score: 0.39776393593720977
 stars: 0
