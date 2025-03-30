@@ -1,36 +1,31 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/24218764?v=4
-  email: ~
-  name: ~
-  url: ~
-  username:
-    name: JSShou
+  email: null
+  name: JSShou
+  url: null
+  username: xuzhongpeng
 bugs: https://github.com/xuzhongpeng/vuepress-theme-reform/issues
 category: theme
 date: '2020-08-02T08:12:32.023Z'
 deprecated: false
 description: a theme for vuepress
-downloads: ~
+downloads: null
 homepage: https://github.com/xuzhongpeng/vuepress-theme-reform#readme
 keywords:
-  - vuepress
-  - theme
-  - gittalk
-license: ~
-maintainers:
-  - email: xuzhongpeng@foxmail.com
-    username: xuzhongpeng
+- vuepress
+- theme
+- gittalk
+license: false
+maintainers: null
 name: vuepress-theme-reform
 npm: https://www.npmjs.com/package/vuepress-theme-reform
 publisher:
-  avatar: ~
-  email: ~
-  name: ~
-  url: ~
-  username:
-    email: xuzhongpeng@foxmail.com
-    username: xuzhongpeng
+  avatar: null
+  email: xuzhongpeng@foxmail.com
+  name: null
+  url: null
+  username: xuzhongpeng
 repository: https://github.com/xuzhongpeng/vuepress-theme-reform
 score: 0.4668307698551355
 stars: 22
