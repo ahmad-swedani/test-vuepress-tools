@@ -1,32 +1,38 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/21354589?v=4
-  email: null
-  name: Evan You
-  url: null
-  username: YongHao0
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: Evan You
 bugs: https://github.com/YongHao0/vuepress/issues
 category: theme
 date: '2020-09-15T06:28:14.869Z'
 deprecated: false
 description: Default theme for VuePress
-downloads: null
-homepage: https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/theme-default#readme
+downloads: ~
+homepage: >-
+  https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/theme-default#readme
 keywords:
-- documentation
-- generator
-- vue
-- vuepress
+  - documentation
+  - generator
+  - vue
+  - vuepress
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 2914905399@qq.com
+    username: wangyonghao
 name: vuepress-rc-theme-default
 npm: https://www.npmjs.com/package/vuepress-rc-theme-default
 publisher:
-  avatar: null
-  email: 2914905399@qq.com
-  name: null
-  url: null
-  username: wangyonghao
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 2914905399@qq.com
+    username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
 score: 0.5687672913352464
 stars: 0
