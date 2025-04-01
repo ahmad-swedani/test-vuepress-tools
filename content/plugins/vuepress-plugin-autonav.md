@@ -1,36 +1,44 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/246901?v=4
-  email: webmasterish@gmail.com
-  name: webmasterish
-  url: https://webmasterish.com
-  username: webmasterish
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: webmasterish@gmail.com
+    name: webmasterish
+    url: https://webmasterish.com
+    username: webmasterish
 bugs: https://github.com/webmasterish/vuepress-plugin-autonav/issues
 category: plugin
 date: '2019-08-08T23:05:05.087Z'
 deprecated: false
 description: Auto nav links plugin for VuePress 1.x
-downloads: null
+downloads: ~
 homepage: https://github.com/webmasterish/vuepress-plugin-autonav
 keywords:
-- vue
-- vuepress
-- plugin
-- vuepress-plugin
-- nav
-- links
-- nav-links
-- menu
+  - vue
+  - vuepress
+  - plugin
+  - vuepress-plugin
+  - nav
+  - links
+  - nav-links
+  - menu
 license: MIT License
-maintainers: null
+maintainers:
+  - email: webmasterish@gmail.com
+    username: webmasterish
 name: vuepress-plugin-autonav
 npm: https://www.npmjs.com/package/vuepress-plugin-autonav
 publisher:
-  avatar: null
-  email: webmasterish@gmail.com
-  name: null
-  url: null
-  username: webmasterish
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: webmasterish@gmail.com
+    username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-autonav
 score: 0.5419454598810554
 stars: 12
