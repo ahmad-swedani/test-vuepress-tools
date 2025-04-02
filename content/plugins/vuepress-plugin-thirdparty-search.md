@@ -1,36 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5212214?v=4
-  email: 894072666@qq.com
-  name: Evan Xu
-  url: null
-  username: evan_xu
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 894072666@qq.com
+    name: Evan Xu
+    username: evan_xu
 bugs: https://github.com/xugaoyi/vuepress-plugin-thirdparty-search/issues
 category: plugin
 date: '2020-05-08T03:55:48.130Z'
 deprecated: false
-description: "Enhanced search plugin for VuePress\uFF0C\u53EF\u4EE5\u6DFB\u52A0\u7B2C\
-  \u4E09\u65B9\u641C\u7D22\u94FE\u63A5\u7684 Vuepress \u641C\u7D22\u63D2\u4EF6"
-downloads: null
+description: Enhanced search plugin for VuePress，可以添加第三方搜索链接的 Vuepress 搜索插件
+downloads: ~
 homepage: https://github.com/xugaoyi/vuepress-plugin-thirdparty-search
 keywords:
-- documentation
-- vue
-- vuepress
-- generator
-- Enhanced
-- thirdparty
-- search
+  - documentation
+  - vue
+  - vuepress
+  - generator
+  - Enhanced
+  - thirdparty
+  - search
 license: MIT License
-maintainers: null
+maintainers:
+  - email: 894072666@qq.com
+    username: evan_xu
 name: vuepress-plugin-thirdparty-search
 npm: https://www.npmjs.com/package/vuepress-plugin-thirdparty-search
 publisher:
-  avatar: null
-  email: 894072666@qq.com
-  name: null
-  url: null
-  username: evan_xu
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 894072666@qq.com
+    username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-plugin-thirdparty-search
 score: 0.4700358807556578
 stars: 3
