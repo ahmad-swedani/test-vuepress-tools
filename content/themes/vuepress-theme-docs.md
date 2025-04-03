@@ -1,32 +1,39 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/30599141?v=4
-  email: null
-  name: dmoosocool
-  url: null
-  username: dmoosocool
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: dmoosocool
 bugs: https://github.com/dmoosocool/vuepress-theme-docs/issues
 category: theme
 date: '2022-01-20T09:14:16.810Z'
 deprecated: false
 description: A mobile ui framework theme for vuepress. Inspired by TaroUI.
-downloads: null
+downloads: ~
 homepage: https://github.com/dmoosocool/vuepress-theme-docs#readme
 keywords:
-- vuepress
-- vuepress-theme
-- mobile-ui-document
-- site-generation
-license: false
-maintainers: null
+  - vuepress
+  - vuepress-theme
+  - mobile-ui-document
+  - site-generation
+license: ~
+maintainers:
+  - email: DmooSoCool@gmail.com
+    username: dmoosocool
+  - email: 970710823@qq.com
+    username: wucanghai
 name: vuepress-theme-docs
 npm: https://www.npmjs.com/package/vuepress-theme-docs
 publisher:
-  avatar: null
-  email: 970710823@qq.com
-  name: null
-  url: null
-  username: wucanghai
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: 970710823@qq.com
+    username: wucanghai
 repository: https://github.com/dmoosocool/vuepress-theme-docs
 score: 0.5015635965828665
 stars: 1
