@@ -1,28 +1,35 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/5960988?v=4
-  email: wxsms@foxmail.com
-  name: wxsm
-  url: null
-  username: wxsm
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wxsms@foxmail.com
+    name: wxsm
+    username: wxsm
 bugs: https://github.com/wxsms/vuepress-theme-mini/issues
 category: theme
 date: '2021-12-10T10:03:20.543Z'
 deprecated: false
 description: A minimal blogging theme of VuePress.
-downloads: null
+downloads: ~
 homepage: https://github.com/wxsms/vuepress-theme-mini#readme
-keywords: null
+keywords: ~
 license: MIT License
-maintainers: null
+maintainers:
+  - email: wxsms@foxmail.com
+    username: wxsm
 name: vuepress-theme-mini
 npm: https://www.npmjs.com/package/vuepress-theme-mini
 publisher:
-  avatar: null
-  email: wxsms@foxmail.com
-  name: null
-  url: null
-  username: wxsm
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: wxsms@foxmail.com
+    username: wxsm
 repository: https://github.com/wxsms/vuepress-theme-mini
 score: 0.5601300215465952
 stars: 23
