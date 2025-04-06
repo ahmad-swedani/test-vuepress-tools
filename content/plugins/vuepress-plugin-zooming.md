@@ -1,33 +1,42 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: meteor.lxy@foxmail.com
-  name: meteorlxy
-  url: null
-  username: meteorlxy
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    name: meteorlxy
+    username: meteorlxy
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugin
 date: '2020-09-01T04:24:51.574Z'
 deprecated: false
 description: VuePress plugin for zooming
-downloads: null
+downloads: ~
 homepage: https://github.com/vuepress
 keywords:
-- image
-- plugin
-- vuepress
-- zoom
-- zooming
+  - image
+  - plugin
+  - vuepress
+  - zoom
+  - zooming
 license: MIT License
-maintainers: null
+maintainers:
+  - email: meteor.lxy@foxmail.com
+    username: meteorlxy
+  - email: 1700011071@pku.edu.cn
+    username: shigma
 name: vuepress-plugin-zooming
 npm: https://www.npmjs.com/package/vuepress-plugin-zooming
 publisher:
-  avatar: null
-  email: meteor.lxy@foxmail.com
-  name: null
-  url: null
-  username: meteorlxy
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: meteor.lxy@foxmail.com
+    username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.5902927723839599
 stars: 82
