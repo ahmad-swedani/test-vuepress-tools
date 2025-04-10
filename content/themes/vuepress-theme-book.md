@@ -1,32 +1,37 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/1302282?v=4
-  email: null
-  name: cyrilf
-  url: null
-  username: cyrilf
+  email: ~
+  name: ~
+  url: ~
+  username:
+    name: cyrilf
 bugs: https://github.com/cyrilf/vuepress-theme-book/issues
 category: theme
 date: '2022-03-18T21:55:55.711Z'
 deprecated: false
 description: A Vuepress theme inspired by gitbook aesthetics
-downloads: null
+downloads: ~
 homepage: https://vuepress-theme-book.netlify.app/
 keywords:
-- vuepress
-- theme
-- gitbook
-- vuepress-theme
-license: false
-maintainers: null
+  - vuepress
+  - theme
+  - gitbook
+  - vuepress-theme
+license: ~
+maintainers:
+  - email: cyrilf7x@gmail.com
+    username: cyrilf
 name: vuepress-theme-book
 npm: https://www.npmjs.com/package/vuepress-theme-book
 publisher:
-  avatar: null
-  email: cyrilf7x@gmail.com
-  name: null
-  url: null
-  username: cyrilf
+  avatar: ~
+  email: ~
+  name: ~
+  url: ~
+  username:
+    email: cyrilf7x@gmail.com
+    username: cyrilf
 repository: https://github.com/cyrilf/vuepress-theme-book
 score: 0.5470652392146793
 stars: 118
