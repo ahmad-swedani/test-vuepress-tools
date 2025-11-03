@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13484877?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: eamiear
+  username: null
 bugs: https://github.com/eamiear/vuepress-plugin-export-pdf/issues
 category: plugin
 date: '2020-11-24T01:43:32.591Z'
@@ -13,7 +13,7 @@ description: export pdf
 downloads: null
 homepage: https://github.com/eamiear/vuepress-plugin-export-pdf#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-export-pdf
 npm: https://www.npmjs.com/package/vuepress-plugin-export-pdf

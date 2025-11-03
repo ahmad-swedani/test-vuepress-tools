@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 12344
+stars: 12349
 unstable: true
 version: 0.10.1
-watchers: 12344
+watchers: 12349
 
 ---
 
