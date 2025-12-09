@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/56510542?v=4
   email: 1435408225@qq.com
   name: WJYGRIT
   url: null
@@ -19,7 +19,7 @@ keywords:
 - generator
 - theme
 - blog
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-wjygrit
 npm: https://www.npmjs.com/package/vuepress-theme-wjygrit
@@ -31,10 +31,10 @@ publisher:
   username: wjygrit
 repository: https://github.com/GRITWJY/WJYGRIT-BLOG
 score: 0.49823642836614834
-stars: 0
+stars: 2
 unstable: false
 version: 1.1.10
-watchers: 0
+watchers: 2
 
 ---
 
