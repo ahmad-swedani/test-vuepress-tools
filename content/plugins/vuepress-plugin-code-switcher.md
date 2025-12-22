@@ -4,7 +4,7 @@ author:
   email: christopher@padarom.xyz
   name: "Christopher M\xFChl"
   url: https://padarom.xyz
-  username: tophso
+  username: tophcodes
 bugs: https://github.com/padarom/vuepress-plugin-code-switcher/issues
 category: plugin
 date: '2021-04-20T09:26:52.124Z'
