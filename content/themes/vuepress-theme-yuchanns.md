@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25029451?v=4
+  avatar: https://avatars.githubusercontent.com/u/112772524?v=4
   email: airamusume@gmail.com
   name: yuchanns
   url: null
